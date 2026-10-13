@@ -1,0 +1,286 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10 (소급 생성)",
+  "stats": {
+    "collected": 309,
+    "deduped": 309,
+    "recent": 309,
+    "relevant": 19,
+    "published": 17,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "전남광주, 고용률 상승하고 실업률 하락했다",
+          "lead": "전남광주, 고용률 상승하고 실업률 하락했다",
+          "summary": "무등일보",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tSUFLVVJhNHp6UHRENGRQaWUySld0a3FSNDdGYnB5MzlyUTFXRHJlSnRHejhON0lXOWRsSU83NjViZnFxR200ZFJDdnA?oc=5",
+          "source": "무등일보",
+          "published": "2026-09-10 08:00",
+          "score": 22,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "{속보] 뉴욕 증시, 노동시장 견조 속 속락 개장···다우 0.3%↓ 나스닥 0.97%↓",
+          "lead": "{속보] 뉴욕 증시, 노동시장 견조 속 속락 개장···다우 0.3%↓ 나스닥 0.97%↓ 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVkZFTXpsRndacUZZQ2VHMmdQT0hYTlN1NlFSaEFLMkhzMEoxeDlmbjVpXzBRSDNDVXdILVpxcXd0OFFoSGhMRkF0eEg5clljVmFacmtlNmp2cUdlYXdxc9IBeEFVX3lxTE9KV2RlOGJodFFweHdYOWJESVhOY3JlczAxazlSWW95QzgyTjBQMW1ZQUw0RXl5VW5QQTdiYVVMazZ1TGpmQmtNNUVQYmF0R2JkM1pzQW5fTE00NHpMemk3Y05NVmljZHdwdjNkazhRMDBSWnVFaWtIVA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-10 22:40",
+          "score": 20,
+          "keywords": [
+            "노동시장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "美 주간 신규 실업수당 청구 20만6000건·1000건↓…노동시장 견조 유지",
+          "lead": "美 주간 신규 실업수당 청구 20만6000건·1000건↓…노동시장 견조 유지 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wc2dxYXhxc2x1dXZzNnpoaTRhMnVTd0hMUTRXcnBFYlkwdWdBQkpCMDZIeFVMekVaSjgtcTlfTHpGMHJQLTNuLXhfeW1qR1BJdl9sU3VXSmdiSDh2QnNTX9IBeEFVX3lxTFBYUTdUaExSOE1uR1hwNndTdURqRzlOb05mbU9fVG9qU29uRWJJQ0o1ZkQtOW82bnZveEZDVEhGWUhfTmlFOXpJcDM4SjB1S0NWOU5pRktFRVdxVzJQb1NBVXV4ZG1hT3NhNnRVdmxOMk5MOU1aMjZDaA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-10 22:28",
+          "score": 20,
+          "keywords": [
+            "노동시장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "세종대 대학일자리플러스센터, ‘현직자와 함께하는 ‘AI 실무 2Days’ 운영",
+          "lead": "세종대 대학일자리플러스센터, ‘현직자와 함께하는 ‘AI 실무 2Days’ 운영 조선일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0xWa1g1NkU0aWE0aDRrUF84Tm5nLWNZQm5RbnludmFYdEZVTGQ4cHRKZFFzTmltQWx0NFZwRFdLNUlEMWJqR2t3TEpNbHpJaVRhVjBfWllDZlJJQjBMYk8tY1RsU2FxV2hOUnh0ZWRtdjB6Q0p3LVlyVUdDNXlYUUdnRmZQanFyVDNrUWNR?oc=5",
+          "source": "조선일보",
+          "published": "2026-09-10 16:04",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "광주대 대학일자리플러스센터, 청년고용정책 '홍보의 날' 성료",
+          "lead": "광주대 대학일자리플러스센터, 청년고용정책 '홍보의 날' 성료 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HTkR5b1A1SXhlSHVrOXVYVVAzRjYtZTU3M3ZfZW5UTlVRNnRQcjU0c3dFbkk2RC1tWkM2QUFWRDBRNGFpd1JWTFQxWjhmdw?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-10 13:35",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "이탈리아 청년실업률 18.90%, 월간 반등이 드러낸 구조적 고용 취약성",
+          "lead": "이탈리아 청년실업률 18.90%, 월간 반등이 드러낸 구조적 고용 취약성 뉴스N연합",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCdWxtTnd1U21xbXZ3SkcwVjRmaHltb29sQ3dwS09KYXVCMi0tYklsVFlXQldBaXhwb25GbmJPdzFoSnJCWklPMUh3?oc=5",
+          "source": "뉴스N연합",
+          "published": "2026-09-10 16:33",
+          "score": 16,
+          "keywords": [
+            "실업률",
+            "청년실업"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "창의재단, 중앙아 5개국에 AI 인재 양성 노하우 전수 앞장",
+          "lead": "“한국 교육 현장에서는 디지털 문해력을 어떻게 평가하는지 궁금합니다.",
+          "summary": "정보 과목에서 주로 다루나요? 아니면 다른 과목에도 인공지능(AI) 문해력 관련 내용이 포함됐나요?” '2026 중앙아시아 AI 인재 양성 전문가 초청 연수'가 열린 지난달 18일. 굴리자 코초르바예바 키르기스스탄 교육부 디지털전환부장이 질문했다. 앞서 그는 2030년까지 세 단계로 나눠 AI 교육 생태계를 구축하는 자국 정책을 소개했다. 경쟁력 있는 AI 교육을 위해 평가",
+          "url": "https://www.etnews.com/20260910000114",
+          "source": "전자신문",
+          "published": "2026-09-10 16:00",
+          "score": 27,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서",
+          "lead": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wanlNU0s0Q1lBZ2cyYlNSUko1VUp2TWFTc1lXN3FpeHNDeThjZzZGVlI2NnkwMk4wMk82X2pkU25fRlVjRWo2RDJSbzdHTjlNaDhTMl9nc3ZvTXk0aWV6N0tIQ3ZTaExlYjY1ZGZ30gFzQVVfeXFMUHFOZUdnbXlRM3dCTFUxaHR4ZUNOcWdYY00zYlExYnlXUFQ2ek91Zkx6eFQ1ZnVkTVNaYkc5Qktzb01HYnEyOHQyS3dKc0tFeXlndHBIUFNwMm5EZXl6ZG10bktVTDlXVlhHbjZla2d2SkZpMA?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-10 15:30",
+          "score": 26,
+          "keywords": [
+            "인재 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나",
+          "lead": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04c1Judm1NRS16MGFHMmFhLUE1SzBzWDB4MVQ4R1FUMnV5anhORWI3STBIM3hjUThseXVkcVYzOFc4REFyOUZyemZ2S3ozNXppaW9WTktfVUo2cjd4aHdpR0VfUUhCSHB4ZkHSAW9BVV95cUxQS0pIY1lPaThXbU1rZEtBQy1vTkVxTkpmeHVQNzlnbW45UVVGbHFxaGFGSDUzajNyaUFFVzZnc3JtbkRWOVg5WGFtRHJsdTdLVS0wOVZJc3J3aHU5T0hIYXI0QUNKOWIwSElqWHFUcGM?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-10 10:27",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "무려 119세 할아버지… 코스타리카 노인, 세계 최고령자 타이틀 도전",
+          "lead": "코스타리카에 거주하는 119세 노인이 공식 출생일 검증 과정을 거쳐 세계 최고령 남성 타이틀 도전에 나섰다.",
+          "summary": "기네스 세계 기록(GWR) 등 국제기구의 등재 절차가 진행 중인 주인공은 전직 농부 출신의 호세 플로레스다. 그의 신분증에 명시된 생년월일은 1907년 7월 11일로, 공식 인정될 경우 현존하는 세계 최고령 남성에 이름을 올리게 된다. 119세라는 나이에도 불구하고 플로레스는 손녀와 팔씨름을 할 정도로 정정한 것으로 알려졌다. 그의 손녀",
+          "url": "https://www.etnews.com/20260910000130",
+          "source": "전자신문",
+          "published": "2026-09-10 17:50",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "AI 어려운 4050 ‘취준생’ 위해…서울시, 중장년 1500명 단계별 실전 교육",
+          "lead": "AI 어려운 4050 ‘취준생’ 위해…서울시, 중장년 1500명 단계별 실전 교육 쿠키뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nZVl5V0RWeDJOS3ZWbFNnenhCSVptb1lhazZkbC1tOWd4bnpfX3BxclV3UlZxdHk4LXdHUXZzWWkzcEJGYmVvUlNicDFWb3hYeDExTExlR01lWkd4d1RLOVRDdw?oc=5",
+          "source": "쿠키뉴스",
+          "published": "2026-09-10 00:23",
+          "score": 10,
+          "keywords": [
+            "중장년",
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "SK하이닉스 성과급 ‘현금 50% 주식50%’...노사 재합의",
+          "lead": "SK하이닉스 노사가 지난 9일 수정 잠정합의안을 마련한 데 이어 10일 노조의 임시대의원대회를 거친 뒤 오는 15~16일 양일간 총투표를 진행할 예정이다.",
+          "summary": "10일 SK하이닉스에 따르면 잠정합의안에는 성과급의 기본 지급 비율을 기존 현금 40%·주식 60%에서 현금 50%·주식 50%로 조정하는 내용이 담겼다. 주식 선택 비율은 구성원 선택에 따라 50%에서",
+          "url": "https://www.mk.co.kr/news/business/12149088",
+          "source": "매일경제",
+          "published": "2026-09-10 10:13",
+          "score": 20,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스]",
+          "lead": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스] YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZFVBVldnZXFkdDRlV3FsUGxMLXNUeU9VM29DQjdVczFVY3JBVlZwR0U2OFRwbDhLTzB5NzJtZ0JISkswc0lCRzVFOXpEc1NoM3p6QmVyaG9GdDE4R3NV?oc=5",
+          "source": "YTN",
+          "published": "2026-09-10 09:24",
+          "score": 20,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“근로자에게 주식 주면 기업 파이도 커져 ... 한국 주식 여전히 보유할 만”",
+          "lead": "앨릭스 에드먼스 런던비즈니스스쿨 교수 (1)앨릭스 에드먼스 런던비즈니스스쿨(LBS) 교수가 국내 반도체 업계의 성과급 논쟁에 대해 “직원에게 회사 주식을 주면 파이가 커진다”면서도..",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12149216",
+          "source": "매일경제",
+          "published": "2026-09-10 11:33",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "한화에어로, 경력직 채용에 ‘1980년생 이하·대학 커트라인’ 내부지침 논란",
+          "lead": "한화에어로, 경력직 채용에 ‘1980년생 이하·대학 커트라인’ 내부지침 논란 비즈중앙",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRllaMXBlSmN2dm5wRmRUakh2Zjh2YThRQXlxY1FwTE1qRURYUU5wOVdRM01OS0VPTzRLWFZaV0FreDFwN2xKaGpGSFFvbzExdVJKNDNiTC1HWDUwd2M0UGtwaEplVkxrcUZXYzduMTU?oc=5",
+          "source": "비즈중앙",
+          "published": "2026-09-10 15:59",
+          "score": 10,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "한화에어로, 경력직 채용...‘연령·학교’ 제한 논란",
+          "lead": "한화에어로, 경력직 채용...‘연령·학교’ 제한 논란 한스경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEVENELW4tMFVGZG53bDNhcF8wWks0VjZwQkRzallzSlJPMnNzNWNiRnZWLTVuNnhzeVI2T3dJOTN4djIwNkR3c3QwaWJxNTdMQlYzaktnaFc4UlV3RHpZUUNuS0UzX0EzcE440gFvQVVfeXFMUEV2cTIwNkxIOXR5czZmWXlVMXMxczVxNEY2N0NaQW53WllDVkJ5YVU5clhDWXhQRkx6ektDazg4TjdxQVJCYlR3ZnFTRnVkYmtNeGU0bHZVbkVvSThHd2JJSW44SkZ0emh1OVdJRG53?oc=5",
+          "source": "한스경제",
+          "published": "2026-09-10 10:36",
+          "score": 10,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"내부 반발에도 개선 無\" 한화에어로스페이스, 경력채용 내부 컷오프 '이중잣대'",
+          "lead": "\"내부 반발에도 개선 無\" 한화에어로스페이스, 경력채용 내부 컷오프 '이중잣대' 한국정경신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LTWhXc2Y5SXRQTE9HbnhSSnZMTXotZTFLTnVBR2hwZk5aRURfdnlDRTJSMktDNHhSY3REWWFBR2psRnU0ZFlzTHBlZDk4ZVFWNmc?oc=5",
+          "source": "한국정경신문",
+          "published": "2026-09-10 08:27",
+          "score": 10,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

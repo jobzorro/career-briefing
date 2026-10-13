@@ -1,0 +1,307 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22 09:53",
+  "stats": {
+    "collected": 1936,
+    "deduped": 1778,
+    "recent": 792,
+    "relevant": 33,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "외국인 실업급여 역대 최대…80%는 조선족·중국인 [곽용희의 일자리노트]",
+          "lead": "외국인 실업급여 역대 최대…80%는 조선족·중국인 [곽용희의 일자리노트] 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tY3lWWXdxYzk5RlBfQmN2eW8tTzU2aGJteG1BYWE5bTNyNHEwVjNoUElMWWo0d2pCU0xiSGhvQXpDOU9iM0xIczdhV0dQckRQR2hvQUdNcHBrdw?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-20 07:00",
+          "score": 29,
+          "keywords": [
+            "일자리",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "반도체 수출 늘었지만 일자리는 뒷걸음…취업유발계수 5.4명→5.0명",
+          "lead": "반도체 수출이 크게 늘면서 국내 경제에서 수출이 차지하는 비중은 커졌지만, 수출이 일자리를 만들어내는 힘은 오히려 약해진 것으로 나타났다.",
+          "summary": "한국은행이 21일 발표한 ‘2024년 산업연관표(연장표)’를 보면 지난해 재화와 서비스의 총공급(총수요)은 7113조6000억원으로 전년보다 4.6% 늘었다. 이 가운데 수출이 차지하는 비중은 14.7%에서 16....",
+          "url": "https://www.khan.co.kr/article/202609211542001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-21 15:42",
+          "score": 25,
+          "keywords": [
+            "일자리",
+            "수출"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "반도체 수출, 경제 비중 커져도 ‘일자리 만드는 힘’은 약해졌다",
+          "lead": "반도체 수출이 크게 늘면서 국내 경제에서 차지하는 비중은 커졌지만, 수출이 일자리를 만들어내는 힘은 오히려 약해진 것으로 드러났다.",
+          "summary": "한국은행이 21일 발표한 ‘2024년 산업연관표’(연장표)를 보면 지난해 재화와 서비스의 총공급(총수요)은 7113조6000억원으로 전년보다 4.6% 늘었다. 이 가운데 수출이 차지하는 비중은 14.7%에서 16.1%로 ...",
+          "url": "https://www.khan.co.kr/article/202609212026005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-21 20:26",
+          "score": 21,
+          "keywords": [
+            "일자리",
+            "수출"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "성남시, 내년 생활임금 1만2900원…최저임금보다 2200원 높아",
+          "lead": "성남시, 내년 생활임금 1만2900원…최저임금보다",
+          "summary": "2200원 높아 아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfVk1xdkRsb3pIOUo1TXdXNVJhYnppY3ctM1Y4eWNLR2QwOTRPcUl2MHQxTjhUS1ZvVzhVaUtfQjV2QlBMYjF3TlB4S2s1NE96OVJTMU5MWGZBX3RrZ0NBSw?oc=5",
+          "source": "아시아경제",
+          "published": "2026-09-22 07:44",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "가짜 근로자 57명 내세워 실업급여 등 5억 대 챙긴 사업주 구속",
+          "lead": "가짜 근로자 57명 내세워 실업급여 등 5억 대 챙긴 사업주 구속 대구MBC",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XQ3hkYTdTNUQ1RWo5anp0T0d5RmRFSTQ0U3RSMDBZVHBTeDBhQmhZYkQwR2xfNVpMNUtWM3VsdlVqb1FybTdLSUtaWVQ?oc=5",
+          "source": "대구MBC",
+          "published": "2026-09-21 14:39",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "중국인, 국민연금 이어 실업급여까지?…895억 받아갔다 [잇슈#태그]",
+          "lead": "중국인, 국민연금 이어 실업급여까지?…895억 받아갔다",
+          "summary": "[잇슈#태그] KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUmMyN2xTa0xQQjJHX3cyY2p0dzFid0s5TzdrUGVFd1ZMbkI1bWhSa28tU0M0enZXaFF0aXdhWTBPS19ULWhiQl96SVpfeFc0LWgyelBzOXBqa28?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-21 13:07",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "중장년 10명 중 6명이 “가사는 부부가 공평하게” 인식은 변했지만···실천은 22%에 그쳐",
+          "lead": "부모와 자녀를 돌보면서 직장에서는 고용 불안까지 감당하는 이른바 ‘끼인 세대’ 중장년층의 가족관이 달라지고 있다.",
+          "summary": "가사는 부부가 공평하게 나눠야 한다는 인식이 크게 확산하고 일보다 가정에 무게를 두는 사람이 늘었다. 그러나 실제 가사 분담과 인식 사이에는 여전히 큰 간극이 있었다. 주말에는 여행이나 취미활동을 하고 싶어지만 실제론 동영상 콘텐츠 시청을...",
+          "url": "https://www.khan.co.kr/article/202609211506011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-21 15:06",
+          "score": 20,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "AI가 인간 일자리 대체? 엇갈리는 분석 속 고용정책 방향은",
+          "lead": "AI가 인간 일자리 대체? 엇갈리는 분석 속 고용정책 방향은 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dGZvWVVTTnFjOHlHUDZZV2FLVEhmZU4zN21rUkZXY3NfdXh3TFBsY1FwcU5XOEM5MVV2LXBTdmF6UUx0T3hsQzdtczFxLWxpSUY1SVFsamdoSWxHREwxaFhfakZNcTlTYndOWGtn0gFzQVVfeXFMUGhwbGhIdk1wOE9GVDVsM2Y0ajRVTk8ydW81aGp5dnZsZnJvd3htUnpGZmpwd1NtZUs5MU5oM1YxZDZzUTRuTm1sa0JCZTZaZmhLYjQ1ck5pYnhBcWMwR1BweVRaZ0EyRVp3NFduRWhXVmFHZw?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-20 17:00",
+          "score": 20,
+          "keywords": [
+            "일자리 대체",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "중장년층 “부모 부양, 가족·정부·사회가 함께”…10년 새 49%→65%로",
+          "lead": "‘부모 부양을 가족·정부·사회가 함께 해야 한다’는 중장년층(40~64살) 인식이 10년 새 49%에서 65%로 큰 폭으로 뛰어오른 것으로 나타났다.",
+          "summary": "노후 생활을 위해 필요하다고 생각하는 사회의 역할에도 ‘의료·요양보호 서비스’에 대한 요구가 대폭 늘었다. 21일 국가",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1278799.html",
+          "source": "한겨레",
+          "published": "2026-09-22 09:52",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[테크스냅] KT, NIA와 글로벌 AI 인재 양성 협력",
+          "lead": "(서울=연합뉴스) 박형빈 기자 = KT[030200]가 한국지능정보사회진흥원(NIA)과 손잡고 AI 교육·인증 역량을 해외로 확대하는 등 글로벌...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260922040400017",
+          "source": "연합뉴스",
+          "published": "2026-09-22 09:36",
+          "score": 17,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "“가사 반반” 확 달라진 중장년층 인식…실천은 ‘아직’",
+          "lead": "부모와 자녀를 돌보면서 직장에서는 고용 불안까지 감당하는 이른바 ‘끼인 세대’ 중장년층의 가족관이 달라지고 있다.",
+          "summary": "가사는 부부가 공평하게 나눠야 한다는 인식이 크게 확산하고 일보다 가정에 무게를 두는 사람이 늘었다. 그러나 실제 가사 분담과 인식 사이에는 여전히 큰 간극이 있었다. 국가데이터처가 21일 발표한 ‘사회조사로 살펴본 중장년층(40~64세)...",
+          "url": "https://www.khan.co.kr/article/202609212105005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-21 21:05",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"회사에 올인하면, 은퇴 후 고독\"… 중장년층 가치관 '일→가정' 변화",
+          "lead": "40~64세 중장년층의 인생 가치관이 '일'에서 '가정'으로 이동한 것으로 나타났다.",
+          "summary": "부모 부양과 가사 역시 가족 구성원이나 개인의 몫으로 보기보다 가족과 사회가 함께 공동 책임을..",
+          "url": "https://www.mk.co.kr/news/economy/12158502",
+          "source": "매일경제",
+          "published": "2026-09-21 17:40",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "CJ푸드빌, 대졸 신입 채용설명회…브랜드 체험·현직자 멘토링",
+          "lead": "(서울=연합뉴스) 한주홍 기자 = CJ푸드빌은 대졸 신입사원 공개채용 지원자 약 50명을 대상으로 지난 21일 브랜드 체험형 채용설명회 '푸드빌...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260922031600030",
+          "source": "연합뉴스",
+          "published": "2026-09-22 09:14",
+          "score": 26,
+          "keywords": [
+            "채용설명회",
+            "채용",
+            "신입",
+            "CJ"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "건설·제조·유통 인재 다 모여라… 호반그룹 ‘세 자릿수’ 신입 공채",
+          "lead": "호반그룹이 건설·제조·유통·레저 등 주요 계열사에서 세 자릿수 규모의 2027년도 신입사원 공개채용에 나선다.",
+          "summary": "그룹인재, 글로벌인재, 주니어프로 전형을 운영하고 AI 오픈 인터뷰로 문제해결 역량도 본다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260922032003",
+          "source": "서울신문",
+          "published": "2026-09-22 00:39",
+          "score": 21,
+          "keywords": [
+            "공채",
+            "신입",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“미래 성장 이끌 인재 찾아요”…호반그룹, 신입사원 공채",
+          "lead": "건설·제조·유통·레저 등 계열사 참여 그룹 미래 성장 동력 확보 초점 글로벌인재·주니어프로 등 채용전형 운영",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12157838",
+          "source": "매일경제",
+          "published": "2026-09-21 09:33",
+          "score": 20,
+          "keywords": [
+            "공채",
+            "신입",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "라포랩스, MD 직군 채용…패션·뷰티·리빙 등 경력직 모집",
+          "lead": "라포랩스, MD 직군 채용…패션·뷰티·리빙 등 경력직 모집 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZS0F2cFVCa0h5RWZBOFNzMENXNG1mdmxPNThrS0lEOVh0aGFqMTFxUEFnZ2J3NlloamVYeEM5MDVRWklzLVpLMDltWk9iYWItNU83Um90UHB3Q2xkY3c00gFkQVVfeXFMTmJUeHZQSTBQUjkzZUwyaGJIQm1Kenp1N1JQR0VWZUdnZUwza3lZYXNrdWVsQWhlNE50dzRHaUFTX0xGYTNmN0FrWFUwVHpjbkZpc1FsZzFfNWlaWG9JY1BJLVZTSg?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-21 08:55",
+          "score": 20,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼성 초기업노조 “반도체만 받겠다”…DX소속 부위원장도 제명",
+          "lead": "‘N%성과급 내홍’ 끝에 결국 갈라져 DS조합 재편…DX직원은 강제탈퇴 DX부분 동행노조도 내부분열 조짐",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12157705",
+          "source": "매일경제",
+          "published": "2026-09-21 05:53",
+          "score": 17,
+          "keywords": [
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "조폐공사, 2027년 신입·경력직 59명 채용...미래사업 인재 확보",
+          "lead": "조폐공사, 2027년 신입·경력직 59명 채용...미래사업 인재 확보 dtnews24.com",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDY3BSZEV4LTV1RGJ5YzRwOWFFT1NRTE44UXotS2FuV2I4Ni1tZGRXLWlGZllrZ3ZsSVEzX0lLUzRPbHc0cVhhYnFlbkt0MDBrb2lCenV1MUFYN3BneVdUMXY0YWxpZXRMSDA0?oc=5",
+          "source": "dtnews24.com",
+          "published": "2026-09-21 14:20",
+          "score": 16,
+          "keywords": [
+            "경력직",
+            "채용",
+            "신입",
+            "인재"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13 12:50",
+  "stats": {
+    "collected": 1884,
+    "deduped": 1751,
+    "recent": 738,
+    "relevant": 36,
+    "published": 15,
+    "feeds": 26,
+    "dead_feeds": [
+      "경향신문 https://www.khan.co.kr/rss/rssdata/economy_news.xml"
+    ]
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "강원 접경 군(郡)지역, 인구 감소로 고용률 상승 역설⋯신규 일자리 80%는 일용직",
+          "lead": "최근 10년 새 강원특별자치도 접경지역의 고용률 지표가 상승했지만 이 같은 변화가 취업 증가 때문이 아닌 15세 이상 인구 감소로 인한 결과라는 연구가 나왔다.",
+          "summary": "강원연구원은 12일 정책 톡톡 ‘통계에 가려진 접경지역’을 발표, 고용·경제 구조를 진단하고 맞춤형 정책을",
+          "url": "https://www.kwnews.co.kr/article/20261012501468",
+          "source": "강원일보",
+          "published": "2026-10-12 18:31",
+          "score": 28,
+          "keywords": [
+            "고용률",
+            "일자리",
+            "인구"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 2,
+          "title": "경남도, 노인 일자리 올해 8만개→2030년 10만개로 확대",
+          "lead": "(창원=연합뉴스) 이정훈 기자 = 경남도는 올해 공급한 노인 일자리 8만개를 2030년에 10만개로 늘린다고 13일 밝혔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261013073800052",
+          "source": "연합뉴스",
+          "published": "2026-10-13 10:46",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 3,
+          "title": "[단독] 중장년경력지원 취업률 61%?…40%는 월급 200만원 미만",
+          "lead": "퇴직한 중장년의 재취업을 돕는 ‘중장년 경력지원제’ 참여자의 취업률이 61.3%로 집계됐지만 취업자 10명 중 4명은 월평균 임금이 200만원에 못 미친 것으로 나타났다.",
+          "summary": "취업자 중 계약직도 40%에 달하는 등 일자리의 양뿐 아니라 질까지 살필 필요가 있다는",
+          "url": "https://www.kmib.co.kr/article/view_amp.asp?arcid=9000021996",
+          "source": "국민일보",
+          "published": "2026-10-13 05:03",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 4,
+          "title": "[단독] 국적선원 부족하다더니…해양대 미취업자 2배 ‘껑충’",
+          "lead": "주요 선사 신입 해기사 채용 15% 감소 기존 선원 퇴사 줄면서 신규채용도 위축",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12173437",
+          "source": "매일경제",
+          "published": "2026-10-12 11:19",
+          "score": 20,
+          "keywords": [
+            "취업자"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 5,
+          "title": "경총 \"법정 정년연장 아닌 단계적 재고용 필요…청년 일자리 상생해야\"",
+          "lead": "경총, '일본의 정년연장 사례와 시사점' 보고서 발표 청년 취업난·기업 수용성 고려한 단계적 접근 필요 고령자 고용 확대 정책은 단순히 법정 정년을 상향하는 방식에 그칠 것이 아니라 청년고용에 미치는 영향과 기업 부담, 임금체계 개편 여건 등을 종합적으로 고려해야 …",
+          "summary": "",
+          "url": "https://www.news1.kr/industry/general-industry/6315847",
+          "source": "뉴스1",
+          "published": "2026-10-11 12:00",
+          "score": 20,
+          "keywords": [
+            "일자리",
+            "정년연장"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 6,
+          "title": "[단독] “AI 인재 키운다며 104억 썼는데”…취업자 AI 업무 하는지도 몰라",
+          "lead": "중소벤처기업부가 인공지능(AI) 실무인력 양성을 위해 최근 4년간 104억원을 투입했지만, 정작 교육생들이 실제 AI 관련 직무에 취업했는지 조차 별도로 집계하지 않은 것으로 확인됐다.",
+          "summary": "이 같은 부실 관리에도 불구하고 올해 관련 사업 교육 정원은 기존보다 50% 확대...",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257",
+          "source": "이데일리",
+          "published": "2026-10-11 11:04",
+          "score": 20,
+          "keywords": [
+            "취업자"
+          ],
+          "image": null,
+          "related": []
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "‘청년 직업훈련’ K-뉴딜 아카데미, 참여 인원 절반도 못 채워…내년 예산은 5배",
+          "lead": "정부가 대기업과 손잡고 청년에세 직업훈련 기회를 제공하는 ‘K-뉴딜 아카데미’의 실제 참여 인원이 올해 목표치의 절반에도 못 미치는 것으로 나타났다.",
+          "summary": "13일 국회 기후에너지환경노동위원회 소속 박수민 국민의힘 의원이 고용노동부에서 제출받은 자료에 따르면 지난달 15일 기준 K-뉴딜 아카데미에서 훈련을 받는 인원은 4249명으로 집계됐다. 올해 정부가 설정한",
+          "url": "https://www.mk.co.kr/news/economy/12174098",
+          "source": "매일경제",
+          "published": "2026-10-13 08:30",
+          "score": 20,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 2,
+          "title": "울산시·교육청, AI인재양성·교복비·급식비 등 지원 확대",
+          "lead": "[울산=뉴시스] 유재형 기자 = 울산시는 12일 울산교육청과 교육행정협의회를 열고 AI 관련 인재 육성과 교육 복지 등에 대한 지원을 확대하기로 했다고 12일 밝혔다",
+          "summary": "",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261012_0003821783",
+          "source": "뉴시스",
+          "published": "2026-10-12 16:20",
+          "score": 20,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 3,
+          "title": "대통령이 직접 ‘AI 일자리 충격’ 경고…“대졸자부터 사다리 끊길 판”",
+          "lead": "싱가포르 대통령, IMF연차총회서 경고 개발자 채용 AI활용가능 시니어에 몰려 AI노출도 높은 직종서 청년층 고용부진",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/world/12173583",
+          "source": "매일경제",
+          "published": "2026-10-12 14:40",
+          "score": 20,
+          "keywords": [
+            "AI 일자리",
+            "AI"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 4,
+          "title": "한국딥러닝, 산업부 '제조업 AI 대전환(M.AX)' 전문기업 선정",
+          "lead": "[이 기사에 나온 스타트업에 대한 보다",
+          "summary": "다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다. ] 문서 데이터 인프라 기업 한국딥러닝이 산업통상부와 한국산업기술기획평가원(KEIT)이 주관하는 '제조업 AI 대전환(M.AX) 전문기업'의 솔루션 기업 유형에 선정됐다고 13일 밝혔다.",
+          "url": "https://www.mt.co.kr/future/2026/10/13/2026101309484898382",
+          "source": "머니투데이",
+          "published": "2026-10-13 12:00",
+          "score": 19,
+          "keywords": [
+            "AI"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 5,
+          "title": "누리호 탑재 성능 검증 등…천안 ‘C-STAR’ 스타트업 날개",
+          "lead": "천안시 창업 육성 프로젝트 C-STAR 참여 기업들이 누리호 탑재, 투자 유치, 대회 수상 등 성과를 잇따라 냈다.",
+          "summary": "인세라솔루션은 우주 광통신 부품 FSM을 누리호 5차에 실어 성능을 검증 중이고, 에어빌리티와 로웨인도 각각 투자와 대상 수상으로 주목받았다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20261013500030",
+          "source": "서울신문",
+          "published": "2026-10-13 09:30",
+          "score": 16,
+          "keywords": [
+            "스타트업"
+          ],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 6,
+          "title": "광주여대 앵커사업단, AI 뷰티웰니스 융합전공 홍보·체험부스 운영",
+          "lead": "광주여자대학교(총장 이선재) 앵커사업단은 교내 무등관 야외 행사장에서 '광주형 로컬 커스터마이징 청년혁신인재 양성사업'의 일환으로 미용과학과와 함께 동아리 축제·프리마켓 연계 'AI 뷰티웰니스 융합전공 홍보·체험부스'를 운영했다고 13일 밝혔다. 이번 프로그램은 학생 참여형 홍보·체험활동을 통해 미용과학과와 화장품학과의 전공 특성을 소개하고, AI 뷰티웰니스 융합전공의 교육과정과 이수 방법을 안내하기 위해 마련됐다. 학생들이 다양한 체험을 통해",
+          "summary": "",
+          "url": "https://www.etnews.com/20261013000157",
+          "source": "전자신문",
+          "published": "2026-10-13 11:34",
+          "score": 14,
+          "keywords": [
+            "AI"
+          ],
+          "image": null,
+          "related": []
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "한화오션, 정부 핵잠수함 추진 발맞춰 조직 신설·경력직 채용",
+          "lead": "(서울=연합뉴스) 홍규빈 기자 = 한화오션이 정부의 핵추진잠수함(핵잠) 개발 사업인 '장보고 N사업'에 발맞춰 조직 신설과 인력 확보에 나섰다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261012068900003",
+          "source": "연합뉴스",
+          "published": "2026-10-12 10:53",
+          "score": 23,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null,
+          "related": [
+            {
+              "title": "한화오션, 핵추진잠수함 전문인력 채용…‘장보고 N사업’ 준비 속도",
+              "source": "이데일리",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGRDaGI4d0hncFliNDIzNXQ1a0VlNGN4WnNqLVFOVjZKUGEtc09kS0k3UzA4ZnpLOThxY2Y0eEVOZHlEd0s0TVRrWlZOQUhvMUxmanlGQVZPRVQzWldtdERhdTVYb21vV3ppUkF3MlhuZ2ktQWU3cGNENkpLUlVESg?oc=5"
+            },
+            {
+              "title": "한화오션, 핵추진잠수함 ‘전문인력’ 확보 속도… 5개 분야 경력직 채용",
+              "source": "브릿지경제",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tZ3QtQ19pNEVkWDhJaXlPdVVBbTJkWk1IMThYWjJQRzl3VmN0S1FOYlFtRzZGTF8zRGNRLV9sMTk1Y2lvYVdaNC1XWkVTRWMyT25SNHpPcVZVdw?oc=5"
+            },
+            {
+              "title": "한화오션, 원자력 추진 함정 전문인력 채용…5개 분야 경력직 모집",
+              "source": "시사캐스트",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1McTV6bjQzZDhHY1ZHTUhHY3NVOHUxalZLdmFRUjhlRjZaWEpRbDQ3aEdTM054T1dJd21rRDVPZG11c1gyXzVBaU8xOUNwYkpnNzVGYU42a0p3cmpTSzlSTzEwd0ZhRGpY?oc=5"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "title": "“믹스커피 하루 두개 제한” “휴지도 안사줘”…3개월 만에 퇴사 고민하는 직원",
+          "lead": "경기도의 한 중소기업에 입사한 A씨는 최근 사수로부터 분리수거용 비닐봉투를 재사용하라는 지시를 받았다.",
+          "summary": "오염되거나 찢어진 봉투도 테이프로 붙여 쓰라는 것이었다. 대표가 비닐봉투 구매 비용을 아까워한다는 이유에서다. 직원에게 쓰는 소액 지출까지 통제하는 기업 문화가 온라인에서 논란이 되고 있다. 다만 업무용 비품을 아끼거나 기존에 제공하던 복리후생을 줄이는 행위가 모두 법적 문제로 이어지는 것은 아니다. 11일 직장인 커뮤니티에서는 비슷한 사례가",
+          "url": "https://www.etnews.com/20261011000049",
+          "source": "전자신문",
+          "published": "2026-10-11 11:19",
+          "score": 14,
+          "keywords": [],
+          "image": null,
+          "related": []
+        },
+        {
+          "rank": 3,
+          "title": "코레일테크, 19명 신규 채용...고졸 청년부터 경력직까지",
+          "lead": "코레일테크가 고졸 청년부터 경력직까지 다양한 인재를 대상으로 2026년 제2차 일반직사원 19명을 채용한다.채용형 인턴 17명과 사업관리 분야 경력직 2명을 선발하며 고졸 청년에게도 별도 채용 기회를 제공한다.이번 채용은 철도시설물 유지보수와 환경서비스 등 코레일테크의 주요 사업을 수행할 인재를 확보하기 위해 마련됐다.채용형 인턴은 총 17명이며 이와 별도로 전기와 건축·기계 분야 사업관리 경력직 2명을 모집한다.특히 학교장 추천을 받은 고졸 청년을 대상으로 사무직군 2명을 별도 선발해 학력에 관계없이 직무 역량을 갖춘 인재에게 취",
+          "summary": "",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=815988",
+          "source": "디트NEWS24",
+          "published": "2026-10-13 12:32",
+          "score": 10,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null,
+          "related": [
+            {
+              "title": "코레일테크, 고졸·경력직까지 문 넓혔다 ...일반직 사원 19명 ‘직무 중심’ 채용",
+              "source": "충청탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44WDhGSXo5UkV3YWxIbzB4RDlmb1IwbkdfRGhLYTZLMUQ2N0xsOG54eGk1SndmcnhWTzdULWk5WGNCa3dyQUdHNFhTRUR4Zk5kVG1ScXBNeU84YnBtVUtwczNYZWk?oc=5"
+            },
+            {
+              "title": "코레일테크, 일반직 직원 19명 채용… 고졸·경력직 모집",
+              "source": "국토일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wOUhQLTI1eXRyS1J6RC0zMEdSSzR4dFBiUjNYdkphampTWF9NT2pReUktaFRHbzBpZ0lMWUlwcmZFXzFGN25MdjlxUHphc0xTczYtQVJUWjVGbkxtaHJnQ3V3ajU?oc=5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03 22:44",
+  "stats": {
+    "collected": 1030,
+    "deduped": 945,
+    "recent": 686,
+    "relevant": 37,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "고령자 취업 ‘1000만명 시대’…에스원 SSDA, 배움을 일자리로 연결",
+          "lead": "국내 고령층 취업자가 처음으로 1000만명을 넘어섰다.",
+          "summary": "국가데이터처가 지난달 5일 발표한 ‘2026년 5월 경제활동인구조사 고령층 부가조사’를 보면 55~79세 취업자는 1012만5000명으로 1년 전보다 34만5000명 늘었다. 2016년 671만5000명과 비교하면 10년 만에 1.5배가 됐다. 고령층이 일터에 남는 가장 큰 이유는 생계다. 연금을...",
+          "url": "https://www.khan.co.kr/article/202609032051005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 20:51",
+          "score": 24,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "인구 감소 시대, 일자리 미스매치 커진다···“청년 일자리는 AI가 대체”",
+          "lead": "앞으로 인구구조 변화로 사람이 필요한 곳과 인공지능(AI)으로 대체될 가능성이 높은 일자리 간극이 커지면서 ‘일자리 미스매치’가 심화할 수 있다는 분석가 나왔다.",
+          "summary": "고령화로 돌봄·서비스 일자리 수요는 크게 늘어나는데 청년들은 꺼리고, 청년들이 선호하는 고숙련 일자리는 AI로 대체될 수 있기 때문이다. 이철희 서울대 교수는 3일 한국은행과 경제정책연구센터...",
+          "url": "https://www.khan.co.kr/article/202609031748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 17:48",
+          "score": 24,
+          "keywords": [
+            "일자리",
+            "인구"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“AI로 일자리 수급 불균형 심화할 것”",
+          "lead": "앞으로 인구구조 변화로 사람이 필요한 곳과 인공지능(AI)으로 대체될 가능성이 높은 일자리의 간극이 커지면서 ‘일자리 미스매치’가 심화할 수 있다는 분석이 나왔다.",
+          "summary": "고령화로 돌봄·서비스 일자리 수요는 크게 늘어나는데 청년들은 이를 꺼리고, 청년들이 선호하는 고숙련 일자리는 AI로 대체될 수 있기 때문이다. 이철희 서울대 교수는 3일 한국은행 및 경제정...",
+          "url": "https://www.khan.co.kr/article/202609032037005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 20:37",
+          "score": 22,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "환율, 14개월만에 1350원대…수출기업 달러매도·엔화 강세 영향",
+          "lead": "9시 1359.8원…지난해 7월이후 최저 미국 고용지표 둔화도 하락 압력 키워",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12143066",
+          "source": "매일경제",
+          "published": "2026-09-03 09:54",
+          "score": 20,
+          "keywords": [
+            "환율",
+            "수출"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "건양대, 수시 최초합격자에 장학금…5년 평균취업률 75.5%",
+          "lead": "건양대, 수시 최초합격자에 장학금…5년 평균취업률 75.5% 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90YW1zVnNlVUpYZGVrOEFkcHJCc0F2aGRzU3JEOHhfemNlVW16bmRtcERQREpTYkYySDRCaUtwSzVSSEo3dXlMb1lGLVhTNEc3UFlHZ0VB?oc=5",
+          "source": "중앙일보",
+          "published": "2026-09-02 12:00",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "2년 연속 취업률 1위 '경북전문대', 글로벌 경쟁력 강화로 위상 강화",
+          "lead": "2년 연속 취업률 1위 '경북전문대', 글로벌 경쟁력 강화로 위상 강화 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlT0FLY2IyUmxhaVBySW1UVDJ3T2UtRTFOLUVtMFotWWFUVjU2MktJQkRvNGJkVjAyMDJ1c0VNUUpILU95Y09BQXNQRDFIdWh4WFp6Z3B6QVE1ZWQ0YzRtMzNHeS0zd3FOZVpYWi1R0gFzQVVfeXFMTlFZWG5nOVpVM1lQaHhteG1UWEJqeHI2eHdpOXpnVzFrd0ZjaS1GQllvWVc4NTJXdEJUT3NIVFMyZWJqenhTVUJxQmktNFZhMVlPUHBtZkdteGZRWUhvUll3V2U5SjZLSXNJTFdOLXJObGpkYw?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-01 17:10",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "SK바이오팜에 GPU 128장 공급…베슬AI, 제약·바이오로 확장",
+          "lead": "[이 기사에 나온 스타트업에 대한 보다",
+          "summary": "다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다. ] AI(인공지능) 인프라 기업 베슬AI가 SK바이오팜과 엔비디아의 블랙웰 기반 GPU(그래픽처리장치) 'B200' 128만장 규모에 대한 공급 계약을 체결했다고 3일 밝혔다.",
+          "url": "https://www.mt.co.kr/future/2026/09/03/2026090315115232346",
+          "source": "머니투데이",
+          "published": "2026-09-03 18:15",
+          "score": 22,
+          "keywords": [
+            "AI",
+            "바이오"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "\"사람 대신 로봇이 커피 내리니\"…인건비 70% '뚝'",
+          "lead": "[이 기사에 나온 스타트업에 대한 보다",
+          "summary": "다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다. ] 로봇카페 브랜드 라운지엑스 운영사 엑스와이지가 기존 유인카페를 로봇카페로 전환한 결과 인건비가 최대 70% 감소했다고 3일 밝혔다.",
+          "url": "https://www.mt.co.kr/future/2026/09/03/2026090310093134636",
+          "source": "머니투데이",
+          "published": "2026-09-03 19:00",
+          "score": 20,
+          "keywords": [
+            "로봇"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“100% 재택근무, 월급 1400만원” 파격 채용…무슨 일 하길래? [월드픽]",
+          "lead": "“100% 재택근무, 월급 1400만원” 파격 채용…무슨 일 하길래?",
+          "summary": "[월드픽] 서울신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sdnZjUVhoLVFjYVQ5bEJ1WEtJOHFMQ00wYXFnTElXNmRtd21uMDBYUW9qYXZjNV9fZFh3YzVBNzBabHlvTzR4Uk4xX0doc1g0OU9PazdxRW9Oc1NkX2liMHNR?oc=5",
+          "source": "서울신문",
+          "published": "2026-09-01 14:54",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"토큰값 부담되시죠?\"...'온디바이스 AI' 앞세워 기업 시장 두드리는 애플",
+          "lead": "기업들의 생성형 인공지능(AI) 활용이 늘어나면서 새로운 고민거리도 커지고 있다.",
+          "summary": "바로 '토큰값'이다.처음에는 일부 직원이 챗봇을 쓰는 정도였지만 AI가 문서 작성과 데이터 분석을 넘어 코딩, 업무 자동화, AI 에이전트로 확산되면서 사용량 자체가 달라지고 있다. AI가 더 많은 업무를 수행할수록 처리해야 할 토큰이 늘어나고, 클라우드 API에 지불해야 하는 비용 역시 함께 증가한다.애플이 이 틈을 파고들고 있다. 아이폰과 아이패드, 맥에서 AI 모델을 직접 실행하는 '온디바이스 AI'를 앞세워 기업 시장 공략에 속도를 내는 모습이",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154904",
+          "source": "테크M",
+          "published": "2026-09-04 00:27",
+          "score": 17,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "중장년 주민을 AI 활동가로…울산 동구, 5060 양성 과정 개강",
+          "lead": "(울산=연합뉴스) 장지현 기자 = 울산 동구는 3일 '액티브 시니어 AI 활동가 양성 과정'을 개강했다고 밝혔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260903129000057",
+          "source": "연합뉴스",
+          "published": "2026-09-03 15:25",
+          "score": 17,
+          "keywords": [
+            "중장년",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"로봇이 올리브영 택배 포장\"…CJ대한통운, 휴머노이드 '실전 투입'",
+          "lead": "CJ대한통운이 사람처럼 두 팔을 사용하는 인공지능(AI) 휴머노이드 로봇을 실제 물류센터 운영에 투입했다.",
+          "summary": "지난해 물류 현장에서 가능성을 확인하는 실증 단계를 거친 데 이어 실제 고객 상품을 처리하는 '실전' 단계로 넘어갔다. 단순 반복작업을 자동화하는 기존 물류 로봇을 넘어 하나의 로봇이 피킹·분류·검수·포장 등을 두루 수행하는 범용 물류 로봇을 키운다는 구상이다.3일 물류업계에 따르면 CJ대한통운은 경기 용인 양지 올리브영 물류센터에 양팔형 휴머노이드 로봇 2대를 배치해 상품 포장 공정에 투입했다. 로봇은 포장 라인에서 상품이",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154898",
+          "source": "테크M",
+          "published": "2026-09-03 21:32",
+          "score": 16,
+          "keywords": [
+            "로봇"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "포스코그룹 6개사 세자릿수 공채…AI·로봇 인재 확보",
+          "lead": "(서울=연합뉴스) 신창용 기자 = 포스코그룹이 미래 성장 동력을 이끌어갈 신입사원을 세 자릿수 규모로 채용한다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260903139000003",
+          "source": "연합뉴스",
+          "published": "2026-09-03 15:54",
+          "score": 24,
+          "keywords": [
+            "공채",
+            "포스코",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "임원 등에 '성과급 현금 대신 주식' 66%↑…삼성이 가장 많았다(종합)",
+          "lead": "(세종=연합뉴스) 김수현 기자 = 올해 대기업집단에서 총수나 친족, 임원에게 성과 보상 등을 목적으로 주식을 지급하는 약정이 작년보다",
+          "summary": "66% 늘...",
+          "url": "https://www.yna.co.kr/view/AKR20260903085051002",
+          "source": "연합뉴스",
+          "published": "2026-09-03 14:19",
+          "score": 20,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "'N% 성과급·호남반도체 반대' 파업·의무교섭 불가…노동부 지침",
+          "lead": "(세종=연합뉴스) 옥성구 기자 = 고용노동부가 노동조합의 '영업이익 N% 성과급 요구'나 '호남 반도체 공장 신설 반대' 등은 의무적 교섭대상 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260903088700530",
+          "source": "연합뉴스",
+          "published": "2026-09-03 14:00",
+          "score": 17,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "정부 “영업이익 N% 성과급, 파업 대상 아니다”…AI 도입·공장 이전도 경영권 인정",
+          "lead": "정부가 노동조합이 영업이익 등 기업이익의 일정 비율을 경영성과급으로 요구하는 것은 의무적 단체교섭이나 파업 등 쟁의행위 대상으로 보기 어렵다는 기준을 내놨다.",
+          "summary": "인공지능(AI)·자동화 설비 도입과 공장 신설·이전, 사업 매각 등 경영상 결정 자체도 의무적 교섭 대상에서 제외한다. 다만 정리해고나 배치전환 등 근로조건 변화가 객관적으로 예상되면 관련 사항은 교섭 대상이 된다. 고용노동부는 3일 이 같은 내용의 '경영성과급 등 노동쟁의 대상 시행지침",
+          "url": "https://www.etnews.com/20260903000232",
+          "source": "전자신문",
+          "published": "2026-09-03 14:00",
+          "score": 17,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "포스코그룹, ‘트리플 코어’ 미래 이끌 인재 세 자릿수 뽑는다",
+          "lead": "6개 핵심 그룹사 하반기 공채…16일까지 원서 접수 AI 엔지니어 직무 신설·로봇 연구원 대거 확충 전통 자소서 폐지…실제 역량 중심 선발로 전환",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12143787",
+          "source": "매일경제",
+          "published": "2026-09-03 18:21",
+          "score": 16,
+          "keywords": [
+            "포스코",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"N% 성과급은 교섭사안 아냐\"",
+          "lead": "노동부 '노란봉투법 지침'서남권 반도체 팹 짓더라도인력배치 전환은 교섭 대상모호한 잣대에 재계 반발",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12143768",
+          "source": "매일경제",
+          "published": "2026-09-03 18:07",
+          "score": 14,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

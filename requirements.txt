@@ -1,0 +1,6 @@
+feedparser
+httpx
+beautifulsoup4
+python-dotenv
+Pillow
+anthropic>=0.86

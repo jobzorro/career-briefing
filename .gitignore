@@ -1,0 +1,10 @@
+# 비밀값 (GitHub에서는 Settings > Secrets 에 넣는다)
+.env
+.db_id
+
+# 매일 새로 만들어지는 산출물 — 썸네일이 들어 있어 커밋하면 저장소가 금방 불어난다
+news_data.json
+site/
+
+__pycache__/
+*.pyc

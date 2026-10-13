@@ -1,0 +1,268 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07 10:01",
+  "stats": {
+    "collected": 1913,
+    "deduped": 1748,
+    "recent": 736,
+    "relevant": 31,
+    "published": 16,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "고령층 고용률, 처음으로 20대 초반 제쳐",
+          "lead": "65세 이상 고용률이 사상 처음으로 20대 초반을 추월했다.",
+          "summary": "기업의 신규 채용 축소와 경력직 선호 등으로 청년층의 노동시장 진입 문턱이 높아진 반면, 고령층은 생계형 취업 수요와 노인 일자리 확대 등에 힘입어 고용률이 역대 최고치까지 오르면서 세대별 고용 흐름이 엇갈렸다. 6일 경향신문이 국가데이터처 국가통계포털을 분석한 결과, 올해 2분기 65세 이...",
+          "url": "https://www.khan.co.kr/article/202609062116005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-06 21:16",
+          "score": 32,
+          "keywords": [
+            "고용률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[속보] 미 사업체 일자리, 8월에 무려 16.2만개 순증…실업률 4.1% 유지",
+          "lead": "[속보] 미 사업체 일자리, 8월에 무려 16.2만개 순증…실업률 4.1% 유지 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Id284MjhTZ2s1OU9HMG03QzM4dDFDdjN6aTNQandpUUYwYTVhem9FY2NDeFJUN2JiaUFJWUxDV0ZMMFg3ZjA3RFk5SWZwMkxmQWxUUXlHcU11RUFwbW82NVBn?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-04 21:31",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 만성 적자에 시달려온 고용보험기금 실업급여 계정이 보험료율 인상과 정부 재정 투입 등에 힘입어 내년부터 흑자로...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260904157200530",
+          "source": "연합뉴스",
+          "published": "2026-09-06 06:06",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“철강·부품·일자리 모두 미국에”…美가 반긴 현대제철 58억달러 투자",
+          "lead": "‘美시장 원하면 미국서 생산하라’ 트럼프 리쇼어링 정책 성과 강조 랜드리 “고임금 제조업 일자리 돌아와” 韓 “美조달 어려운 장비 관세 최소화를”",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12145003",
+          "source": "매일경제",
+          "published": "2026-09-05 07:42",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "美 8월 고용 16만2000명 증가… 실업률은 4.1%",
+          "lead": "美 8월 고용 16만2000명 증가… 실업률은 4.1% 세계일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWmZNMm4tTEFoTlcwRk45ZkRhcTJwMWJFaFdnUWFFRTlpOG9jVFhEc3oxbDZMdFlmUnYtMEFCTlRINWhRb05lQ3RHUXAxZ3VkY19BX1ppVUXSAVRBVV95cUxNYUJTVU1SNnd6a3FUdklRb1VuOUNtZ1RaRklPQ2wzYWdxMjltUWNXeDdBUmwtTEQ2dk1rendVVmhuaVpRTUZkbDMwMVpraHJIYmx1Q0Y?oc=5",
+          "source": "세계일보",
+          "published": "2026-09-04 22:43",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "부울경 일자리 사업 '광역이음 프로젝트' 출범…125억원 투입",
+          "lead": "(부산=연합뉴스) 김선호 기자 = 부산시와 울산시, 경남도는 오는 8일 오전 벡스코 제2전시장에서 '부·울·경 광역이음 프로젝트' 출범식을 연다...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260907015100051",
+          "source": "연합뉴스",
+          "published": "2026-09-07 08:09",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "AI·IP 인재양성, 강원 지역산업 키운다",
+          "lead": "AI·IP 인재양성, 강원 지역산업 키운다",
+          "summary": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eUluSmpLQmZvTjllQnpaYUdUSm03SGE0bzJSYmhsV2VLTC1LaFNleWpCS0pHVjBWVzVtYUpZR01KU0dJLS1sS1JPOVdLQTY4cDJyc3BYRDRKSFRRdWQ5S3lCdEw?oc=5",
+          "source": "MTN 머니투데이방송",
+          "published": "2026-09-04 13:28",
+          "score": 20,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[AI프리즘] 북한 김수키, AI 코딩 에이전트까지 썼다…해킹 자동화",
+          "lead": "(서울=연합뉴스) 권하영 기자 = 북한 연계 해킹 조직 김수키(Kimsuky)가 '인공지능(AI) 코딩 에이전트'를 해킹에 악용한 정황이 포착됐...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260907021600017",
+          "source": "연합뉴스",
+          "published": "2026-09-07 08:37",
+          "score": 18,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "한미약품, 'AX 원스톱 바우처 지원사업' 선정…AI 도입",
+          "lead": "한미약품은 과학기술정보통신부(전담기관: 정보통신산업진흥원(NIPA))가 주관하는 'AX(인공지능 전환) 원스톱 바우처 지원사업'에 제약·바이오 부문 지원 대상 기업으로 최종 선정돼 AI 솔루션 도입 및 실증 작업에 본격 돌입한다고 7일 밝혔다.",
+          "summary": "",
+          "url": "https://www.mt.co.kr/thebio/2026/09/07/2026090709485715596",
+          "source": "머니투데이",
+          "published": "2026-09-07 09:50",
+          "score": 17,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[NABS 2026 기획] AI로 스토리지 운영 자동화…IBM '플래시시스템.ai', 랜섬웨어 탐지·복구 강화",
+          "lead": "생성AI와 에이전틱 AI가 기업 업무 전반으로 확산되면서 데이터 인프라에 요구되는 역할도 달라지고 있다.",
+          "summary": "AI 학습과 추론, 실시간 분석에 이용하는 데이터가 빠르게 증가하면서 기업은 저장 용량과 입출력 성능뿐 아니라 데이터 배치와 접근권한, 운영 효율을 함께 관리해야 한다. 랜섬웨어를 비롯한 사이버 위협도 스토리지 운영에 직접적인 영향을 미친다. 공격자가 운영 데이터와 백업 데이터를 함께 암호화하거나 관리자 계정을 탈취해 복구 원본을 삭제하면",
+          "url": "https://www.etnews.com/20260907000037",
+          "source": "전자신문",
+          "published": "2026-09-07 09:07",
+          "score": 17,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "다올티에스-동국대-팔로알토, 사이버보안 인재 양성 맞손",
+          "lead": "다올티에스-동국대-팔로알토, 사이버보안 인재 양성 맞손 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vS3lHRFFnR2JVa2FFVXJfeEhRbVY1N1ZtSUh4VzNBcDZKSVZUUThyMHZEMmxzNmJvaWR5WVlXbGRPRkVwNm5JV0taMFZFQQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-07 08:50",
+          "score": 17,
+          "keywords": [
+            "인재 양성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "하동군, 매출 100억 기업 100개 키운다…밀착지원 시동",
+          "lead": "(하동=연합뉴스) 박정헌 기자 = 경남 하동군은 지역 기업체의 인력난과 자금 부족, 판로 확보 문제 해결을 위해 '연 매출 100억원 이상 기업...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260907031700052",
+          "source": "연합뉴스",
+          "published": "2026-09-07 09:08",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "'디지털자산도 금융 일자리'…빗썸, 금감원 청년 채용설명회서 인재 찾았다",
+          "lead": "빗썸이 금융감독원이 참여한 청년 채용설명회에 참가해 디지털자산 산업의 직무와 채용 정보를 알렸다.",
+          "summary": "은행·증권사 등 전통 금융회사들과 함께 청년 구직자를 만난 자리로, 디지털자산 거래소가 금융권의 새로운 일자리로 영역을 넓히는 모습이다.4일 디지털자산 업계에 따르면 빗썸은 지난 2일 서울 이화여대 ECC홀에서 열린 '2026 청년 채용설명회'에 참가했다. 이번 행사는 금융감독원과 이화여대가 공동 주관한 국제 콘퍼런스의 부대 행사로 마련됐다.행사에는 디지털자산 거래소를 비롯해 은행과 증권사 등 17개 금융기관이 참여했다. 각 회사는 금",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154923",
+          "source": "테크M",
+          "published": "2026-09-04 18:16",
+          "score": 22,
+          "keywords": [
+            "채용설명회",
+            "채용",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "세븐일레븐, 채용전제형 인턴 모집…채용설명회 개최",
+          "lead": "코리아세븐이 운영하는 편의점 세븐일레븐은 오는15일까지 '신입사원 채용전제형 인턴'을 모집한다고 7일 밝혔다.",
+          "summary": "이번 채용은 가맹점 운영 지원을 담당하는 영업관리(FC) 직무를 대상으로 진행된다. 모집 지역은 경기, 강원, 충청, 호남 등으로 지원자의 희망 근무지역을 고려해 채용을 진행한다. 채용 절차는 서류전형, 조직·직무적합진단, 1차 역량면접, 인턴십, 2차 PT/임원면접으로 진행될 예정이다. 인턴십은 약 4주간 실제 현장에서 실습을 통해",
+          "url": "https://www.etnews.com/20260907000056",
+          "source": "전자신문",
+          "published": "2026-09-07 09:27",
+          "score": 21,
+          "keywords": [
+            "채용설명회",
+            "채용",
+            "인턴"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "AI 전문가 뽑는 은행들…신입 공채는 갈수록 '바늘구멍'",
+          "lead": "(서울=연합뉴스) 한지훈 이도흔 기자 = 올해 은행권 채용 문이 한층 더 좁아졌다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260906012500002",
+          "source": "연합뉴스",
+          "published": "2026-09-07 05:53",
+          "score": 17,
+          "keywords": [
+            "공채",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "대상, 추석 앞두고 400억원 규모 협력사 대금 조기지급",
+          "lead": "대상이 추석 명절을 앞두고 중소 협력사의 원활한 자금 운용을 돕기 위해 400억원 규모 결제 대금을 조기 지급했다고 7일 밝혔다.",
+          "summary": "명절 전 자금 수요가 늘어나는 중소 협력사의 부담을 덜고 상생경영을 실천하기 위해 마련됐다.",
+          "url": "https://www.mt.co.kr/living/2026/09/07/2026090708495074751",
+          "source": "머니투데이",
+          "published": "2026-09-07 09:14",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

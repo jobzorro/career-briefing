@@ -1,0 +1,323 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04 09:07",
+  "stats": {
+    "collected": 1908,
+    "deduped": 1731,
+    "recent": 886,
+    "relevant": 94,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "‘최저임금보다 높은 실업급여’ 개선…노사 고용보험료 0.1%p씩↑",
+          "lead": "‘최저임금보다 높은 실업급여’ 개선…노사 고용보험료 0.1%p씩↑ KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMN2lnZzl2Q3Z0akloRktaTGhWbGRiM3VxNnR1MlVFMUhsN2thRDN4ZUY5YUVfSU1NdC1RN0RwZmt5SS16RHRGN2V2Y0VkODdDWDVCenlidmJaajA?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-01 18:16",
+          "score": 41,
+          "keywords": [
+            "고용보험",
+            "실업급여",
+            "최저임금",
+            "노사"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "최저임금보다 많은 실업급여 손 본다...198만→176만원",
+          "lead": "최저임금보다 많은 실업급여 손 본다...198만→176만원 YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSGNuREVvdjFHTDRkYnpZdXVYb3drWE9zLUFlQzNkTktrVTgwLUxiMHZkTTd0LVNTVzNoV01yczhBOGl4ME5CY29xdnUxc1lpcmpvOFA1WlNRcHVRLWc?oc=5",
+          "source": "YTN",
+          "published": "2026-09-02 09:56",
+          "score": 29,
+          "keywords": [
+            "실업급여",
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "최저임금보다 더 받는 실업급여 손본다… 내년부터 월 22만원 삭감",
+          "lead": "최저임금보다 더 받는 실업급여 손본다… 내년부터 월 22만원 삭감 국민일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zd3J5UmpjVFUwdzBEcy1lX1AyUm9GZDdqbWZvWWJLQnpfZjM1UFRseEVSTm45elJpZFRjWjN3R29OWG5lZjgtTWhuaDZsU0pXSE9FeUxpS1lfYmRCV0FVZmtHOHQ1TU5kSmxTTdIBbEFVX3lxTE8zd3J5UmpjVFUwdzBEcy1lX1AyUm9GZDdqbWZvWWJLQnpfZjM1UFRseEVSTm45elJpZFRjWjN3R29OWG5lZjgtTWhuaDZsU0pXSE9FeUxpS1lfYmRCV0FVZmtHOHQ1TU5kSmxTTQ?oc=5",
+          "source": "국민일보",
+          "published": "2026-09-02 00:16",
+          "score": 29,
+          "keywords": [
+            "실업급여",
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "실업급여 월 198만→170만원…고용보험료 1.8→2.0% 오른다",
+          "lead": "실업급여 월 198만→170만원…고용보험료 1.8→2.0% 오른다",
+          "summary": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wMW54NzlxTW1HdVJWdEZ1U2dVTXk0bXRTMWlOVXozaWNDVXFjeV9rN1JQLTRyS1BvYjhRTjNLNVhFU215ZnlJNHhOaUtGUQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-01 19:00",
+          "score": 29,
+          "keywords": [
+            "고용보험",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "고용보험료율 2%로 인상…실업급여 지급액 손본다",
+          "lead": "고용보험료율 2%로 인상…실업급여 지급액 손본다",
+          "summary": "SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41OHpEYXp3QkVfbkU4bXQ1d0hzR2JBclRwYjlPYk11cFZvRVdTZkM5WUljTXo4dl9pelN6S3pwdF9XVFhrVTZqUVp0SDJ0Mzhzd2Zj0gFYQVVfeXFMTktKX0ZJMlRXXzhmRTd6RFh5ekg2ZUFVMUFyTEF2RDhIQng3UVJaTmY4NHo4NmdEMldMZGQxZ3d1STNSNUtrbS03TkFybHRnSHB1cjhxajgxcQ?oc=5",
+          "source": "SBS Biz",
+          "published": "2026-09-01 18:48",
+          "score": 29,
+          "keywords": [
+            "고용보험",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "최저임금보다 덜 받게...실업급여 하한액 월198만→176만원",
+          "lead": "최저임금보다 덜 받게...실업급여 하한액 월198만→176만원 미주중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LNTVnSDI1WEFVM2V0bkswRzlPODZyVkFIQ2FaRWdYYXppcUx2bEpyZVVOSHk3OGpWMjBzLUdHcWpZS1ZweHUzYVFNVWMtc0NXNmFmUVRySmNfNW5HOVhhQTZB?oc=5",
+          "source": "미주중앙일보",
+          "published": "2026-09-01 17:37",
+          "score": 29,
+          "keywords": [
+            "실업급여",
+            "최저임금"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[반도체·데이터센터, 전남광주시대 연다]⑫ 전문인력 확보: \"박사만 필요한 게 아니다…현장형 기술인재 양성 시급\"",
+          "lead": "[반도체·데이터센터, 전남광주시대 연다]⑫ 전문인력 확보: \"박사만 필요한 게 아니다…현장형 기술인재 양성 시급\" 남도일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xaUI1eHE2dmxrY0wtSUl4amNGaWlEUG1HUnNkOGd1dThSNGUyX252WThXWUs0bC1JYmh3NmpoMUc0cHFwRVZwU3MzRVBYdUZKY3kwbDNYbVNKRW1WZFp5dXpvLV9yaWJBcXl3NtIBcEFVX3lxTFA2clVmSDdmb09ieHpIUGVKa2h2VGFiYjRHWVBnNnBYYWlWN2V5TzFZc0NqNmQxZkpmWk1Xc0xkdjIteGZZRHEydlh4QVlQdDc5a0hDalN1ZzQwaFRnYXgyR0ZPeFI4cVphOXZHckdHZmw?oc=5",
+          "source": "남도일보",
+          "published": "2026-09-01 17:28",
+          "score": 25,
+          "keywords": [
+            "인재 양성",
+            "전문인력",
+            "기술인재",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "中企 제조 AI 인력 양성 600명→1600명…청년 취업 지원도 확대",
+          "lead": "中企 제조 AI 인력 양성 600명→1600명…청년 취업 지원도 확대 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ZGozVGlnME1VV2NYQlJyZ01kU3BUV3RlNjg5dHNuTWFSZXZUeDhnWDU3V1JfN2xJNXhEMEpIeUZocGFEME1LdGtYM2lNRWFGU0JtZFBR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-04 06:00",
+          "score": 23,
+          "keywords": [
+            "인력 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "전북대, 산업부 '로봇 특성화대학원' 선정…\"피지컬 AI 인재양성\"",
+          "lead": "전북대, 산업부 '로봇 특성화대학원' 선정…\"피지컬 AI 인재양성\" 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fak5uZC1IQW0tYzNvX0JhT1V3QkF6RjZMcVQ4U2hBb1YxRFE3aXpVQUNDOGIzTHBLVjBYZjQ0NHE2YTlWSWV5ZVpVbTV2eEM5YWZuetIBWkFVX3lxTE5FVTZjZVJuVDJ0UEFQaTRycmVENXZFRnlzbWhxcEhiR2o1VVk5Vll2T1ktbjlLNVRKa2JTWXdJRjVxSThRSVBlcVlQVDJVLXBjUHJSOXp1QXJIdw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-01 14:59",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI",
+            "로봇"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[동두천소식]'AI와 미래직업'…청소년 진로체험박람회 등",
+          "lead": "[동두천소식]'AI와 미래직업'…청소년 진로체험박람회 등 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYmh5aXR3eTU0Nms5Q0p1Q25SMkotalgxTXRia2hwNXRyVFlIZmNmREY3YVZfMENuSkgxTC0yeHViWXBhNU82bi1yc09Gc2p3S09pbEhNRTRhTU9mbXlURW9yN0lkdlBkX3UzYXdiSlhPVFNoaHlaSNIBeEFVX3lxTE5EYmh5aXR3eTU0Nms5Q0p1Q25SMkotalgxTXRia2hwNXRyVFlIZmNmREY3YVZfMENuSkgxTC0yeHViWXBhNU82bi1yc09Gc2p3S09pbEhNRTRhTU9mbXlURW9yN0lkdlBkX3UzYXdiSlhPVFNoaHlaSA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-03 13:11",
+          "score": 20,
+          "keywords": [
+            "미래직업",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "“100% 재택근무, 월급 1400만원” 파격 채용…무슨 일 하길래? [월드픽]",
+          "lead": "“100% 재택근무, 월급 1400만원” 파격 채용…무슨 일 하길래?",
+          "summary": "[월드픽] 서울신문",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KVjljNU9meGhicDdNa1VlekRsOHlzSTNLS1JCbzlDVXJtRjZrR2ZBODFmRmZES2d6MzFycktiRzRWdUlqZUNiT3dGeUYtTFRGcDB5UWliUjVqajJ5ZjJpV2VxeVprM1hXR2l4cmRLcC1kZG9sUm5J?oc=5",
+          "source": "서울신문",
+          "published": "2026-09-01 14:54",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "AI·로봇 접목한 수산식품 전문인력 양성…‘블루푸드테크’ 석사과정 개설",
+          "lead": "AI·로봇 접목한 수산식품 전문인력 양성…‘블루푸드테크’ 석사과정 개설 해양레저신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KSW81cjZlSkNiYUJUY3drN2lzXzhUYzZDRjlzaHpfY0FCcjE1U21GUWF4cXI4Z1JzNUJTZ2FLcjRxenloY3NuY3dUUkJDYklvX1F0Yl9rSQ?oc=5",
+          "source": "해양레저신문",
+          "published": "2026-09-02 15:28",
+          "score": 19,
+          "keywords": [
+            "인력 양성",
+            "전문인력",
+            "AI",
+            "로봇"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "KB국민은행, 하반기 신입행원·경력직 공채…180여 명 채용",
+          "lead": "KB국민은행, 하반기 신입행원·경력직 공채…180여 명 채용 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FRm9wSE1XVU5KeGthdUItV2l0X2gwd3hKUkVjQ3AzWXFzcU5MM1RqcFdWZ0J4LXd2REhlZ0k4cWZtTTlya1Q0Tlh2QUtXdWtWQ1BOLUo3bDYyN3FGQWxGT0JnTjhadHJDRnI0elltMnJmSmY5ZDNOVdIBeEFVX3lxTE5FRm9wSE1XVU5KeGthdUItV2l0X2gwd3hKUkVjQ3AzWXFzcU5MM1RqcFdWZ0J4LXd2REhlZ0k4cWZtTTlya1Q0Tlh2QUtXdWtWQ1BOLUo3bDYyN3FGQWxGT0JnTjhadHJDRnI0elltMnJmSmY5ZDNOVQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-01 09:40",
+          "score": 32,
+          "keywords": [
+            "공채",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "국민은행, 신입행원·경력직원 180명 채용…9일까지",
+          "lead": "국민은행, 신입행원·경력직원 180명 채용…9일까지 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FTkJwWjlkdjlLOVg1R0xWaXpnZWdSRmR1QnVVZE9ZU1ZScTBXeEdMOXlIYklNQmMzVWhXa2kyT3JMVWlvRHlFem94UmFLV2NLd1dzU2JNemNyU1hJQ1pSRk5mbDlNeGxJQkVj0gFwQVVfeXFMTzZzVU5sUzEyam5HVHFlRTZPU2NYeHlpTDZ4a0JWUmFTSFA4ZktyOGx6RmFZVy0waUQ4eEsyYTVDb1N4Qk5qZzZhZTFfcFBUNk5PZzh2cnBxQ0hQUnpCd1l0cGItYTEwVU9Nb1I1X05pcw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-01 10:33",
+          "score": 26,
+          "keywords": [
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "포스코그룹 6개사 세자릿수 공채…AI·로봇 인재 확보",
+          "lead": "(서울=연합뉴스) 신창용 기자 = 포스코그룹이 미래 성장 동력을 이끌어갈 신입사원을 세 자릿수 규모로 채용한다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260903139000003",
+          "source": "연합뉴스",
+          "published": "2026-09-03 15:54",
+          "score": 24,
+          "keywords": [
+            "공채",
+            "포스코",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "KB국민은행, AI·ICT·ESG 등 6개 부문 신입채용…경력직도 20여명",
+          "lead": "KB국민은행, AI·ICT·ESG 등 6개 부문 신입채용…경력직도 20여명 fortunekorea.co.kr",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NRWp6d1NMRjVYV3Ewak5NM2JpUnFnZmpSaVJWYmlVSm1ScUd0cXROTE93dDJVVG5oYWlVSHhETGJHUUJqckQ3Y0pudkdaNFlubWZ4ZlBKY0gxMlEzajNKR1Brd2FhTm0yTnBhU2JNNHRQd9IBdkFVX3lxTE91VExmS2M5X1E2a2R4Yjh5WE5sTnliUzZHN2pUTUI1Y2R5RWo5Zi15bWQxWXJ5dW9ZYm1nTGdpM2lsemZ2eGd0aTcxRkw3WGdBSUVpZ1Z4REgydUMtcGsyRWEtWUFQakotNVlPM0FOSkZLVkdqckE?oc=5",
+          "source": "fortunekorea.co.kr",
+          "published": "2026-09-01 09:17",
+          "score": 22,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "임원 등에 '성과급 현금 대신 주식' 66%↑…삼성이 가장 많았다(종합)",
+          "lead": "(세종=연합뉴스) 김수현 기자 = 올해 대기업집단에서 총수나 친족, 임원에게 성과 보상 등을 목적으로 주식을 지급하는 약정이 작년보다",
+          "summary": "66% 늘...",
+          "url": "https://www.yna.co.kr/view/AKR20260903085051002",
+          "source": "연합뉴스",
+          "published": "2026-09-03 14:19",
+          "score": 20,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "롯데·현대모비스·한화에어로 등 하반기 대기업 신입채용 본격화",
+          "lead": "롯데·현대모비스·한화에어로 등 하반기 대기업 신입채용 본격화 뉴시안",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UaDlJQTJlWHVJY1d5SHZXZktCVFpOR180WG10NUh3VGxtS3NSZWNyd191TjRkZVFJcWdaTE15NnpPZ1NTSk8xQzEzRmx4dS1uYWU3ZENmaVBJbXBWNEktUDVZN2lLSi1FUmfSAW5BVV95cUxQNTJRUUctNTlvUVgwN1FZcElLSWJMdEEwWWY5RFZCYXJpX1lGTnNyZXpRYTI3Qk0wMWZkbE1sSjc3VnBudThoSkVRMnJ6Snhuek9maVlKRGdDY0RzRElfSW5DY0UtOWEyQTQyTXROZw?oc=5",
+          "source": "뉴시안",
+          "published": "2026-09-03 08:13",
+          "score": 19,
+          "keywords": [
+            "신입채용",
+            "채용",
+            "신입",
+            "한화"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

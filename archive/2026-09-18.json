@@ -1,0 +1,307 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18 08:00",
+  "stats": {
+    "collected": 1934,
+    "deduped": 1780,
+    "recent": 911,
+    "relevant": 64,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[올댓차이나] 8월 中 청년실업률 18.9%…1년 만에 최고",
+          "lead": "[올댓차이나] 8월 中 청년실업률 18.9%…1년 만에 최고 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EWGs4dklMTS04WHpCVkNwcWhkNGYtRE4tQm9zVDd5d2VYZVpSbkFXTjBRaEh6ajBPR09aRXYzaUN3Z0ZXWVJjbEZTaDhfcm4yVHlqQVRhcFJqZ1FfSnBxVdIBeEFVX3lxTE8yLTZuUndmR19CY3hzYkgtRmRDSjd5Q1c3aTdVRExjSno1QzhBc29fbTNrRENLamxHQm1leWhpX3BmU0lUZDUzSHB0OEpqeWhRN0ZNRHU0bW1Vc2lVWkxSU2hMc000VFZRbVpZblFlVTBnUGtFbEtaZA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-17 21:08",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "청년실업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "원주 노사민정, 지역기업 구인난·청년 유출 해법 모색",
+          "lead": "(원주=연합뉴스) 임보연 기자 = 강원 원주시 노사민정협의회는 17일 '원주형 강소기업과 함께하는 원주일자리 대토론회'를 열고 지역기업 구인난 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260917172600062",
+          "source": "연합뉴스",
+          "published": "2026-09-17 17:01",
+          "score": 23,
+          "keywords": [
+            "구인난",
+            "노사"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "가짜 근로자 모집해 실업급여 5억8천만원 부정수급 사업주 구속",
+          "lead": "(서울=연합뉴스) 한혜원 기자 = 고용노동부 대구지방고용노동청은 브로커를 통해 허위로 근로자 57명을 모집하고 이들이 실업급여 등을 부정 수급하...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260917191100530",
+          "source": "연합뉴스",
+          "published": "2026-09-17 19:20",
+          "score": 21,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "면접 갔더니 \"경력 없네요?\"...인턴마저 퇴짜, 청년 어디로",
+          "lead": "청년들이 직업훈련을 마쳐도 취업문을 넘기는 쉽지 않다.",
+          "summary": "기업이 신입에게도 실무 경험을 요구하면서 '교육 수료'와 '첫 취업' 사이의 간극이 커지고 있어서다. 이에 정부가 기업을 교육 단계부터 참여시켜 훈련과 현장 경험, 첫 경력을 쌓도록 해 취업으로 연결하는 지원책을 확대하고 있다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/18/2026091718494438647",
+          "source": "머니투데이",
+          "published": "2026-09-18 06:30",
+          "score": 20,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "6~8월 홍콩 실업률 3.8%로 상승…2028년 인력 부족 13만명 전망",
+          "lead": "6~8월 홍콩 실업률 3.8%로 상승…2028년 인력 부족 13만명 전망 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyN0lDbWNlTFMxN05oLTRvb0Zldm9qR1FYNGVQQkJSYmduUzBzZi02ZEd3aEEwXzJNd2tqVl9BN0hZWWpxalZFc3ZCdml4d0NsbDRFRFZVMEhXUXZiMVJ1SdIBeEFVX3lxTE9zMzg0Xzl1aDJ3V0RaUjRscjJXWG84OUtsQVJlWTBPbUxhX205d1pRc0pYbTBQRGRxeE5FejJEZlp6UWlqTWxKUkE4TnZLWHNkYTg3enBGWmxKLVRkMzBCN29NbFNlQURadi00Q2lJeTAzRU1jNmtpRA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-17 22:06",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "'유령 직원' 내세워 7년간 실업급여 5.8억 '꿀꺽'…사업주 구속",
+          "lead": "'유령 직원' 내세워 7년간 실업급여 5.8억 '꿀꺽'…사업주 구속 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWVFpQXVZQ2xiLXFXd0JqUk1YOGJWTlFTcGxQMWJXODhwQUIwTDRkUjdCczF5Q3pGWnRmRWJTd1BfR29SSlZZeHcyc0tnZ0JtMW5YSlFTMzRfbV84ZEZfNU1VeVItMVpGWXg00gFwQVVfeXFMTUxORnJKZWo4MW9wR0JscEZFZmJac25WWHRMbUpNT3pvVGdfTjk0QUp5dVhsaFNaeHpoTXZlalV6U2J6ZDlkRkt5RDB4bHdwaTBhR053d1RLeUVOZTlTbGFzWk5ic3RMQ2lFNExuQXFUSA?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-17 20:45",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "다산제약, 1AI 첨단바이오 인재 양성 착수… 단국대와 ‘AX 혁신’ 맞손",
+          "lead": "다산제약, 1AI 첨단바이오 인재 양성 착수… 단국대와 ‘AX 혁신’ 맞손 팜이데일리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IMVlYdFo1NXBNUGhGZXdRZnotSlpaSXFFU2JidEZoLWM4dXRYZzFiZWZoS1Fnczdib2NBc25KY3cyMXQwMlJQNVJEX0pSQ3pPSnJMQ1haN2t0S2tXNGpEaEs0bW1jR3JMa21HUWl3?oc=5",
+          "source": "팜이데일리",
+          "published": "2026-09-15 10:30",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "AI",
+            "바이오"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "메가존클라우드, IT서비스 장애 대응 자동화 방안 제시...뉴렐릭과 공동 세미나 성료",
+          "lead": "메가존클라우드는 옵저버빌리티 플랫폼 기업 뉴렐릭과 공동으로 하루 전 서울 강남구에서 국내 기업 IT 관계자들을 위한 '프롬 코드 투 리커버리' 세미나를 열고 장애 대응 전 과정을 자동화하는 시나리오를 소개했다고 17일 밝혔다.세미나에서 제시한 자동화 시나리오는 장애 대응 과정을 ▲감지 ▲판단 ▲실행 ▲검증 ▲개선 5단계로 구분하고, 뉴렐릭·깃랩·아틀라시안·페이저듀티를 연계한 '폐쇄형 자동화 루프' 기반의 단계별 해법을 담고 있다. 폐쇄형 자동화 루프는 하나의 신호가 다음 행동을 자동으로 호출하는 시스템을 의미한다.뉴렐릭은 애플리케이",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155350",
+          "source": "테크M",
+          "published": "2026-09-18 00:20",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "클라우드"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "픽스업헬스, 재활치료에 '엠비언트 AI' 접목…진료기록·홈케어 자동화",
+          "lead": "디지털 헬스케어 기업 픽스업헬스가 인공지능(AI)을 활용해 의료진의 진료 기록과 환자 재활 관리를 자동화한다.",
+          "summary": "진료실에서 나눈 대화를 AI가 실시간으로 파악해 전자의무기록(EMR) 초안부터 환자별 재활 프로그램까지 만들어주는 방식이다.17일 픽스업헬스에 따르면 회사는 엠비언트 AI 기술을 적용한 원격 재활 치료 모니터링(RTM) 서비스 'RTM 솔루션 2.0'을 선보였다. 현재 베타 테스트를 진행하고 있으며 고도화와 안정화 작업을 거쳐 올 하반기 전체 고객사를 대상으로 순차적으로 업데이트할 예정이다.엠비언트 AI는 의료진과 환자가",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155353",
+          "source": "테크M",
+          "published": "2026-09-18 00:07",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"반도체 계약학과 인기, 의대 못지 않네\"…삼전·닉스, '우수인재 확보' 탄력받나",
+          "lead": "\"반도체 계약학과 인기, 의대 못지 않네\"…삼전·닉스, '우수인재 확보' 탄력받나 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcmkydlV6TG42S1RIaDJWcms1clgxSmZiTDFTYWpGaVhFb2ZmbnhEUGU4dG1xNlBKX2tXQThBSWVKMGNiZFBwdEtvOFlZTGo0OHdBcHJzVE14ZXRoNWxETNIBeEFVX3lxTE8xbEdFSW1vTU5oWjhrNkJnamhHUzROREVUVVhyUmZ0LUdyM1JvV1FEMTMyelQxUERhdklLSlluUUxYVTIzQXZIVjExcUFiQ2NPZDd6dkZHQkpva0YtbURZRldhZGlsMDc1dmhUMnBnM2xvbUd4OVMwbg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-16 05:00",
+          "score": 20,
+          "keywords": [
+            "인재 확보",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄'",
+          "lead": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄' 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ano5NDFQWFFuR2VKT3pZU2JzSEFIeXBsV0l1OGZuaVlOMDZCbUJSd1pJaTNZVkZRSDNmbzZNOFljMmIwUFpXWDhjRzFLYkJaVEJLVTFiaEUzcjDSAWBBVV95cUxNVEtyOENyN0tpc3lBbmFTZEJadXdpOUZ6TERCZlhjcWxqUWF5RDZTajYyRnhKVXFDVUlxU0Vuc2V0VzhhUmtBSnhDTl9tV1lLWlEyWVJxQUdvNy15ZWZ3VWM?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-15 15:00",
+          "score": 20,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "대구시 '에너지기술공유대학' 공모 선정…전문인력 305명 양성",
+          "lead": "대구시 '에너지기술공유대학' 공모 선정…전문인력 305명 양성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwVHphUlQ0Tk5JNXlFSGxpVjlidmJaUXFubGlpYjI2eC1mSWNXMUpYLUx6NDBIZlRaZmhzWWdBMTRRUVlPNlo5UExCdS1wSmp5REFNc0xHaGFVRmN5Z21WX9IBeEFVX3lxTFBSOTlQMTIwb1VFcDl0cEhXZmVidjFlRlNhbWIzX0FnNWZHOHlfenVFbjZrZlVPOW5fTlRVLXR6akYzNkdoX1YwZUtPa2tIM0pwNkdVLVY3SzM2QmMyU19HR1N4NDJSbG1GOW4wUEZMSkd2NTRVWWVxdw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-15 10:00",
+          "score": 20,
+          "keywords": [
+            "전문인력"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[위키만평] “경력직 신입 구해요~”신입채용의 모순",
+          "lead": "[위키만평] “경력직 신입 구해요~”신입채용의 모순 위키트리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VU5iOWpSblJlWXJiV0Y1eVM3U04xaWhzWURleGE1YUJteG9FdGhYN3VUNDZkQWZ4VHlKcTdOWlJmR3c5dWFQNURTNWQ3SXRZaWZMZVJR?oc=5",
+          "source": "위키트리",
+          "published": "2026-09-17 16:15",
+          "score": 19,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\"",
+          "lead": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\" beyondpost.co.kr",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTElKSVhYOFhyMjhjR2JfRXJJT016dTFvb1dWWlJQa2xVU05wa3NTb2kwVGJNSEhSQW1CSHlrbnhyYXhFTU5xcTAtUWVCSjR6b0pYTTBuX1IxTkdMQ0tJTUxHZzJqQ0dDVGJzRFhDZnRmRW12b3kyVFVkUC0?oc=5",
+          "source": "beyondpost.co.kr",
+          "published": "2026-09-16 08:43",
+          "score": 19,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "CJ올리브영, 글로벌 인재 확보 나선다…신입공채 31개 직무 모집",
+          "lead": "CJ올리브영, 글로벌 인재 확보 나선다…신입공채 31개 직무 모집 소셜밸류",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qdHByVW9yRlUwa2dVLVJHbGNzSGY5RmwyLUJxNEVHdTZoVmZBWHdGZzAtZVh3cWxUNDFzWjBORnlLOWhhWU1QclJJZ0thazMyMk53NHBjXzBWNng5bXZSUjRQRdIBbEFVX3lxTE9jT3JsV2ZPSDMzdzZNQUVoVnM2c09PdEVCTG9XMUlRQ1BtZWczTU1DSnhweUpYR29CdldnNk5kOUxfY3hlUEtTa0dyUGFOQ0kyY0Y0TkJVa3pISEl5R0xhLVZoSGN5VjRJWjVqSQ?oc=5",
+          "source": "소셜밸류",
+          "published": "2026-09-17 08:44",
+          "score": 16,
+          "keywords": [
+            "공채",
+            "신입",
+            "CJ",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "AI 직무 공고 경력직 140% 증가, 임원 헤드헌팅 의뢰도 늘었다",
+          "lead": "AI 직무 공고 경력직 140% 증가, 임원 헤드헌팅 의뢰도 늘었다",
+          "summary": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oOG5JOEJ0dGN1NXpZd0c4enFHSXRKRmNNS0tYRk1pUEtXS0lkcVBzUktJam8wZnFYVVZ4UHZkZlJMUWprWTdzcw?oc=5",
+          "source": "플래텀(Platum)",
+          "published": "2026-09-16 17:16",
+          "score": 16,
+          "keywords": [
+            "헤드헌팅",
+            "경력직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"공무원 성과급도 못 줬는데\" 동학혁명 유족 수당?...결국 '없던 일로'",
+          "lead": "전북특별자치도가 동학농민혁명 참여자의 유족에게 매달 10만원씩 수당을 지급하기로 했지만, 전주시의회가 재정난을 이유로 관련 예산을 전액 삭감했다.",
+          "summary": "지난 11~15일 진행된 심사에서 예산결산특별위원회는 전주시 재정 여건과 사업의 시급성 등을 검토해 총 14개 사업에서 52억9109만4000원을 감액·삭감 조정했다.",
+          "url": "https://www.mt.co.kr/society/2026/09/18/2026091722412672346",
+          "source": "머니투데이",
+          "published": "2026-09-18 05:15",
+          "score": 14,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "신세계그룹, 10개 계열사 신입 채용...하반기 공채 특징은?",
+          "lead": "신세계그룹, 10개 계열사 신입 채용...하반기 공채 특징은?",
+          "summary": "초이스경제",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybzM1YmozZmVCdUx6R0VURC14anZDWmtzTDRLcEdtaDZkZEkzY3lhcl9UMVlrZWotOGYzV0lzQmJ1cVFneWtWNno5VjBaYXUyc2tReXhIU0hjeWZIVEt3d3lEbUdLSWEzcm4wUm8ydEvSAXNBVV95cUxPSHRDZDdJYjZ2WnlseVQ0aGdNVDF1RUZlYjkwYmsxSFl5OEtGZWI2eUppV19mbFBnS09iUVpnT1V6X3loV1paMi14NURTcUg3cmZ3Z3BxVTMzSnRUeU9aQVVUMzlpTzA3M1NTVG5ld0hmcnB3?oc=5",
+          "source": "초이스경제",
+          "published": "2026-09-17 09:39",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

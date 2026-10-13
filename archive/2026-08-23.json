@@ -1,0 +1,299 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23 16:16",
+  "stats": {
+    "collected": 1932,
+    "deduped": 1778,
+    "recent": 739,
+    "relevant": 36,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[동아시론/김대일]청년 일자리 위기, 노동시장-교육의 낡은 틀 바꿔야",
+          "lead": "[동아시론/김대일]청년 일자리 위기, 노동시장-교육의 낡은 틀 바꿔야 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMW11QUVrNUhYR2g5OTBEYl9nNXl6SFFJMU9kU3QzVlJxVGlualhRMzVYQXF6Wi1IWGVkUmdIclctQnhrMjlhQjNGdEo2aFVOQXlZc2xFajQxOUtWdWZDdUluejhqVGVleTdwQTczN0hiWk9oUWfSAWZBVV95cUxNVnRVRWt6SkNEcU9jb0hKYnZFTXRoaVVlTVNoaWp2TEJYSDZZSWtMd2Jxei0wM1ByNGRYMXhoWjB0aEJtaFBxbjN5SkhRZ0lFR3RfOU1mNy1WTHlVNV9Qc0YwVUVmd1E?oc=5",
+          "source": "동아일보",
+          "published": "2026-08-21 23:12",
+          "score": 26,
+          "keywords": [
+            "노동시장",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "신안 고용률 80.4% 전국 군 2위…화순은 실업률 가장 높아",
+          "lead": "신안 고용률 80.4% 전국 군 2위…화순은 실업률 가장 높아 남도일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sYkxIcTJiVnJJYk5sOXR1UExBaVlQVjU2ZWt5Tl9ub0FYa2U4dVEwaXduMjBIZ3l5aTBBTzhkNnhDZzZBZHdLM1hmQWktLUxaeFFFVG0wMmY3Nnp3OHBON1VNcUtycmcxMGtQc9IBcEFVX3lxTFAxWWE5VS1ZdTdtSm1qQ1NxZFRsbTRSOXJ6cTBGa2xTTTVMRHp1TDFMLUtTSy1DMHM3UUNBWkRMQXFnYVpQWjNYcGpxNXcxbDkzM180bHFFVnRmTVhMMkRJdS12QmJNaHdDVHJleDlHUS0?oc=5",
+          "source": "남도일보",
+          "published": "2026-08-20 16:36",
+          "score": 25,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "청년일자리·메가특구에 기금 투입 … 재원 20%는 국회 감시 벗어나",
+          "lead": "100조 미래기금 '청년·성장·지역·인재' 4대 투자중장기 투자 필요한 사업 집중세수 펑크시 재정안정 역할도국채 상환보다는 투자에 무게여유자금 주식·채권 적극 운용20~30% 국회 승인없이 집행사실상 '상시 추경' 역할 우려",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12133427",
+          "source": "매일경제",
+          "published": "2026-08-21 17:39",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "호주 7월 실업률 4.5%·0.1%P↑…\"고용 감소로 5년 만에 최고\"",
+          "lead": "호주 7월 실업률 4.5%·0.1%P↑…\"고용 감소로 5년 만에 최고\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aOU5fVDdmbnJzQnpFekh4U1FXVEpBYXRCMnV6N01paFhtTzdZTUxoampFSnJTMGZGMHJzNWFiSzFFS0p1ckNhaVAwVEd0YWN0Wl94VDhpSnBxWkZPU3NJWNIBeEFVX3lxTE1uWmhxbkd1TlVYTEVyVzBMZG5jTmp0WFJJN2RmTGFpNXR5Z0VkMlhMeFFIejNoMUNZZjE0dENjNThqam93LWpiUjRPa1djSmVLdDNVcHRzNFlTRTlDS3lsdWJZd094dVNSOVl4eFBfMkRSUi0yNnNFeA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-20 17:43",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "이준형 서울시의회 기획재정위원장 “흩어진 일자리 정책 한곳에… ‘100만 일자리센터’ 만들자”",
+          "lead": "이준형 서울시의회 기획재정위원장 “흩어진 일자리 정책 한곳에… ‘100만 일자리센터’ 만들자” 국민일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02RFE4WVNKR0V2MUtmYktxa3czNW1hUi04czlkNzM2elZkOVlEOGhPbWhmVGZFMWM4SDExbHlmekZHWk5oaU9fVDE0RmdJdmhtWElMS3ZPbFBrMXNORF84NEZ3SFhTVEZCT1NketIBbEFVX3lxTE02RFE4WVNKR0V2MUtmYktxa3czNW1hUi04czlkNzM2elZkOVlEOGhPbWhmVGZFMWM4SDExbHlmekZHWk5oaU9fVDE0RmdJdmhtWElMS3ZPbFBrMXNORF84NEZ3SFhTVEZCT1Nkeg?oc=5",
+          "source": "국민일보",
+          "published": "2026-08-20 16:24",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "실업급여 마일리지제도 도입…연 200만 방문 고용센터, AI로 체질개선 추진",
+          "lead": "실업급여 마일리지제도 도입…연 200만 방문 고용센터, AI로 체질개선 추진 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4b1dPQUM2SFpGTEl5QmVSTnpOZGF5THBwcFNqZkRkbGJEdHUtYkVncHdHMzZCaVVmTTN6YU0wR054d2pmV2hFbUtpeEhjaS1Pb0lYSjV6MEVNdw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-20 16:19",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대",
+          "lead": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNm92S0EyN1hibFE0SGc1dEt1cWhuSW5QR2tRbHl5YmNVRTlIY2IwWFp1a25wWWlDaVZjU1I5bHF6SjgtR1hab1p4bGVQNlRXV0xvSVFEQk5XXzdHd0RQUHpPWmd5WlBKbHluMXprRnJ3d1Iyd2c0atIBeEFVX3lxTE9nNm92S0EyN1hibFE0SGc1dEt1cWhuSW5QR2tRbHl5YmNVRTlIY2IwWFp1a25wWWlDaVZjU1I5bHF6SjgtR1hab1p4bGVQNlRXV0xvSVFEQk5XXzdHd0RQUHpPWmd5WlBKbHluMXprRnJ3d1Iyd2c0ag?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-23 12:00",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "중장년 여성 재취업 문 넓힌다… 동래구, 급식조리 전문인력 양성",
+          "lead": "중장년 여성 재취업 문 넓힌다… 동래구, 급식조리 전문인력 양성 팍스경제TV",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbE0yT2tLcDVEQ244amdIdDBQLS1BY3FfR1BOTUdKMFpZSFd2enZIYkhRNkFZYW1hcXdwSVlJYnBfM29yR3dVWWFFcnBsRDFPU1JsNmozQ2wzQWR1Mm01Z0JGUzVfQkU?oc=5",
+          "source": "팍스경제TV",
+          "published": "2026-08-20 22:27",
+          "score": 22,
+          "keywords": [
+            "인력 양성",
+            "전문인력",
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "디플리, 음향 AI로 '로봇의 귀' 단다…내년 美 시장 본격 진출",
+          "lead": "디플리가 피지컬 인공지능(AI) 시대 '로봇의 귀' 역할을 하는 음향 AI를 앞세워 미국 제조업 시장을 공략한다.",
+          "summary": "미국 내 제조업 활성화와 자동화 확산으로 현지 제조사들의 음향 기반 품질 검사 수요가 커지고 있다는 판단이다. 이수지 디플리 대표는 “내년부터 미국 제조 시장에 본격 진출해 글로벌 자동화 공정의 표준 음향 AI 플랫폼으로 자리 잡겠다”고 밝혔다. 디플리는 기계 소리와 환경음 등 비언어적 소리를 분석하는 음향 AI 전문기업이다. 사람",
+          "url": "https://www.etnews.com/20260821000127",
+          "source": "전자신문",
+          "published": "2026-08-23 16:00",
+          "score": 19,
+          "keywords": [
+            "AI",
+            "로봇"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[2027 대학 수시]안양대, 대한민국 AI 혁신대상 2관왕…탄소중립 선도대학으로 글로벌 창의인재 양성 박차",
+          "lead": "안양대학교는 2027학년도 수시 모집에서 학생부교과 677명, 학생부종합 197명, 실기·실적 77명 등 총 951명을 모집한다.",
+          "summary": "안양역 인근에 위치한 안양캠퍼스에서 831명을, 인천시에 위치한 강화캠퍼스에서 120명을 모집한다. 안양대 2027학년도 주요 모집단위 변경사항은 기존의 AI융합학과, 컴퓨터공학과, 소프트웨어학과를 통합한 AI학부 신설로 모집인원은 100명이다. AI학부(AI융합전공, 컴퓨터공학전공, 소프트웨어전공)는 1학년 2학기",
+          "url": "https://www.etnews.com/20260819000339",
+          "source": "전자신문",
+          "published": "2026-08-23 13:00",
+          "score": 17,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "중진공, 스마트 제조 전문인력 육성 사업 교육생 600명 모집",
+          "lead": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업진흥공단은 구직자를 대상으로 '2026년 스마트 제조 전문 인력 육성 사업'에 참여할 교육생 600...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260821180800030",
+          "source": "연합뉴스",
+          "published": "2026-08-23 12:00",
+          "score": 17,
+          "keywords": [
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "장애학생 홀로서기 돕는 태광…카페·편의점서 직업훈련 진행",
+          "lead": "태광그룹 레저·인프라스트럭처 계열사 티시스의 장애인 표준사업장 '큰희망'이 2019년부터 이어온 장애 고등학생 직업훈련 8기가 한 달간의 현장실습을 마쳤다고 21일 밝혔다.",
+          "summary": "올해 8기 직업훈련에는 졸업을 앞둔 고등학교 3학년 장애 학생 4명이 참여했다. 이들은 카페·편의점·우편 등 사내 복지공간 관리 업무와 구두 정비·네일아트·헬스키퍼 등 사업장 운영 지원..",
+          "url": "https://www.mk.co.kr/news/business/12133358",
+          "source": "매일경제",
+          "published": "2026-08-21 16:58",
+          "score": 17,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "'성과급 60% 자사주' SK하이닉스 임단협…이번주 투표 분수령",
+          "lead": "(서울=연합뉴스) 강태우 기자 = SK하이닉스[000660] 노사가 두 달간의 교섭 끝에 성과급의 60%를 자사주로 지급하는 내용의 임금 및 단...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260821129700003",
+          "source": "연합뉴스",
+          "published": "2026-08-23 06:03",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "금감원 직원 10명 중 9명…\"지방 이전시 이직 고려\"",
+          "lead": "금융감독원 구성원 10명 중 9명이 지방 이전 시 이직을 고려하겠다는 노동조합 설문조사 결과가 나왔다.",
+          "summary": "21일 금감원 노조는 '지방 이전 관련 금감원 구성원 인식조사' 설문 결과를 일부 공개했다. 이번 설문에는 금감원 구성원 총 1538명이 참여했다. 설문 결과 금감원의 지방 이전이 확정될 경우 이직을 적극 고려한다고 답한 직원은 69.7%로 집계됐다. 이..",
+          "url": "https://www.mk.co.kr/news/economy/12133474",
+          "source": "매일경제",
+          "published": "2026-08-21 17:49",
+          "score": 20,
+          "keywords": [
+            "이직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "현대차 노조, 24일 부분파업 유보…임협 교섭 재개 예정",
+          "lead": "(울산=연합뉴스) 김근주 기자 = 현대자동차 노동조합(금속노조 현대차지부)이 올해 임금협상 교섭 재개로 오는 24일 예정된 파업을 유보했다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260823014700057",
+          "source": "연합뉴스",
+          "published": "2026-08-23 09:24",
+          "score": 14,
+          "keywords": [
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“삼전닉스 고연봉자 대출은 끄떡없어”…새 DSR 타격받는 직장인은",
+          "lead": "규제에도 삼전닉스 등 고소득자 주담대 최대한도 6억 받을듯 연봉 1억 안팎 직장인 타격",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12133927",
+          "source": "매일경제",
+          "published": "2026-08-23 09:02",
+          "score": 14,
+          "keywords": [
+            "연봉"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼성전자 동행노조, '뒷북집회' 지적 확산...퇴근길 가두행진 '빌미'",
+          "lead": "삼성전자 삼성전자노동조합(동행노조)가 실력 행사에 나섰다.",
+          "summary": "21일 집회를 열고 올해 '임금 및 단체협상(임단협)' 무효와 디바이스경험(DX)부문 특별성과급 자사주 1000주 지급을 요구했다.시민들의 눈초리는 곱지 않았다. 임단협 확정과 부문 영업손실에도 불구 성과급을 요구하고 있기 때문이다. 집회 영향으로 강남역 일대 교통 혼잡도 벌어졌다.21일 동행노조는 서울 강남구 삼성전자 서초사옥에서 '올 임단협 무효와 특별성과급 요구 관련 집회'를 개최했다.손종현 동행노조 감사 겸 위원장 직무대행은 \"지난 임단협은 정당하지 않고 공정하지 않",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154519",
+          "source": "테크M",
+          "published": "2026-08-22 03:15",
+          "score": 14,
+          "keywords": [
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "현대차 노조, 10년 만에 전면파업···울산·전주·아산공장 모조리 멈췄다, 쟁점 뭐길래",
+          "lead": "현대자동차 노동조합이 올해 임금협상에서 3대 쟁점 사항을 두고 사측과 이견을 좁히지 못하면서 21일 전면파업에 돌입했다.",
+          "summary": "노조는 상여금 인상과 정년 연장, 조합원 복직 등을 요구하고 있다. 사측은 법적 근거 없이는 노조 요구를 수용할 수 없다는 입장이다. 현대차 노조가 이날 하루 8시간 전면 파업에 들어가면서 울산을 비롯한 전주·아산공장 생산라인이 모...",
+          "url": "https://www.khan.co.kr/article/202608211209001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-21 12:09",
+          "score": 14,
+          "keywords": [
+            "현대차"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

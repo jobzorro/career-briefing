@@ -1,0 +1,295 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31 10:04",
+  "stats": {
+    "collected": 1933,
+    "deduped": 1770,
+    "recent": 722,
+    "relevant": 37,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "독일 8월 실업률 6.4% 유지…\"실업자 299만6000명\"",
+          "lead": "독일 8월 실업률 6.4% 유지…\"실업자 299만6000명\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QVXNpYzBCelZweS16bFdubzFiVWFia0lkcm5nZ1JuMlNqSGo1dTlwbEpXU0JlcGFITTJJOVhrMDg0QlpFNUJnQVAyXzRRUzdzVzZjR2h2Z3BPcENlY0xmb9IBeEFVX3lxTE5HQ0lrRzhkVTc3Vmt5QUhsMnFfcWdNUFJLMHIyTk9QYlNfdnpwV2ZzdmtkMXdudUM4TlJOa3pCeUVNemtaNFRGRlVSOXc5VTg0ZGxIN2YzY0J2cFJKdlA2T3lrY2xOQVV4OW43a0ZrRlNzTEM2VnJ6Vg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-29 03:13",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "실업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "7월 일본 실업률 2.4%·0.1%P '개선'…\"1인당 일자리 1.18개 보합\"",
+          "lead": "7월 일본 실업률 2.4%·0.1%P '개선'…\"1인당 일자리 1.18개 보합\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rd2pod1pJYWZvNGxFZm85ZE5UZFYyT1BkaHdlSk9qVTQ0aThXQmxZTmFyVkZPSXowYXp6blRETDdRRk04UUFfSThfenhEOU1FVWE4UjJYYmtNMmxjamZEYS1xeng4TVdMVFp5NVNCbkhiQUZFUHl1d9IBeEFVX3lxTE5rd2pod1pJYWZvNGxFZm85ZE5UZFYyT1BkaHdlSk9qVTQ0aThXQmxZTmFyVkZPSXowYXp6blRETDdRRk04UUFfSThfenhEOU1FVWE4UjJYYmtNMmxjamZEYS1xeng4TVdMVFp5NVNCbkhiQUZFUHl1dw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-28 10:49",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "당진시 상반기 고용률 71.8%…작년 하반기보다 1.1%p↓",
+          "lead": "(당진=연합뉴스) 정윤덕 기자 = 충남 당진시는 지난 4월 기준 15세 이상 인구 15만6천14명 중 취업자가 71.8%인 11만2천18명으로 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260831033900063",
+          "source": "연합뉴스",
+          "published": "2026-08-31 09:05",
+          "score": 27,
+          "keywords": [
+            "고용률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "한국노총 \"청년일자리, 취업자 수보다 고용의 질 개선해야\"",
+          "lead": "한국노총 \"청년일자리, 취업자 수보다",
+          "summary": "고용의 질 개선해야\" 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GOTh5QXY3ckpSVG1CaUJwSzJHODlaRXlVakpxcVBQS1l0TEJuV2MxVVhCRmlrakR2d2oyNmF1cHgtY2NDb3RUR1A3UnRYcFJuMGhHWnBkUmtDbElJNEJWdtIBeEFVX3lxTE5Fck1GM1YwbkdyOTBIYzJZVTRCOHVRNmFLcG5vaWFPR25SUk5lVV8tNUZSZnJIMzZVY2hCNnkyYjhFSlRWMGw1QVVneUNoZFJKaVo0QUswSDFyLVdJLTJyNjFjVWZBaVRQU3VsaGZYa1RrMENnTkJ1LQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-28 16:37",
+          "score": 26,
+          "keywords": [
+            "일자리",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "30대 고용보험 가입자 53%가 'AI 중·고노출' 직종서 일한다",
+          "lead": "(서울=연합뉴스) 한혜원 기자 = 30대 고용보험 가입자 절반 이상이 인공지능(AI) 중·고노출 직종에서 일한다는 분석 결과가 나왔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260829047500530",
+          "source": "연합뉴스",
+          "published": "2026-08-31 09:00",
+          "score": 20,
+          "keywords": [
+            "고용보험"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "최태원 \"韓·日 청년 노동시장 연결, 저출산 해법될 수 있어\"",
+          "lead": "최태원 \"韓·日 청년 노동시장 연결, 저출산 해법될 수 있어\" 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cVVaYS1BSmVnTzk5bHd4VE9temJhaFdyaGR5a2F6aXNIaThyZWthdmV2VnNHTnlkVGRvMnp3SjBhaTV6UFpzMnNHMGxISDZEUEUwRlhqcnJPZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-30 18:04",
+          "score": 20,
+          "keywords": [
+            "노동시장",
+            "저출산"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성",
+          "lead": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTDJHU1VyeE5faXVOZmNQcDA5MVFoS3RDNmZFWGM4SU5jSVkyVWNJUzdKaG10UWtGWGUzbmUtZ0pOSUpmTmxNeVdVY3RUWVBSdU9ydHVTSlc3UQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-28 16:30",
+          "score": 26,
+          "keywords": [
+            "전문인력",
+            "AI",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "류재철 CEO \"LG전자, 기술인재가 회사 이끈다\"…美 채용행사 주관",
+          "lead": "류재철 LG전자 CEO(최고경영자)가 미국 현지에서 인재 유치 행사를 열고 로보틱스 등 미래 사업 경쟁력 강화에 나섰다.",
+          "summary": "LG전자는 류 CEO의 주관으로 29일(현지시간) 미국 캘리포니아주 샌프란시스코에서 R&D(연구개발) 인재 채용행사 '북미 테크 콘퍼런스'를 개최했다고 31일 밝혔다.",
+          "url": "https://www.mt.co.kr/industry/2026/08/31/2026083108574349914",
+          "source": "머니투데이",
+          "published": "2026-08-31 09:10",
+          "score": 20,
+          "keywords": [
+            "기술인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "에이블랩스, 121억 규모 시리즈A 투자 유치",
+          "lead": "에이블랩스가 121억 원 규모 시리즈A 투자를 마무리했다.",
+          "summary": "자율실험실 플랫폼과 AI 학습용 실험 데이터 생산 인프라를 고도화하고, 미국·유럽 진출도 준비한다. 반도체·화학·화장품·2차전지로 자동화 수주를 넓히며 성장세를 이어간다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260831500022",
+          "source": "서울신문",
+          "published": "2026-08-31 08:53",
+          "score": 20,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[2026 전남광주미래산업박람회] 광주산학융합원-호남대 앵커사업단,",
+          "lead": "광주산학융합원(원장 김영만)과 송원대학교(총장 최수태) 앵커사업단은 9월 2일부터 5일까지 광주 김대중컨벤션센터에서 열리는 '2026 전남광주미래산업박람회'에 참가해 모빌리티 산업 분야의 산학연계 인력양성 프로그램과 교육 성과를 전시·홍보한다. 양 기관은 이번 전시에서 전남광주지역의 미래 모빌리티 산업을 이끌 전문인력 양성과 산학협력 기반 구축을 위해 추진하고 있는 앵커사업의 주요 프로그램을 소개한다. 특히 전시 부스에는 철도차량 운전 시뮬레이",
+          "summary": "",
+          "url": "https://www.etnews.com/20260830000057",
+          "source": "전자신문",
+          "published": "2026-08-31 09:30",
+          "score": 17,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "대교, 서울시50플러스재단과 손잡고 중장년 재취업 '랭킹 정보' 알린다",
+          "lead": "대교, 서울시50플러스재단과 손잡고 중장년 재취업 '랭킹 정보' 알린다",
+          "summary": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VklRVW1DYU5XSzBPRDlucjNyOTR3QmdzbEJ1ZGhyVGdjNnBpRzVHRTBYNkpiNnFmcklhVTdIU2l4UWNhVmFlN0l4MFRfYWFSeENzaUhuNmlDUQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-31 09:10",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "괴롭힘 신고 뒤 징계·재택근무…창원시 진해구 농협 보복 논란",
+          "lead": "괴롭힘 신고 뒤 징계·재택근무…창원시 진해구 농협 보복 논란 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83NzB3bGxrd1NtQ0s1dDJJMXdEOUo0UzAyS01SOVJkN0VYNzFaYTEwcFFMRjRad0hyNEU0WUx5THZZZnI2dnBaZHJ5c01xbk0xYms4YVlzaFptN1nSAWBBVV95cUxPY1VUZTVTb3J5TF9pa3pUX29Dd01PYTBOeWRCTXVyRUY3a0JoMFJXazhnQnFXU1B0LU5mMFZMWjYyaE1QcEdYSlIzU2pVY09VYlVFTno2d25Tc1VPTUNBQ3M?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-08-29 07:30",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "롯데, AX 핵심인재 뽑는다...15개 계열사 예측 가능 수시 채용 진행",
+          "lead": "이번 채용에는 롯데백화점, 롯데웰푸드, 롯데건설, 롯데이노베이트 등 15개 계열사가 참여하며, 영업, 마케팅, R&D(연구개발), AI(인공지능) 등 50여 개 직무에서 세 자릿수 규모의 신규 채용을 진행한다.",
+          "summary": "",
+          "url": "https://www.mt.co.kr/living/2026/08/31/2026083109221866992",
+          "source": "머니투데이",
+          "published": "2026-08-31 10:03",
+          "score": 23,
+          "keywords": [
+            "채용",
+            "롯데",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "현대차 노조, 임금협상 잠정합의안 찬반투표 실시",
+          "lead": "현대자동차 노동조합(금속노조 현대차지부)가 31일 올해 임금협상 잠정합의안 수용을 두고 조합원 찬반투표에 들어갔다.",
+          "summary": "현대차 노조는 이날 오전 6시부터 울산과 전주, 아산 공장, 남양연구소 등 전국 사업장에서 전체 조합원 3만9000여명을 대상으로 투표를 진행하고 있다. 전체 조합원 과반이 투표하고, 투표자 과반이 찬성하면 올해 임금협상은 마무리된다. ...",
+          "url": "https://www.khan.co.kr/article/202608310809001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-31 08:09",
+          "score": 20,
+          "keywords": [
+            "임금협상",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "4대 그룹 ‘주식 10억 클럽’ 비오너 임원 400명 육박···10명 중 9명은 ‘삼전닉스’",
+          "lead": "국내 4대 그룹 상장 계열사에서 보유 주식 가치가 10억원을 넘는 비오너 임원이 400명에 육박했다.",
+          "summary": "이 가운데 90% 이상은 삼성전자와 SK하이닉스 소속으로, 두 회사가 성과급 일부를 자사주로 지급하면서 임원들의 보유 주식이 늘어난 영향으로 분석된다. 31일 한국CXO연구소가 삼성·SK·현대차·LG그룹의 상장 계열사 62곳을 조사한 결과, 주식재산이...",
+          "url": "https://www.khan.co.kr/article/202608310803001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-31 08:03",
+          "score": 18,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“내일부터 바로 일합시다”…경력직 선호 직격탄, 2030이 다 맞았다",
+          "lead": "청년층의 새 일자리가 역대 최소로 쪼그라든 가운데 근로소득도 뒷걸음질 쳤다.",
+          "summary": "기업의 경력직 선호와 제조업 채용 위축이 겹치면서 사회에 첫발을 내딛는 20·30대가 직격탄을 맞은 모습이다. 30일 국가통계포털(KOSIS)에 따르면 올해 1분기 20대 이하와 30대의 임금근로 신규 채용 일자리는 236만3000개로 지난해 같은 시기보다 2만3000개 감소했다.",
+          "url": "https://www.mk.co.kr/news/economy/12140017",
+          "source": "매일경제",
+          "published": "2026-08-31 05:48",
+          "score": 18,
+          "keywords": [
+            "경력직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "은행 지점 줄이자 더 좁아진 취업문…대세는 ‘핀셋 채용’",
+          "lead": "은행권 하반기 채용이 시작됐지만 신입행원 문은 더 좁아지고 있다.",
+          "summary": "AI 활용 확대와 영업점 감소로 대규모 공채 대신 필요한 직무만 뽑는 핀셋 채용이 자리잡는 모습이다. 은행들은 신입보다 경력직과 특화 인력을 선호하며 채용 규모를 계속 줄이고 있다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260831031005",
+          "source": "서울신문",
+          "published": "2026-08-30 23:12",
+          "score": 18,
+          "keywords": [
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "관광공사, 사장 바뀔 때마다 연봉 인상…신입은 3년째 제자리",
+          "lead": "(서울=연합뉴스) 이상서 기자 = 한국관광공사 사장이 교체돼 임기를 시작할 때마다",
+          "summary": "연봉이 1천만원 안팎으로 올랐지만, 정규직 공채 사원의 초봉은...",
+          "url": "https://www.yna.co.kr/view/AKR20260829046900030",
+          "source": "연합뉴스",
+          "published": "2026-08-31 06:03",
+          "score": 16,
+          "keywords": [
+            "신입",
+            "연봉"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

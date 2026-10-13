@@ -1,0 +1,300 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01 10:06",
+  "stats": {
+    "collected": 1934,
+    "deduped": 1774,
+    "recent": 797,
+    "relevant": 40,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "月 60만원 ‘구직수당’ 최대 6개월 지원에도… 취업률은 제자리",
+          "lead": "月 60만원 ‘구직수당’ 최대 6개월 지원에도… 취업률은 제자리 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FaVRrNTQ1ZXhtU2o2N2c4cmpzdW1LN1U0RGFUVzU3ek0yN0toWmlnX3BScGc5MHhkMkVNc05sLVdpa0lEQ3U1WTFTWmRFd1ktUDV4dXFVSjRpbGt4WHQtWERUVHVrZ29yNkN6aWVLSjIzbWdTTWfSAWZBVV95cUxPUXJ6bk1oZE40ZkdxVE13Ukk4ZjlITFVMdmdyREhvZE1JMGFlYk9kY19CQW5QQ010UHBFTEhnZEVLRjdRR2FhSlY3U3poclVQZDJOeDk5Q0dfeXFwMWFyczVnbWNwOGc?oc=5",
+          "source": "동아일보",
+          "published": "2026-09-01 04:30",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "'가짜 직원' 55명 내세워 실업급여 부정수급 공모…주범 실형",
+          "lead": "'가짜 직원' 55명 내세워 실업급여 부정수급 공모…주범 실형 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91aThHeEtkcHk2OWh5dVNkTG54X3Z2a3ZsZUxkbXF6MTZmWTk2LUFUZC15ZktKOVFOSjFRREQyeFpVRFQyZTE1V3hjQUo3UVhrMGJnX1NDWkQwTjY0VFVvaNIBeEFVX3lxTE5YZTlTeTNfWVBCdjlZV3BGRDNXamlfUl9YNjJXeHQxRE5tT09hYnNhOTY0UnZvbXA1dzR4bVpVcGhILTZMakNMM0JuTTg2NXdCcHMxUF8zVkVFVEJYNXpDXzBxOExvYVNPN2EtOTNqSU5vc01nT1lvWg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-31 11:21",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "원주시민 300명, 돌봄·일자리 등 생활정책 해법 찾는다",
+          "lead": "원주시민 300명, 돌봄·일자리 등 생활정책 해법 찾는다",
+          "summary": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vazdxbWRVamxfM0FlbzZfZWU4R3BrNXNTMW5Cb1gtbU5mekFGRGhzRU9tcUp5R3V4MTY1WnE2NHVQTVJOOEpTLTIxSzRucFNOU0pYZ0JzV2g1YVHSAWBBVV95cUxPWDNrLWNwRFZPVDlUWTg5VTh4TWxxMzFZclJ1bW1URk1kMEEwbVctVXVVM0NodHBkNHdTTTdRQ2VYSmNQVkRqQklnemY4VHhlUktTNnNZaC1qWHhreG9tenA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-08-31 10:17",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "최태원 \"韓·日 청년 노동시장 연결, 저출산 해법될 수 있어\"",
+          "lead": "최태원 \"韓·日 청년 노동시장 연결, 저출산 해법될 수 있어\" 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cVVaYS1BSmVnTzk5bHd4VE9temJhaFdyaGR5a2F6aXNIaThyZWthdmV2VnNHTnlkVGRvMnp3SjBhaTV6UFpzMnNHMGxISDZEUEUwRlhqcnJPZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-30 18:04",
+          "score": 20,
+          "keywords": [
+            "노동시장",
+            "저출산"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "'하나의 전공, 여러 개 진로'…동신대, 학과 경계 허물어 취업률 높인다",
+          "lead": "'하나의 전공, 여러 개 진로'…동신대, 학과 경계 허물어 취업률 높인다",
+          "summary": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EQ0Z2M1UxeUh5OUJFcUZiZFhaZzRjUHFISTJkYkdRWU84U1NWZEtWaWpnMWRNRV96TFh0OUNKaTJLajRjbjNBTTQyaS1NUQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-08-30 09:03",
+          "score": 17,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "실업급여 부정수급 처벌 기준…고용보험법 116조 형사처벌 총정리",
+          "lead": "실업급여 부정수급 처벌 기준…고용보험법 116조 형사처벌 총정리 로톡뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83ZGU5Zy1kNFRBaG5UendwR281OGFONnhyNTJZaUpQd0NucExBNUFFY0pnS2VwSG5NZGMtVHZWYXJyOXEyak9EWTVPNmkzTTFqUk00VGk5bTVBUQ?oc=5",
+          "source": "로톡뉴스",
+          "published": "2026-08-31 16:11",
+          "score": 16,
+          "keywords": [
+            "고용보험",
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "산업계 주목하는 피지컬 AI… 서울 AI 허브, 전문인력 양성 나서",
+          "lead": "산업계 주목하는 피지컬 AI… 서울 AI 허브, 전문인력 양성 나서 IT조선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQkUyczVlTnpkQmRXQW1acHRCY3hhRUE5SGZid244VTNjUXRBNGRPTk9uZ2J0TUVaWGg1UTVpdmhyZHBKZVZoYmhJaUdjZ0x6eHhpN1lweVNoZWx1OVhLUjFkNkFsbWlWSnI2T2diTVV6TXV20gF0QVVfeXFMUGhCRTJzNWVOemRCZFdBbVpwdEJjeGFFQTlIZmJ3bjhVM2NRdEE0ZE9OT25nYnRNRVpYaDVRNWl2aHJkcEplVmhiaElpR2NnTHp4eGk3WXB5U2hlbHU5WEtSMWQ2QWxtaVZKcjZPZ2JNVXpNdXY?oc=5",
+          "source": "IT조선",
+          "published": "2026-08-31 11:34",
+          "score": 29,
+          "keywords": [
+            "인력 양성",
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "정부, 양질의 연구 일자리 확충… ‘국가과학기술자’도 본격 추진",
+          "lead": "정부가 2030년까지 양질의 연구 일자리를 확충하고 과학기술인 처우와 보상을 강화하기로 했다.",
+          "summary": "출연연 인력과 4대 과기원 정원을 늘리고, 박사후 연구원과 전문 연구지원 직군도 키운다. 해외 우수 인재 2000명 유치와 국가과학기술자 제도도 추진한다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260901031002",
+          "source": "서울신문",
+          "published": "2026-09-01 00:52",
+          "score": 22,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "목원대·수자원공사, 물 산업 AI 접목 연구·인재양성 협력",
+          "lead": "목원대·수자원공사, 물 산업 AI 접목 연구·인재양성 협력 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6dk9tUC00Njdyd3p5aHduRzE4bEtuc2tBVkJuUUlOY1llMUc0RU0wbWlZS0dlcWl4NEJJa3BCdHYwMVlLOGp3dGh0cVRWR252Xy1sbXRueFZYR0lTWHlEWE5VQ1lOd9IBZkFVX3lxTFB6dk9tUC00Njdyd3p5aHduRzE4bEtuc2tBVkJuUUlOY1llMUc0RU0wbWlZS0dlcWl4NEJJa3BCdHYwMVlLOGp3dGh0cVRWR252Xy1sbXRueFZYR0lTWHlEWE5VQ1lOdw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-08-31 11:00",
+          "score": 20,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "한국앤컴퍼니, AI 활용해 업무 효율 높인다…업무 플랫폼 '아레나' 개편",
+          "lead": "한국앤컴퍼니그룹이 그룹 공통 업무 플랫폼을 개편하고 생성형 인공지능(AI) 기반 업무 지원 기능을 강화해 임직원의 업무 효율성을 높였다고 1일 밝혔다.",
+          "summary": "연구·개발(R&D), 영업, 마케팅, 공급망 관리(SCM) 등 주요 분야에서 축적된 다양한 매뉴얼과 업무 정보를 빠르게 찾아 핵심 내용을 정리해 제공함으로써 관련 정보를 찾고 정리하는 시간을 줄이고 임직원이 중요한 업무에 더욱 집중할 수 있도록 했다.",
+          "url": "https://www.mt.co.kr/industry/2026/09/01/2026090109053862635",
+          "source": "머니투데이",
+          "published": "2026-09-01 09:12",
+          "score": 19,
+          "keywords": [
+            "AI",
+            "플랫폼"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "‘미래 기술 리더’ 찾아나선 LG전자… 류재철 “결국 미래 바꾸는 건 인재”",
+          "lead": "류재철 LG전자 CEO가 북미 테크 콘퍼런스에서 AI·로보틱스·모빌리티 등 미래 사업을 이끌 R&D 인재 확보에 나섰다.",
+          "summary": "그는 기술 전문성을 갖춘 인재가 회사의 미래를 바꾸는 핵심 리더라고 강조하며 채용 연계를 이어갔다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260901030004",
+          "source": "서울신문",
+          "published": "2026-09-01 04:03",
+          "score": 17,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "대교, 서울시50플러스재단과 손잡고 중장년 재취업 '랭킹 정보' 알린다",
+          "lead": "대교, 서울시50플러스재단과 손잡고 중장년 재취업 '랭킹 정보' 알린다",
+          "summary": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VklRVW1DYU5XSzBPRDlucjNyOTR3QmdzbEJ1ZGhyVGdjNnBpRzVHRTBYNkpiNnFmcklhVTdIU2l4UWNhVmFlN0l4MFRfYWFSeENzaUhuNmlDUQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-31 09:10",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "KB국민은행, 하반기 신입행원·경력직 공채…180여 명 채용",
+          "lead": "KB국민은행, 하반기 신입행원·경력직 공채…180여 명 채용 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TMmV1N2NZSHh4N1BXZzBhVEs4ODRxNC1WOGtYMVo0RE1lUE5iQThrZkcyZ09WVjRQU01FSlZZWjJoWTBxWmhXM09hMXNuenRmSTRzSFlhTWRyd0c0Zm5NcNIBeEFVX3lxTE5FRm9wSE1XVU5KeGthdUItV2l0X2gwd3hKUkVjQ3AzWXFzcU5MM1RqcFdWZ0J4LXd2REhlZ0k4cWZtTTlya1Q0Tlh2QUtXdWtWQ1BOLUo3bDYyN3FGQWxGT0JnTjhadHJDRnI0elltMnJmSmY5ZDNOVQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-01 09:40",
+          "score": 32,
+          "keywords": [
+            "공채",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "‘월급 1400만원에 재택근무’ 래퍼 스눕 독 채용공고, 무슨 업무길래…",
+          "lead": "‘월급 1400만원에 재택근무’ 래퍼 스눕 독 채용공고, 무슨 업무길래… 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzc2lZVGZZNmYzWUJVcEFMWHBYVGdoSG5UMDQ5OXR2UDgyYTVqeXZVTVVYREV6OVZTNVF4OFdnZE82VXlPM2Rxd3lGY2RiTEZYNzhxbkxB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-08-31 17:08",
+          "score": 23,
+          "keywords": [
+            "채용공고",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "KB국민은행, AI·ICT·ESG 등 6개 부문 신입채용…경력직도 20여명",
+          "lead": "KB국민은행, AI·ICT·ESG 등 6개 부문 신입채용…경력직도 20여명 네이트",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZUhpRGNFdFktMHlQMFI3MVVieWFjMkZvT1lfRnJ1bTR1X18wSHRYZGtmQzFUYlRqT1p3Vm53YkRsLWVqVEd4VWZzX1E4UmtEeGdV?oc=5",
+          "source": "네이트",
+          "published": "2026-09-01 09:21",
+          "score": 22,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“삼전닉스 성과급 22조, 내년 성장률 최대 0.09%P 높인다”",
+          "lead": "한국은행은 삼성전자와 SK하이닉스 성과급이 늘면 반도체 수혜지역 소비가 커져 내년 성장률을 최대 0.09%포인트 높일 수 있다고 봤다.",
+          "summary": "이천·화성·청주 등에서는 성과급 지급 뒤 월별 소비가 최대 4% 늘었고, 추가 소비는 올해 말 1조7000억원까지 확대될 전망이다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260901032001",
+          "source": "서울신문",
+          "published": "2026-08-31 18:07",
+          "score": 22,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼전닉스 성과급으로 집·테슬라 샀다",
+          "lead": "삼성전자와 SK하이닉스 등 반도체 호황으로 지급된 성과급이 경기 이천·화성, 충북 청주 등 반도체 수혜지역의 소비 증가로 이어지고 있다는 한국은행 분석이 나왔다.",
+          "summary": "특히 이천 거주자들은 수도권 주택을 대거 사들인 것으로 나타났다. 일부 지역에선 테슬라를 비롯해 고가품 소비에도 집중됐다. 한은은 31일 ‘반도체 수혜지역의 소비는 어떻게 될까’라는 제목의 ...",
+          "url": "https://www.khan.co.kr/article/202608312032005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-31 20:32",
+          "score": 19,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "‘억대’ 반도체 성과급 어디에 썼나 봤더니···아파트 사고 테슬라 샀다",
+          "lead": "삼성전자와 SK하이닉스 등 반도체 호황으로 지급된 성과급이 경기도 이천·화성·충북 청주 등의 반도체 수혜지역의 소비 증가로 이어지고 있다는 한국은행 분석이 나왔다.",
+          "summary": "특히 경기 이천 거주자들은 수도권 주택을 대거 사들인 것으로 나타났다. 일부 지역에선 테슬라를 비롯해 고가품 소비에도 집중됐다. 한은은 31일 ‘반도체 수혜지역의 소비는 어떻게 될까’라는 ...",
+          "url": "https://www.khan.co.kr/article/202608311658001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-31 16:58",
+          "score": 19,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

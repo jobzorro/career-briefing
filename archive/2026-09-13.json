@@ -1,0 +1,302 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13 08:14",
+  "stats": {
+    "collected": 1915,
+    "deduped": 1731,
+    "recent": 752,
+    "relevant": 34,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "20대 취업자 외환위기 후 최대폭 감소…고용률 5년만 60% 아래로",
+          "lead": "(세종=연합뉴스) 안채원 기자 = 올해 들어 20대 취업자 수가 외환위기 이후 가장 큰 폭으로 감소한 것으로 나타났다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260912040200002",
+          "source": "연합뉴스",
+          "published": "2026-09-13 05:49",
+          "score": 32,
+          "keywords": [
+            "고용률",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "브라이트에너지파트너스, '대한민국 일자리 으뜸기업' 선정…\"직원은 비용 아닌 핵심 자산\"",
+          "lead": "브라이트에너지파트너스(BEP)는 청년·여성 채용 확대와 전 구성원 정규직 고용 등의 성과를 인정받아 고용노동부가 주관하는 '2026 대한민국 일자리 으뜸기업'에 선정됐다고 11일 밝혔다.BEP는 지난 10일 서울 용산 피스앤파크컨벤션에서 열린 인증식에서 대통령 명의의 인증패를 받았다. 대한민국 일자리 으뜸기업은 고용증가율과 이직률, 일자리 질 개선 노력 등을 현장실사와 근로자 면담을 거쳐 평가하는 제도다.BEP가 지난해 신규 채용한 29명 가운데 15명은 만 34세 이하 청년, 10명은 여성이었다. 지난해 12월 기준 전체 구성원",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155166",
+          "source": "테크M",
+          "published": "2026-09-12 02:01",
+          "score": 21,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "'실업률 0.8%' 역대 최저...고용 양극화 뚜렷",
+          "lead": "'실업률 0.8%' 역대 최저...고용 양극화 뚜렷 YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85ODI4cTRYMVM2OVg4YWQ2djVEVmtzUFByZFlzS1dab0RBdjhvVTFqUllVY3lyTUhSZUk0VmZhXzd0VHNkb052Wk1qdWxaSU9rMFhxOE82YjAybVBRY2c?oc=5",
+          "source": "YTN",
+          "published": "2026-09-12 04:41",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "{속보] 뉴욕 증시, 노동시장 견조 속 속락 개장···다우 0.3%↓ 나스닥 0.97%↓",
+          "lead": "{속보] 뉴욕 증시, 노동시장 견조 속 속락 개장···다우 0.3%↓ 나스닥 0.97%↓ 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVkZFTXpsRndacUZZQ2VHMmdQT0hYTlN1NlFSaEFLMkhzMEoxeDlmbjVpXzBRSDNDVXdILVpxcXd0OFFoSGhMRkF0eEg5clljVmFacmtlNmp2cUdlYXdxc9IBeEFVX3lxTE9KV2RlOGJodFFweHdYOWJESVhOY3JlczAxazlSWW95QzgyTjBQMW1ZQUw0RXl5VW5QQTdiYVVMazZ1TGpmQmtNNUVQYmF0R2JkM1pzQW5fTE00NHpMemk3Y05NVmljZHdwdjNkazhRMDBSWnVFaWtIVA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-10 22:40",
+          "score": 20,
+          "keywords": [
+            "노동시장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "노동장관 \"노사대응따라 산업전환 일자리 키우는 과정 될 수 있어\"",
+          "lead": "(서울=연합뉴스) 한혜원 기자 = 김영훈 고용노동부 장관이 11일 공정 자동화와 미래차 사업 전환 과정에서도 고용을 늘린 울산의 자동차 부품 중...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260911069400530",
+          "source": "연합뉴스",
+          "published": "2026-09-11 15:10",
+          "score": 17,
+          "keywords": [
+            "일자리",
+            "노사"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "캐나다 | 퀘벡 최저임금 16.60→20달러 인상 놓고 정치권 찬반 팽팽",
+          "lead": "캐나다 | 퀘벡 최저임금 16.60→20달러 인상 놓고 정치권 찬반 팽팽 밴쿠버 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWEVDZGpRTjNHS3dxWUlQczlXNE16Q2pOdVVOanhtRUJvMjVPbVJoRmx1S1ZrX0NsVURGWnNmb0Z3bm02LXpiS25sWlltNE96c2g5OEpYdm9ZTl9hN1VERS1MRFc1UUdRMEwyWGY3TlBLWGtsUEg4?oc=5",
+          "source": "밴쿠버 중앙일보",
+          "published": "2026-09-11 10:42",
+          "score": 17,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서",
+          "lead": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wanlNU0s0Q1lBZ2cyYlNSUko1VUp2TWFTc1lXN3FpeHNDeThjZzZGVlI2NnkwMk4wMk82X2pkU25fRlVjRWo2RDJSbzdHTjlNaDhTMl9nc3ZvTXk0aWV6N0tIQ3ZTaExlYjY1ZGZ30gFzQVVfeXFMUHFOZUdnbXlRM3dCTFUxaHR4ZUNOcWdYY00zYlExYnlXUFQ2ek91Zkx6eFQ1ZnVkTVNaYkc5Qktzb01HYnEyOHQyS3dKc0tFeXlndHBIUFNwMm5EZXl6ZG10bktVTDlXVlhHbjZla2d2SkZpMA?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-10 15:30",
+          "score": 26,
+          "keywords": [
+            "인재 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "'채널십오야' 이수근 \"나영석 PD, 이제 재택근무 해야 해\" 너스레",
+          "lead": "'채널십오야' 이수근 \"나영석 PD, 이제 재택근무 해야 해\" 너스레 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0bnljdDJPRUpyLVRYQUp4MENqdXhILWthWFNCVXZMNHJjSnJXa3hXYWlnTXE0MUFiWEpFc2REOWhUMFBtOVpYN0pmaHpEcVpVSC1CM3JTUnR0SDk1TDI0TtIBZkFVX3lxTE1CNHRBd2dRcUxCS0kzLV82RUtrNWY3NXlDMWd6T09HMGd0ZWdsRWNiUkx3Z3R3Ym5ERTIzMmtOb0pwVjFCazJiby14aWtWYTJEVDlCQTFLTnJQVkYwd0NVdjd4RDE0dw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-11 19:18",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나",
+          "lead": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04c1Judm1NRS16MGFHMmFhLUE1SzBzWDB4MVQ4R1FUMnV5anhORWI3STBIM3hjUThseXVkcVYzOFc4REFyOUZyemZ2S3ozNXppaW9WTktfVUo2cjd4aHdpR0VfUUhCSHB4ZkHSAW9BVV95cUxQS0pIY1lPaThXbU1rZEtBQy1vTkVxTkpmeHVQNzlnbW45UVVGbHFxaGFGSDUzajNyaUFFVzZnc3JtbkRWOVg5WGFtRHJsdTdLVS0wOVZJc3J3aHU5T0hIYXI0QUNKOWIwSElqWHFUcGM?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-10 10:27",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "안전관리·자율운송·고객상담까지...한진, 물류 전반 AI 활용 넓힌다",
+          "lead": "한진이 현장 안전관리와 운송, 고객 서비스부터 임직원의 일하는 방식까지 인공지능(AI)과 첨단기술 적용 범위를 넓히고 있다.",
+          "summary": "물류 현장에서 축적한 데이터를 바탕으로 운영 효율을 높이는 동시에, 자율주행 화물차 운행과 생성형 AI 상담, 업무 자동화 교육을 병행하며 사업 전반의 디지털 전환을 추진하고 있다.현장 위험 감지로 도입 터미널 위험행동 약 60% 감소한진은 CCTV 영상을 실시간으로 분석하는 'AI 세이프티 가디언'을 도입했다고 11일 밝혔다. 지난 7월 말 수도권 10여개 터미널을 시작으로 충청·강원 등 전국 외곽지역 터미",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155136",
+          "source": "테크M",
+          "published": "2026-09-11 18:59",
+          "score": 16,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "AI부터 제조·물류까지…산업인력공단, 우수 인재양성 자격 운영하는 기업 7곳 선정",
+          "lead": "AI부터 제조·물류까지…산업인력공단, 우수 인재양성 자격 운영하는 기업 7곳 선정 뉴스핌",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QTTZXTW9rNjNVS1p4alVZRWsyUXluT2EtUnZqcnBkUVhLRmUxWmNmWnNjLVhUNmJsbkgwWnJQbkViVjBqVFdDNkVHYXA4LUwwdklKWXB6ekZtNTJJ?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-09-11 15:28",
+          "score": 16,
+          "keywords": [
+            "인재양성",
+            "산업인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "찍고, 보내고 \"이걸 일일이?\"...'쌍팔년도' 머물던 시장 확 바꾼 이 사람",
+          "lead": "[스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다. ] \"남도마켓은 뭐 하는 곳입니까?\" 기자의 질문에 양승우 남도마켓 대표는 휴대폰 속 사진 한 장을 보여줬다.",
+          "summary": "",
+          "url": "https://www.mt.co.kr/future/2026/09/13/2026082717531915467",
+          "source": "머니투데이",
+          "published": "2026-09-13 06:00",
+          "score": 15,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스]",
+          "lead": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스] YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ca3ZzOTl6VHFhQXFoQWpDZlZIOVhBaFY2Zm13d1Q2QnJ1elFzMHdGRGJuMTFpYVFRVXFYNWF1enE3Wk1zeDJOd0dEd0hiTEJTbW9lYlpwakFNVUlrTWc?oc=5",
+          "source": "YTN",
+          "published": "2026-09-10 09:24",
+          "score": 20,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "“산재예방부장 개방형 직위 포함”…남부발전, 하반기 신입사원·별정직 공개 채용",
+          "lead": "대졸·고졸·별정직 76명 모집 AI리터러시 평가 도입·보듬채용 확대한국남부발전이 하반기 신입사원과 별정직 76명을 공개 채용한다.",
+          "summary": "11일 남부발전에 따르면 이번 채용은 대졸 수준 ..",
+          "url": "https://www.mk.co.kr/news/business/12150368",
+          "source": "매일경제",
+          "published": "2026-09-11 13:34",
+          "score": 17,
+          "keywords": [
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "서울 시내버스 노조, 임금협상 타결 못하면 16일 파업 (종합)",
+          "lead": "(서울=연합뉴스) 김동규 유한주 기자 = 서울 시내버스 노조가 오는 16일 쟁의행위(파업)를 예고하면서 당일 서울 시내버스 운행이 중단될 가능성...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260911151651004",
+          "source": "연합뉴스",
+          "published": "2026-09-11 18:50",
+          "score": 14,
+          "keywords": [
+            "임금협상"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "삼성·효성·한국타이어 채용 시계…신입 공채 마감일 줄이어",
+          "lead": "삼성·효성·한국타이어 채용 시계…신입 공채 마감일 줄이어 한국면세뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZGMzTHFNRmdVRS1lUzRLRDNteVBpYXpMRS0yY3plQWhRMF85YXM3LVZjMWVjVjRWRjhkQXZyUkF3UElyX24zdG1CLWZJNnFRNEs5dlhwVFVKUkVYMWk4OVBVazF6cXZLTGc?oc=5",
+          "source": "한국면세뉴스",
+          "published": "2026-09-11 13:48",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼성, 19개 계열사 하반기 공채 시작... 일정은?",
+          "lead": "삼성, 19개 계열사 하반기 공채 시작...",
+          "summary": "일정은? ggilbo.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81UWhCRXdmOEhtX2IwSk9kSVZZVTVyLVFaTW1Ga3d5ZndWTXJMdmxfRWhFNTJxNTZEU3diaVN0S2JUQ0R3X1lFSDFLemxJZk1rMlVvUVNsUXFXV2NGYzM3VjEzUXhhS1VOcnc?oc=5",
+          "source": "ggilbo.com",
+          "published": "2026-09-11 16:40",
+          "score": 10,
+          "keywords": [
+            "공채",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "‘80년생 컷’ 경력채용 지침에…한화에어로 대표, ‘엄중경고’",
+          "lead": "‘80년생 컷’ 경력채용 지침에…한화에어로 대표, ‘엄중경고’ v.daum.net",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZemRhYW1Rb1M2RENaSG1vLUQ1a0NaUTlFSHdjMnVPdnlpVm9selRnUUVlbkJ6NDBUTWhKLVZZWE1pSTBCOXc?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-11 16:03",
+          "score": 10,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

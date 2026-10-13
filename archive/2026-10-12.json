@@ -1,0 +1,300 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12 08:37",
+  "stats": {
+    "collected": 1932,
+    "deduped": 1788,
+    "recent": 649,
+    "relevant": 27,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "경총 \"법정 정년연장 아닌 단계적 재고용 필요…청년 일자리 상생해야\"",
+          "lead": "경총 \"법정 정년연장 아닌 단계적 재고용 필요…청년 일자리 상생해야\" 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVzFrVVVBMDRmRjNKcEJURXJsVko0R0xhYmtjZFNfTHFudk03MHMwNnNNYmxzdVR6S1dKV3FGVXpLZS1KVlZMSlZyMXZQTlUyT0J4WHh1ZmhhbjVWUk5BZXBsTHM?oc=5",
+          "source": "뉴스1",
+          "published": "2026-10-11 12:00",
+          "score": 20,
+          "keywords": [
+            "일자리",
+            "정년연장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[단독] “AI 인재 키운다며 104억 썼는데”…취업자 AI 업무 하는지도 몰라",
+          "lead": "[단독] “AI 인재 키운다며 104억 썼는데”…취업자 AI 업무 하는지도 몰라 이데일리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlNnUVBCWDJBSk1uQlJXLXdZcDZicDR2QU9mbm5tNTAzWXdZZlNWNmZHMHJudERoSTFuVWN1X3JNMmFRUDZiOTJwa2RlUmx6SDFVVFN1VVA4bDlVUl91elNJMmhpcVE0QWwtZmo0elVuY1lJZ0pJOEdic0ctQkhYSQ?oc=5",
+          "source": "이데일리",
+          "published": "2026-10-11 11:04",
+          "score": 20,
+          "keywords": [
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "[단독] 디지털 인재 양성 지원금 94% 수도권에…취업률은 뒷걸음",
+          "lead": "[단독] 디지털 인재 양성 지원금 94% 수도권에…취업률은 뒷걸음 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KckVWcWxqZWNpYlJNTlVfZE1YT3FscG8zOEptMEVCUkdTcGJWZ3ZRNVFaeHplNGdYLTZFWnpDMWFLN0ZXM3E4NnlCaWtfWHlubEpGNXR1RkYzQQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-10-11 09:45",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "일자리 6.8만개 감소, 실업자 급증 캐나다…고용 쇼크에 금리 정책 방향 바꾼다",
+          "lead": "일자리 6.8만개 감소, 실업자 급증 캐나다…고용 쇼크에 금리 정책 방향 바꾼다",
+          "summary": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDlGelRPaDQzZXotZVotVzhRelI5X3pTbllkZThDNFExa2lUbk9jZlJ6ZWRQbnk0dHlkNjE5VTdOeXZWVjNMOGJkSTZ3NWtUVG84SlJaaWNwRFhCTEJhemR0R2ZyTGJEemU2VTN0QmxJZWdHbzIzV2ltOG9FSm5lbF9leUk3WGtY?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "2026-10-11 08:33",
+          "score": 19,
+          "keywords": [
+            "실업자",
+            "일자리",
+            "금리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "최저임금 밖 라이더에 '최저보수제'…법적 근거·강제력 확보가 관건",
+          "lead": "최저임금 밖 라이더에 '최저보수제'…법적 근거·강제력 확보가 관건 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81LThyZklMVm82Z0ZmWXhxVThaLVJuckNkWTBDd0FqMlRLeUpXeUd5a1did1k4ZkxlOVdPR2VoODJIckpVTEJlTUptU0thdWN1NmFtY1BjVER4cGstNmNvMktuNA?oc=5",
+          "source": "뉴스1",
+          "published": "2026-10-12 06:00",
+          "score": 17,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "AI 많이 쓰면 일자리도 날아갈까? 뉴욕연은 보고서의 충격적 진실 [매플 위켄드]",
+          "lead": "불앤베어 플러스오늘은 드디어 매경플러스 첫 전용 영상입니다.",
+          "summary": "시청자분들이 보내주신 수많은 이메일 중에 이*민 님이 보내주신 질문을 선정해 보았습니다. AI가 더 보급되면 일자리는 ..",
+          "url": "https://www.mk.co.kr/news/stock/12172940",
+          "source": "매일경제",
+          "published": "2026-10-11 14:24",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
+          "lead": "자산운용사들이 업무 효율과 운용 경쟁력을 높이기 위해 앞다퉈 인공지능(AI) 활용을 확대하고 있다.",
+          "summary": "전문인력 채용과 사내 시스템 구축을 병행하며 반복 업무 자동화부터 고객별 맞춤형 운용까지 적용 범위를 넓히고 있다. KB자산운용은 올해 AI운용혁신본부 채용을 확대했다. 사내 데이터 통합과 AI 플랫폼 연계를 비롯한 AI 활용을 넓힌다. 상품 아이디어 발굴, 검토자료 작성까지 AI로 연결하는 체계를 구축하고 있다. KB자산운용은 여러 시스템의 데",
+          "url": "https://www.etnews.com/20261008000223",
+          "source": "전자신문",
+          "published": "2026-10-11 14:00",
+          "score": 31,
+          "keywords": [
+            "자동화",
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "포스코DX, 숙련 직원 노하우 AI에 담는다…업무 자동화 추진",
+          "lead": "포스코그룹의 정보기술·자동화 전문기업인 포스코DX가 인공지능(AI)에 숙련 직원들의 업무 노하우를 익히게 해 산업 현장에서 활용하는 방안을 추진한다.",
+          "summary": "포스코DX는 기업용 AI 운영체제 ‘에이전트OS’를 개발한 스타트업 인핸스에 20억원을 투자하고, 실제 업무를 수행하는 AI 에이전트를 공동 개발하기 위한 업무협약을 체결했다고 11일 밝혔다. 포스코DX...",
+          "url": "https://www.khan.co.kr/article/202610111535001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-10-11 15:35",
+          "score": 25,
+          "keywords": [
+            "자동화",
+            "AI",
+            "DX"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "수협, 전직 사내변호사 로펌들과 계약…이양수 \"선정 불투명\"",
+          "lead": "(서울=연합뉴스) 이정현 기자 = 수협은행이 전직 사내변호사가 소속된 로펌들과 고문 계약을 체결하면서 추천·선정 과정을 불투명하게 운용한 의혹이...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261008172800001",
+          "source": "연합뉴스",
+          "published": "2026-10-11 06:00",
+          "score": 17,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[단독]층간소음 검사 8831가구에 인력 6명뿐…기준미달 준공도",
+          "lead": "국토안전관리원이 예상한 2027년 예상 검사 단지수는 231개 단지고, 현행 검사 대상 산정 비율 기준에 따르면 검사 가구수는 2512가구로 예상된다.",
+          "summary": "지난 4월에는 공동주택 바닥충격음 차단구조 인정 및 검사기준 일부개정고시안 행정예고를 냈다.",
+          "url": "https://www.mt.co.kr/estate/2026/10/12/2026101111225790960",
+          "source": "머니투데이",
+          "published": "2026-10-12 05:25",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "4대 신항만 장비 38%가 '메이드 인 차이나'",
+          "lead": "국내 주요 신항만에 설치된 항만장비의 국산 비중이 35%에 그치는 것으로 나타났다.",
+          "summary": "중국산 장비가 전체에서 38%를 차지하는 등 수입 의존도가 높은 가운데 항만 자동화가 확대되면서..",
+          "url": "https://www.mk.co.kr/news/economy/12173100",
+          "source": "매일경제",
+          "published": "2026-10-11 17:26",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[기술인력 양성 선도 경기도기술학교] 중장년 인생 2막 함께 만드는 경기도기술학교",
+          "lead": "[기술인력 양성 선도 경기도기술학교] 중장년 인생 2막 함께 만드는 경기도기술학교 기호일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNW1BS0RQcHJaTlRtMF9NeTBDbmY1MFVickJHaWwxeU5sOWFfS2dWay1oLVoxUEE1a0VFb1ZfTjZVWUxfWmc3RmxkSVpmWXU3VzFXUWZfRFJkRXZodW0tZFFETDNlaDFDUmZsUE5iVQ?oc=5",
+          "source": "기호일보",
+          "published": "2026-10-09 12:56",
+          "score": 13,
+          "keywords": [
+            "인력 양성",
+            "중장년"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "경력직 변호사 29명 채용한 공정위, 대다수는 기술유용·신산업하도급조사과 등 기업 조사 부서에 전진 배치",
+          "lead": "경력직 변호사 29명 채용한 공정위, 대다수는 기술유용·신산업하도급조사과 등 기업 조사 부서에 전진 배치 조선일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjlxNHdnYVE3bjY5ZHcwNTB4MEJmaTVMZWZ1YzZpN1NubXhXeU00a2phTlRaSjVaa19Ca1RZaTlfeE1EVjIwZndsNzlxM1BLa2tYUldjRDhMRTRQaXFEclNyM1pRNGxTUkNBa0ZmUkpsVkk1OUhNdWhiOFdnUDZGdTYxSlhxdlplRmhocjl3?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-12 08:04",
+          "score": 23,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다”",
+          "lead": "삼성전자 반도체 부문 직원 부부가 앞으로 받을 성과급이 30억원을 넘어설 것으로 예상된다는 글이 직장인 익명 커뮤니티에서 화제가 되고 있다.",
+          "summary": "반도체 실적 개선으로 대규모 특별성과급 지급이 예고되면서 삼성전자 직원들의 보상 규모에도 관심이 쏠리고 있다. 8일 직장인 익명 커뮤니티 블라인드에는 삼성전자 직원으로 인증한 A씨가 “성과급 보니까 진지하게 서민 탈출한 것 같다”는 제목의 글을 올렸다. 30대 초반인 A씨는 자신을 “이 회사 들어온 게 인",
+          "url": "https://www.etnews.com/20261009000025",
+          "source": "전자신문",
+          "published": "2026-10-10 11:40",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "반도체 성과급 66% 뛰었지만…예정처 “소비 진작 효과는 제한적”",
+          "lead": "반도체 호황으로 기업 실적과 임금이 크게 늘고 있지만, 소득 증가가 민간소비 확대로 이어지는 효과는 제한적일 것이라는 분석이 나왔다.",
+          "summary": "임금 상승이 일부 산업의 일시적 성과급에 집중된 데다 주식·부동산 등 자산가격 상승에 따른 혜택도 고소득층에 쏠려 있기 때문이다. 산업별·소득계층별 격차가 소비 양극화로 이어질 수 있다는 우려도 제기된다. 11일 국회예...",
+          "url": "https://www.khan.co.kr/article/202610111644001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-10-11 16:44",
+          "score": 22,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“성과급 30억, 5년 안에 그만둘 수 있어” ‘삼전 메모리 부부’에 입이 떡",
+          "lead": "삼성전자 DS부문 성과급 세부 내용이 공개되자 직원들과 직장인들 사이에서 관심이 커졌다.",
+          "summary": "메모리 사업부 부부는 앞으로 받을 성과급을 합치면 최소 30억원 이상이라며 5년 안에 퇴사할 수 있다고 했고, 블라인드에는 부러움과 후회 섞인 반응이 이어졌다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20261009500133",
+          "source": "서울신문",
+          "published": "2026-10-09 16:38",
+          "score": 21,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[포커스] 잡코리아 채용공고 분석해 보니… 반도체 대기업 '경력직 가장 선호'",
+          "lead": "[포커스] 잡코리아 채용공고 분석해 보니… 반도체 대기업 '경력직 가장 선호' 오늘경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RbXJQQ2tDX3JyXzYta1ZqVVZUdEJKczlyMVVNSFQtQ19iU1VBRFU5RG5vVmdzZlNXcF9fWXhTeGNZem5MbEFiXzJOSWZpZTRsaklXYXVmUDlycTBLbXpsUXNQT01oNWdrYUdDbGNWS0x2aFU?oc=5",
+          "source": "오늘경제",
+          "published": "2026-10-09 13:00",
+          "score": 19,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "건설 임시일용직 30만명 넘게 떠났다…비자발적 이직 7개월째↑",
+          "lead": "(세종=연합뉴스) 이세원 기자 = 반도체 산업이 초호황을 누리는 가운데 건설업에서는 임시일용직을 중심으로 30만명 넘는 종사자가 원하지 않는데도...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261010033300002",
+          "source": "연합뉴스",
+          "published": "2026-10-11 05:45",
+          "score": 17,
+          "keywords": [
+            "이직"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

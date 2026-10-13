@@ -1,0 +1,307 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09 05:51",
+  "stats": {
+    "collected": 1260,
+    "deduped": 1171,
+    "recent": 244,
+    "relevant": 36,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[단독]고용보험 적용된 예술인·특고, 실업급여 3년새 7배로",
+          "lead": "[단독]고용보험 적용된 예술인·특고, 실업급여 3년새 7배로 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWjVYcVc3SzNLY1FjdEFCTEFLSTA3N1IwUkdLNmhKSXFLMWh4N2tNdTdCRkt4b1REUXZHQXZnVGduNGlTdkduYUVmZm03YVlDNUdjUEdIc0toSW5na1RKUjJqLV9WR0NiaXhzVnlmZDBKaFBZT0HSAWZBVV95cUxQRFc5cVpPN0o2Mm10cjRqUGxZaWtmZTdRTXVrTGhQLXUyak45eGdPMnhrYjU2V3JIUEc1X1FtM2d6M24wQ2N0dkJzMXZKTzRyN0ktc3ZVWXcwRTdfTUNtbTNNTGNaM0E?oc=5",
+          "source": "동아일보",
+          "published": "2026-10-07 11:40",
+          "score": 29,
+          "keywords": [
+            "고용보험",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "최저임금 결정 기초통계인데…영향근로자 수 조사 따라 최대 6.3배 차이",
+          "lead": "최저임금 결정 기초통계인데…영향근로자 수 조사 따라 최대 6.3배 차이 조선일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2d4cS1BalJFNjRGLUVaUHJxeFREWkFnZkc2VHVkaUU1SENRdzBfT0VBRGIycWdNdmFXZ29lMTVHSUtBbEJqY0hUY2dPNjhKMTVxdVplMG5uRm1pNmRuUENmT0lmSmhDaFJJMzM5VGl1LWFQbnlCVTRsb1UxUi1rSllpUHkyTWI1X05Pb2xn?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-08 07:20",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "월평균 소득이 고작 212만원···최저임금도 못 버는 예술인들",
+          "lead": "월평균 소득이 고작 212만원···최저임금도 못 버는 예술인들 경향신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Sekx0SkpOa09fWGZzcVhfV1M2d0MxUEIwRHpTTzZwWDc3VFg4UmhQVnNOUnBES1N4NzRFWjJLcEVKX19KZXFvdWNfVDdQNTB4M0JMaXRueElVUdIBX0FVX3lxTFA0bmpIZzRMb3l6TGdkSy16VnU0S3YzV0lZZTN0RktYbXpyYkJ1YUVLQ3FvalpGMFFPa2FyYndQR3loc2FhdHJndWFTVTlDU3JfT3p0QkQyNkxNYkZMU0Vz?oc=5",
+          "source": "경향신문",
+          "published": "2026-10-07 13:56",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "부산시, 내년 생활임금 1만2729원...최저임금보다 2029원 높아",
+          "lead": "부산시, 내년 생활임금 1만2729원...최저임금보다",
+          "summary": "2029원 높아 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92N2w4dFRiM01pZXo3dlJsSXhGZFdVaERMX2xDemRqMTJOc0M0QzNidDNjNDhWQ016R1NVMnFwZ01vRjVPdGhPTGNZZzh1YW96RzllTkVDWHgydw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-10-07 10:05",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"5070 재취업 돕는다\"…경기도-평택시, 20일 중장년 일자리박람회 열어",
+          "lead": "\"5070 재취업 돕는다\"…경기도-평택시, 20일 중장년 일자리박람회 열어 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WelU5dS1abnpiMkFzQ2JnZWlVNFd3c3htMG5KZHBtcEhYMWthdTFrdnk4OHhZZl9QS25TejBNM25QNHUwQUhCWG5Mb2hOQ21XYzZtQW9rVERDZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-10-06 09:20",
+          "score": 20,
+          "keywords": [
+            "일자리",
+            "경기"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[사설] 노동시장 현안 첩첩인데, 사회적 대화 걷어찬 민노총",
+          "lead": "[사설] 노동시장 현안 첩첩인데, 사회적 대화 걷어찬 민노총 서울신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFlCMndVTU5sMjlxYzlnVEdWbW1VQWVaWWc2bE80cWdPVmxEUlQyb050VllFdjVYOVc2U1ZDOGlkNm5PNV9sRHVLdUZqQ0lOUnN0NEpKT29EY2F2X2J4SHpLN0FnU3pQUVcwT0k4VUwtNTR1eXd0bEdUMmhSb19VWWFn?oc=5",
+          "source": "서울신문",
+          "published": "2026-10-08 21:33",
+          "score": 17,
+          "keywords": [
+            "노동시장"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "인신협, 숙명여대와 '맞손'...기후커뮤니케이션 전문인력 양성",
+          "lead": "한국인터넷신문협회는 8일 숙명여자대학교 탄소중립대학원과 기후커뮤니케이션 전문인력 양성을 위한 업무협약(MOU)을 체결했다고 밝혔다.이번 협약은 기후위기, 탄소중립, 에너지전환 등 기후·환경 문제가 경제·산업·사회 전반의 핵심 의제로 떠오른 가운데 인터넷신문의 기후보도 전문성을 높이고 대학의 교육·연구 역량을 언론 현장과 연결하기 위해 추진됐다.양 기관은 이번 협약에 따라 기후커뮤니케이션·기후저널리즘 분야의 교육·연구 협력체계를 구축하고, 이론과 실무 역량을 겸비한 전문인력 양성에 힘을 모으기로 했다.주요 협력 내용은 ▲회원사 기자",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155958",
+          "source": "테크M",
+          "published": "2026-10-09 03:47",
+          "score": 26,
+          "keywords": [
+            "인력 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "한컴이노스트림, AI·로봇 인력양성 위한 ‘한컴 AX 랩’ 브랜드 공개",
+          "lead": "한컴이노스트림, AI·로봇 인력양성 위한 ‘한컴 AX 랩’ 브랜드 공개 IT조선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Z2xSVlU1a3ZRVnl2c0sySTBPM0NqRVR4SEVxWlpVNkFOM2RoZ1ZMMW5IVkxvSmd5MkZRSGh4NTdyV19KY004eXJkY3llR3FTUkxhaEF4blNxblVUVEt5TUNtX09TalhCX09RZGs3WWvSAXRBVV95cUxOM0cxc0wyN2dyTWNCVEZ0SmswOS1wUEFlZ095VTk0QnczWnZiN3V3RE1JcnFUQmVNc1FzM0I0XzhFazBmSnRYUUJkbGtaZy1YUlFnWmZiR3p2R1dvZndTUnVDckI1RFlJVWxzS2V0WGYwVC1aMQ?oc=5",
+          "source": "IT조선",
+          "published": "2026-10-07 17:05",
+          "score": 23,
+          "keywords": [
+            "인력양성",
+            "AI",
+            "로봇"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "[2026 국감]최교진 “지역·AI 인재 양성 강화…교육이 국가 성장 견인”",
+          "lead": "[2026 국감]최교진 “지역·AI 인재 양성 강화…교육이 국가 성장 견인” 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JNURqRjhCb1dhdmMwTDhvSG53Rk12N2pIbm51STRZSDBmT1ZEdWIzWGZOZS1meTJ2Y1VxLVdIalB4Wl9xWnpab3VpZmprUQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-10-07 13:40",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "송파구, 중장년 '아파트 사전점검 전문가' 첫 육성",
+          "lead": "송파구, 중장년 '아파트 사전점검 전문가' 첫 육성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdjdTT2ZmbUhkTUFmbUlyNkd1bWRmTnBpdGVEZlVHa3ZEOGtMUS1GZ3VNejhfdHhNTWRxbTMwWmxobzlyRkFWNXRxNVJZY2VrbUI3QzctcWFCZXBITk85ZjhtSkRIUHoyYWFoTVdBZ0pqWjBmWGVNU9IBeEFVX3lxTE1fdjdTT2ZmbUhkTUFmbUlyNkd1bWRmTnBpdGVEZlVHa3ZEOGtMUS1GZ3VNejhfdHhNTWRxbTMwWmxobzlyRkFWNXRxNVJZY2VrbUI3QzctcWFCZXBITk85ZjhtSkRIUHoyYWFoTVdBZ0pqWjBmWGVNUw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-10-08 16:35",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "금융권 연쇄 해킹, AI가 파고든 '관리 사각지대'",
+          "lead": "최근 금융권을 잇달아 겨냥한 해킹 공격에서 인공지능(AI) 활용 정황이 드러난 가운데, 보안 기업들이 공격 도구와 침해 경로에 대한 분석을 내놨다.",
+          "summary": "공격자가 AI로 취약점 탐색과 정보 수집을 자동화하면서, 관리가 소홀했던 업무지원 시스템의 빈틈이 여러 금융사로 피해를 확산시키는 통로가 됐다는 분석이다.공격자 서버에 남은 AI 기록...데이터 판매처까지 물어봤다8일 글로벌 사이버보안 기업 크라우드스트라이크가 공개한 보고서에 따르면 이번 공격 활동은 9월 말부터 10월 초까지 진행됐다.크라우드스트라이크 측은 공격자가 관리하는 공개 디렉",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155940",
+          "source": "테크M",
+          "published": "2026-10-08 19:58",
+          "score": 15,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "전남대 AI융합대학, 7개 기관과 지역 혁신·미래 인재 양성 MOU 체결",
+          "lead": "전남대 AI융합대학, 7개 기관과 지역 혁신·미래 인재 양성 MOU 체결 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XYUhwd1VDMXZjRUFvOHBEVlBiUDJJVF83RVVYOXlpSnZfcEdOVEc4eW9lLU9EdFF5U0R4MW5sazBIUlBOWlE4OHJ4clJYZw?oc=5",
+          "source": "전자신문",
+          "published": "2026-10-07 18:10",
+          "score": 15,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "대기업 채용공고 102% 늘었다…반도체 경력직 채용 157%↑",
+          "lead": "대기업 채용공고 102% 늘었다…반도체 경력직 채용 157%↑ IT조선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rcFhDS1BiVXFkZDY0WldRdlRWNjhXS3BYQlV1VzFSeUx0UDFyS2NJQ1phRVZINFRkOHhINUhpRFFqYUlVUWRQd19BR05JUFlOZm1qRXd6TElUdDF6TUt2ZHFIaUljcjZubVRuTmZxVi1MclZK0gF0QVVfeXFMTWtwWENLUGJVcWRkNjRaV1F2VFY2OFdLcFhCVXVXMVJ5THRQMXJLY0lDWmFFVkg0VGQ4eEg1SGlEUWphSVVRZFB3X0FHTklQWU5mbWpFd3pMSVR0MXpNS3ZkcUhpSWNyNm5tVG5OZnFWLUxyVko?oc=5",
+          "source": "IT조선",
+          "published": "2026-10-08 10:40",
+          "score": 35,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "IMF·세계은행 등 13개 기구 채용설명회…경력직 진출 지원 확대",
+          "lead": "IMF·세계은행 등 13개 기구 채용설명회…경력직 진출 지원 확대 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zM3NFLTh1VlZNMnhldXVDOUxqbHVDVC1YUmY5N0lvSTdjN3dvS1dlNldfMTVvd0JSdnhSckZDN0NaUWNCT05Wejl4Z2wzaC1jczlDaWlB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-10-07 16:00",
+          "score": 32,
+          "keywords": [
+            "채용설명회",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직",
+          "lead": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPYmJsaUx2TDlhczM2VUp4R3k2T25xWDVFYUZlRTh4SjNQcjFrTDEzUjNaWkZzX0lYSzZwSXFLNnQ5cDdsdy1BWG14ek5Vd0xxTFIzLWc1TVhydw?oc=5",
+          "source": "한국경제",
+          "published": "2026-10-08 09:52",
+          "score": 29,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "ICT 신입채용 3년새 48%↓…이훈기 \"AI시대, 숙련인력 성장 기회 사라져\"",
+          "lead": "ICT 신입채용 3년새 48%↓…이훈기 \"AI시대, 숙련인력 성장 기회 사라져\" - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRVkNSN0s5VFpEY1BKQV9fbFVqdWRBTGR2SFE1Mm1rWGN5WnVaX2hxRFNYUGhocXI2MjdjZTh5VzVJWnoyOS1FTGFIQ2drZDhOaWRaODF3aTU2N2trMWFiMENjcS1KOHJuTk9HZ9IBckFVX3lxTE5zUS01TkpTVVNvZjkxaDdUeUlaOGg4cXpMa1hLdFF1VVl3WW5Zb1NzWWhWODlKWWw5NUJUQjlUd09iMm80MkhqYmpLSFRxcjZJSDR6cjE3VHBhV3pjbTAzeDJ1d2Z3ZWVHT1pHVnBfOHRUQQ?oc=5",
+          "source": "머니투데이",
+          "published": "2026-10-06 18:17",
+          "score": 26,
+          "keywords": [
+            "신입채용",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "코레일테크, 경력직·채용형 인턴 포함 일반직 19명 채용",
+          "lead": "코레일테크, 경력직·채용형 인턴 포함 일반직 19명 채용 퍼블릭타임스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNjJzZ0JwYXRTRlkxZ0M2dWZFZHlTbGVaWV9SRXJkeHQtVUxocUtCeFFON2pOYTQ2YnhfMWhGSUVQTVk0eGp4Qk01UnB2SU1JYTdiQWplMGNaUUN1cE9PZUVMd3FkU25iYmfSAW5BVV95cUxQWmNmanpnOE9xTDQ3ck1SbmpUZm1NMDdRR0djMC1mbEJ3cVZZakczZjMxVEtsMENNMGhmckt1T0pqRDZISGlrN282T0ZBekRBclJuUm1XNllrMTVwaXRjcmh3S0drNUtHU3BMR3Zsdw?oc=5",
+          "source": "퍼블릭타임스",
+          "published": "2026-10-07 17:30",
+          "score": 13,
+          "keywords": [
+            "경력직",
+            "채용",
+            "인턴"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"한글에 빗썸의 색을 입히다\"...한글날 100주년 기념 '빗썸고딕' 배포",
+          "lead": "빗썸이 한글날 제정 100주년을 기념해 브랜드 전용 폰트 '빗썸고딕' 2종을 무료로 공개한다.",
+          "summary": "한글이 우리 사회의 일상과 산업 전반에서 활용되는 문자로 자리 잡은 뜻깊은 해를 맞아, 고유한 서체를 통해 브랜드 정체성과 한글의 가치를 함께 전달한다는 취지다.빗썸은 한글날을 맞아 '빗썸고딕 오리지널'과 '빗썸고딕 베이직' 등 2종의 폰트를 무료로 제공한다고 8일 밝혔다.올해는 한글날이 제정된 지 100주년이 되는 해다. 한글은 단순한 의사소통 수단을 넘어 우리 사회와 문화, 산업을 연결하는 핵심 자산으로 자리매김 했다. 빗썸은 이러한",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155926",
+          "source": "테크M",
+          "published": "2026-10-08 18:51",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

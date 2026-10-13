@@ -1,0 +1,303 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01 18:54",
+  "stats": {
+    "collected": 1936,
+    "deduped": 1765,
+    "recent": 972,
+    "relevant": 64,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "9월 독일 실업률 6.4% 유지…\"실업자 301만2000명으로 늘어\"",
+          "lead": "9월 독일 실업률 6.4% 유지…\"실업자 301만2000명으로 늘어\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jbTNqT1IyT201WjdmSUJPOU5LajJ6RzBkV2Yta0FyT19weWRfR0NaRUx1MVRvdkxKSDBiS3JhejI3c2Y5LTFhUFA0eXJpY0hLVnJUSHYtbllGbF90SFlsSEI4VUk3dmF3ekh3TmxVNmMzTkdlek80X9IBeEFVX3lxTE5jbTNqT1IyT201WjdmSUJPOU5LajJ6RzBkV2Yta0FyT19weWRfR0NaRUx1MVRvdkxKSDBiS3JhejI3c2Y5LTFhUFA0eXJpY0hLVnJUSHYtbllGbF90SFlsSEI4VUk3dmF3ekh3TmxVNmMzTkdlek80Xw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-30 23:54",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "실업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "구미대, 지역 청년 취업 지원 확대…대학일자리플러스센터 가동",
+          "lead": "구미대학교가 교내 졸업생 대상 취업 지원 프로그램을 지역 청년 전체로 확대한다고 1일 밝혔다.",
+          "summary": "구미대 대학일자리플러스센터는 '졸업생 특화 프로그램 사업'을 개편해 기초 취업 역량 교육, 채용 정보 제공, 입사지원서 컨설팅, 실전 면접 훈련 등을 청년 구직자 전반에 제공하고 있다.",
+          "url": "https://www.mt.co.kr/policy/2026/10/01/2026100117025992273",
+          "source": "머니투데이",
+          "published": "2026-10-01 17:10",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "지난달 부산 실업률 1.3%…역대 최저",
+          "lead": "지난달 부산 실업률 1.3%…역대 최저 KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SSHhxaGl0R2lxR0NZamtmZTZCTEtQNW1sQ0JjZC10NTl6bHJCZGRaNmtQWUk0aVpqWEoyZkNFSFVZa21qVVFqcmQ2M25SOFJBaEhGd3NNV003eDQ?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-30 22:03",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "美 9월 민간고용 9만명 증가…예상 웃돌며 노동시장 반등",
+          "lead": "美 9월 민간고용 9만명 증가…예상 웃돌며 노동시장 반등 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tRjluRVVHeUFkTGNDUVktVVpid2pVMnRHZHF6UTRyckxoWWJ0Vk1MTlRBVDlfaDlvX0hmQWtsZ3c2WW1IRVlLN1lQbURzMGZoTTZ1c21KRkQzZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-09-30 21:29",
+          "score": 20,
+          "keywords": [
+            "노동시장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "청년고용촉진특위, 3.3조원 청년 일자리정책 점검",
+          "lead": "청년고용촉진특위, 3.3조원 청년 일자리정책 점검 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOGlfRGRUVTFqWElBb1N3dFpfcEZZdURubVdoNjdKa0NDT0NkeHVIUlh3RHZLdElMMTQ0TElpbkZ3ZmtuUU5DSzc2N0MtSWNMSDVQU193WlpVQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-09-30 15:10",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "국가 통계 조사원 수당, 지자체보다 15.6% 낮아···\"최저임금 수준\"",
+          "lead": "국가 통계 조사원 수당, 지자체보다",
+          "summary": "15.6% 낮아···\"최저임금 수준\" 대구MBC",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zMXpxLUhJSldFX1ctemVNOTZtSW5JdXpILXkwSEFVWXJueDFMVlIxRUZGMXczT2ZETWdhMUthX1k5VVZjQmx2SVF3VTk?oc=5",
+          "source": "대구MBC",
+          "published": "2026-09-30 14:10",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "인트-LG CNS, 피지컬 AI 인재양성·데이터 검증 R&D 협력",
+          "lead": "인트(int.)는 LG CNS와 피지컬 AI 분야 인재 양성과 데이터 검증·학습 기술 공동 연구개발(R&D)에서 협력한다고 1일 밝혔다.",
+          "summary": "양측은 피지컬 AI 전문인재 발굴과 채용 연계, 산업 현장 중심의 피지컬 AI 데이터 구축·검증, 학습 데이터 품질 평가 지표 개발, 데이터 검증 자동화 기술 및 솔루션 연구개발 등을 추진한다. 피지컬 AI 인재 양성을 위한 인턴십 프로그램 '피지컬 AI 펠로십'도 공동 운영한다. 인트가 국내 주요 대학 학부",
+          "url": "https://www.etnews.com/20261001000479",
+          "source": "전자신문",
+          "published": "2026-10-01 18:13",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[기고] AI 인재 양성 8년, 이제 과제는 '연결'이다",
+          "lead": "AI 대전환이 시작됐던 2016년을 돌아보면 우리는 알파고의 충격 이후 AI를 어디에서 어떻게 시작해야 할지 갈피를 잡지 못한 채 한동안 분주하기만 했다.",
+          "summary": "많은 논의 끝에 인재 양성이 먼저라는 데 뜻이 모였고, 그렇게 과학기술정보통신부의 지원으로 인공지능대학원 사업이 첫발을 뗀 지 올해로 8년째다.",
+          "url": "https://www.mt.co.kr/industry/2026/10/01/2026100111010374214",
+          "source": "머니투데이",
+          "published": "2026-10-01 18:41",
+          "score": 21,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "최악 대기오염 인도 수도권, 3개월간 50% 재택근무 의무화",
+          "lead": "최악 대기오염 인도 수도권, 3개월간 50% 재택근무 의무화 KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSDlxa0tUTDA1QkZGZG9sVnNfc2FVSUFWRGxEN0JOTnhNRUV6LV9LRkpabDczM1lzdkZlMUJnSng3VG1BcjRfY1ZYQ1BPSUMwZXhBcEFMaDdwRUU?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-30 16:02",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "식당 폐업 후 반도체 엔지니어로 인생2막…중장년고용 우수사례",
+          "lead": "식당 폐업 후 반도체 엔지니어로 인생2막…중장년고용 우수사례 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMTU5wYUgyeWtZbXlrVFRWVElJWC1FNUxtWHc0M21TRzhIRkVISXVQUC1jMG5qaE1NZkRpaHdDbDZIQVVTWVVlZmI5ZVI5ZEhqeE1RX1hnSmVQTEsxV2ZvbNIBYEFVX3lxTFBMTU5wYUgyeWtZbXlrVFRWVElJWC1FNUxtWHc0M21TRzhIRkVISXVQUC1jMG5qaE1NZkRpaHdDbDZIQVVTWVVlZmI5ZVI5ZEhqeE1RX1hnSmVQTEsxV2ZvbA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-30 14:30",
+          "score": 20,
+          "keywords": [
+            "중장년",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"출근 안 해서 좋았는데\"…재택근무 직종 종사자, 사회적 고립 위험 2배↑",
+          "lead": "\"출근 안 해서 좋았는데\"…재택근무 직종 종사자, 사회적 고립 위험 2배↑ 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ySUZ2T2NGei1JQkwwUzdzSkswRjBMSzhXb2tHc1BtMDJyejIxNEFCaFF0WEs4M0FjS2czWGFtOFhfUDVxeVRFejFlZGRyV2RTUWJacDlUakp2dlpkOFZGY2x5STV4WlVuTFQwSUhVWnZCczI1QVprSdIBeEFVX3lxTE4ySUZ2T2NGei1JQkwwUzdzSkswRjBMSzhXb2tHc1BtMDJyejIxNEFCaFF0WEs4M0FjS2czWGFtOFhfUDVxeVRFejFlZGRyV2RTUWJacDlUakp2dlpkOFZGY2x5STV4WlVuTFQwSUhVWnZCczI1QVprSQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-29 06:30",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "배달라이더 등 특고·프리랜서 원천징수세율 28년만에 3.3→2.2%",
+          "lead": "내년부터 택배기사, 배달라이더, 방문판매원 등이 용역 지급 대가를 받을 때 적용되는 원천징수세율이 28년 만에 대폭 낮아진다.",
+          "summary": "국세청은 1일 서울 여의도 국회의원회관에서 임광현 청장 등 주요 간부들과 인적용역 소득자 단체, 국회 재정경제기획위원회 위원들과 함께 현장소통",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1280369.html",
+          "source": "한겨레",
+          "published": "2026-10-01 18:54",
+          "score": 17,
+          "keywords": [
+            "프리랜서"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "올해 하반기 채용시장 온기…대기업 51% \"채용계획 세웠다\"",
+          "lead": "올해 하반기 채용시장 온기…대기업 51% \"채용계획 세웠다\" - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xS3FiZnlxdGRyUGpObTN6dFNqTF9hd295d0NhNUJKSzlUZjNVeWZJdTN3UFZVLV9rbnc2Q0E3UlJZbzJIR2J1a3RtMG5PcmZySTF1TVh2YkdkREVWWi03V1R4UDVfVE13bkxvaVlUX1lkZ9IBckFVX3lxTE5xS3FiZnlxdGRyUGpObTN6dFNqTF9hd295d0NhNUJKSzlUZjNVeWZJdTN3UFZVLV9rbnc2Q0E3UlJZbzJIR2J1a3RtMG5PcmZySTF1TVh2YkdkREVWWi03V1R4UDVfVE13bkxvaVlUX1lkZw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-29 10:07",
+          "score": 26,
+          "keywords": [
+            "채용계획",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "대기업 절반 '하반기 채용계획有' 전년비 14%p 증가 \"취업 훈풍 부나\"",
+          "lead": "대기업 절반 '하반기 채용계획有' 전년비 14%p 증가 \"취업 훈풍 부나\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xTU1zSnI3QXh2VGVmYV9TM1VTZ3JRVkFXbDBvcjZKel82YXNaQkVfV0dwRXFSNmhadUlNak5SMjh0VjQ5eVBHSVc5TmU2TlFTeV9sVXJlZ09yNE5zaVliT9IBeEFVX3lxTE05ek5BWTUxRG85UFMxcTVKd3BJUkFOOHpwcG9BSlkzS2hVN3JveWl6bXVDM2xTYzE5LTh0SGhyVGZ1ZEJiUUphZVFudXljVG80YW5Jb3hmT0ZtbG92d3dFUThvTnA2UFc4a3dCanBYeGczVXRSaEM3dQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-29 06:00",
+          "score": 26,
+          "keywords": [
+            "채용계획",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "ICT 신입채용 왜 반토막 났나…작년 경력직 채용, 신입보다 653명 많아",
+          "lead": "ICT 신입채용 왜 반토막 났나…작년 경력직 채용, 신입보다",
+          "summary": "653명 많아 창업일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcUhuMVBVOHpZellQbUdHNHBsdzg4Y0NxSzQwWkhZZlJKRlBYUTZJRXU0eExVU0U2TXZTekNMWmR5c2lySW5vN3JKVEtrVFY3TmNZaUY4bEtURDlacVlYUU9DRk5MZEJW?oc=5",
+          "source": "창업일보",
+          "published": "2026-10-01 13:07",
+          "score": 22,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"신입은 어쩌라고\"…경력직에 밀리고 AI에 치인 청년들 '한숨'",
+          "lead": "\"신입은 어쩌라고\"…경력직에 밀리고 AI에 치인 청년들 '한숨' 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DZ1RZbWs0R3QyY0ZqNGlqSFpZNEpSQUQxRjUyc1YwUGc0NDZucUhkTVNJaUxzMW82N04tdHM0cXBvUXNBMTVLVEw2d3V1WkdXb0dvUHdmX1NKQQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-29 12:00",
+          "score": 20,
+          "keywords": [
+            "경력직",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[단독] 국민연금, 운용조직 성과급 미지급…이유는 “너무 잘 벌어서”",
+          "lead": "운용지원직 등 50여명분 미지급 “추석전 주겠다” 약속 어기고 침묵 지난해 국민연금 역대 최고 수익률 당초 편성된 성과급 예산 크게 상회 ‘돌려막기’ 위해 정부와 협의 필요",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/stock/12165809",
+          "source": "매일경제",
+          "published": "2026-10-01 10:59",
+          "score": 17,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "삼전닉스 실적 ‘풍향계’ 마이크론 또 사상 최고 실적…성과급 지급으로 이익률은 감소 전망",
+          "lead": "미국 메모리 반도체 기업 마이크론이 또 다시 사상 최대 실적을 기록했다.",
+          "summary": "인공지능(AI) 투자 열풍 속에 메모리 수요가 폭증하고 고대역폭메모리(HBM)와 D램 등 메모리 가격 폭등 현상도 이어지고 있는 데 따른 것으로 풀이된다. 반도체 기업 실적의 ‘풍향계’로 불리는 마이크론이 시장 예상을 뛰어넘는 호실적을 거두면서 삼성전자와 SK하이닉스의 실적 고공...",
+          "url": "https://www.khan.co.kr/article/202610011631011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-10-01 16:31",
+          "score": 14,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25 08:00",
+  "stats": {
+    "collected": 1934,
+    "deduped": 1793,
+    "recent": 773,
+    "relevant": 37,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "장기수 천안시장, 역대 최고 고용지표 받았다...고용률 70.3%, ‘AI 일자리’로 이어가",
+          "lead": "장기수 천안시장, 역대 최고 고용지표 받았다...고용률 70.3%, ‘AI 일자리’로 이어가 뉴스프리존",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZGJnbG5aa0l2VDZuX3o1VTU0YTdjR1R4RnZwbFZxX2tPM3lRa1NtcVFaWjBFamRmYzE0VGJfb2p1aHBXOTNRSnFEa0RkRzVMNm44bEZQWmdFdzQ4dXdXcEVaQ3lpaVJkT25UVkVVZG5jUGfSAXdBVV95cUxPN0NOSXhDdUp3d0RyTU91Y0VwNUxkeUxjQ0FXRVJWTWRndWpFSy10Zlk5TngyWFpHeXBvYXhwTlpsbHZBdUx0eTNXMk5CSnpybGNxQm1pX0tadFBXR1J5UE10M1ZlNUEyV0ZoTlZvekpUN2JGMWlKbw?oc=5",
+          "source": "뉴스프리존",
+          "published": "2026-08-24 17:36",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "고용지표",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "이천시 올해 상반기 고용률 68.2%…경기 31개 시군 중 '1위'",
+          "lead": "(이천=연합뉴스) 김광호 기자 = 경기 이천시는 국가데이터처가 발표한 '2026년 상반기 지역별 고용조사 시군구 주요 고용지표'를 분석한 결과 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260824071500061",
+          "source": "연합뉴스",
+          "published": "2026-08-24 11:20",
+          "score": 29,
+          "keywords": [
+            "고용률",
+            "경기"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "천안시 고용률 70.3% 최고치 경신…실업률은 1.8%로 하락",
+          "lead": "천안시 고용률 70.3% 최고치 경신…실업률은 1.8%로 하락 뉴스티앤티",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMEFDOF81VGVlRjM0UVNTX2dZQ0c1T3Nkd3E5TE5pbkZXNFZObWN6V0hBUG9xa0xtMHJPM0VLZFZuWnlhVnJ3LV9tUl9TdDg4Q3oyMkFPTXhrZGpLVTM4N0k0OGJzTTR6M2c?oc=5",
+          "source": "뉴스티앤티",
+          "published": "2026-08-24 16:53",
+          "score": 25,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[우보세]장애인 권리중심 일자리, '경계선'부터 그어라",
+          "lead": "권익옹호와 문화·예술 활동을 유급 직무로 인정한 '권리중심 중증장애인 맞춤형 공공일자리'는 이런 현실에서 출발했다.",
+          "summary": "장애인에게 사회 참여의 통로가 필요하다는 주장도 따질 게 없다. 서울시의회 더불어민주당 의원 80명이 발의한 '서울시 장애인고용촉진 및 직업재활 지원 조례 일부개정안'은 권익옹호 활동을 수행하는 권리중심공공일자리를 제도화한다.",
+          "url": "https://www.mt.co.kr/opinion/2026/08/25/2026082414513354755",
+          "source": "머니투데이",
+          "published": "2026-08-25 05:40",
+          "score": 21,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "LG가 키운 에티오피아 청년 679명…취업률 100%",
+          "lead": "LG가 키운 에티오피아 청년 679명…취업률 100% 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9icnZHeGhrbHZCeGtxYVgtZTNaTWtJenRlM2l2Ui0wOXIxblF0UUZ6MWVrWVJaOURUQTlEQ2lYNVVxSk9SbFlnUDIwcnVSUW1nQWJhcFhB?oc=5",
+          "source": "중앙일보",
+          "published": "2026-08-24 16:17",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "1분기 임금근로 일자리 29만개↑…20대 내리막·반도체 5천개↑",
+          "lead": "(세종=연합뉴스) 김수현 기자 = 올해 1분기 임금 근로 일자리가 60대와 30대를 중심으로 30만개 가까이 증가했다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260824057400002",
+          "source": "연합뉴스",
+          "published": "2026-08-24 12:00",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[반도체 인재양성 산실]국립목포대 화합물반도체센터, AI·전기차·국방·우주 등 차세대 산업 견인",
+          "lead": "[반도체 인재양성 산실]국립목포대 화합물반도체센터, AI·전기차·국방·우주 등 차세대 산업 견인 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Td0xWbzFObl82aFgzUW5waW10SWVfbUtOb0l4N09SeWt5RVVZT0JZaXAzaURYMjh6NUxBbHBXbFBkTnA1cEIyenhYZGJ1dw?oc=5",
+          "source": "전자신문",
+          "published": "2026-08-24 14:00",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대",
+          "lead": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MUtaMHNRdzlqcmxRaXN4M1VyVll1alM3M2pPeGY5NUk0MzVSc1Q5UFZLZ3RHRGFHZ2ZIX2hnWGdXQXozWUVZTERwYmpfLXMtMzF1WktMOTNzVDkxTl92adIBeEFVX3lxTE9nNm92S0EyN1hibFE0SGc1dEt1cWhuSW5QR2tRbHl5YmNVRTlIY2IwWFp1a25wWWlDaVZjU1I5bHF6SjgtR1hab1p4bGVQNlRXV0xvSVFEQk5XXzdHd0RQUHpPWmd5WlBKbHluMXprRnJ3d1Iyd2c0ag?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-23 12:00",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "공장 분석하고 로봇 자동 세팅…'AI 오케스트레이션 팩토리' 뜬다",
+          "lead": "[이 기사에 나온 스타트업에 대한 보다",
+          "summary": "다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다. ] \"자동차 제조 기술은 계속 발전해 왔지만 로봇 제어 방식은 큰 변화가 없었습니다.",
+          "url": "https://www.mt.co.kr/future/2026/08/25/2026073113523752938",
+          "source": "머니투데이",
+          "published": "2026-08-25 05:00",
+          "score": 22,
+          "keywords": [
+            "AI",
+            "로봇"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "부영그룹 창신대, 디노코어와 산학협력…AI 실무인재 양성",
+          "lead": "부영그룹 창신대, 디노코어와 산학협력…AI 실무인재 양성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZ1VZckgya08wZnpiVWlVME10MUZjVnlQb1hxUS1KTThmc0hnTU5pNEYyMHlyUGNJSUhKdlZpU3ExLWVTeU1PZTViRW1VcXAzLVRBeC1nMmNJVjVGajVTeVZvTzc2YllVOVNqNWlKc3FRbHhwQnh6UNIBeEFVX3lxTE9KZ1VZckgya08wZnpiVWlVME10MUZjVnlQb1hxUS1KTThmc0hnTU5pNEYyMHlyUGNJSUhKdlZpU3ExLWVTeU1PZTViRW1VcXAzLVRBeC1nMmNJVjVGajVTeVZvTzc2YllVOVNqNWlKc3FRbHhwQnh6UA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-24 11:12",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "LG전자, 에티오피아 희망직업훈련학교 졸업식",
+          "lead": "LG전자가 지난 22일 에티오피아 아디스아바바의 LG-코이카 희망직업훈련학교에서 제10회 졸업식을 개최했다.",
+          "summary": "이 학교는 LG와 코이카, 에티오피아 정부가 함께 설립했고, LG전자와 월드투게더가 운영하는 기술교육기관이다. 학생들은 가전제품 교육을 받으며 현장 역량을 키우고 있다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260825031005",
+          "source": "서울신문",
+          "published": "2026-08-25 00:38",
+          "score": 17,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "“자립·취업 역량 강화 ”…동서발전, 울산 경계선 지능 청년 직업훈련장 장비 지원",
+          "lead": "한국동서발전이 울산 지역 경계선 지능 청년들의 안정적인 사회 진입과 취업 역량 강화를 위해 직업훈련에 필요한 방비와 물품을 지원했다.",
+          "summary": "24일 동서발전에 따르면 경계선 지능인은 일반적으로 지능지수(IQ) 71~84 수준의 인지 특성을 보인다. 장애인 등록 기준에는 해당하지 않는 경우가 많아 장애인복지와 고용서비스 분야에서 필요한 지원을 충분히 받지 못하는 등",
+          "url": "https://www.mk.co.kr/news/business/12134841",
+          "source": "매일경제",
+          "published": "2026-08-24 15:51",
+          "score": 17,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "현대차 노사, 임금협상 잠정합의안 마련..기본급 10만원 인상",
+          "lead": "현대자동차 노사가 25일 월 기본급 10만원 인상 등을 핵심으로 한 올해 임금협상 잠정합의안을 마련했다.",
+          "summary": "현대차 노사는 울산공장에서 전날부터 시작한 제17차 교섭에서 잠정합의안을 도출했다.",
+          "url": "https://www.mt.co.kr/industry/2026/08/25/2026082505304762531",
+          "source": "머니투데이",
+          "published": "2026-08-25 05:32",
+          "score": 24,
+          "keywords": [
+            "임금협상",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "현대차, 내년부터 2028년까지 기술직 신입 500명 채용···추가 교섭 촉각",
+          "lead": "현대자동차가 내년 하반기부터 2028년까지 기술직 신입사원 500명을 신규 채용할 것으로 보인다.",
+          "summary": "현대차 노사에 따르면, 양측은 24일 오후 2시부터 올해 임금협상 17차 교섭을 통해 기술직 신규 채용 인원 규모에 의견 접근을 이뤘다. 채용 시기 및 인원은 내년도 하반기 200명, 2028년 300명 등이다. 노조는 매년 정년퇴직 규모가 2000여명에...",
+          "url": "https://www.khan.co.kr/article/202608242301001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-24 23:01",
+          "score": 23,
+          "keywords": [
+            "채용",
+            "신입",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
+          "lead": "(전남광주=연합뉴스) 민현기 기자 = \"대학 안 나왔는데 SK하이닉스에 취업할 수 있을까요.\"",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260824104100054",
+          "source": "연합뉴스",
+          "published": "2026-08-24 15:32",
+          "score": 19,
+          "keywords": [
+            "채용설명회",
+            "채용",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "현대차 노사, 올해 임협 잠정합의…기본급 10만원·성과금 400%",
+          "lead": "현대차 노사가 월 기본급 10만원 인상과 성과금 400% 지급 등을 골자로 한 올해 임금협상 잠정합의안을 마련했다.",
+          "summary": "현대차 노사는 25일 울산 공장 본관 동행룸에서 열린 임금교섭 16차 교섭에서 잠정 합의안을 도출했다고 밝혔다. 지난 5월 상견례 이후 111일 만이다. 합의안에는 월 기본급 10만원 인상과 자사주 15주, 복지포인트 50만원 지급, 여름 휴가비 20만원 인상 등이 담겼다. 생산직도 내년 하반기 200명, 2028년 300명 등",
+          "url": "https://www.etnews.com/20260825000002",
+          "source": "전자신문",
+          "published": "2026-08-25 06:51",
+          "score": 17,
+          "keywords": [
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "현대차, 생산직. 로봇 관련 신입· 경력직 대거 채용⋯연구개발·IT 등 92개 분야",
+          "lead": "현대차, 생산직. 로봇 관련 신입· 경력직 대거 채용⋯연구개발·IT 등 92개 분야 엠투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95R1FtTkhnbHlTWHZaZnl2bnZuSVZfaTNkWnpJWWJzX0VvTFE5YWIzWmFEem9uaTY5ZjNScV9Lc1pmc1Bqek1oajZ0bDBxOHMteGZZWFpCNkYxcHFfa25kVzQ5c19CNllPSldvVThPMNIBc0FVX3lxTE4xczRQS3FjRmlJdk5faFo4MTQ4T09QQnM3bS1raGlLT0dBYTNSM0RLVWZRdWpPdkhzNVc5RDJVMURNamJldFNXcnRfQmUyM1Z6YlNudnhBcVF6ekMxM2dpb1VJaWtaUDlkZHFrZzRvMUYwUUE?oc=5",
+          "source": "엠투데이",
+          "published": "2026-08-24 09:40",
+          "score": 16,
+          "keywords": [
+            "경력직",
+            "채용",
+            "신입",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "40세 미만 92%가 “관두겠다”…지방이전 반발 수위 높이는 금감원 노조",
+          "lead": "24일 오후 비공개 결의대회 400명 집결 오전엔 예보 노조와 청와대 앞 기자회견 금감원 구성원 85.6% 이직 고려 40세 미만 92.5%·변호사 94.2% “국가 핵심 인프라, 현장에 있어야”",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/stock/12134759",
+          "source": "매일경제",
+          "published": "2026-08-24 14:47",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

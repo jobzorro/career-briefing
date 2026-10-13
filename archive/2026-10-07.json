@@ -1,0 +1,267 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07 05:35",
+  "stats": {
+    "collected": 1734,
+    "deduped": 1604,
+    "recent": 764,
+    "relevant": 39,
+    "published": 16,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "\"퇴직하고 재취업했는데\"…60대 실업급여만 급증한 이유 [곽용희의 일자리노트]",
+          "lead": "\"퇴직하고 재취업했는데\"…60대 실업급여만 급증한 이유 [곽용희의 일자리노트] 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRrREMxdnBjOV9aU2FSNjZDeGh1dnlBb2ZtV2FtQjg0X3RCSk81enJEMWFPWWlJSFNCSnNvWjhGWks1VFR2UFd5ODI2QnludlBtZXgyRVdIUQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-10-05 13:10",
+          "score": 26,
+          "keywords": [
+            "일자리",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "광주상의, 정규직 전환형 인턴 4명 공개 채용",
+          "lead": "(전남광주=연합뉴스) 전승현 기자 = 광주상공회의소는 정규직 전환형 인턴 4명(최종 임용 과정서 변동 가능)을 공개 채용한다고 6일 밝혔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261006104000054",
+          "source": "연합뉴스",
+          "published": "2026-10-06 13:39",
+          "score": 20,
+          "keywords": [
+            "정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"5070 재취업 돕는다\"…경기도-평택시, 20일 중장년 일자리박람회 열어",
+          "lead": "\"5070 재취업 돕는다\"…경기도-평택시, 20일 중장년 일자리박람회 열어 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WelU5dS1abnpiMkFzQ2JnZWlVNFd3c3htMG5KZHBtcEhYMWthdTFrdnk4OHhZZl9QS25TejBNM25QNHUwQUhCWG5Mb2hOQ21XYzZtQW9rVERDZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-10-06 09:20",
+          "score": 20,
+          "keywords": [
+            "일자리",
+            "경기"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "취업률 상승세 탄 전남대 여수캠퍼스, 고용노동부 연계로 학생 취업문 넓힌다",
+          "lead": "취업률 상승세 탄 전남대 여수캠퍼스, 고용노동부 연계로 학생 취업문 넓힌다",
+          "summary": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XRzlLazRDeTNPaTFsa0lUSzNveTE1dnkxOE1OWjRReU5iMmt3WUl5bXBKMTBwNFJ3YXJDalpXa0hwYlAzZmxKT0dtRC1VQQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-10-06 08:13",
+          "score": 20,
+          "keywords": [
+            "취업률",
+            "고용노동부"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "군대도 2인실인데…취업률 90% 명문고는 ‘10인 콩나물시루’",
+          "lead": "군대도 2인실인데…취업률 90% 명문고는 ‘10인 콩나물시루’ 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9heVVISWR0WVNBVm82dW82bG16UDJnZ3NBaC12Z0g5TE1ORl9RMWxnV1VSX0FVZmNtS1lBTXV6WmhSWWFTYnZ1TlR4WVpoOG55OE5XTk9B?oc=5",
+          "source": "중앙일보",
+          "published": "2026-10-06 05:00",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "'단기 알바' 비판에도 청년 일자리 3.3조… 정부, 역대 최대 쏟는 이유",
+          "lead": "'단기 알바' 비판에도 청년 일자리 3.3조… 정부, 역대 최대 쏟는 이유 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMVViY1lxaFZXeDNhS1ZMdFl2elJUTkl4eTB3d21tLVJnMUd0Qm95bkgyTTczMS16LUg5eGI3Q2FxYUx0eEV6YVBmYjJ4emNtdW02akdsV2FUdUJnTGJpQlhwUmhIck1ENjl2QXNFUS1VYkHSAXNBVV95cUxPVDFVYmNZcWhWV3gzYUtWTHRZdnpSVE5JeHkwd3dtbS1SZzFHdEJveW5IMk03MzEtei1IOXhiN0NhcWFMdHhFemFQZmIyeHpjbXVtNmpHbFdhVHVCZ0xiaUJYcFJoSHJNRDY5dkFzRVEtVWJB?oc=5",
+          "source": "한국일보",
+          "published": "2026-10-06 04:30",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "덕성여대- ㈜에이플러스 시뮬레이션, AI 신약개발·디지털전환 인재 양성 맞손",
+          "lead": "덕성여대(총장 민재홍)는 6일 오전 10시 행정동 2층 제1회의실에서 ㈜에이플러스 시뮬레이션과 AI 신약개발 및 데이터 기반 디지털전환 분야의 산학협력을 위한 업무협약(MOU)을 체결했다.",
+          "summary": "이날 협약식에는 덕성여대 민재홍 총장, 나정조 대외홍보실장, AI신약학과 이진우",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1281147.html",
+          "source": "한겨레",
+          "published": "2026-10-06 23:50",
+          "score": 22,
+          "keywords": [
+            "디지털전환",
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[단독] 국민성장펀드 ‘중장년성장펀드’였다…가입자 81%가 40대이상",
+          "lead": "1.4만명 가입자중 20대 738명뿐 20대 인당 투자액도 70대의 절반국민의 폭넓은 참여를 내걸고 조성된 국민참여형 국민성장펀드의 가입자와 투자금액이 중장년층에 집중된 것으로 나..",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12169240",
+          "source": "매일경제",
+          "published": "2026-10-06 14:20",
+          "score": 20,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "특징주, 폴라리스오피스-재택근무/스마트워크 테마 상승세에 0.93% ↑",
+          "lead": "특징주, 폴라리스오피스-재택근무/스마트워크 테마 상승세에 0.93% ↑ 매일경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fT2dPYlF0d2RpZDhESll4aTFhNm93ZjNYTjZJQU94UDRVb3N1UHdjNG5TNzByWmw5dk1mNGVCaEsxaGpSOFRiaHhFTDkwQlNSNFE?oc=5",
+          "source": "매일경제",
+          "published": "2026-10-06 09:24",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "시큐리티스코어카드, AI로 제3자 위험관리 자동화…'타이탄 AI' 공개",
+          "lead": "시큐리티스코어카드(SecurityScorecard)는 벤더 온보딩부터 위험 평가, 지속적인 모니터링, 위험 조치 및 보고까지 제3자 IT 위험관리(TPRM) 전 과정을 하나의 워크플로우로 운영할 수 있는 AI 기반 플랫폼 '타이탄 AI(TITAN AI)'를 발표했다고 6일 밝혔다. 기존 TPRM 환경에서는 벤더 보안 등급 확인, 보안 설문 및 평가, 거버넌스·리스크·컴플라이언스(GRC) 등이 서로 다른 시스템에서 운영되는 경우가 많았다. 담당자",
+          "summary": "",
+          "url": "https://www.etnews.com/20261006000398",
+          "source": "전자신문",
+          "published": "2026-10-06 17:05",
+          "score": 18,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "이형일 “프리랜서 세금 깎아 직장인에게 전가?…사실과 달라”",
+          "lead": "이형일 부총리는 프리랜서 원천징수 세율을 낮추면 직장인에게 세금을 더 걷는다는 SNS 주장에 대해 사실과 다르다고 밝혔다.",
+          "summary": "원천징수는 최종 세부담을 줄이는 제도가 아니라 미리 떼는 세금을 조정하는 것이며, 직장인 근로소득세와도 별개라고 설명했다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20261006500311",
+          "source": "서울신문",
+          "published": "2026-10-06 22:05",
+          "score": 17,
+          "keywords": [
+            "프리랜서"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "게임 유튜버에 \"NC앞 칼부림\" 예고글…엔씨소프트 재택근무 전환",
+          "lead": "게임 유튜버에 \"NC앞 칼부림\" 예고글…엔씨소프트 재택근무 전환 매일경제 마켓",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ycFVTNk95dUNvSXBidTlneXdvdFlyN1Z0b3J4MUlJa2M5aTBSV3pfbWhXWmRuOUNJOXA4Nmk3X2J6TlBoRUVGaUM3a0oteUYx?oc=5",
+          "source": "매일경제 마켓",
+          "published": "2026-10-06 17:49",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "ICT 신입채용 3년새 48%↓…이훈기 \"AI시대, 숙련인력 성장 기회 사라져\"",
+          "lead": "ICT 신입채용 3년새 48%↓…이훈기 \"AI시대, 숙련인력 성장 기회 사라져\" - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRVkNSN0s5VFpEY1BKQV9fbFVqdWRBTGR2SFE1Mm1rWGN5WnVaX2hxRFNYUGhocXI2MjdjZTh5VzVJWnoyOS1FTGFIQ2drZDhOaWRaODF3aTU2N2trMWFiMENjcS1KOHJuTk9HZ9IBckFVX3lxTE5zUS01TkpTVVNvZjkxaDdUeUlaOGg4cXpMa1hLdFF1VVl3WW5Zb1NzWWhWODlKWWw5NUJUQjlUd09iMm80MkhqYmpLSFRxcjZJSDR6cjE3VHBhV3pjbTAzeDJ1d2Z3ZWVHT1pHVnBfOHRUQQ?oc=5",
+          "source": "머니투데이",
+          "published": "2026-10-06 18:17",
+          "score": 26,
+          "keywords": [
+            "신입채용",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "윤호중 장관 \"중수청 고등수사관 중 검사 출신 약 130명\"",
+          "lead": "윤호중 행정안전부 장관은 6일 중대범죄수사청(중수청) 고등수사관 가운데 검사 출신이 약 130명이라고 밝혔다.",
+          "summary": "윤 장관은 이날 국회 행정안전위원회의 행안부 국정감사에서 박상웅 국민의힘 의원이 중수청 고등수사관 정원 260명 가운데 검사 출신 인원이 얼마나 되는지를 묻자 \"한 130명 정도 온 것 같다\"고 답했다.",
+          "url": "https://www.mt.co.kr/policy/2026/10/06/2026100622595550854",
+          "source": "머니투데이",
+          "published": "2026-10-06 23:14",
+          "score": 15,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "이스타항공, 수습 부기장 공개 채용…두 자릿수 모집",
+          "lead": "이스타항공이 6일부터 수습 부기장 공개 채용에 나선다.",
+          "summary": "이번 공채는 항공기 도입 및 노선 확대에 따른 채용으로, 모집 인원은 두 자릿수 규모다. 전형은 ▲서류 평가 ▲필기·실기 시험 ▲실무 면접 ▲임원 면접 순이다. 지원 자격은 사업용조종사 면장을 갖추고 있고, 항공영어구술능력증명(EPTA), 항공신체검사증명 1급, 항공무선통신사 자격을 유지하고 있으면서",
+          "url": "https://www.mk.co.kr/news/business/12169091",
+          "source": "매일경제",
+          "published": "2026-10-06 11:26",
+          "score": 14,
+          "keywords": [
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"막대한 이익 다 갖겠단 식 안돼\"...여야, 삼전 노조위원장 '질타'",
+          "lead": "성과급 지급 규모 등을 놓고 사측과 갈등했던 최승호 삼성그룹 초기업노동조합 삼성전자지부(초기업노조) 위원장이 국회에서 여야 모두에게 질타받았다.",
+          "summary": "여야는 성과급 규모가 의무교섭의 대상이 될 수 없고 기업 활동에 다른 주체들이 기여한 점을 인정해야 한다고 한목소리를 냈다.",
+          "url": "https://www.mt.co.kr/politics/2026/10/06/2026100617342796623",
+          "source": "머니투데이",
+          "published": "2026-10-06 20:41",
+          "score": 12,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

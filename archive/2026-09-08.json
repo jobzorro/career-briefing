@@ -1,0 +1,308 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08 10:07",
+  "stats": {
+    "collected": 1936,
+    "deduped": 1757,
+    "recent": 763,
+    "relevant": 44,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "\"일자리도 늘고 구직자도 늘었는데 왜?\"… 청년 고용보험 48개월째 '역주행'",
+          "lead": "\"일자리도 늘고 구직자도 늘었는데 왜?\"… 청년 고용보험 48개월째 '역주행' economicsignal.co.kr",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zRVJKckJ3bU5nM3lsUTZZWWpleU9iemZpUHRzbGFiZkd2ZmtaUm55NlVNVnJLVkRJcEFqQWllX1doRkJvdlV4VVU2TEFLSFBrZktqLUU4Ni0zOGxLc2FORkF5cmd5OFZ6X0Q1ZUFOM09tTUk?oc=5",
+          "source": "economicsignal.co.kr",
+          "published": "2026-09-07 15:41",
+          "score": 25,
+          "keywords": [
+            "구직자",
+            "일자리",
+            "고용보험"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "일자리 살펴보는 청년 구직자들",
+          "lead": "서울 서대문구 이화여대에서 7일 2026년 하반기 채용박람회 ‘이화 잡페어’가 열려 학생들이 구직 상담을 받았다.",
+          "summary": "박람회는 8일까지 이어지며 삼성, 현대, 롯데 등 국내 주요 기업과 계열사가 참여해 취업 정보를 제공했다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260908032005",
+          "source": "서울신문",
+          "published": "2026-09-08 00:12",
+          "score": 20,
+          "keywords": [
+            "구직자",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "[대구소식] 수성구, 일자리 박람회 11일 개최…20개 기업 참여",
+          "lead": "(대구=연합뉴스) 대구 수성구는 오는 11일 호텔수성에서 '2026 청년굿잡 일자리박람회 시즌7'을 연다고 7일 밝혔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260907116000053",
+          "source": "연합뉴스",
+          "published": "2026-09-07 15:21",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[게시판] IBK기업은행 하반기 정규직 15명 추가 채용",
+          "lead": "▲ IBK기업은행은 올해 하반기 정규직 수시 채용을 한다고 7일 밝혔다.",
+          "summary": "총 15명 규모로 ▲ 정보기술(IT) 사업 관리·컨설팅 ▲플랫폼 아키텍...",
+          "url": "https://www.yna.co.kr/view/AKR20260907102600002",
+          "source": "연합뉴스",
+          "published": "2026-09-07 14:55",
+          "score": 20,
+          "keywords": [
+            "정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "강릉 일자리박람회 18일 개최…24개 기업 현장면접·AI 취업지원",
+          "lead": "강릉 일자리박람회 18일 개최…24개 기업 현장면접·AI 취업지원 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0cGJTVlEwRlFwNGJoY1Q4bXY3UDlQRGZoajc2ZGFHZ0t1VElLT01ScXFGeFNnLWkxSnFVcjdTUzVlZzRQbjN3d0RrZnpWTEs1SF9WSk1jRGhkZ9IBWkFVX3lxTFA0cGJTVlEwRlFwNGJoY1Q4bXY3UDlQRGZoajc2ZGFHZ0t1VElLT01ScXFGeFNnLWkxSnFVcjdTUzVlZzRQbjN3d0RrZnpWTEs1SF9WSk1jRGhkZw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-07 12:38",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "부울경 일자리 사업 '광역이음 프로젝트' 출범…125억원 투입",
+          "lead": "부울경 일자리 사업 '광역이음 프로젝트' 출범…125억원 투입 매일경제 마켓",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vdFZ6dzdVVE1TaTZvX1RhUjItaG1fb3VyZ0hxRU1XY3JRVVNMb2VoS29zdWJNUjRxZVdFYndMbm1IN1VmZEZZU1FVN1NUNjA3Unc?oc=5",
+          "source": "매일경제 마켓",
+          "published": "2026-09-07 08:09",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "엔키화이트햇, KB국민은행에 '오펜 AI DAST' 공급...진단·점검 전 과정 자동화",
+          "lead": "엔키화이트햇은 KB국민은행에 AI기반 웹 어플리케이션 침투테스트 자동화 설루션 '오펜 AI DAST'를 공급했다고 7일 밝혔다.'오펜 AI DAST'는 기존 DAST 도구의 룰 기반 탐지 한계를 보완하고 보안 진단 전 과정을 하나의 흐름으로 자동화하는 지능형 설루션이다. AI가 고객 서비스 구조와 맥락을 분석해 다각도의 공격 시나리오를 생성한다. 취약점 악용 가능성을 검증해 수작업 검증 부담과 오탐률을 낮췄다.또 금융권의 보안 환경에 맞춰 공동인증서 로그인 및 내부 보안 설루션을 지원한다. 라이브 로그인 기반의 자동 인증으로 웹 서",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154987",
+          "source": "테크M",
+          "published": "2026-09-08 01:04",
+          "score": 20,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "희망이음 자동화 ‘올케어솔루션’ 회계대행 17개사 도입",
+          "lead": "전국 장기요양기관·사회복지시설 2600곳 관리주식회사 재무관리센터(대표 김현태)가 개발한 희망이음 회계 자동화 프로그램 ‘올케어솔루션’을 도입한 회계 대행업체가 17개사를 넘어섰다..",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12145936",
+          "source": "매일경제",
+          "published": "2026-09-07 12:33",
+          "score": 20,
+          "keywords": [
+            "자동화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "건설기계에 AI 날개 단다…'산업전문인력 AI역량강화 사업'이 이끄는 제조 AX 혁신",
+          "lead": "건설기계에 AI 날개 단다…'산업전문인력 AI역량강화 사업'이 이끄는 제조 AX 혁신 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9URWNoaHJQNXdOZUV3T2NsZWIyRWhiZnJBSTJIU2Q0WHBvREtpQ3VhV2ZKbFQwX0FKVm5LZVZBeUFNUXppcXhRSFNSa0tXQQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-07 09:58",
+          "score": 20,
+          "keywords": [
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "정진욱 의원, “산·학·연·관 협력해 반도체 실무형 인재 양성해야”",
+          "lead": "정진욱 의원, “산·학·연·관 협력해 반도체 실무형 인재 양성해야” 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Sby15Sm1meGowU1MydkFqbm01dlN6TE12UzNqVWhteEdLOWVDU1h5djZqbHJIN2tsMGdGLThBcFRXS1d3N1MyUkZKZE1oZw?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-06 09:16",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "고령자 계속고용장려금, 50인미만 사업장 지원 3년새 33% 급감",
+          "lead": "(서울=연합뉴스) 한혜원 기자 = 정년 이후에도 고령자를 계속 고용하는 사업주에게 지급하는 정부 장려금 지원 사업장이 3년 새 25% 감소한 것...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260907132400530",
+          "source": "연합뉴스",
+          "published": "2026-09-08 06:03",
+          "score": 17,
+          "keywords": [
+            "계속고용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "메가존클라우드, '에어 스튜디오' 기반 한미약품 품질보증 AI 에이전트 구축",
+          "lead": "메가존클라우드는 자사 엔터프라이즈 AI 운영체제(OS)인 '에어 스튜디오'를 기반으로 한미약품 품질보증(QA) 업무 자동화 AI 에이전트인 '한미 Q-에이전트' 시스템 구축에 착수했다고 7일 밝혔다.'한미 Q-에이전트'는 방대한 품질문서의 조회·분석을 돕는 AI 에이전트다. 메가존클라우드는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 AI·클라우드·데이터를 바우처 형태로 통합 지원하는 'AX(AI 전환) 원스톱 바우처 지원사업'의 일환으로 AI 설루션을 구현한다.지원사업은 한미약품이 총괄을 맡고 메가존클라우드는 AI 설루션 구",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154984",
+          "source": "테크M",
+          "published": "2026-09-08 01:04",
+          "score": 17,
+          "keywords": [
+            "AI",
+            "클라우드"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "기업은행, 하반기 정규직 15명 수시채용…공채 포함 190명",
+          "lead": "기업은행, 하반기 정규직 15명 수시채용…공채 포함 190명 아시아경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6bUNDY28ySDF3WkZBXzRRYlQ0d0FQeHZaUFZIaVoxY2Itc2ZPTk5ZZTN1OUMzOUdGazBxY0NPX0pydmNqMzlNdlRQcGVfeUhqdGJONTlJSnVTRU9uR2V2Wg?oc=5",
+          "source": "아시아경제",
+          "published": "2026-09-07 15:23",
+          "score": 32,
+          "keywords": [
+            "공채",
+            "수시채용",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "\"경험 쌓을 곳 없는데 경력직만\"…70년 이어진 삼성 공채의 재발견",
+          "lead": "\"경험 쌓을 곳 없는데 경력직만\"…70년 이어진 삼성 공채의 재발견 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWTdvaDZ1VlRUaFZxcXBIOWtxUlNuY25QMkU0THFWYWpFc1d5bTVIQnFCTzk1ZjJHOFVqTWJZZElKVk5HbjFjQlZMLXBNNTI4TkkxbTVxUlIyMDFiczJDMVJ2QTNqaDczS2fSAWpBVV95cUxOMlk3b2g2dVZUVGhWcXFwSDlrcVJTbmNuUDJFNExxVmFqRXNXeW01SEJxQk85NWYyRzhVak1iWWRJSlZOR24xY0JWTC1wTTUyOE5JMW01cVJSMjAxYnMyQzFSdkEzamg3M0tn?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-07 15:23",
+          "score": 29,
+          "keywords": [
+            "공채",
+            "경력직",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "삼성, 8일부터 올 하반기 공채 실시…19개 관계사 일제히 채용 나서",
+          "lead": "삼성그룹이 미래 준비를 위해 국내 투자를 확대하는 동시에 청년들에게 양질의 취업 기회를 제공하고자 오는 8일부터 올해 하반기 공개채용에 나선다.",
+          "summary": "삼성에 따르면 공채에 나선 관계사는 ▲삼성전자 ▲삼성물산 ▲삼성바이오로직스 ▲삼성바이오에피스 ▲삼성생명 ▲삼성디스플레이 ▲삼성SDI ▲삼성전기 ▲삼성SDS ▲삼성화재 ▲삼성카드 ▲삼성증권 ▲삼성중공업 ▲삼성E&A",
+          "url": "https://www.mk.co.kr/news/business/12145786",
+          "source": "매일경제",
+          "published": "2026-09-07 14:00",
+          "score": 26,
+          "keywords": [
+            "공채",
+            "채용",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "삼성그룹 19개사 동시 공채 … 청년 일자리 '큰 장' 열린다",
+          "lead": "15일까지 '커리어스'로 지원서 접수4대그룹중 공채 유일 70년째 유지반도체·AI등 첨단인재 확보",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12146425",
+          "source": "매일경제",
+          "published": "2026-09-07 17:59",
+          "score": 25,
+          "keywords": [
+            "공채",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼성, 오늘부터 신입 공채 시작… 70년 한결같이 열린 ‘청년 일자리’",
+          "lead": "삼성이 8일부터 하반기 신입사원 공개채용을 진행했다.",
+          "summary": "삼성전자 등 19개 관계사가 참여하고, 지원서는 15일까지 삼성커리어스에서 접수한다. 직무적합성 평가, GSAT, 면접, 건강검진 순으로 선발하며 SW·디자인 직군은 별도 전형을 거친다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260908029003",
+          "source": "서울신문",
+          "published": "2026-09-08 00:09",
+          "score": 24,
+          "keywords": [
+            "공채",
+            "신입",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "노동장관 “새 지침대로면 ‘삼성전자 N% 성과급’ 요구 파업은 불법”",
+          "lead": "김영훈 고용노동부 장관은 최근 정부가 발표한 노란봉투법 시행지침을 적용할 경우, 올해 5월 삼성전자 노조의 ‘영업이익 N% 성과급’ 요구 파업은 불법에 해당한다고 밝혔다.",
+          "summary": "다만 삼성전자 노사가 이미 단체협약 등을 통해 성과급 지급 방식을 정한 만큼 새 지침이 소급 적용되지는 않을 전망이다. 김 장관은 8일 SBS라디오 ‘김태현의 정치쇼’에서 새 지침 관련",
+          "url": "https://www.mk.co.kr/news/business/12146730",
+          "source": "매일경제",
+          "published": "2026-09-08 09:51",
+          "score": 20,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24 08:12",
+  "stats": {
+    "collected": 1931,
+    "deduped": 1784,
+    "recent": 713,
+    "relevant": 29,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[동아시론/김대일]청년 일자리 위기, 노동시장-교육의 낡은 틀 바꿔야",
+          "lead": "[동아시론/김대일]청년 일자리 위기, 노동시장-교육의 낡은 틀 바꿔야 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMW11QUVrNUhYR2g5OTBEYl9nNXl6SFFJMU9kU3QzVlJxVGlualhRMzVYQXF6Wi1IWGVkUmdIclctQnhrMjlhQjNGdEo2aFVOQXlZc2xFajQxOUtWdWZDdUluejhqVGVleTdwQTczN0hiWk9oUWfSAWZBVV95cUxNVnRVRWt6SkNEcU9jb0hKYnZFTXRoaVVlTVNoaWp2TEJYSDZZSWtMd2Jxei0wM1ByNGRYMXhoWjB0aEJtaFBxbjN5SkhRZ0lFR3RfOU1mNy1WTHlVNV9Qc0YwVUVmd1E?oc=5",
+          "source": "동아일보",
+          "published": "2026-08-21 23:12",
+          "score": 26,
+          "keywords": [
+            "노동시장",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "생계급여 노인도 노인일자리 참여?…\"허용시 별도 물량 검토해야\"",
+          "lead": "(서울=연합뉴스) 김영신 기자 = 정부가 운영하는 노인 일자리 사업은 주로 65세 이상 노인을 대상으로 하지만 생계급여 수급자는 참여 대상에서 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260823034600530",
+          "source": "연합뉴스",
+          "published": "2026-08-24 06:03",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"최저임금, 땅따먹기 협상 벗어나 상시논의 체계로 가야\" [인터뷰]",
+          "lead": "\"최저임금, 땅따먹기 협상 벗어나 상시논의 체계로 가야\" [인터뷰] 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUURUOEd5eXdNTEt1YlhLR2xyd1Z6ZUdLU3B4WE9uY09fbjJFY3lPUTdpRmV5TW5HY2UwOS1FREU4ekZXdXppUG1weXV3cmU0QlF4V3dIRnFkUQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-23 18:31",
+          "score": 17,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "60세 이상 '서울시 시니어 일자리박람회' 참가자 모집",
+          "lead": "(서울=연합뉴스) 김준태 기자 = 서울시가 60세 이상을 대상으로 하는 '서울시 시니어 일자리박람회 2026' 참여자를 모집한다고 23일 밝혔다...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260822029400004",
+          "source": "연합뉴스",
+          "published": "2026-08-23 11:15",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "현대제철, 장애인 일자리 늘린다…고용공단과 맞손",
+          "lead": "한국장애인고용공단과 업무협약 체결 적합 직무 발굴·맞춤형 직업훈련 지원현대제철이 한국장애인고용공단과 손잡고 장애인 일자리 확대와 안정적인 근무 환경 조성에 본격 나선다.",
+          "summary": "현대제철은..",
+          "url": "https://www.mk.co.kr/news/business/12133303",
+          "source": "매일경제",
+          "published": "2026-08-21 16:23",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "실업급여 ‘구직 마일리지’로…취업활동 점수 쌓아야 받는다",
+          "lead": "실업급여 ‘구직 마일리지’로…취업활동 점수 쌓아야 받는다",
+          "summary": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tZG1NUUN1YVpaUzhnbVpiRHpGTzJZQkZER190Q20yRlRjb1ZOSk9NeGhhU0lRM3UxaGxTWW1JUEthTi1MNldFZUNGNEdCUGlfOUdETHB1VDQzSWR4SjdWTmRBX1k?oc=5",
+          "source": "한겨레",
+          "published": "2026-08-21 09:56",
+          "score": 17,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대",
+          "lead": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MUtaMHNRdzlqcmxRaXN4M1VyVll1alM3M2pPeGY5NUk0MzVSc1Q5UFZLZ3RHRGFHZ2ZIX2hnWGdXQXozWUVZTERwYmpfLXMtMzF1WktMOTNzVDkxTl92adIBeEFVX3lxTE9nNm92S0EyN1hibFE0SGc1dEt1cWhuSW5QR2tRbHl5YmNVRTlIY2IwWFp1a25wWWlDaVZjU1I5bHF6SjgtR1hab1p4bGVQNlRXV0xvSVFEQk5XXzdHd0RQUHpPWmd5WlBKbHluMXprRnJ3d1Iyd2c0ag?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-23 12:00",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[중소기업 AI 상담 전환, 온피아③]고객 정보 추출부터 상담 요약까지 자동화",
+          "lead": "인공지능(AI)·콜센터 인프라 전문기업 온피아가 전화 상담 과정에서 고객 정보 추출, 상담 요약, 업무 분류를 자동화하는 AI 상담 에이전트 서비스를 선보인다.",
+          "summary": "온피아는 지난 3일 공개한 '콜센터 커스텀 AI'에 고객 대화 분석과 상담 업무 자동화 기능을 적용했다. 이 서비스는 고객과의 통화 중 성명, 생년월일, 문의 목적 등 주요 정보를 추출하고, 상담 내용을 요약·분류해 상담원이나 기업 시스템에 연계하는 방식으로 운영한다. 상담원이 직접 고",
+          "url": "https://www.etnews.com/20260821000099",
+          "source": "전자신문",
+          "published": "2026-08-24 04:00",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "중진공, 스마트 제조 전문인력 육성 사업 교육생 600명 모집",
+          "lead": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업진흥공단은 구직자를 대상으로 '2026년 스마트 제조 전문 인력 육성 사업'에 참여할 교육생 600...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260821180800030",
+          "source": "연합뉴스",
+          "published": "2026-08-23 12:00",
+          "score": 17,
+          "keywords": [
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "은평구, 중장년 재취업 돕는 ‘맞춤형 직업 컨설팅’",
+          "lead": "은평구, 중장년 재취업 돕는 ‘맞춤형 직업 컨설팅’ 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRnpNVElISks4Zzd4bkNQY2dzbFFMaGZPRDg2WHMtbHp0UzNiUUJreWJvN2hMbXpKTVZEc05KSXVvbHZvNFpqU21xdVNfMUZmQXFubWt3?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-08-21 22:29",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "장애학생 홀로서기 돕는 태광…카페·편의점서 직업훈련 진행",
+          "lead": "태광그룹 레저·인프라스트럭처 계열사 티시스의 장애인 표준사업장 '큰희망'이 2019년부터 이어온 장애 고등학생 직업훈련 8기가 한 달간의 현장실습을 마쳤다고 21일 밝혔다.",
+          "summary": "올해 8기 직업훈련에는 졸업을 앞둔 고등학교 3학년 장애 학생 4명이 참여했다. 이들은 카페·편의점·우편 등 사내 복지공간 관리 업무와 구두 정비·네일아트·헬스키퍼 등 사업장 운영 지원..",
+          "url": "https://www.mk.co.kr/news/business/12133358",
+          "source": "매일경제",
+          "published": "2026-08-21 16:58",
+          "score": 17,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "삼현, 자동차 양산 DNA로 로봇 시장 승부…“로보틱스가 회사 새 성장 축”",
+          "lead": "삼현이 휴머노이드용 액추에이터를 시작으로 로봇 핸드용 부품과 로봇 자동화 시스템통합(SI)까지 사업 영역을 넓힌다.",
+          "summary": "자동차에서 축적한 모터·감속기·제어기 기술과 대량생산 경험을 바탕으로 단품에서 모듈, 플랫폼으로 로봇 사업 범위를 확대한다는 전략이다. 박기원 삼현 대표는 23일 “로봇 사업은 '엑슬론'을 중심으로 한 액추에이터와 로봇 기반 자동화 SI 두 축으로 가져갈 것”이라며 “자동차에서 단품 비즈니스를 충분히 경험한 만큼 신사업은 최소 모",
+          "url": "https://www.etnews.com/20260821000147",
+          "source": "전자신문",
+          "published": "2026-08-23 17:00",
+          "score": 15,
+          "keywords": [
+            "로봇"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "'성과급 60% 자사주' SK하이닉스 임단협…이번주 투표 분수령",
+          "lead": "(서울=연합뉴스) 강태우 기자 = SK하이닉스[000660] 노사가 두 달간의 교섭 끝에 성과급의 60%를 자사주로 지급하는 내용의 임금 및 단...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260821129700003",
+          "source": "연합뉴스",
+          "published": "2026-08-23 06:03",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "금감원 직원 10명 중 9명…\"지방 이전시 이직 고려\"",
+          "lead": "금융감독원 구성원 10명 중 9명이 지방 이전 시 이직을 고려하겠다는 노동조합 설문조사 결과가 나왔다.",
+          "summary": "21일 금감원 노조는 '지방 이전 관련 금감원 구성원 인식조사' 설문 결과를 일부 공개했다. 이번 설문에는 금감원 구성원 총 1538명이 참여했다. 설문 결과 금감원의 지방 이전이 확정될 경우 이직을 적극 고려한다고 답한 직원은 69.7%로 집계됐다. 이..",
+          "url": "https://www.mk.co.kr/news/economy/12133474",
+          "source": "매일경제",
+          "published": "2026-08-21 17:49",
+          "score": 20,
+          "keywords": [
+            "이직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "이미 2.3조 날렸다…현대차 노사 오늘 다시 담판",
+          "lead": "현대자동차 노사가 임금 및 단체협상(임단협)에서 합의점 마련에 진통을 겪는 가운데 24일 본교섭을 재개한다.",
+          "summary": "24일 현대차 노조에 따르면 노사는 이날 오후 2시 17차 본교섭을 진행하기로 했다.",
+          "url": "https://www.mt.co.kr/industry/2026/08/24/2026082407101684457",
+          "source": "머니투데이",
+          "published": "2026-08-24 07:16",
+          "score": 17,
+          "keywords": [
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "현대차 노조, 24일 부분파업 유보…임협 교섭 재개 예정",
+          "lead": "(울산=연합뉴스) 김근주 기자 = 현대자동차 노동조합(금속노조 현대차지부)이 올해 임금협상 교섭 재개로 오는 24일 예정된 파업을 유보했다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260823014700057",
+          "source": "연합뉴스",
+          "published": "2026-08-23 09:24",
+          "score": 14,
+          "keywords": [
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "“삼전닉스 고연봉자 대출은 끄떡없어”…새 DSR 타격받는 직장인은",
+          "lead": "규제에도 삼전닉스 등 고소득자 주담대 최대한도 6억 받을듯 연봉 1억 안팎 직장인 타격",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12133927",
+          "source": "매일경제",
+          "published": "2026-08-23 09:02",
+          "score": 14,
+          "keywords": [
+            "연봉"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "삼성전자 동행노조, '뒷북집회' 지적 확산...퇴근길 가두행진 '빌미'",
+          "lead": "삼성전자 삼성전자노동조합(동행노조)가 실력 행사에 나섰다.",
+          "summary": "21일 집회를 열고 올해 '임금 및 단체협상(임단협)' 무효와 디바이스경험(DX)부문 특별성과급 자사주 1000주 지급을 요구했다.시민들의 눈초리는 곱지 않았다. 임단협 확정과 부문 영업손실에도 불구 성과급을 요구하고 있기 때문이다. 집회 영향으로 강남역 일대 교통 혼잡도 벌어졌다.21일 동행노조는 서울 강남구 삼성전자 서초사옥에서 '올 임단협 무효와 특별성과급 요구 관련 집회'를 개최했다.손종현 동행노조 감사 겸 위원장 직무대행은 \"지난 임단협은 정당하지 않고 공정하지 않",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154519",
+          "source": "테크M",
+          "published": "2026-08-22 03:15",
+          "score": 14,
+          "keywords": [
+            "삼성"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

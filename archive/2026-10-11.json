@@ -1,0 +1,285 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11 08:24",
+  "stats": {
+    "collected": 1918,
+    "deduped": 1761,
+    "recent": 711,
+    "relevant": 26,
+    "published": 17,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[단독]中동포·중국인, 고용보험료 낸 돈의 2.6배 받아갔다",
+          "lead": "[단독]中동포·중국인, 고용보험료 낸 돈의 2.6배 받아갔다",
+          "summary": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43azRlUC01clBKZk5XWDU2ZnBKOHp0NUR6YlgtQ19vN0tXRlh3X0hmZDZMZHl5b0RGZDgwZ1NjQV9yQThLZzNKNUVZMlRROVNST2FSSHl6RlBJdUczN2NiSHhNVl91elE5UzNYbUJ3bUlnNHpDeEHSAWZBVV95cUxPaklQOTNyajJWd2R6UnB1WUpVQy1RV3hvUEJwSHR3T2FuVkwxbUZxV1FUdWpqMm1JWkI1bzhiXzg2eWJabkZweGdoQlFNa3RMMS1MeGY5RERxOXdoazlhbF9nanFuNHc?oc=5",
+          "source": "동아일보",
+          "published": "2026-10-08 11:49",
+          "score": 20,
+          "keywords": [
+            "고용보험"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "조국혁신당 \"이소영, '최저임금 차등적용 고민 필요' 답해…강력 규탄\"",
+          "lead": "조국혁신당 \"이소영, '최저임금 차등적용 고민 필요' 답해…강력 규탄\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdzdxclNwdjdSQ0cwTEhIcXlETUdHUWhJZmp0S2UxUlo5aU1xaTF3QkY5Rk8zSXQwOW81Qm9PQS1hX2d4WjBGUGZ4RjZvYTdXZGNyNTRnMk5DX2s1Vy10RNIBeEFVX3lxTFBaN1V6dmtHV3czbk9CQnZkYzdJT2hRcWxCVnFRMW94WWtHSFhoeGN4aVdCbmprU3VHVFBpOFpxMlR6OEZiMm1wbTE2YTZ4ZHZRNnpCZElQZTlkU2JXYmYwRnpfNW1tS05zVWdRbVhJc1dVYlhZanlWQg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-10-10 15:55",
+          "score": 17,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "혁신당, 중기장관 ‘최저임금 차등적용 고민’ 발언에 “시대 역행”",
+          "lead": "혁신당, 중기장관 ‘최저임금 차등적용 고민’ 발언에 “시대 역행” 조선일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZFNNeUNtY0R6TFJMYjlVUkxRc2xQXzhfZ3JCZUotcHhyYmxjM01RWDVuSVEtQmJmbGVhSWVTZ0RPQmtkQ1pSX3V1ZkFsNW00NWVlbEhndzUyRm5VVFE0Z0RPTGp2d2VXUDNfQldYUTV0clU5ekU5M2pCYnAxWlBoa2tVdGU4Zw?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-10 15:39",
+          "score": 17,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+          "lead": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(12∼16일)에는 취업자 숫자와 가계대출 동향 등 민생과 밀접한 경제 지표가 공개...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261010018000002",
+          "source": "연합뉴스",
+          "published": "2026-10-10 09:03",
+          "score": 17,
+          "keywords": [
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[사설] 노동시장 현안 첩첩인데, 사회적 대화 걷어찬 민노총",
+          "lead": "[사설] 노동시장 현안 첩첩인데, 사회적 대화 걷어찬 민노총 서울신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFlCMndVTU5sMjlxYzlnVEdWbW1VQWVaWWc2bE80cWdPVmxEUlQyb050VllFdjVYOVc2U1ZDOGlkNm5PNV9sRHVLdUZqQ0lOUnN0NEpKT29EY2F2X2J4SHpLN0FnU3pQUVcwT0k4VUwtNTR1eXd0bEdUMmhSb19VWWFn?oc=5",
+          "source": "서울신문",
+          "published": "2026-10-08 21:40",
+          "score": 17,
+          "keywords": [
+            "노동시장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "이소영, 무난한 ‘국감 데뷔전’…최저임금 문제엔 빈틈[중기+]",
+          "lead": "이소영, 무난한 ‘국감 데뷔전’…최저임금 문제엔 빈틈[중기+] 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42emRMS3hwaDFKRERZbk83RGFmbXNJV25ERk0tZk1Ua21sUGRTRGktZHpaUXpmQjhyYXdvNDEtYmFLY3M1NjdVZEd2YVBsY055YXJoa2JB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-10-08 08:51",
+          "score": 17,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "인신협, 숙명여대와 '맞손'...기후커뮤니케이션 전문인력 양성",
+          "lead": "한국인터넷신문협회는 8일 숙명여자대학교 탄소중립대학원과 기후커뮤니케이션 전문인력 양성을 위한 업무협약(MOU)을 체결했다고 밝혔다.이번 협약은 기후위기, 탄소중립, 에너지전환 등 기후·환경 문제가 경제·산업·사회 전반의 핵심 의제로 떠오른 가운데 인터넷신문의 기후보도 전문성을 높이고 대학의 교육·연구 역량을 언론 현장과 연결하기 위해 추진됐다.양 기관은 이번 협약에 따라 기후커뮤니케이션·기후저널리즘 분야의 교육·연구 협력체계를 구축하고, 이론과 실무 역량을 겸비한 전문인력 양성에 힘을 모으기로 했다.주요 협력 내용은 ▲회원사 기자",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155958",
+          "source": "테크M",
+          "published": "2026-10-09 03:47",
+          "score": 26,
+          "keywords": [
+            "인력 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "수협, 전직 사내변호사 로펌들과 계약…이양수 \"선정 불투명\"",
+          "lead": "(서울=연합뉴스) 이정현 기자 = 수협은행이 전직 사내변호사가 소속된 로펌들과 고문 계약을 체결하면서 추천·선정 과정을 불투명하게 운용한 의혹이...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261008172800001",
+          "source": "연합뉴스",
+          "published": "2026-10-11 06:00",
+          "score": 17,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "송파구, 중장년 '아파트 사전점검 전문가' 첫 육성",
+          "lead": "송파구, 중장년 '아파트 사전점검 전문가' 첫 육성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdjdTT2ZmbUhkTUFmbUlyNkd1bWRmTnBpdGVEZlVHa3ZEOGtMUS1GZ3VNejhfdHhNTWRxbTMwWmxobzlyRkFWNXRxNVJZY2VrbUI3QzctcWFCZXBITk85ZjhtSkRIUHoyYWFoTVdBZ0pqWjBmWGVNU9IBeEFVX3lxTE1fdjdTT2ZmbUhkTUFmbUlyNkd1bWRmTnBpdGVEZlVHa3ZEOGtMUS1GZ3VNejhfdHhNTWRxbTMwWmxobzlyRkFWNXRxNVJZY2VrbUI3QzctcWFCZXBITk85ZjhtSkRIUHoyYWFoTVdBZ0pqWjBmWGVNUw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-10-08 16:35",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "금융권 연쇄 해킹, AI가 파고든 '관리 사각지대'",
+          "lead": "최근 금융권을 잇달아 겨냥한 해킹 공격에서 인공지능(AI) 활용 정황이 드러난 가운데, 보안 기업들이 공격 도구와 침해 경로에 대한 분석을 내놨다.",
+          "summary": "공격자가 AI로 취약점 탐색과 정보 수집을 자동화하면서, 관리가 소홀했던 업무지원 시스템의 빈틈이 여러 금융사로 피해를 확산시키는 통로가 됐다는 분석이다.공격자 서버에 남은 AI 기록...데이터 판매처까지 물어봤다8일 글로벌 사이버보안 기업 크라우드스트라이크가 공개한 보고서에 따르면 이번 공격 활동은 9월 말부터 10월 초까지 진행됐다.크라우드스트라이크 측은 공격자가 관리하는 공개 디렉",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155940",
+          "source": "테크M",
+          "published": "2026-10-08 19:58",
+          "score": 15,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[기술인력 양성 선도 경기도기술학교] 중장년 인생 2막 함께 만드는 경기도기술학교",
+          "lead": "[기술인력 양성 선도 경기도기술학교] 중장년 인생 2막 함께 만드는 경기도기술학교 기호일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNW1BS0RQcHJaTlRtMF9NeTBDbmY1MFVickJHaWwxeU5sOWFfS2dWay1oLVoxUEE1a0VFb1ZfTjZVWUxfWmc3RmxkSVpmWXU3VzFXUWZfRFJkRXZodW0tZFFETDNlaDFDUmZsUE5iVQ?oc=5",
+          "source": "기호일보",
+          "published": "2026-10-09 12:56",
+          "score": 13,
+          "keywords": [
+            "인력 양성",
+            "중장년"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "대기업 채용공고 102% 늘었다…반도체 경력직 채용 157%↑",
+          "lead": "대기업 채용공고 102% 늘었다…반도체 경력직 채용 157%↑ IT조선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jc2RLYVUwbzM1X2ZBdU43dnB0WDFVNGlsZ2VvSjVhMkJ1ci1RZ2JqUWVfZXJ5aGpXV2pXTWkwdEVJbDJxN1pBQ0hpaFZubzd1NUJPN3VJZV94UENTNXhCTUFsV2JYVV9iZ1lQQTVvY1_SAXRBVV95cUxNa3BYQ0tQYlVxZGQ2NFpXUXZUVjY4V0twWEJVdVcxUnlMdFAxcktjSUNaYUVWSDRUZDh4SDVIaURRamFJVVFkUHdfQUdOSVBZTmZtakV3ekxJVHQxek1LdmRxSGlJY3I2bm1Ubk5mcVYtTHJWSg?oc=5",
+          "source": "IT조선",
+          "published": "2026-10-08 10:31",
+          "score": 35,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직",
+          "lead": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPYmJsaUx2TDlhczM2VUp4R3k2T25xWDVFYUZlRTh4SjNQcjFrTDEzUjNaWkZzX0lYSzZwSXFLNnQ5cDdsdy1BWG14ek5Vd0xxTFIzLWc1TVhydw?oc=5",
+          "source": "한국경제",
+          "published": "2026-10-08 09:52",
+          "score": 29,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다”",
+          "lead": "삼성전자 반도체 부문 직원 부부가 앞으로 받을 성과급이 30억원을 넘어설 것으로 예상된다는 글이 직장인 익명 커뮤니티에서 화제가 되고 있다.",
+          "summary": "반도체 실적 개선으로 대규모 특별성과급 지급이 예고되면서 삼성전자 직원들의 보상 규모에도 관심이 쏠리고 있다. 8일 직장인 익명 커뮤니티 블라인드에는 삼성전자 직원으로 인증한 A씨가 “성과급 보니까 진지하게 서민 탈출한 것 같다”는 제목의 글을 올렸다. 30대 초반인 A씨는 자신을 “이 회사 들어온 게 인",
+          "url": "https://www.etnews.com/20261009000025",
+          "source": "전자신문",
+          "published": "2026-10-10 11:40",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“성과급 30억, 5년 안에 그만둘 수 있어” ‘삼전 메모리 부부’에 입이 떡",
+          "lead": "삼성전자 DS부문 성과급 세부 내용이 공개되자 직원들과 직장인들 사이에서 관심이 커졌다.",
+          "summary": "메모리 사업부 부부는 앞으로 받을 성과급을 합치면 최소 30억원 이상이라며 5년 안에 퇴사할 수 있다고 했고, 블라인드에는 부러움과 후회 섞인 반응이 이어졌다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20261009500133",
+          "source": "서울신문",
+          "published": "2026-10-09 16:38",
+          "score": 21,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "건설 임시일용직 30만명 넘게 떠났다…비자발적 이직 7개월째↑",
+          "lead": "(세종=연합뉴스) 이세원 기자 = 반도체 산업이 초호황을 누리는 가운데 건설업에서는 임시일용직을 중심으로 30만명 넘는 종사자가 원하지 않는데도...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261010033300002",
+          "source": "연합뉴스",
+          "published": "2026-10-11 05:45",
+          "score": 17,
+          "keywords": [
+            "이직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "삼전닉스 '억대' 성과급 풀려도…예정처 \"소비 효과 제한적\"",
+          "lead": "(세종=연합뉴스) 안채원 송정은 기자 = 반도체 호황에 따라 삼성전자[005930]와 SK하이닉스[000660] 등 반도체 기업의 내년 고액 성...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261010032500002",
+          "source": "연합뉴스",
+          "published": "2026-10-11 05:47",
+          "score": 16,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

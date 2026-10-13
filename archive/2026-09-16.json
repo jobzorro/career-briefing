@@ -1,0 +1,303 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16 09:48",
+  "stats": {
+    "collected": 1936,
+    "deduped": 1758,
+    "recent": 821,
+    "relevant": 45,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "AI가 늘린 일자리, 10개 중 8개 수도권으로 쏠렸다",
+          "lead": "인공지능(AI) 확산이 권역별 일자리와 임금 격차를 키울 수 있다는 한국은행 분석이 나왔다.",
+          "summary": "한은은 15일 발표한 'BOK 이슈노트: AI와 지역 노동시장·지역 간 격차 확대 위험..",
+          "url": "https://www.mk.co.kr/news/economy/12153422",
+          "source": "매일경제",
+          "published": "2026-09-15 17:37",
+          "score": 24,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "수도권 늘고 지방 줄고…AI가 일자리 양극화 키웠다",
+          "lead": "수도권을 중심으로 생성형 인공지능(AI)을 주로 사용하는 일자리에서 고용이 늘어난 반면, 피지컬 AI 활용 가능성이 높은 제조업 등 비수도권 일자리는 고용이 줄고 있다는 한국은행 분석이 나왔다.",
+          "summary": "한국은행은 15일 ‘지역경제 심포지엄’을 열고 ‘AI와 지역 노동시장: 지역 간 격차 확대 위험과 새로운 기회’ 보고서를 발표했다. 한은은 AI를 학습 데이터...",
+          "url": "https://www.khan.co.kr/article/202609152037005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-15 20:37",
+          "score": 21,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "생성형AI 주로 쓰는 수도권은 일자리 증가, 피지컬AI 사용 비수도권 제조업은 “고용충격 가능성”",
+          "lead": "수도권을 중심으로 생성형 인공지능(AI)을 주로 사용하는 일자리에서 고용이 늘어난 반면, 피지컬 AI 활용 가능성이 높은 제조업 등 비수도권 일자리는 고용이 감소하고 있다는 한국은행 분석이 나왔다.",
+          "summary": "AI 확산이 일자리의 수도권 집중 현상을 심화할 것이라는 우려가 나온다. 한국은행은 15일 ‘지역경제 심포지엄’을 열고 ‘AI와 지역 노동시장: 지역 간 ...",
+          "url": "https://www.khan.co.kr/article/202609151936001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-15 19:36",
+          "score": 21,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "英 5~7월 실업률 4.9% 유지…\"임금 상승세 둔화·구인 4년 만에 최저\"",
+          "lead": "英 5~7월 실업률 4.9% 유지…\"임금 상승세 둔화·구인 4년 만에 최저\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiYldhVm9JWHpTZzRDQWFweG5DSjhwXy1UYzBUbHBLUlZBVF93ZWNUZHVPZ2ZBMm9YNjJnd0pEX3VTUnJuZ3JDYk02VW9ldjR6SFljWDZVb2NKVGp2Yld3b9IBeEFVX3lxTE04c0MybUZuY295LTNXN2czUnQyRmtxS2JEcnhlaWNvRGNMaWFaQUZwUllTZThUT08yTVg3cU9BX0FZOVZDc3hZY3lweWxVMU1ib0xBLXdLTEhNTzFfenNuWkUwLWt0aUpqUzNWODVkNTlFSk03Q0R0NA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-15 23:56",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "군산대, 새만금-수도권 잇는 수소 생태계 구축…취업률 75% 이룬다",
+          "lead": "군산대, 새만금-수도권 잇는 수소 생태계 구축…취업률 75% 이룬다",
+          "summary": "- 머니투데이 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jM1NNWU1heEVnNk04eWQxQlEwQ3o0bVpKY0F1b2RwR1ZFb3VPSElYYlBVTGlFN2RieklJVWZvaE1sc2JfTDV5cEdNVnNkaEtNXzBuTk93U1Y2VjhmSktsQ3ZGZG9IMEFoOHfSAW9BVV95cUxQb0c4dlUtSmo5S0xnbGk5VGNnWGdVUlpDVW8zRFFPSTZsejBrNDJWRVl0WEVIY01BSURrN25JdTBVTXhVQ2pjNVFEUjdESEZIUE5ZX1hwemszQmpUUEdkcUtBRjJlekZMWnV5X3BxY1E?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-14 16:02",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "일자리 공론화 어떻게…시민 300명이 석달간 숙의해 정책제안",
+          "lead": "일자리 공론화 어떻게…시민 300명이 석달간 숙의해 정책제안 한겨레",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mRVpuTUk2VjhKdTZmRnB5R1RNcndPdVJVaXN3MjMyMWFuWVdZTUs1bmZCVDZhU2pxVzdpVEZSZGU3U0xMZF9xSzV6dGNxMGFXNlJSRElqQy1lcXk3cE0yN3JoS0M?oc=5",
+          "source": "한겨레",
+          "published": "2026-09-14 07:24",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "다산제약, 1AI 첨단바이오 인재 양성 착수… 단국대와 ‘AX 혁신’ 맞손",
+          "lead": "다산제약, 1AI 첨단바이오 인재 양성 착수… 단국대와 ‘AX 혁신’ 맞손 팜이데일리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxY3VUSXpldkJ1VXZhNTdSSFZ3d2h0N0dXLUNEcnlvQmc4WjhwUXQ3SFBoeWpYMGRyczlDNVA3M0g1dUVnRk03dkl3Tk1QQmU3MFBxT2RRZVRZY2NzX2FMOGlRVXRXQzdraFlLdml3?oc=5",
+          "source": "팜이데일리",
+          "published": "2026-09-15 10:30",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "AI",
+            "바이오"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[NABS 2026 기획] [NABS 2026 기획] 분산된 VDI 운영 한곳서 자동화…나무AX 'NCC-VDI DaaS', 업무공간·보안 통합",
+          "lead": "하이브리드 근무가 정착하고 생성AI가 검색과 문서 작성, 데이터 분석 등 일상 업무에 활용되면서 기업의 업무공간도 달라지고 있다.",
+          "summary": "직원은 사무실과 재택근무지, 외부 현장에서 다양한 기기를 이용해 사내 애플리케이션과 서비스형 소프트웨어(SaaS), AI 도구에 접속한다. 업무 장소와 접속 기기가 늘어나면 기업은 사용자 편의성과 함께 데이터 보호, 접근권한, 업무 연속성을 관리해야 한다. 생성AI 이용 과정에서 내부 정보가 외부 서비스로 이동할 가",
+          "url": "https://www.etnews.com/20260916000044",
+          "source": "전자신문",
+          "published": "2026-09-16 09:09",
+          "score": 21,
+          "keywords": [
+            "자동화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"반도체 계약학과 인기, 의대 못지 않네\"…삼전·닉스, '우수인재 확보' 탄력받나",
+          "lead": "\"반도체 계약학과 인기, 의대 못지 않네\"…삼전·닉스, '우수인재 확보' 탄력받나 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xbEdFSW1vTU5oWjhrNkJnamhHUzROREVUVVhyUmZ0LUdyM1JvV1FEMTMyelQxUERhdklLSlluUUxYVTIzQXZIVjExcUFiQ2NPZDd6dkZHQkpva0YtbURZRldhZGlsMDc1dmhUMnBnM2xvbUd4OVMwbtIBeEFVX3lxTE8xbEdFSW1vTU5oWjhrNkJnamhHUzROREVUVVhyUmZ0LUdyM1JvV1FEMTMyelQxUERhdklLSlluUUxYVTIzQXZIVjExcUFiQ2NPZDd6dkZHQkpva0YtbURZRldhZGlsMDc1dmhUMnBnM2xvbUd4OVMwbg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-16 05:00",
+          "score": 20,
+          "keywords": [
+            "인재 확보",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "KAIST 모델 카자흐에 이식한다…과학인재 양성 협력",
+          "lead": "(서울=연합뉴스) 박상현 기자 = 과학기술정보통신부가 한국과학기술원(KAIST) 모델의 이공계 인재 양성 기관 도입을 추진 중인 카자흐스탄 정부...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260915177700017",
+          "source": "연합뉴스",
+          "published": "2026-09-15 20:06",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄'",
+          "lead": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄' 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ano5NDFQWFFuR2VKT3pZU2JzSEFIeXBsV0l1OGZuaVlOMDZCbUJSd1pJaTNZVkZRSDNmbzZNOFljMmIwUFpXWDhjRzFLYkJaVEJLVTFiaEUzcjDSAWBBVV95cUxNVEtyOENyN0tpc3lBbmFTZEJadXdpOUZ6TERCZlhjcWxqUWF5RDZTajYyRnhKVXFDVUlxU0Vuc2V0VzhhUmtBSnhDTl9tV1lLWlEyWVJxQUdvNy15ZWZ3VWM?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-15 15:00",
+          "score": 20,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "대구시 '에너지기술공유대학' 공모 선정…전문인력 305명 양성",
+          "lead": "대구시 '에너지기술공유대학' 공모 선정…전문인력 305명 양성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwVHphUlQ0Tk5JNXlFSGxpVjlidmJaUXFubGlpYjI2eC1mSWNXMUpYLUx6NDBIZlRaZmhzWWdBMTRRUVlPNlo5UExCdS1wSmp5REFNc0xHaGFVRmN5Z21WX9IBeEFVX3lxTFBSOTlQMTIwb1VFcDl0cEhXZmVidjFlRlNhbWIzX0FnNWZHOHlfenVFbjZrZlVPOW5fTlRVLXR6akYzNkdoX1YwZUtPa2tIM0pwNkdVLVY3SzM2QmMyU19HR1N4NDJSbG1GOW4wUEZMSkd2NTRVWWVxdw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-15 10:00",
+          "score": 20,
+          "keywords": [
+            "전문인력"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "SK하이닉스 노조, 성과급 수정안 가결… 170만닉스도 회복",
+          "lead": "성과급 수정안이 가결됐다는 소식에 SK하이닉스가 16일 장 초반 소폭 상승세를 보인다.",
+          "summary": "이날 오전 9시36분 현재 코스피 시장에서 SK하이닉스는 전일 대비 3만5000원(2.07%) 오른 172만4000원에 거래 중이다.",
+          "url": "https://www.mt.co.kr/stock/2026/09/16/2026091609275996792",
+          "source": "머니투데이",
+          "published": "2026-09-16 09:43",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\"",
+          "lead": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\" 비욘드포스트",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTElKSVhYOFhyMjhjR2JfRXJJT016dTFvb1dWWlJQa2xVU05wa3NTb2kwVGJNSEhSQW1CSHlrbnhyYXhFTU5xcTAtUWVCSjR6b0pYTTBuX1IxTkdMQ0tJTUxHZzJqQ0dDVGJzRFhDZnRmRW12b3kyVFVkUC0?oc=5",
+          "source": "비욘드포스트",
+          "published": "2026-09-16 08:43",
+          "score": 19,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "서울 시내버스 첫차 운행 시작…노사 임금협상 타결",
+          "lead": "서울 시내버스 노·사 임금협상이 극적 타결되며 첫차 운행이 정상적으로 시작됐다.",
+          "summary": "서울시는 16일 새벽 서울시버스노동조합과 서울시버스운송사업조합 간 임급협상이 이뤄지며 파업이 철회됐다고 밝혔다. 전날 오후 10시쯤 노조에서 파업 결렬을 선언했지만, 서울시의 소통과 중재 노력 끝에 이날 새벽 1시 50분 노사 양측 모두 서울지방노동위원회의 2차 조정에 동의하며 출근·등교길 대란은 피하게 됐다. 노사 양측은 시간당 임금 3.2% 인상 등 타협안을 도",
+          "url": "https://www.etnews.com/20260916000007",
+          "source": "전자신문",
+          "published": "2026-09-16 05:17",
+          "score": 17,
+          "keywords": [
+            "임금협상"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "포스코, 120시간 부분파업 돌입..사측 \"대체 인력 투입\"",
+          "lead": "노조는 예고한 대로 16일 오전 7시부터 120시간 동안 2차 부분파업에 들어갔다.",
+          "summary": "앞서 노조는 지난 9일부터 48시간 동안 1차 부분파업을 벌였다. 2차 부분파업에는 포항·광양제철소 열연공장 노조원 120여명이 참여한 것으로 파악된다.",
+          "url": "https://www.mt.co.kr/industry/2026/09/16/2026091608075033824",
+          "source": "머니투데이",
+          "published": "2026-09-16 08:29",
+          "score": 14,
+          "keywords": [
+            "포스코"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "경력직인데 ‘80년생·11개 대학’ 기준?…한화에어로 비공개 채용지침 논란",
+          "lead": "경력직인데 ‘80년생·11개 대학’ 기준?…한화에어로 비공개 채용지침 논란 산학뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GamsyYkJ1ZzRBYUJZaXQ0WHYxWVExcmpWOWFTZXpNSFFGdDZMXy1UQThUS1ctc3lfb3NxWW5DM29EVGpZNjNQaHFBRTEybUhjSEI2MHl2NnZNQ0FFbEFnZk9Pa3h2Z3VCNHJn?oc=5",
+          "source": "산학뉴스",
+          "published": "2026-09-15 18:54",
+          "score": 13,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"하반기 신입 공채 잇따라\" 인크루트, 9월 대기업 채용 소식 소개",
+          "lead": "\"하반기 신입 공채 잇따라\" 인크루트, 9월 대기업 채용 소식 소개 머스트 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcEpYNmFhZ29IOGdxR2k5YVVuNHE5ZnhNRUVzWk9LUVlaZjBDT0gtdTdPS1B5eXhpdTZIc01Wb0NJVXlLZXYzaWw3VERoUUFjcUZSOXRR?oc=5",
+          "source": "머스트 뉴스",
+          "published": "2026-09-15 16:09",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "대기업"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

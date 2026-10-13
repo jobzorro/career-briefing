@@ -1,0 +1,299 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17 08:00",
+  "stats": {
+    "collected": 1938,
+    "deduped": 1780,
+    "recent": 858,
+    "relevant": 58,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "신입 뽑는다더니 \"경력이 없네요?\"...갈 곳 없는 청년들",
+          "lead": "경력·경험 부족에 구직자와 기업 간 미스매치까지 겹치면서 청년의 노동시장 진입을 가로막는 장벽이 여전히 높다.",
+          "summary": "기업은 당장 업무에 투입할 수 있는 인재를 원하지만 청년은 관련 경험을 쌓을 기회가 부족하다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/17/2026091615211312934",
+          "source": "머니투데이",
+          "published": "2026-09-17 04:30",
+          "score": 21,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "이천시, 30일 일자리박람회…50개 구인업체 참여",
+          "lead": "(이천=연합뉴스) 김광호 기자 = 경기 이천시는 오는 30일 오후 2시부터 5시까지 눈높이배드민턴체육관에서 '2026 이천 모두의 일자리박람회'...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260916128300061",
+          "source": "연합뉴스",
+          "published": "2026-09-16 15:03",
+          "score": 21,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "교육에서 취업으로…기업·정부가 만드는 청년고용 사다리",
+          "lead": "청년 고용 상황이 녹록지 않은 가운데 좁은 취업문을 뚫기 위해 실제 일자리에서 활용할 수 있는 실무 역량과 경험을 갖추는 것이 청년의 노동시장 진입에서 중요한 과제가 됐다.",
+          "summary": "교육을 마친 뒤에도 실제 기업에서 일해본 경험이 없는 청년에게는 '첫 경력'이라는 장벽이 남는다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/17/2026091614124585695",
+          "source": "머니투데이",
+          "published": "2026-09-17 04:00",
+          "score": 20,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "‘AI’가 일자리 새 기준이 됐다…직업별 ‘AI 대체 가능성’ 계산 사이트도 인기",
+          "lead": "AI가 일하는 방식을 넘어 채용과 커리어의 기준으로 자리 잡았다.",
+          "summary": "기업들은 AI 활용 역량을 채용 조건으로 내세우고, SK하이닉스·두산·LG전자도 면접과 자소서에 AI 활용 평가를 도입했다. 구직자와 직장인들은 교육과 훈련에 몰리고, 직업 대체 가능성을 계산하는 사이트까지 인기를 끌고 있다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260916500285",
+          "source": "서울신문",
+          "published": "2026-09-16 19:22",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"취업률 1위 또?\"…한기대 '취업박람회' 개최, 40여개 기업 참여",
+          "lead": "\"취업률 1위 또?\"…한기대 '취업박람회' 개최, 40여개 기업 참여 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQVk2dEpNc1Z3eU0wTlZ0OGh4RUcxRzVZaDhRWU04U2RPVm84Q3VQUXRkanZRX1pjZG5QNENTSE1QRV9rTi1Wa2UtcWFuVkc1b1E1VTlRTE9HeHVDck5tenRtVS0yYURudmfSAW9BVV95cUxQMGFfVk9fSTlpRkpSbzB1UURPa0pmRThXcDEyYVpBTWtCeGgxU1lKOS1TenJRSW5XSEJRODJpNkdqOXYyNEVlRV91T2pDbFVZMmZQelEwM2RWMnR1eGsycTctOWw3SmhuVl9ZeUJKZ2c?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-16 15:08",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "군산대, 새만금-수도권 잇는 수소 생태계 구축…취업률 75% 이룬다",
+          "lead": "군산대, 새만금-수도권 잇는 수소 생태계 구축…취업률 75% 이룬다",
+          "summary": "- 머니투데이 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jM1NNWU1heEVnNk04eWQxQlEwQ3o0bVpKY0F1b2RwR1ZFb3VPSElYYlBVTGlFN2RieklJVWZvaE1sc2JfTDV5cEdNVnNkaEtNXzBuTk93U1Y2VjhmSktsQ3ZGZG9IMEFoOHfSAW9BVV95cUxQb0c4dlUtSmo5S0xnbGk5VGNnWGdVUlpDVW8zRFFPSTZsejBrNDJWRVl0WEVIY01BSURrN25JdTBVTXhVQ2pjNVFEUjdESEZIUE5ZX1hwemszQmpUUEdkcUtBRjJlekZMWnV5X3BxY1E?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-14 16:02",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "영광군·목포대, 수소 산업 전문인력 양성",
+          "lead": "(영광=연합뉴스) 장덕종 기자 = 전남광주 영광군은 16일 국립 목포대학교와 수소에너지 분야 미래인재 양성 및 지역 수소 산업 발전을 위한 업무...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260916121100054",
+          "source": "연합뉴스",
+          "published": "2026-09-16 14:45",
+          "score": 23,
+          "keywords": [
+            "인력 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄'",
+          "lead": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄' 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ano5NDFQWFFuR2VKT3pZU2JzSEFIeXBsV0l1OGZuaVlOMDZCbUJSd1pJaTNZVkZRSDNmbzZNOFljMmIwUFpXWDhjRzFLYkJaVEJLVTFiaEUzcjDSAWBBVV95cUxNVEtyOENyN0tpc3lBbmFTZEJadXdpOUZ6TERCZlhjcWxqUWF5RDZTajYyRnhKVXFDVUlxU0Vuc2V0VzhhUmtBSnhDTl9tV1lLWlEyWVJxQUdvNy15ZWZ3VWM?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-15 15:00",
+          "score": 20,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"청년 직업훈련, '공급자 틀' 깨고 기업 현장 속으로\"",
+          "lead": "이어 \"KDT가 신기술 분야의 중급 이상 현장 실무 인력 양성을 목적으로 한다면 K-뉴딜 아카데미는 대기업 등이 주도가 돼 청년의 자신감 회복과 역량 향상, 취업으로 이어지도록 지원하는 '징검다리 사업'\"이라며 \" AI 등 기술 분야 직무훈련에 집중된 KDT와 달리 뉴딜 아카데미는 문화·금융 등 청년 선호 분야의 직무 훈련은 물론 조직 및 사회 적응에 필요한 다양한 소프트스킬 프로그램까지 폭넓게 제공할 수 있다\"고 부연했다.",
+          "summary": "",
+          "url": "https://www.mt.co.kr/economy/2026/09/17/2026091613521414558",
+          "source": "머니투데이",
+          "published": "2026-09-17 04:20",
+          "score": 19,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "대구시 140억 투입해 AI 기반 탄소중립 이끌 대규모 고급인력 양성",
+          "lead": "대구시 140억 투입해 AI 기반 탄소중립 이끌 대규모 고급인력 양성 hidomin.com",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNOTIxTnN4NDFyVEcyZkdmbHE4M25JMFBYay1jczhVNXoyeFBhbzk5NVA1UUtocV9fSTd4MDRzcDFJTm1ORXY1OEJlcGR4VE5US1A4VWhWQWlYYTEtcVhRYlBienlIdjhFYmc?oc=5",
+          "source": "hidomin.com",
+          "published": "2026-09-15 19:14",
+          "score": 19,
+          "keywords": [
+            "인력 양성",
+            "고급인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "‘중장년 삶의 질’ 취업보다 주거·소득이 좌우",
+          "lead": "‘중장년 삶의 질’ 취업보다",
+          "summary": "주거·소득이 좌우 세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Yd0RMLVo4ckpBdXNoR1hWcTQ3dlpLR3dMQWxQZ3ZBZkgyY0RzWEdBR1lkUUlhSzRFS2dlU1d0d2NSYUZTUEozZG9EWDhPc1F3?oc=5",
+          "source": "세계일보",
+          "published": "2026-09-16 06:00",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "‘메가특구 노동특례’ 의견 수렴 나서… 노동계는 ‘주4일제’ 요구",
+          "lead": "‘메가특구 노동특례’ 의견 수렴 나서… 노동계는 ‘주4일제’ 요구 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPQXd5ME9BRDJpNHpBeEU1LUlNRWgzSkxYbVZ3NWhHMnNUOU04c3IwQVZTVnd3enNRNk9FZXlSc0RSRnZnWWhpOGxZanJiWGEwYWVMRjNmUFJwaF9WWEZVVDlpNjY5ZktOZHp2V1U1RXV3OEJMX2fSAWZBVV95cUxNaXBSaGFETUthdlNjV1pCZHRmUU5fQWJ2ckJLMjNMaks5a2NRVzN5UXhvVFhMUzRiYW9JdVVwX2p6Ny1nNEg4YkpRektUYXRYMmp2ay1OOTd2Vk9hMEx5a1ZqY1lJVVE?oc=5",
+          "source": "동아일보",
+          "published": "2026-09-16 04:30",
+          "score": 17,
+          "keywords": [
+            "주4일제"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "CJ, 하반기 신입 공채 40% 늘린다…제일제당·올리브영 등 13곳 채용",
+          "lead": "CJ그룹이 2026년 하반기 신입사원 공개 채용을 실시한다.CJ는 CJ제일제당, CJ대한통운, CJ올리브영, CJENM 등 그룹 13개 계열사 및 사업 부문에서 하반기 신입사원 공채를 시작한다고 16일 밝혔다.이번 채용 규모는 지난해 같은 기간보다 40% 이상 확대됐다. 푸드, 뷰티 등 K라이프스타일에 대한 글로벌 관심이 높아지는 가운데 미래 성장을 주도할 인재를 선제적으로 확보한다는 취지다.입사 지원서는 이달 30일 오후 5시까지 CJ 채용 홈페이지에서 접수하면 된다. 서류, 테스트 전형 통과자는 계열사별 전형을 거쳐야 한다. 최",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155282",
+          "source": "테크M",
+          "published": "2026-09-16 19:44",
+          "score": 30,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "CJ"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "SK하이닉스, '현금 50%+주식 50%' 성과급 타결",
+          "lead": "SK하이닉스가 올해 임금 및 단체협약(임단협)을 종료했다.",
+          "summary": "성과급의 절반을 현금과 주식으로 지급하기로 한 합의안이 통과했다.16일 SK하이닉스는 지난 9일 도출한 임단협 수정합의안 노동조합 조합원 총투표에서 57.08%가 찬성했다고 밝혔다.수정합의안은 주식 선택 비율 조정과 선택권 확대가 골자다.노조는 성과급을 현금 50%와 주식 50%로 수령하는데 동의했다. 현금은 10% 단위로 주식을 고를 수 있도록 했다. 또 적자가 발생하면 임금을 이연할 수 있는 조항을 명문화했다.SK하이닉스는 \"재투표 과정에서 총 60여 차례에 달하는 구성",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155293",
+          "source": "테크M",
+          "published": "2026-09-16 22:11",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "연봉은 '회사 내규', 깜깜이 채용공고 개선…정상화 과제 논의",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 연봉은 '회사 내규에 따름' 등 깜깜이 채용공고를 포함해 고용노동부가 고용노동 분야에서 개선해야 할 정상화 과...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260916135200530",
+          "source": "연합뉴스",
+          "published": "2026-09-16 15:32",
+          "score": 23,
+          "keywords": [
+            "채용공고",
+            "채용",
+            "연봉"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"요즘은 인턴도 '金턴', 경력직 뽑는다\"...스펙 빵빵해도 탈락, 탈락",
+          "lead": "\"요즘은 '금(金)턴'이라고 얘기해요 공채는 인턴 한 사람들만 뽑는데 인턴도 인턴했던 사람을 뽑아요.",
+          "summary": "\" 지난 14일 우리금융지주의 K뉴딜 아카데미 과정인 '우리WON청년IT아카데미' 교육 현장에서 만난 대학생 최민성씨(26)는 최근 청년 취업난에 대해 이렇게 표현했다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/17/2026091615522142701",
+          "source": "머니투데이",
+          "published": "2026-09-17 04:10",
+          "score": 21,
+          "keywords": [
+            "경력직",
+            "인턴"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\"",
+          "lead": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\" 비욘드포스트",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTElKSVhYOFhyMjhjR2JfRXJJT016dTFvb1dWWlJQa2xVU05wa3NTb2kwVGJNSEhSQW1CSHlrbnhyYXhFTU5xcTAtUWVCSjR6b0pYTTBuX1IxTkdMQ0tJTUxHZzJqQ0dDVGJzRFhDZnRmRW12b3kyVFVkUC0?oc=5",
+          "source": "비욘드포스트",
+          "published": "2026-09-16 08:43",
+          "score": 19,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "N% 성과급 요구...LS전선 37년 무분규 전통 깨져",
+          "lead": "노조 15% 성과급 요구 1시간 경고 파업 실시LS전선에서 창사 37년 만에 첫 파업이 발생했다.",
+          "summary": "인공지능(AI) 데이터센터 확산으로 전력 인프라 수요가 급증하며 실적이 개선되고 ..",
+          "url": "https://www.mk.co.kr/news/business/12154616",
+          "source": "매일경제",
+          "published": "2026-09-16 18:24",
+          "score": 17,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

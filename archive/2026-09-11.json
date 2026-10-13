@@ -1,0 +1,305 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11 11:09",
+  "stats": {
+    "collected": 1935,
+    "deduped": 1767,
+    "recent": 881,
+    "relevant": 65,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "제주 고용률 '전국 최고'‥실업률 '최저 수준'",
+          "lead": "제주 고용률 '전국 최고'‥실업률 '최저 수준' 제주MBC",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12ajNGWXhYUFl5eHNHY3Bvb0pKdFJ5Tk8zSUdQRGhrRFAwVHFsNFd6eG12X1hrX2dJMVNSQ2hYUGtaZk1hWDFzN3BFdDllVWs?oc=5",
+          "source": "제주MBC",
+          "published": "2026-09-09 13:16",
+          "score": 35,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "고용률 낮고 실업률 높은 '청년층'…청년 취업자 46개월째 감소",
+          "lead": "고용률 낮고 실업률 높은 '청년층'…청년 취업자 46개월째 감소 news.nate.com",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xNkR2b0NmTlBaRHF2c3dnWlJ2N1hKUUlXa005VWhJbnk2N01HZ0ZlbGZiR1VKRXNYSHJqVnQ4V1kxaG5yMnl0enFhVE5RQnVvX3Uw?oc=5",
+          "source": "news.nate.com",
+          "published": "2026-09-09 10:40",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "실업률",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "청년 일자리 통계에 34살까지 편입…청년 고용률 10%p 이상 상승할 듯",
+          "lead": "이달부터 청년고용촉진특별법상 청년의 범위가 34살까지 확대되면서 청년 고용률 지표에도 30대 초반 인구가 반영된다.",
+          "summary": "이에 따라 청년 고용률이 기존보다 10%포인트 이상 상승할 것으로 보인다. ‘통계 뻥튀기’ 의혹을 불식하기 위해 향후 1년간 새 통계와 기존 통계를 모두",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1277210.html",
+          "source": "한겨레",
+          "published": "2026-09-11 11:09",
+          "score": 29,
+          "keywords": [
+            "고용률",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "취업자 18만명 늘어도 청년엔 칼바람… 실업률 4년래 최고",
+          "lead": "취업자 18만명 늘어도 청년엔 칼바람… 실업률 4년래 최고 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kbjVFNmFvZzNWeEJOc1pBZHVsREF3eE1TalpOZkh2aTlrcjlsa3hYeUdmaEppR05vVG1BdmZEXzU2OHBWaGVFLUpIQzFMQmEwSy1nMFJB?oc=5",
+          "source": "중앙일보",
+          "published": "2026-09-09 18:41",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "8월 고용률 70% 웃돌아 역대 최고… 청년 고용률은 28개월째 하락",
+          "lead": "8월 고용률 70% 웃돌아 역대 최고… 청년 고용률은 28개월째 하락 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLa2hZaHBjUHk2WjVpVFl6QTZndWpNY2RCNURqckd3Y1l4VVA1bkdFb0hwdWQwczV5RlFUUEk0Ry12b3Q4NGFma3hhQVF1YlVCc2JWbHFXa0FqaWtZN3Q2bFJFcHpBS0kxdHZybUVB0gFzQVVfeXFMTnNxeFo2MVZ4Si12Sm8yME5QeUphT0dNMHVDQVpyc1RaQUxwYkQ1ZGZwQVFZQjBBVG1zTngzZHZsd0g3SGdHN01aUWo4a3hERXZqQzJrNzVLa1pEV2ZxY0FXNDIyZ1ZMV25mamZPVXdTQ2xZUQ?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-09 14:33",
+          "score": 29,
+          "keywords": [
+            "고용률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "부산 8월 고용률 58.8%…1년 새 0.5%p 상승",
+          "lead": "부산 8월 고용률 58.8%…1년 새 0.5%p 상승 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ySTdNeUUta21VV3VfMHpnaGxWaEtvRWFycWkzbGNBNEFQSll1dnhNR2hhSlF5UGtUdmxOOGVkTWYxSDBVZ09aT3N3eUlSMUxIXzNGQ1ZUZVlTbDjSAWBBVV95cUxPWmdwRmJOX1ZhUWd4M282aWdXTkFZc2ZoZ3F3WF9sWWM2bWhPMFdSZFBOWFd4NWM2SW9YTGwzdFhDemVSNDFqc2hNTDRkRndoeFBBamV0MzJ3aWFoV0kwbEY?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-09 08:34",
+          "score": 29,
+          "keywords": [
+            "고용률"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "창의재단, 중앙아 5개국에 AI 인재 양성 노하우 전수 앞장",
+          "lead": "“한국 교육 현장에서는 디지털 문해력을 어떻게 평가하는지 궁금합니다.",
+          "summary": "정보 과목에서 주로 다루나요? 아니면 다른 과목에도 인공지능(AI) 문해력 관련 내용이 포함됐나요?” '2026 중앙아시아 AI 인재 양성 전문가 초청 연수'가 열린 지난달 18일. 굴리자 코초르바예바 키르기스스탄 교육부 디지털전환부장이 질문했다. 앞서 그는 2030년까지 세 단계로 나눠 AI 교육 생태계를 구축하는 자국 정책을 소개했다. 경쟁력 있는 AI 교육을 위해 평가",
+          "url": "https://www.etnews.com/20260910000114",
+          "source": "전자신문",
+          "published": "2026-09-10 16:00",
+          "score": 27,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서",
+          "lead": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wanlNU0s0Q1lBZ2cyYlNSUko1VUp2TWFTc1lXN3FpeHNDeThjZzZGVlI2NnkwMk4wMk82X2pkU25fRlVjRWo2RDJSbzdHTjlNaDhTMl9nc3ZvTXk0aWV6N0tIQ3ZTaExlYjY1ZGZ30gFzQVVfeXFMUHFOZUdnbXlRM3dCTFUxaHR4ZUNOcWdYY00zYlExYnlXUFQ2ek91Zkx6eFQ1ZnVkTVNaYkc5Qktzb01HYnEyOHQyS3dKc0tFeXlndHBIUFNwMm5EZXl6ZG10bktVTDlXVlhHbjZla2d2SkZpMA?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-10 15:30",
+          "score": 26,
+          "keywords": [
+            "인재 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "대학 안에 1000억 연구거점…경남 ‘AI 인재양성’ 전국 모델 됐다",
+          "lead": "대학 안에 1000억 연구거점…경남 ‘AI 인재양성’ 전국 모델 됐다",
+          "summary": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3UGNsVE1YZFZtX1h5ZWprTl9QNkVYa3dBZTNZQzZCMzhyQi1SdlhfMklMM1dMLUxBRVdDd2lZdjJBZWJKVUItQXBQNXo2WHJjenVibQ?oc=5",
+          "source": "매일경제",
+          "published": "2026-09-08 14:01",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나",
+          "lead": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04c1Judm1NRS16MGFHMmFhLUE1SzBzWDB4MVQ4R1FUMnV5anhORWI3STBIM3hjUThseXVkcVYzOFc4REFyOUZyemZ2S3ozNXppaW9WTktfVUo2cjd4aHdpR0VfUUhCSHB4ZkHSAW9BVV95cUxQS0pIY1lPaThXbU1rZEtBQy1vTkVxTkpmeHVQNzlnbW45UVVGbHFxaGFGSDUzajNyaUFFVzZnc3JtbkRWOVg5WGFtRHJsdTdLVS0wOVZJc3J3aHU5T0hIYXI0QUNKOWIwSElqWHFUcGM?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-10 10:27",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "안전관리·자율운송·고객상담까지...한진, 물류 전반 AI 활용 넓힌다",
+          "lead": "한진이 현장 안전관리와 운송, 고객 서비스부터 임직원의 일하는 방식까지 인공지능(AI)과 첨단기술 적용 범위를 넓히고 있다.",
+          "summary": "물류 현장에서 축적한 데이터를 바탕으로 운영 효율을 높이는 동시에, 자율주행 화물차 운행과 생성형 AI 상담, 업무 자동화 교육을 병행하며 사업 전반의 디지털 전환을 추진하고 있다.현장 위험 감지로 도입 터미널 위험행동 약 60% 감소한진은 CCTV 영상을 실시간으로 분석하는 'AI 세이프티 가디언'을 도입했다고 11일 밝혔다. 지난 7월 말 수도권 10여개 터미널을 시작으로 충청·강원 등 전국 외곽지역 터미",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155136",
+          "source": "테크M",
+          "published": "2026-09-11 18:59",
+          "score": 16,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"문제가 수요 만든다\" 젠슨 황이 찍은 다음 AI 시장은?",
+          "lead": "젠슨 황 엔비디아 CEO(최고경영자)가 인공지능(AI)의 다음 주요 시장으로 '사이버 보안'을 지목했다.",
+          "summary": "10일(현지시간) 블룸버그통신에 따르면 황 CEO는 이날 미국 샌프란시스코에서 열린 골드만삭스그룹의 기술 콘퍼런스에서 \"사이버 보안은 AI의 다음 주요 활용 사례가 될 가능성이 높다\"고 전망했다.",
+          "url": "https://www.mt.co.kr/world/2026/09/11/2026091109524445450",
+          "source": "머니투데이",
+          "published": "2026-09-11 10:06",
+          "score": 15,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "하반기 대기업 채용 '각양각색'…삼성·포스코·두산 '공채' vs SK·현대차·LG '수시'",
+          "lead": "하반기 대기업 채용 '각양각색'…삼성·포스코·두산 '공채' vs SK·현대차·LG '수시' 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5MGVrMThUWEkwNkV4dzRVNW9abC1La09PSjZvcG8xQmdnbDVjMUNoeEthSWUxRGVXT2tnTlh5bDdXY0JSM0RNU3RjeWdhemV2VkJ3V3Bzc3JmWjR5TmVVVdIBeEFVX3lxTE50cnhiZmw3TGhVWk1aWklqTl9wSTM3NHBTc1hSVHRDb0ZzdHB4U01kclJIM3ZlTUVzcEFVajd2TTZwQm9RVkhaRVpJTEdiZTlIelREMVhmdGxNLUJXRVhGOXIyckQzbUYwcERvX3hublVGVWp3WFhIaA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-08 15:39",
+          "score": 38,
+          "keywords": [
+            "공채",
+            "채용",
+            "삼성",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "SK하이닉스 성과급 ‘현금 50% 주식50%’...노사 재합의",
+          "lead": "SK하이닉스 노사가 지난 9일 수정 잠정합의안을 마련한 데 이어 10일 노조의 임시대의원대회를 거친 뒤 오는 15~16일 양일간 총투표를 진행할 예정이다.",
+          "summary": "10일 SK하이닉스에 따르면 잠정합의안에는 성과급의 기본 지급 비율을 기존 현금 40%·주식 60%에서 현금 50%·주식 50%로 조정하는 내용이 담겼다. 주식 선택 비율은 구성원 선택에 따라 50%에서",
+          "url": "https://www.mk.co.kr/news/business/12149088",
+          "source": "매일경제",
+          "published": "2026-09-10 10:13",
+          "score": 20,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스]",
+          "lead": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스] YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZFVBVldnZXFkdDRlV3FsUGxMLXNUeU9VM29DQjdVczFVY3JBVlZwR0U2OFRwbDhLTzB5NzJtZ0JISkswc0lCRzVFOXpEc1NoM3p6QmVyaG9GdDE4R3NV?oc=5",
+          "source": "YTN",
+          "published": "2026-09-10 09:24",
+          "score": 20,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "중소기업 다니다 대기업 상향 이직 가능성 낮은데 실업자 될 가능성은 높아...청년들 중소 기업 안 찾는 이유",
+          "lead": "중소기업 다니다 대기업 상향 이직 가능성 낮은데 실업자 될 가능성은 높아...청년들 중소 기업 안 찾는 이유 조선일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHZ1ZFFwWHRCRVB4M2NRT0ZVcHVIdndiSXEydDdrY1ZjZ3hhTEdGRTAwVGhNVHV0ZHJfdzJSYTJaWTEzZFJnTWVScGp5RWEwdzZsVDIxMlpMZGxwRVRQNFVtQ29DSVRCNm1ZUUNGb1QtUWk2dUdDMFRlTHBZWGo3RzdhSzhsZFhhc0pYVU5n?oc=5",
+          "source": "조선일보",
+          "published": "2026-09-09 08:55",
+          "score": 20,
+          "keywords": [
+            "이직",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "“근로자에게 주식 주면 기업 파이도 커져 ... 한국 주식 여전히 보유할 만”",
+          "lead": "앨릭스 에드먼스 런던비즈니스스쿨 교수 (1)앨릭스 에드먼스 런던비즈니스스쿨(LBS) 교수가 국내 반도체 업계의 성과급 논쟁에 대해 “직원에게 회사 주식을 주면 파이가 커진다”면서도..",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12149216",
+          "source": "매일경제",
+          "published": "2026-09-10 11:33",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[경력채용] 휴온스, 롯데바이오, 마더스제약, 콜마바이오텍, 현대약품",
+          "lead": "[경력채용] 휴온스, 롯데바이오, 마더스제약, 콜마바이오텍, 현대약품 히트뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peWNLNFYwUnMxclk2UkkwVFhZWkUxSjlOaFFVQVNMWFMwNUoyNDV2R1dmSnMyYjdSMDBMMDJwMVNGUG0ySVRtLTFEWHZDb1RuY1N3NWJFcTJTRERWV2ZhQ1hhWk9hNGlzNDhv?oc=5",
+          "source": "히트뉴스",
+          "published": "2026-09-11 05:00",
+          "score": 10,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "롯데"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

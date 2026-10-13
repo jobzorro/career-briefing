@@ -1,0 +1,313 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05 09:02",
+  "stats": {
+    "collected": 1929,
+    "deduped": 1736,
+    "recent": 856,
+    "relevant": 68,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "실업급여 월 198만→176만원…노사 고용보험료 0.1%p씩 오른다",
+          "lead": "실업급여 월 198만→176만원…노사 고용보험료 0.1%p씩 오른다",
+          "summary": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTVTJEUVExVEZWdUQ0NTN1LTlWSW5XaFE0QmRTektUTzFHaFllVTdlcmhObjFSVDBYX1dGMWl0cUZvelNvZkQ5STdlVDlpOEdEZ05hRmdIU3JXWmdsZUE1T2ZJNno?oc=5",
+          "source": "MTN 머니투데이방송",
+          "published": "2026-09-02 11:30",
+          "score": 32,
+          "keywords": [
+            "고용보험",
+            "실업급여",
+            "노사"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "미 사업체, 8월에 16.2만개나 새 일자리 만들어…실업률은 4.1% 유지",
+          "lead": "미 사업체, 8월에 16.2만개나 새 일자리 만들어…실업률은 4.1% 유지 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vRS11aVNjZS1WUmxRRTNzOVJwcnN2Z1lxODBHb1VuSVoyNHE2ZFI1Y2RRYkVjalRrREVudGphMXFCN3E4dDBsWkhoS01nbUNqaEZibjJyRUh3dVdxMFVRc9IBeEFVX3lxTFA1aDdzZ0lIUEFVS0VmU2RfNE51YUxrUDJhVFdleEw5bkJEQmw4UVAtT0wyZUl2RzNQZ2xXOUc2b2MxckNONnlGRlluQ1VMRUhRbWwySWFmaTFmQVRnRTNfRHBpXzhodjhQeTIwZnU4TXB4UmwtbWdFQw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-04 22:04",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "최저임금보다 많은 실업급여 손 본다...198만→176만원",
+          "lead": "최저임금보다 많은 실업급여 손 본다...198만→176만원 YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSGNuREVvdjFHTDRkYnpZdXVYb3drWE9zLUFlQzNkTktrVTgwLUxiMHZkTTd0LVNTVzNoV01yczhBOGl4ME5CY29xdnUxc1lpcmpvOFA1WlNRcHVRLWc?oc=5",
+          "source": "YTN",
+          "published": "2026-09-02 09:56",
+          "score": 29,
+          "keywords": [
+            "실업급여",
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "고령자 취업 ‘1000만명 시대’…에스원 SSDA, 배움을 일자리로 연결",
+          "lead": "국내 고령층 취업자가 처음으로 1000만명을 넘어섰다.",
+          "summary": "국가데이터처가 지난달 5일 발표한 ‘2026년 5월 경제활동인구조사 고령층 부가조사’를 보면 55~79세 취업자는 1012만5000명으로 1년 전보다 34만5000명 늘었다. 2016년 671만5000명과 비교하면 10년 만에 1.5배가 됐다. 고령층이 일터에 남는 가장 큰 이유는 생계다. 연금을...",
+          "url": "https://www.khan.co.kr/article/202609032051005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 20:51",
+          "score": 24,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "인구 감소 시대, 일자리 미스매치 커진다···“청년 일자리는 AI가 대체”",
+          "lead": "앞으로 인구구조 변화로 사람이 필요한 곳과 인공지능(AI)으로 대체될 가능성이 높은 일자리 간극이 커지면서 ‘일자리 미스매치’가 심화할 수 있다는 분석가 나왔다.",
+          "summary": "고령화로 돌봄·서비스 일자리 수요는 크게 늘어나는데 청년들은 꺼리고, 청년들이 선호하는 고숙련 일자리는 AI로 대체될 수 있기 때문이다. 이철희 서울대 교수는 3일 한국은행과 경제정책연구센터...",
+          "url": "https://www.khan.co.kr/article/202609031748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 17:48",
+          "score": 24,
+          "keywords": [
+            "일자리",
+            "인구"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "“AI로 일자리 수급 불균형 심화할 것”",
+          "lead": "앞으로 인구구조 변화로 사람이 필요한 곳과 인공지능(AI)으로 대체될 가능성이 높은 일자리의 간극이 커지면서 ‘일자리 미스매치’가 심화할 수 있다는 분석이 나왔다.",
+          "summary": "고령화로 돌봄·서비스 일자리 수요는 크게 늘어나는데 청년들은 이를 꺼리고, 청년들이 선호하는 고숙련 일자리는 AI로 대체될 수 있기 때문이다. 이철희 서울대 교수는 3일 한국은행 및 경제정...",
+          "url": "https://www.khan.co.kr/article/202609032037005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 20:37",
+          "score": 22,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "창신대·해군정비창, 전문인력양성과 국방기술 연구협력 '맞손'",
+          "lead": "창신대·해군정비창, 전문인력양성과 국방기술 연구협력 '맞손' 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BYjZpRjJXZlV4OHVJTFdKRFFlNDkyTkVpSndnS1RHM1RVb0tDQ1ZKNVQzalRZcVc2Njh4Z0JUaGx2WVVlLXJ0MmNHeVo3QlA4SFBMRTJ1VWJVcUZ1eTZPYdIBeEFVX3lxTE9oa3BzaC1JcEVVSzZyaGgtVzZlalZjeXJVZFB3VUxqeVRZSkNCUkhLSHo3ZFJfdDNvaHZEUXJGZlJpU3NOZ2d5aUstb0VnMU5kRXoyUmlIcWFXWGEyWnpMMElTejloNVlhOThsMW1iNkVBeVpQQUpISw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-03 21:20",
+          "score": 26,
+          "keywords": [
+            "인력양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "中企 제조 AI 인력 양성 600명→1600명…청년 취업 지원도 확대",
+          "lead": "中企 제조 AI 인력 양성 600명→1600명…청년 취업 지원도 확대 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ZGozVGlnME1VV2NYQlJyZ01kU3BUV3RlNjg5dHNuTWFSZXZUeDhnWDU3V1JfN2xJNXhEMEpIeUZocGFEME1LdGtYM2lNRWFGU0JtZFBR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-04 06:00",
+          "score": 23,
+          "keywords": [
+            "인력 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "동두천서 ‘AI·미래직업’ 진로박람회…67개 체험·상담 부스 운영",
+          "lead": "동두천서 ‘AI·미래직업’ 진로박람회…67개 체험·상담 부스 운영 아시아경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBQk54ZElfVG9UX2V3aV81SEk1d3E5VHFmV2F2UWdPRFA5QW1iaXVrd2Jxd0Z5Rno1bUw2bFRIVGNTYTZjNEdNMUFTRW9UQXhTVWdyb2lSLWFZTkN5NlBmRg?oc=5",
+          "source": "아시아경제",
+          "published": "2026-09-03 07:28",
+          "score": 23,
+          "keywords": [
+            "미래직업",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
+          "lead": "(홍성=연합뉴스) 김준범 기자 = 사람이 직접 종이 문서를 나르던 업무는 사라지고, 드론과 인공지능(AI)·빅데이터를 다루는 전문인력 수요가 커...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260904115700063",
+          "source": "연합뉴스",
+          "published": "2026-09-05 06:05",
+          "score": 22,
+          "keywords": [
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "국민대 조형대학, 공예전문인력양성 심화과정을 통한 프로젝트 고도화",
+          "lead": "국민대학교(총장 정승렬) 조형대학 도자공예학과와 금속공예학과가 ‘2026 공예전문인력양성 교육프로그램(실무·심화) 기획 및 운영 사업’의 실무교육을 마무리하고 오는 10월부터 심화교육 단계에 들어간다.",
+          "summary": "문화체육관광부가 주최하고 한국공예·디자인문화진흥원이 주관하는 이번",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1276338.html",
+          "source": "한겨레",
+          "published": "2026-09-05 09:02",
+          "score": 20,
+          "keywords": [
+            "인력양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[동두천소식]'AI와 미래직업'…청소년 진로체험박람회 등",
+          "lead": "[동두천소식]'AI와 미래직업'…청소년 진로체험박람회 등 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYmh5aXR3eTU0Nms5Q0p1Q25SMkotalgxTXRia2hwNXRyVFlIZmNmREY3YVZfMENuSkgxTC0yeHViWXBhNU82bi1yc09Gc2p3S09pbEhNRTRhTU9mbXlURW9yN0lkdlBkX3UzYXdiSlhPVFNoaHlaSNIBeEFVX3lxTE5EYmh5aXR3eTU0Nms5Q0p1Q25SMkotalgxTXRia2hwNXRyVFlIZmNmREY3YVZfMENuSkgxTC0yeHViWXBhNU82bi1yc09Gc2p3S09pbEhNRTRhTU9mbXlURW9yN0lkdlBkX3UzYXdiSlhPVFNoaHlaSA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-03 13:11",
+          "score": 20,
+          "keywords": [
+            "미래직업",
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "'디지털자산도 금융 일자리'…빗썸, 금감원 청년 채용설명회서 인재 찾았다",
+          "lead": "빗썸이 금융감독원이 참여한 청년 채용설명회에 참가해 디지털자산 산업의 직무와 채용 정보를 알렸다.",
+          "summary": "은행·증권사 등 전통 금융회사들과 함께 청년 구직자를 만난 자리로, 디지털자산 거래소가 금융권의 새로운 일자리로 영역을 넓히는 모습이다.4일 디지털자산 업계에 따르면 빗썸은 지난 2일 서울 이화여대 ECC홀에서 열린 '2026 청년 채용설명회'에 참가했다. 이번 행사는 금융감독원과 이화여대가 공동 주관한 국제 콘퍼런스의 부대 행사로 마련됐다.행사에는 디지털자산 거래소를 비롯해 은행과 증권사 등 17개 금융기관이 참여했다. 각 회사는 금",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154923",
+          "source": "테크M",
+          "published": "2026-09-04 18:16",
+          "score": 22,
+          "keywords": [
+            "채용설명회",
+            "채용",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "롯데·현대모비스·한화에어로 등 하반기 대기업 신입채용 본격화",
+          "lead": "롯데·현대모비스·한화에어로 등 하반기 대기업 신입채용 본격화 뉴시안",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UaDlJQTJlWHVJY1d5SHZXZktCVFpOR180WG10NUh3VGxtS3NSZWNyd191TjRkZVFJcWdaTE15NnpPZ1NTSk8xQzEzRmx4dS1uYWU3ZENmaVBJbXBWNEktUDVZN2lLSi1FUmfSAW5BVV95cUxQNTJRUUctNTlvUVgwN1FZcElLSWJMdEEwWWY5RFZCYXJpX1lGTnNyZXpRYTI3Qk0wMWZkbE1sSjc3VnBudThoSkVRMnJ6Snhuek9maVlKRGdDY0RzRElfSW5DY0UtOWEyQTQyTXROZw?oc=5",
+          "source": "뉴시안",
+          "published": "2026-09-03 08:13",
+          "score": 19,
+          "keywords": [
+            "신입채용",
+            "채용",
+            "신입",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "포스코그룹, ‘트리플 코어’ 미래 이끌 인재 세 자릿수 뽑는다",
+          "lead": "6개 핵심 그룹사 하반기 공채…16일까지 원서 접수 AI 엔지니어 직무 신설·로봇 연구원 대거 확충 전통 자소서 폐지…실제 역량 중심 선발로 전환",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12143787",
+          "source": "매일경제",
+          "published": "2026-09-03 18:21",
+          "score": 16,
+          "keywords": [
+            "포스코",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "롯데백화점·현대모비스·한화에어로스페이스 채용…하반기 신입 공채 본격화",
+          "lead": "롯데백화점·현대모비스·한화에어로스페이스 채용…하반기 신입 공채 본격화 스타트업엔(StartupN)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SRnBobVRKX1pRQlV3N0Rjc0ozSlB1VGJ3anN0ZkhGbjYyQXpUOGhjWkMwUTluQWw3T3lRYkp1eVliMGRMSFduSURpNUhPZXl3U1ExTFRVcklYZ2RBaE9sZzlLSUkyLWY50gFsQVVfeXFMUFMyUjIyMmRtWDYyNjVYM1UtNzdBZGxiS29JdVE5MXg4UTVyNl96ZUZXanVmLUtvUGw2UDIxZVdjT2VmTGw0a3VLUmVRUUdOZmFfT2c2a3VibUx5MGF3ZEJFQ1l6RF9ZR0Q0QVYt?oc=5",
+          "source": "스타트업엔(StartupN)",
+          "published": "2026-09-03 13:59",
+          "score": 16,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"N% 성과급은 교섭사안 아냐\"",
+          "lead": "노동부 '노란봉투법 지침'서남권 반도체 팹 짓더라도인력배치 전환은 교섭 대상모호한 잣대에 재계 반발",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12143768",
+          "source": "매일경제",
+          "published": "2026-09-03 18:07",
+          "score": 14,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[오늘의 금융권 채용정보] KB국민은행, 2026년 하반기 신입 및 경력직원 180명 채용",
+          "lead": "[오늘의 금융권 채용정보] KB국민은행, 2026년 하반기 신입 및 경력직원 180명 채용 아웃소싱타임스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IWGE1WjhSenFkV25Ia2NWWEdkMFZsQVVtTFFOdVNVZV9IekxXUUM0OUh2RlhKTVhmVnRuZWxhYUpLcldFMVRabElkdHBCYmY1UUpfWUsyUWNySE5kZzMxUHpjWkJfNnU5NUhxcGg4Y2hjQQ?oc=5",
+          "source": "아웃소싱타임스",
+          "published": "2026-09-03 06:00",
+          "score": 13,
+          "keywords": [
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

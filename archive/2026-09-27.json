@@ -1,0 +1,262 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27 09:00",
+  "stats": {
+    "collected": 1912,
+    "deduped": 1763,
+    "recent": 539,
+    "relevant": 24,
+    "published": 16,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "청년 '백수' 수두룩한데 고용 늘었다?…208만 '공공일자리'가 부른 착시",
+          "lead": "취업자 수와 일자리의 '미스매치'가 반복되고 있다.",
+          "summary": "취업자가 계속 늘고 있지만 청년들이 원하는 양질의 일자리는 좀처럼 늘지 않아서다. 고령층을 중심으로 공공일자리가 증가했지만, 청년층이 선호하는 민간일자리는 충분히 늘지 않은 것과 같은 맥락이다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/27/2026092315275137414",
+          "source": "머니투데이",
+          "published": "2026-09-27 06:00",
+          "score": 34,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "고용률은 15세 이상 인구, 실업률은 경제활동인구 기준",
+          "lead": "고용률은 15세 이상 인구, 실업률은 경제활동인구 기준 vegannews.co.kr",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSGZsdENtN211Q0c4dm51cGNDUTVZa3RBQl9wRkYySGRPYUpOUWZlT1hPR0ZKZXJpVnB2Z1VuZ2NBOGpUTVJNSVV0T1dLUWVEZFM2RHR2RG5VaWRwUkVTRVhhbjNwZw?oc=5",
+          "source": "vegannews.co.kr",
+          "published": "2026-09-27 05:49",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "실업률",
+            "경제활동인구",
+            "인구"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "외국인 혼자서 '실업급여 4500만원'…같은 회사 14번 오갔다 [곽용희의 일자리노트]",
+          "lead": "외국인 혼자서 '실업급여 4500만원'…같은 회사 14번 오갔다",
+          "summary": "[곽용희의 일자리노트] 한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNaXpnZDhtSE5DcFZkMVFaN1kyNXZYMEVRZTFEeE81Z3Y3NU9jLVpfVzVsUUsyWWFnQW1URC1fbm54VTVqSW40ZjM1OXhlN1g4RkpIb1VkLVM0QQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-27 07:00",
+          "score": 29,
+          "keywords": [
+            "일자리",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"기업 옥죄면서 일자리 확대 기대?\"..한숨만 쉬는 재계",
+          "lead": "지난해 6월 이재명 정부가 출범할 때만 해도 기업 사이에선 '친기업 정책'에 대한 기대가 컸다.",
+          "summary": "국내 한 대형 법무법인 관계자는 \"공정위의 전방위적인 조사 때문에 기업들이 납작 엎드려 있는 상황\"이라며 \"무리한 조사가 워낙 많아 나중에 행정소송에서 공정위가 패소할 사건이 많아 결국 승자는 (행정소송에서 기업을 대리하게 될) 법무법인이 될 것이란 얘기마저 나오는 상황\"이라고 말했다.",
+          "url": "https://www.mt.co.kr/industry/2026/09/27/2026092214075976084",
+          "source": "머니투데이",
+          "published": "2026-09-27 06:45",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "노란봉투법 시행 200일, '친노동 정책 드라이브'의 역설",
+          "lead": "\"노란봉투법(노동조합 및 노동관계조정법 제2·3조 개정안) 시행 이후 하청 노조와의 교섭 타결 여부가 올 한 해 사업 계획 전체를 흔들고 있습니다.",
+          "summary": "법적 리스크가 어디까지 튈지 모르는 상황에서 당장 고정비로 부담이 될 신규 정규직 채용을 늘릴 엄두가 나지 않습니다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/27/2026092313192529693",
+          "source": "머니투데이",
+          "published": "2026-09-27 06:30",
+          "score": 20,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "외국인 실업급여 지급액 1133억 중 894억 중국계가 타갔다…수급자 10명 중 8명이 중국계",
+          "lead": "외국인 실업급여 지급액 1133억 중 894억 중국계가 타갔다…수급자 10명 중 8명이 중국계 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRkFJbjNvcUl1MUNENFNQdDE5YnAwM3oyQTVIeG5sYVJqNFEtRll3QVVkb0tMVDFvT3JoWWxoN2tMVmZaZ0x1bHUtWUd4MzBVMU5KSXduS3ctZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-09-26 11:02",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "대구시, 제2회 추경예산으로 시스템 반도체 설계·검증 지원 및 인력양성 확대 추진",
+          "lead": "대구시는 제2회 추가경정예산을 통해 시스템반도체 설계·검증 지원 인프라와 반도체 전문인력 양성에 대한 투자를 확대하기로 했다고 16일 밝혔다.",
+          "summary": "이번 투자는 정부가 지난달 26일 대통령 주재로 열린 제10회 중앙지방협력회의에서 '3대 메가프로젝트 연계 권역별 성장엔진 육성 방안'을 발표하고, 대경권 성장엔진으로 ▲반도체 첨단소재·부품 ▲이차전지 핵심소재·자원순환 ▲첨단 모빌리티 부품 ▲첨단 AI 로봇 등 4개 분야를 선정한데 따른 것이다. 반도체",
+          "url": "https://www.etnews.com/20260926000038",
+          "source": "전자신문",
+          "published": "2026-09-26 17:07",
+          "score": 26,
+          "keywords": [
+            "인력양성",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "“비정형 공정 난제 AI로 푼다”…카본식스, 피지컬 AI로 제조 혁신",
+          "lead": "“카본식스 솔루션은 굉장히 직관적입니다.",
+          "summary": "숙련공들이 작업하는 동안 데이터를 수집하고 인공지능(AI) 모델에 학습하면 비정형 공정의 난제도 풀 수 있습니다.” 문태연 카본식스 대표는 지난 22일 서울 강남구 카본식스 오피스에서 '제조의 가능성을 다시 쓰는 피지컬 AI'를 주제로 열린 '미디어 에듀케이션'에서 제조업 피지컬 AI 경쟁력을 이같이 설명했다. 자동화 핵심은 숙련공의 작업 데이터다. 문 대표는 “숙련공이 작업하는 한두 시간 동안 비전·모",
+          "url": "https://www.etnews.com/20260926000048",
+          "source": "전자신문",
+          "published": "2026-09-26 20:22",
+          "score": 15,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“은퇴하고 뭐먹고 살까 고민했는데”…외려 몸값 올린 전직 베테랑들",
+          "lead": "고경력 인재 다룬 영화 ‘인턴’ 현실로 실무경험 바탕 프로젝트 단위로 연결",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12161738",
+          "source": "매일경제",
+          "published": "2026-09-27 06:24",
+          "score": 14,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"2차 피해차단·1.7조 보상\"…쿠팡이 내세운 과징금 감경 논리는",
+          "lead": "(서울=연합뉴스) 차민지 기자 = 쿠팡이 개인정보 유출 사고 제재 심의에서 유출된 정보가 회수·삭제돼 2차 피해 가능성을 차단했고 전직 직원의 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260924053400530",
+          "source": "연합뉴스",
+          "published": "2026-09-27 06:09",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "“이자 19% 적금, 안들면 바보 아니에요?”…청년층, 76% 더 부었다",
+          "lead": "5대은행 적금 분석해보니 5년간 중장년 20% 줄때 30대 연령대서 약 2배 ↑ 정부, 청년겨냥 적금 내놔 우대형 실질 수익 연 19% 일각서 세대 차별 논란도",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12161214",
+          "source": "매일경제",
+          "published": "2026-09-25 06:02",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "수사 자격증 '자진 반납', 5년만에 증가…불안한 일선 경찰",
+          "lead": "경찰 수사관의 업무 부담이 커질 것으로 예상되면서 2021년 검경 수사권 조정 당시의 혼란이 반복될 수 있다는 우려가 나온다.",
+          "summary": "27일 경찰청에 따르면 올해 수사 전문인력 자격인 '수사경과'를 자진 반납한 경찰관은 633명으로 전년보다 12% 늘었다.",
+          "url": "https://www.mt.co.kr/society/2026/09/27/2026092211222592612",
+          "source": "머니투데이",
+          "published": "2026-09-27 05:45",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "‘6억 성과급’ 삼성 반도체, ‘200만원 의자’에 앉아서 일한다…복지 어떻길래",
+          "lead": "삼성전자 DS부문 특별경영성과급의 산정 방식과 지급 기준이 추석 이후 공개된다.",
+          "summary": "영업이익의 10.5%를 재원으로 세후 전액을 자사주로 지급하고, 메모리사업부는 최대 6억원 안팎을 받을 전망이다. 전 사업장에는 200만~300만원대 허먼밀러 의자도 순차 도입된다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260924500057",
+          "source": "서울신문",
+          "published": "2026-09-24 14:01",
+          "score": 24,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "'공정위 퇴직자 잘나가네'…10대 로펌에 10년간 86명 이직",
+          "lead": "(세종=연합뉴스) 김수현 기자 = 공정거래위원회 퇴직자 86명이 최근 10년간 김앤장, 태평양, 세종 등을 포함한 10대 로펌으로 이직한 것으로...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260923197000002",
+          "source": "연합뉴스",
+          "published": "2026-09-27 05:55",
+          "score": 20,
+          "keywords": [
+            "이직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "삼성전자, DX직원과 내달 직접 소통…성과급 불만 잠재울까",
+          "lead": "(서울=연합뉴스) 김민지 기자 = 삼성전자가 내달 가전·스마트폰·TV 등을 담당하는 DX(디바이스경험) 부문 전 직원을 대상으로 직접 소통에 나...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260921162100003",
+          "source": "연합뉴스",
+          "published": "2026-09-27 06:09",
+          "score": 17,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"억대 성과급 놓칠라\"…삼전닉스 육아휴직률 첫 동반 하락",
+          "lead": "(서울=연합뉴스) 조성흠 기자 = 반도체 슈퍼사이클을 맞은 삼성전자와 SK하이닉스의 올해 상반기 육아휴직률이 동반 하락했다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260923077900003",
+          "source": "연합뉴스",
+          "published": "2026-09-27 06:03",
+          "score": 16,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

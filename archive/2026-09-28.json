@@ -1,0 +1,303 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28 08:00",
+  "stats": {
+    "collected": 1930,
+    "deduped": 1760,
+    "recent": 700,
+    "relevant": 38,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "고용률은 15세 이상 인구, 실업률은 경제활동인구 기준",
+          "lead": "고용률은 15세 이상 인구, 실업률은 경제활동인구 기준 비건뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSGZsdENtN211Q0c4dm51cGNDUTVZa3RBQl9wRkYySGRPYUpOUWZlT1hPR0ZKZXJpVnB2Z1VuZ2NBOGpUTVJNSVV0T1dLUWVEZFM2RHR2RG5VaWRwUkVTRVhhbjNwZw?oc=5",
+          "source": "비건뉴스",
+          "published": "2026-09-27 05:49",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "실업률",
+            "경제활동인구",
+            "인구"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "[사설]고용 착시 걷어내고 청년 일자리 살려야",
+          "lead": "고용지표가 개선되고 있지만, 청년들이 원하는 양질의 일자리가 좀처럼 늘지 않는다.",
+          "summary": "청년 취업난을 해결하기 위해서는 민간 부분의 생산성과 투자, 수요를 자극하는 중장기 고용창출 전략이 절실하다.",
+          "url": "https://www.mt.co.kr/opinion/2026/09/28/2026092717045426372",
+          "source": "머니투데이",
+          "published": "2026-09-28 04:00",
+          "score": 33,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"고용 늘었다고?\" 청년 공감 못하는 이유...나랏돈 들인 '공공일자리' 착시",
+          "lead": "취업자 수와 일자리의 '미스매치'가 반복되고 있다.",
+          "summary": "취업자가 계속 늘고 있지만 청년들이 원하는 양질의 일자리는 좀처럼 늘지 않아서다. 고령층을 중심으로 공공일자리가 증가했지만, 청년층이 선호하는 민간일자리는 충분히 늘지 않은 것과 같은 맥락이다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/28/2026092716023421734",
+          "source": "머니투데이",
+          "published": "2026-09-28 06:00",
+          "score": 31,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "직장인 72% \"기간제 2+2년 메가특구법, 정규직 일자리 줄여\" 우려",
+          "lead": "(서울=연합뉴스) 전재훈 기자 = 직장인 10명 중 7명은 메가특구법으로 기간제 근로자 사용기간을 늘리면 정규직 일자리가 줄어든다고 우려하는 것...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260927010300004",
+          "source": "연합뉴스",
+          "published": "2026-09-27 12:00",
+          "score": 29,
+          "keywords": [
+            "일자리",
+            "정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "외국인 혼자서 '실업급여 4500만원'…같은 회사 14번 오갔다 [곽용희의 일자리노트]",
+          "lead": "외국인 혼자서 '실업급여 4500만원'…같은 회사 14번 오갔다",
+          "summary": "[곽용희의 일자리노트] 한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNaXpnZDhtSE5DcFZkMVFaN1kyNXZYMEVRZTFEeE81Z3Y3NU9jLVpfVzVsUUsyWWFnQW1URC1fbm54VTVqSW40ZjM1OXhlN1g4RkpIb1VkLVM0QQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-27 07:00",
+          "score": 29,
+          "keywords": [
+            "일자리",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"신규 채용, 엄두도 못 내요\"...'때리고 보자' 못질에, 직원 못 뽑는다",
+          "lead": "\"노란봉투법(노동조합 및 노동관계조정법 제2·3조 개정안) 시행 이후 하청 노조와의 교섭 타결 여부가 올 한 해 사업 계획 전체를 흔들고 있습니다.",
+          "summary": "법적 리스크가 어디까지 튈지 모르는 상황에서 당장 고정비로 부담이 될 신규 정규직 채용을 늘릴 엄두가 나지 않습니다.",
+          "url": "https://www.mt.co.kr/economy/2026/09/28/2026092717593515116",
+          "source": "머니투데이",
+          "published": "2026-09-28 06:30",
+          "score": 20,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "노동부, 중장년 재취업 지원 전국 확대…반도체·전기차·AI 직무전환 돕는다",
+          "lead": "노동부, 중장년 재취업 지원 전국 확대…반도체·전기차·AI 직무전환 돕는다",
+          "summary": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrNXgzMFBGZEtYU2JzVk5NRDR6d0ZDX2VGWEJLNkpjSzZVcEItT1ltcUltZzY2YS1KREctaWZBa2UwQUt3U0UxWFZwLVg1dw?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-27 12:00",
+          "score": 32,
+          "keywords": [
+            "직무전환",
+            "중장년",
+            "AI",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "중장년 인생2막 활짝…노동부 '중장년고용 강조 주간' 실시",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 고용노동부는 오는 28일부터 다음 달 2일까지 '제21회 중장년고용 강조 주간'을 맞아 지역맞춤형 중장년 경력...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260926044400530",
+          "source": "연합뉴스",
+          "published": "2026-09-27 12:00",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "내일부터 '중장년 고용 강조주간'…지역 행사 집중 개최",
+          "lead": "내일부터 '중장년 고용 강조주간'…지역 행사 집중 개최 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxSTF3c0hlNVVSUmJpcVk5Tk9XcHhTcXNIMkpMSDA5dVEtTUN1OWo3cWlIbnFUakpoTDNwMl9Xd216ZmJMdk1IT2lRQmJqbmFoTXZTa2pleG51aFlsMkc4Mkp5SGNtVXdDVlU4VV9OanR2UU1BbDNVctIBeEFVX3lxTFAxSTF3c0hlNVVSUmJpcVk5Tk9XcHhTcXNIMkpMSDA5dVEtTUN1OWo3cWlIbnFUakpoTDNwMl9Xd216ZmJMdk1IT2lRQmJqbmFoTXZTa2pleG51aFlsMkc4Mkp5SGNtVXdDVlU4VV9OanR2UU1BbDNVcg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-27 12:00",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“은퇴하고 뭐먹고 살까 고민했는데”…외려 몸값 올린 전직 베테랑들",
+          "lead": "고경력 인재 다룬 영화 ‘인턴’ 현실로 실무경험 바탕 프로젝트 단위로 연결",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12161738",
+          "source": "매일경제",
+          "published": "2026-09-27 06:24",
+          "score": 14,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"2차 피해차단·1.7조 보상\"…쿠팡이 내세운 과징금 감경 논리는",
+          "lead": "(서울=연합뉴스) 차민지 기자 = 쿠팡이 개인정보 유출 사고 제재 심의에서 유출된 정보가 회수·삭제돼 2차 피해 가능성을 차단했고 전직 직원의 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260924053400530",
+          "source": "연합뉴스",
+          "published": "2026-09-27 06:09",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "대구경북 중장년 일자리 ‘제2의 인생’ 지원…기업은 인력난 해소 기대",
+          "lead": "대구경북 중장년 일자리 ‘제2의 인생’ 지원…기업은 인력난 해소 기대 대경일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tVmlBM3h5aE1JUHlCVGxlNFppYlZrRFpreXV5SW10WmRZb3hPcktvSEs0M2U3QmF0eXRWRzJNN0lmOHBjemFsSnJQRkllM1l2RjJsbTkwMTIxNnhGZXp3Ry1FZjJrLVdz?oc=5",
+          "source": "대경일보",
+          "published": "2026-09-27 14:17",
+          "score": 13,
+          "keywords": [
+            "인력난",
+            "중장년"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "“경력직 80년생 이하·11개 대학으로 제한”…한화에어로, ‘차별 논란’ 사과",
+          "lead": "이부환 대표이사 명의 사과문 게재 社측 “담당자 개인 일탈…시행 안돼”한화에어로스페이스가 경력직 채용 과정에서 학력과 연령 등을 제한하는 내용의 내부 가이드라인 관련 논란에 대해 ..",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12161892",
+          "source": "매일경제",
+          "published": "2026-09-27 14:55",
+          "score": 24,
+          "keywords": [
+            "경력직",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "이부환 한화에어로 대표 \"경력직 채용 지침, 명백한 과오\" 공식 사과",
+          "lead": "이부환 한화에어로 대표 \"경력직 채용 지침, 명백한 과오\" 공식 사과 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZGhaZlpYQjRjTzdfTEZ1NEdIeXcxOUhnN0V3NW4zeVo4T0lIVkJfNzJGa0VVcTBfNmhMTmVWMFhZLVRSWUNENW5MQkg1eFJ5UnlHX3kweU1LQTZlZFRuRnBxUWxwaDliTzZqN2dycThSUdIBckFVX3lxTE9SZGhaZlpYQjRjTzdfTEZ1NEdIeXcxOUhnN0V3NW4zeVo4T0lIVkJfNzJGa0VVcTBfNmhMTmVWMFhZLVRSWUNENW5MQkg1eFJ5UnlHX3kweU1LQTZlZFRuRnBxUWxwaDliTzZqN2dycThSUQ?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-27 15:21",
+          "score": 23,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "반도체 초호황에 성과급 기대감...삼성·SK하닉 육아휴직률 첫 동반 하락",
+          "lead": "삼성 36.2%→35.5% 하락 SK하이닉스 4.0%→3.2% 남녀 육아휴직률 모두 낮아져 휴직 시 성과급 감소 부담 영향",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12161843",
+          "source": "매일경제",
+          "published": "2026-09-27 13:11",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "삼성",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "삼전닉스 육아휴직률 하락은 ‘억대 성과급’ 탓?···상반기 0.7%P 줄어 “휴직 시점에 영향준 듯”",
+          "lead": "삼성전자와 SK하이닉스 직원들의 올해 상반기 육아휴직률이 나란히 떨어졌다.",
+          "summary": "실적 개선으로 성과급 규모가 커진 것이 직원들의 육아휴직 선택에 영향을 미쳤을 가능성이 나온다. 27일 금융감독원 전자공시시스템에 따르면 삼성전자의 올해 상반기 육아휴직률은 35.5%로 지난해 같은 기간보다 0.7%포인트 낮아졌다. 남성은 12.4%에서 11.2%, 여성은 94...",
+          "url": "https://www.khan.co.kr/article/202609271024001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-27 10:24",
+          "score": 22,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "이재용 집 앞서 추석에도 ‘성과급 시위’…노태문, 삼성전자 DX 전직원 만난다",
+          "lead": "삼성전자 스마트폰·TV·가전 사업을 담당하는 디바이스경험(DX) 부문에서 성과급을 둘러싼 내부 불만이 커지는 가운데 노태문 대표이사 겸 DX부문장이 다음 달 임직원들과 직접 소통에 나선다.",
+          "summary": "부문 간 성과급 격차를 비롯해 비상경영과 인공지능(AI) 전환 등 DX부문이 안고 있는 현안이 주요 의제로 오를 전망이다. 27일 업계에 따르면 삼성전자는 10월 중 D",
+          "url": "https://www.mk.co.kr/news/business/12162088",
+          "source": "매일경제",
+          "published": "2026-09-27 17:15",
+          "score": 20,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "'서울 외국인 채용박람회' 참여기업 내달 16일까지 모집",
+          "lead": "(서울=연합뉴스) 김준태 기자 = 서울시는 '외국인 취업채용박람회'에 참여할 기업을 모집한다고 27일 밝혔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260924022400004",
+          "source": "연합뉴스",
+          "published": "2026-09-27 11:15",
+          "score": 20,
+          "keywords": [
+            "채용박람회",
+            "채용"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

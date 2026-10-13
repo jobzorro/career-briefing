@@ -1,0 +1,295 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15 10:16",
+  "stats": {
+    "collected": 1936,
+    "deduped": 1769,
+    "recent": 772,
+    "relevant": 26,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[단독] 문 닫고 실업급여 받는 자영업자 7개월 만에 3000명 육박...역대 최대",
+          "lead": "[단독] 문 닫고 실업급여 받는 자영업자 7개월 만에 3000명 육박...역대 최대 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jMEVueFg1cUpkTlg3ZFktWDdSanZmdHI2QWF5QVlxblNLLXI0c3pHb1R6QjV0aDFSUk5URGRzdTQtbDJpT0xNRVJ4bXB3MmhoX3hXR3Bn?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-15 09:32",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "군산대, 새만금-수도권 잇는 수소 생태계 구축…취업률 75% 이룬다",
+          "lead": "군산대, 새만금-수도권 잇는 수소 생태계 구축…취업률 75% 이룬다",
+          "summary": "- 머니투데이 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jM1NNWU1heEVnNk04eWQxQlEwQ3o0bVpKY0F1b2RwR1ZFb3VPSElYYlBVTGlFN2RieklJVWZvaE1sc2JfTDV5cEdNVnNkaEtNXzBuTk93U1Y2VjhmSktsQ3ZGZG9IMEFoOHfSAW9BVV95cUxQb0c4dlUtSmo5S0xnbGk5VGNnWGdVUlpDVW8zRFFPSTZsejBrNDJWRVl0WEVIY01BSURrN25JdTBVTXhVQ2pjNVFEUjdESEZIUE5ZX1hwemszQmpUUEdkcUtBRjJlekZMWnV5X3BxY1E?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-14 16:02",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "일자리 공론화 어떻게…시민 300명이 석달간 숙의해 정책제안",
+          "lead": "일자리 공론화 어떻게…시민 300명이 석달간 숙의해 정책제안 한겨레",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mRVpuTUk2VjhKdTZmRnB5R1RNcndPdVJVaXN3MjMyMWFuWVdZTUs1bmZCVDZhU2pxVzdpVEZSZGU3U0xMZF9xSzV6dGNxMGFXNlJSRElqQy1lcXk3cE0yN3JoS0M?oc=5",
+          "source": "한겨레",
+          "published": "2026-09-14 07:24",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "올해 20대 취업자 19.3만명 줄어… 외환위기후 최대폭 감소",
+          "lead": "올해 20대 취업자 19.3만명 줄어… 외환위기후 최대폭 감소 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xUWh3VENGU3R6ZUFXUHFacHRWSlctVFpYVmVvZ1VmUlozc0xab1NmOFJaT1BwV2dwcy1GekREX1plRjI2eG5nMG4zMjc4OTJFcDRFcVh4MkxqZl9sMFRIbE91VmxJb0w0V0ZMYk1rcVhUZV9iQVHSAWZBVV95cUxPSkRLS2s1WDA3Nk1lV1QwLWthNkhoT196X0tZaGlaSEFuUE9GQlU0eFAwQ0hUUVJFV1ItTmJMUy1PUmQ2TE45MnN0aUlLUjduZEN2WWluS1ZmLXdmcWVOOWxfZUZoMVE?oc=5",
+          "source": "동아일보",
+          "published": "2026-09-14 00:30",
+          "score": 20,
+          "keywords": [
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "목돈·일자리·주거…청년 지원 정책 한눈에",
+          "lead": "목돈·일자리·주거…청년 지원 정책 한눈에 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95V2NUcXVqZkQ2SERQR2o5TU43Qm1POXMxNE9uSHN3cVRkMkFtbmRFTWRPS2NuZ3ZSd2h2a2dqVXlYNUp1cVlRMmZXSnkyTURWNTYyYk1YSDdjY3loTERta9IBeEFVX3lxTE9aQ1prcDdXaDI4MTJRZ3NQN2lkOHMtX3pBZi1CUk9pNXlPU21UUUx0aTVSVEdLd2hvRXhCWF9jWHpTc1NQTjk5YVRXX1Vib0EwYWpNRkV6TzBMbFhMX2NLaVpVVXhpSTF5QTNFYlpqbmNwNzczZ0FFZg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-15 09:57",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "“베이비부머 서울 자가는 청년에게, 베이비부머에겐 지방 일자리와 집을”···두마리 토끼 잡을 수 있을까",
+          "lead": "베이비붐 세대(1955~1974년생)가 서울 집을 주택연금에 맡기고, ‘귀촌’을 통해 지방 중소기업에서 일을 하면서, 서울 집은 청년 세대가 임차해 살 수 있도록 하자는 정책 제안이 나왔다.",
+          "summary": "베이비붐 세대는 주택연금·임대소득과 지방 일자리를 얻고, 청년들은 서울에서 월세가 비교적 저렴한 집을 얻으며 ‘두마리 토끼’를 잡자는 구상이다. 마강래 중앙대 도...",
+          "url": "https://www.khan.co.kr/article/202609150600081/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-15 06:00",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "\"지금 시작해도 늦다\"…800조 호남 반도체, 인재 양성 '시간 싸움'",
+          "lead": "\"지금 시작해도 늦다\"…800조 호남 반도체, 인재 양성 '시간 싸움' 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJQ2RWajJoODdGSjlpQXl3ZUtXV3Y5MkJSeW5qM2xpU2pKTlB1N3ZBdG5jeUNMc1dWQ0tXLXowOU5QZVJZdFNxUVUyWnhkYWhjMkREeXZJTmJWdEg1WXlaYm5hUzLSAWRBVV95cUxQSUNkVmoyaDg3Rko5aUF5d2VLV1d2OTJCUnluajNsaVNqSk5QdTd2QXRuY3lDTHNXVkNLVy16MDlOUGVSWXRTcVFVMlp4ZGFoYzJERHl2SU5iVnRINVl5WmJuYVMy?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-13 08:01",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "대구시 '에너지기술공유대학' 공모 선정…전문인력 305명 양성",
+          "lead": "대구시 '에너지기술공유대학' 공모 선정…전문인력 305명 양성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwVHphUlQ0Tk5JNXlFSGxpVjlidmJaUXFubGlpYjI2eC1mSWNXMUpYLUx6NDBIZlRaZmhzWWdBMTRRUVlPNlo5UExCdS1wSmp5REFNc0xHaGFVRmN5Z21WX9IBeEFVX3lxTFBSOTlQMTIwb1VFcDl0cEhXZmVidjFlRlNhbWIzX0FnNWZHOHlfenVFbjZrZlVPOW5fTlRVLXR6akYzNkdoX1YwZUtPa2tIM0pwNkdVLVY3SzM2QmMyU19HR1N4NDJSbG1GOW4wUEZMSkd2NTRVWWVxdw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-15 10:00",
+          "score": 20,
+          "keywords": [
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "인천 송도 바이오공정인력양성센터 본격 가동… 인천경제청, K-바이오 인재 양성 거점 강화",
+          "lead": "인천 송도 바이오공정인력양성센터 본격 가동… 인천경제청, K-바이오 인재 양성 거점 강화 녹색경제신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuMWhodU0yd3FXVHM1TVkxSHlhQmtqSFIxQV9pQzdyckNJMlg2ZWRiMnlJTzJZa3lLZTZfRzYwT3ozVjcwTnY3YXdZdkdmNVJYQV9mWmNNTWZFSHlOaWlmUUFQTjJ0WUY4?oc=5",
+          "source": "녹색경제신문",
+          "published": "2026-09-14 15:08",
+          "score": 16,
+          "keywords": [
+            "인재 양성",
+            "인력양성",
+            "바이오"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "충북 AI·XR 인재 키운다…충북과기원, 전문인력 양성교육 본격 시동",
+          "lead": "충북 AI·XR 인재 키운다…충북과기원, 전문인력 양성교육 본격 시동 v.daum.net",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90bFZLYjYzNnNoSHlwUDh1VklkSG9WRkFucGRzVUFWOVR3ajd3czdLcWpMR2Q3MDRrdzJnelBJMXBaMC02Z1ZUOFA1YkJUa0U?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-14 13:53",
+          "score": 16,
+          "keywords": [
+            "인력 양성",
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "LG CNS, 인니 국세청서 감사패 받아",
+          "lead": "LG CNS가 인도네시아 차세대 조세행정시스템 코어택스 구축과 안정화에 기여한 공로로 현지 국세청 감사패를 받았다.",
+          "summary": "코어택스는 등록부터 신고·납부·환급·조사·징수를 하나로 통합하는 핵심 디지털 전환 사업이다. 회사는 AI 고도화도 논의 중이다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260915030004",
+          "source": "서울신문",
+          "published": "2026-09-14 21:34",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "오늘부터 관광기업 이음주간 개최…'투자부터 창업·학술까지'",
+          "lead": "문화체육관광부와 한국관광공사는 15일부터 16일까지 이틀간 '관광기업 이음주간'을 개최한다.",
+          "summary": "이음주간은 관광벤처기업을 중심으로 지자체, 민간기업, 투자자 등 주체를 연결해 기업 간 협력과 성장 기회를 만드는 자리다.",
+          "url": "https://www.mt.co.kr/culture/2026/09/15/2026091509413191206",
+          "source": "머니투데이",
+          "published": "2026-09-15 10:03",
+          "score": 13,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "'1조 통상임금' 소송 연장전 서울버스 임금협상…시민의 발 또 멈출까",
+          "lead": "최대 1조원으로 추정되는 통상임금 상승분 지급을 두고 소송을 벌이고 있는 서울 시내버스 노조가 예고한 총파업 돌입을 하루 앞두고 서울지방노동위원회(지노위) 테이블에 다시 앉는다.",
+          "summary": "지난 11일 노조가 실시한 '2026년 임금협정 체결을 위한 쟁의행위 찬반투표'에서 쟁의행위안이 일반버스 회사 조합원 88%가 찬성하며 가결됐다.",
+          "url": "https://www.mt.co.kr/policy/2026/09/15/2026091417334641932",
+          "source": "머니투데이",
+          "published": "2026-09-15 08:32",
+          "score": 17,
+          "keywords": [
+            "임금협상"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "서울 시내버스 파업 'D-1'…노사, 막판 임금협상 줄다리기",
+          "lead": "(서울=연합뉴스) 김동규 김준태 기자 = 통상임금 적용과 임금 인상을 놓고 대립 중인 서울 시내버스 노사가 노조의 파업 예고일을 하루 앞둔 15...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260915016400004",
+          "source": "연합뉴스",
+          "published": "2026-09-15 07:42",
+          "score": 14,
+          "keywords": [
+            "임금협상"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“죽이고 싶다” “끔찍한 최후 당했으면”…삼성전자 노노 갈등, 위험 수위 넘었다",
+          "lead": "DS·DX 부문 간 성과급 차이 확대에 상대 노조 겨냥한 과격 표현 쏟아져 초기업노조, ‘설명 요구’ 공문 보내",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12151861",
+          "source": "매일경제",
+          "published": "2026-09-14 11:17",
+          "score": 14,
+          "keywords": [
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "HD현대·두산 하반기 신입 공채...인크루트, 9월 대기업 채용 소개",
+          "lead": "HD현대·두산 하반기 신입 공채...인크루트, 9월 대기업 채용 소개 뉴스핌",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LWm5EOVFIWnI0OFBnREM1eHNNOEhHbGw3RTEzU3dkd0tVZGl2SllTWEFISWx6T1R0VUo4TC1hcXpOUEJpRGxxM01oOTBVcXJUR1pDMW5TbkxYVEhv?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-09-15 10:12",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "서울 시내버스 16일부터 또 멈추나…오세훈 \"노조 요구 과도\" 비판",
+          "lead": "서울 시내버스가 오는 16일 첫차부터 다시 멈춰 설 위기에 놓였다.",
+          "summary": "지난 1월 이틀간 이어진 역대 최장 파업 이후 8개월 만이다. 통상임금 산정 기준시간과 임금 인상 폭을 둘러싼 노사 간 이견이 좁혀지지 않자 서울시는 무료 셔틀버스 1500대를 준비하는 등 비상수송대책 가동에 나섰다.",
+          "url": "https://www.mt.co.kr/policy/2026/09/15/2026091507390043975",
+          "source": "머니투데이",
+          "published": "2026-09-15 08:07",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "샌디스크, 韓 엔지니어 채용 확대…낸드 인재 쟁탈전 가열",
+          "lead": "샌디스크, 韓 엔지니어 채용 확대…낸드 인재 쟁탈전 가열 v.daum.net",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82Qkp2RWZZVlduM0Q0ZE45QjUzaW5SZmpSQlBHVXM3Z2hWVlEzZzFWTV9iODcwV3k5X3o3dF9tLU9PRDJkWmYzM01Saw?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-13 08:56",
+          "score": 10,
+          "keywords": [
+            "채용 확대",
+            "채용",
+            "인재"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

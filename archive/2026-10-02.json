@@ -1,0 +1,307 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02 09:56",
+  "stats": {
+    "collected": 1932,
+    "deduped": 1767,
+    "recent": 917,
+    "relevant": 55,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "체코 노동시장 2026년 8월: 고용률 75.4%, 실업률 3.4%로 상승",
+          "lead": "체코 노동시장 2026년 8월: 고용률 75.4%, 실업률 3.4%로 상승 - 뉴스 및 통계 IndexBox",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWROQTFvMGJzSGg5OHFmU0FzQjQtVlIxM3VORmpmbG5rNjU1QURwUFR4bHRJcGRUYnpTRkYwRi1PYlM0VGh0dm5fdUpURkY0M3AyVThEdFJBMWtFbWdkeENGUVpobmhfNm0zcHVhSGRwcTBmU0pkYXYyZkhRTGVWd2NsckpsM3JnSENPTFU0amRBdWNGU1RxLTVZb25aYzN1b3ZPMGlDNlZpd3oyaGQxbWVMTEI?oc=5",
+          "source": "IndexBox",
+          "published": "2026-10-01 19:10",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "실업률",
+            "노동시장"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "9월 독일 실업률 6.4% 유지…\"실업자 301만2000명으로 늘어\"",
+          "lead": "9월 독일 실업률 6.4% 유지…\"실업자 301만2000명으로 늘어\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jbTNqT1IyT201WjdmSUJPOU5LajJ6RzBkV2Yta0FyT19weWRfR0NaRUx1MVRvdkxKSDBiS3JhejI3c2Y5LTFhUFA0eXJpY0hLVnJUSHYtbllGbF90SFlsSEI4VUk3dmF3ekh3TmxVNmMzTkdlek80X9IBeEFVX3lxTE5jbTNqT1IyT201WjdmSUJPOU5LajJ6RzBkV2Yta0FyT19weWRfR0NaRUx1MVRvdkxKSDBiS3JhejI3c2Y5LTFhUFA0eXJpY0hLVnJUSHYtbllGbF90SFlsSEI4VUk3dmF3ekh3TmxVNmMzTkdlek80Xw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-30 23:54",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "실업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "EU 8월 실업률 6.1%…1년 전 6.0%에서",
+          "lead": "EU 8월 실업률 6.1%…1년 전 6.0%에서 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YYmJ2VDdCM0pZUDNnUmxHNVdQRXhXMWR6QnFWd0ZOdG1iSFAzNkV2RG80cjhWOWs4NzdLTGIzY3BfVjNVa1B3ajZUd2c3Znc1dHhqRllGcUM4dHF6dm1LXzFqSUItZmJOMVRVUGFCdVFwWUpJWUN2eNIBeEFVX3lxTE5YYmJ2VDdCM0pZUDNnUmxHNVdQRXhXMWR6QnFWd0ZOdG1iSFAzNkV2RG80cjhWOWs4NzdLTGIzY3BfVjNVa1B3ajZUd2c3Znc1dHhqRllGcUM4dHF6dm1LXzFqSUItZmJOMVRVUGFCdVFwWUpJWUN2eA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-10-01 21:41",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "지난달 부산 실업률 1.3%…역대 최저",
+          "lead": "지난달 부산 실업률 1.3%…역대 최저 KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SSHhxaGl0R2lxR0NZamtmZTZCTEtQNW1sQ0JjZC10NTl6bHJCZGRaNmtQWUk0aVpqWEoyZkNFSFVZa21qVVFqcmQ2M25SOFJBaEhGd3NNV003eDQ?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-30 22:03",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "부산 8월 실업률 1.3%…통계 작성 시작 27년 만에 최저치",
+          "lead": "부산 8월 실업률 1.3%…통계 작성 시작 27년 만에 최저치 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SF9wNE11a29QUUY1UFZMR3hzaFE1SW5vYlhJOHR5Z1gyQ3FBZ2wtZnFsMWpEOHdtbFhvMXMwTjJYdC1KZGF0cDJOOFk3dDVwSW9Vc0ZYcm9aSkHSAWBBVV95cUxQbnBIcHpjNVRkSm1PUEYwVFZITDJCTHkycW82UDAzalc3bks0ZjJKSzJ3OUt6N0JsUEpOcWxJSGRaeDdHN2lKNExYMTlFTW9qYl9qY0lkLUQzTzdBZ296bk4?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-30 09:42",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "한국기술교육대학교, AI 맞춤교육·반도체 실습으로 취업률 1위",
+          "lead": "한국기술교육대학교, AI 맞춤교육·반도체 실습으로 취업률 1위 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YS1RfTUlmQWJ4VTEybjJBT21hOFliRGljR0hmQUJZblkyZ25hZDZmOVlxMldLLURZelRSQm1QZGVoVDRlVjVQM3IycWNTek14SDd4MkJGYnB1QQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-29 16:06",
+          "score": 20,
+          "keywords": [
+            "취업률"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[기술인재 양성 선도 경기도기술학교] 중장년 재도전 뒷받침",
+          "lead": "[기술인재 양성 선도 경기도기술학교] 중장년 재도전 뒷받침 기호일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZN2NEZWoyaVQtR2M3VWNhQlplRDlQX2YyYlYteEJtd1BCOHVWUGQyd0RHNDhkVFhjX21rc3pGSVZPbGdxYjZkbUh5bzJjRnVpakUtY09QQ3F2Vy1EZkJwRHB3ZzJmQUZiQjRYQThYTQ?oc=5",
+          "source": "기호일보",
+          "published": "2026-10-01 19:06",
+          "score": 22,
+          "keywords": [
+            "인재 양성",
+            "기술인재",
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "티빙, AWS와 클라우드 보안 강화…위협 탐지·대응 자동화",
+          "lead": "티빙은 AWS와 클라우드 보안 수준을 진단·개선하는 'SIP(Security Improvement Program)'를 진행했다고 2일 밝혔다.",
+          "summary": "SIP는 특정 시점의 보안 상태를 한 차례 점검하는 방식에서 벗어나 실제 클라우드 사용 환경을 분석해 개선 로드맵을 만들고 지속적인 점검과 구현을 지원하는 프로그램이다.",
+          "url": "https://www.mt.co.kr/tech/2026/10/02/2026100208285277880",
+          "source": "머니투데이",
+          "published": "2026-10-02 08:38",
+          "score": 20,
+          "keywords": [
+            "자동화",
+            "클라우드"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "최악 대기오염 인도 수도권, 3개월간 50% 재택근무 의무화",
+          "lead": "최악 대기오염 인도 수도권, 3개월간 50% 재택근무 의무화 KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSDlxa0tUTDA1QkZGZG9sVnNfc2FVSUFWRGxEN0JOTnhNRUV6LV9LRkpabDczM1lzdkZlMUJnSng3VG1BcjRfY1ZYQ1BPSUMwZXhBcEFMaDdwRUU?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-30 16:02",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "식당 폐업 후 반도체 엔지니어로 인생2막…중장년고용 우수사례",
+          "lead": "식당 폐업 후 반도체 엔지니어로 인생2막…중장년고용 우수사례 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMTU5wYUgyeWtZbXlrVFRWVElJWC1FNUxtWHc0M21TRzhIRkVISXVQUC1jMG5qaE1NZkRpaHdDbDZIQVVTWVVlZmI5ZVI5ZEhqeE1RX1hnSmVQTEsxV2ZvbNIBYEFVX3lxTFBMTU5wYUgyeWtZbXlrVFRWVElJWC1FNUxtWHc0M21TRzhIRkVISXVQUC1jMG5qaE1NZkRpaHdDbDZIQVVTWVVlZmI5ZVI5ZEhqeE1RX1hnSmVQTEsxV2ZvbA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-30 14:30",
+          "score": 20,
+          "keywords": [
+            "중장년",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "이제 코인은 4050 중장년이 ‘큰손’···가상자산 거래규모 절반으로 축소",
+          "lead": "지난해 하반기부터 이어진 가상자산 시장 침체로 국내 거래소의 가상자산 거래 규모가 1년 새 절반 아래로 쪼그라들었다.",
+          "summary": "20·30대가 빠져나간 자리를 40·50대가 채우면서 이용자의 무게중심도 중장년층으로 옮겨갔다. 금융위원회 금융정보분석원(FIU)과 금융감독원이 1일 발표한 ‘2026년 상반기 가상자산사업자 실태조사 결과’를 보면, 올해 상반기 국내 ...",
+          "url": "https://www.khan.co.kr/article/202610020600011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-10-02 06:00",
+          "score": 17,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "전직 기획예산처 장관들 “초과세수로 미래 성장판 열어야”",
+          "lead": "역대 기획예산처 장관들이 반도체 호황으로 늘어난 초과세수를 미래대응기금에 활용해 새로운 성장동력을 마련해야 한다고 주문했다.",
+          "summary": "교육재정교부금 개편과 구조개혁도 함께 추진하면서 기획처가 부처 간 이해관계를 넘어 중장기 국가전략을 조율하는 역할을 해야 한다고 강조했다. 기획처는 박홍근 장관이 지난달 30일 서울에서 역대 기획처 장관들과 정책 간담회를 열었다...",
+          "url": "https://www.khan.co.kr/article/202610011638001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-10-01 16:38",
+          "score": 17,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "올해 하반기 채용시장 온기…대기업 51% \"채용계획 세웠다\"",
+          "lead": "올해 하반기 채용시장 온기…대기업 51% \"채용계획 세웠다\" - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xS3FiZnlxdGRyUGpObTN6dFNqTF9hd295d0NhNUJKSzlUZjNVeWZJdTN3UFZVLV9rbnc2Q0E3UlJZbzJIR2J1a3RtMG5PcmZySTF1TVh2YkdkREVWWi03V1R4UDVfVE13bkxvaVlUX1lkZ9IBckFVX3lxTE5xS3FiZnlxdGRyUGpObTN6dFNqTF9hd295d0NhNUJKSzlUZjNVeWZJdTN3UFZVLV9rbnc2Q0E3UlJZbzJIR2J1a3RtMG5PcmZySTF1TVh2YkdkREVWWi03V1R4UDVfVE13bkxvaVlUX1lkZw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-29 10:07",
+          "score": 26,
+          "keywords": [
+            "채용계획",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "ICT 신입채용 왜 반토막 났나…작년 경력직 채용, 신입보다 653명 많아",
+          "lead": "ICT 신입채용 왜 반토막 났나…작년 경력직 채용, 신입보다",
+          "summary": "653명 많아 창업일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcUhuMVBVOHpZellQbUdHNHBsdzg4Y0NxSzQwWkhZZlJKRlBYUTZJRXU0eExVU0U2TXZTekNMWmR5c2lySW5vN3JKVEtrVFY3TmNZaUY4bEtURDlacVlYUU9DRk5MZEJW?oc=5",
+          "source": "창업일보",
+          "published": "2026-10-01 13:07",
+          "score": 22,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "[단독] 국민연금, 운용조직 성과급 미지급…이유는 “너무 잘 벌어서”",
+          "lead": "운용지원직 등 50여명분 미지급 “추석전 주겠다” 약속 어기고 침묵 지난해 국민연금 역대 최고 수익률 당초 편성된 성과급 예산 크게 상회 ‘돌려막기’ 위해 정부와 협의 필요",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/stock/12165809",
+          "source": "매일경제",
+          "published": "2026-10-01 10:59",
+          "score": 17,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "삼전닉스 실적 ‘풍향계’ 마이크론 또 사상 최고 실적…성과급 지급으로 이익률은 감소 전망",
+          "lead": "미국 메모리 반도체 기업 마이크론이 또 다시 사상 최대 실적을 기록했다.",
+          "summary": "인공지능(AI) 투자 열풍 속에 메모리 수요가 폭증하고 고대역폭메모리(HBM)와 D램 등 메모리 가격 폭등 현상도 이어지고 있는 데 따른 것으로 풀이된다. 반도체 기업 실적의 ‘풍향계’로 불리는 마이크론이 시장 예상을 뛰어넘는 호실적을 거두면서 삼성전자와 SK하이닉스의 실적 고공...",
+          "url": "https://www.khan.co.kr/article/202610011631011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-10-01 16:31",
+          "score": 14,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "ICT 신입채용 3년새 반토막…소프트웨어 1년새 신입 47% 줄었는데 경력은 127% 늘어",
+          "lead": "ICT 신입채용 3년새 반토막…소프트웨어 1년새 신입 47% 줄었는데 경력은 127% 늘어 굿모닝경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kLW1IWWlMNTh5bTZJN0R1X0hUbXVlLWRLaUVCanNhQnZIZTB5NVpheTgtTXUyRWlieGdWd21VbWk1WUFPUzR2RlpUMGRPMmR1NXU1aDRkbTNRcmxRcUNIQVBrUkxoOUdZc2ZOZQ?oc=5",
+          "source": "굿모닝경제",
+          "published": "2026-10-01 17:45",
+          "score": 13,
+          "keywords": [
+            "신입채용",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "화재보험협회, 신입·경력직 공개채용…AI·데이터 인력도 모집",
+          "lead": "화재보험협회, 신입·경력직 공개채용…AI·데이터 인력도 모집 라이센스뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vdWZja3p5ZzJBcXlSWm4xYjRmaUNtS1lqWDh5WVI2c2NjUHE5VkRxUGNVZzVsbmtWb3d5WWV4c3BhS3N2eFJWc2NfN0pDa0hIYnBYQVAzRG5fMmRzbWI2eEtVcmNmS0JLSHNj?oc=5",
+          "source": "라이센스뉴스",
+          "published": "2026-10-01 16:00",
+          "score": 10,
+          "keywords": [
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

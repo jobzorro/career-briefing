@@ -1,0 +1,308 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19 08:00",
+  "stats": {
+    "collected": 1935,
+    "deduped": 1766,
+    "recent": 863,
+    "relevant": 44,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "中대졸자 1270만명 쏟아지자…8월 청년실업률 1년 만에 최고",
+          "lead": "中대졸자 1270만명 쏟아지자…8월 청년실업률 1년 만에 최고 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rbFFrcFJReG03WjZaVzBYZEkzdGl4c0d5TzY4Zy01VHZRM0V3N3VVQlFKWVNhVldUTmtmUHJSVmZLdS01cmxkZTlaeUhvVHdlU2NMZ1lFTnRNa3dWZnfSAWNBVV95cUxQanNPemlRUnVVM2w3cDQwbDdnQ3RnekVTYnNwd25WUTFVSjdPQnNNVFpZMzhsNHphUER2bTFILVM2Yk5FeVVicVNSbTB4U2pRSmVOMl9XbjIyN0dsc2FOOFVnMlk?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-18 09:12",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "청년실업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "공공부문 비정규직 처우 논의 '공무직위' 출범…법정기구로 격상",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 공공 부문 비정규직 노동자의 처우 개선과 차별 해소를 위한 국무총리 소속 '공무직위원회'가 18일 공식 출범했...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260918084300530",
+          "source": "연합뉴스",
+          "published": "2026-09-18 16:00",
+          "score": 26,
+          "keywords": [
+            "정규직",
+            "비정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "제주 내년 생활임금 시급 1만2569원…최저임금보다 17.5% ↑",
+          "lead": "제주 내년 생활임금 시급 1만2569원…최저임금보다",
+          "summary": "17.5% ↑ 뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ybkJNYUl0VVZCeXRIWnBPNTVhRHd2YlBRa1NiN3JkeXhVV3g0RFg5bnFQQ1VFaXdqQnpiWWZod08zWlVOUE9QTEJQUEg5OTJ40gFWQVVfeXFMTVZkQ29CMFhVdnZWSTNiQk5UcVQ2endMVktzZFV4WWtqSEhWajJjUXRWZ21GWEpZRF8zYzRkTkJVdTRYRUR0UzQ1ZC0tWjMtNTRJZzRkN0E?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-18 15:48",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "실업급여 부정수급 7명 적발",
+          "lead": "실업급여 부정수급 7명 적발 KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qb1FnQU1JXzRIZlZzMVdieGllZVdhdm15N1lqQUpGRWZnb0ZSaDVwWFdPdERaaVRyay12LS1SMS1wR2RpLUV2VHVXZnQwTEZfSkM0d1MtUHBNLUU?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-18 09:47",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "6~8월 홍콩 실업률 3.8%로 상승…2028년 인력 부족 13만명 전망",
+          "lead": "6~8월 홍콩 실업률 3.8%로 상승…2028년 인력 부족 13만명 전망 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zMzg0Xzl1aDJ3V0RaUjRscjJXWG84OUtsQVJlWTBPbUxhX205d1pRc0pYbTBQRGRxeE5FejJEZlp6UWlqTWxKUkE4TnZLWHNkYTg3enBGWmxKLVRkMzBCN29NbFNlQURadi00Q2lJeTAzRU1jNmtpRNIBeEFVX3lxTE9zMzg0Xzl1aDJ3V0RaUjRscjJXWG84OUtsQVJlWTBPbUxhX205d1pRc0pYbTBQRGRxeE5FejJEZlp6UWlqTWxKUkE4TnZLWHNkYTg3enBGWmxKLVRkMzBCN29NbFNlQURadi00Q2lJeTAzRU1jNmtpRA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-17 22:10",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "'유령 직원' 내세워 7년간 실업급여 5.8억 '꿀꺽'…사업주 구속",
+          "lead": "'유령 직원' 내세워 7년간 실업급여 5.8억 '꿀꺽'…사업주 구속 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWVFpQXVZQ2xiLXFXd0JqUk1YOGJWTlFTcGxQMWJXODhwQUIwTDRkUjdCczF5Q3pGWnRmRWJTd1BfR29SSlZZeHcyc0tnZ0JtMW5YSlFTMzRfbV84ZEZfNU1VeVItMVpGWXg00gFwQVVfeXFMTUxORnJKZWo4MW9wR0JscEZFZmJac25WWHRMbUpNT3pvVGdfTjk0QUp5dVhsaFNaeHpoTXZlalV6U2J6ZDlkRkt5RDB4bHdwaTBhR053d1RLeUVOZTlTbGFzWk5ic3RMQ2lFNExuQXFUSA?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-17 20:45",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "메가존클라우드, IT서비스 장애 대응 자동화 방안 제시...뉴렐릭과 공동 세미나 성료",
+          "lead": "메가존클라우드는 옵저버빌리티 플랫폼 기업 뉴렐릭과 공동으로 하루 전 서울 강남구에서 국내 기업 IT 관계자들을 위한 '프롬 코드 투 리커버리' 세미나를 열고 장애 대응 전 과정을 자동화하는 시나리오를 소개했다고 17일 밝혔다.세미나에서 제시한 자동화 시나리오는 장애 대응 과정을 ▲감지 ▲판단 ▲실행 ▲검증 ▲개선 5단계로 구분하고, 뉴렐릭·깃랩·아틀라시안·페이저듀티를 연계한 '폐쇄형 자동화 루프' 기반의 단계별 해법을 담고 있다. 폐쇄형 자동화 루프는 하나의 신호가 다음 행동을 자동으로 호출하는 시스템을 의미한다.뉴렐릭은 애플리케이",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155350",
+          "source": "테크M",
+          "published": "2026-09-18 00:20",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "클라우드"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "픽스업헬스, 재활치료에 '엠비언트 AI' 접목…진료기록·홈케어 자동화",
+          "lead": "디지털 헬스케어 기업 픽스업헬스가 인공지능(AI)을 활용해 의료진의 진료 기록과 환자 재활 관리를 자동화한다.",
+          "summary": "진료실에서 나눈 대화를 AI가 실시간으로 파악해 전자의무기록(EMR) 초안부터 환자별 재활 프로그램까지 만들어주는 방식이다.17일 픽스업헬스에 따르면 회사는 엠비언트 AI 기술을 적용한 원격 재활 치료 모니터링(RTM) 서비스 'RTM 솔루션 2.0'을 선보였다. 현재 베타 테스트를 진행하고 있으며 고도화와 안정화 작업을 거쳐 올 하반기 전체 고객사를 대상으로 순차적으로 업데이트할 예정이다.엠비언트 AI는 의료진과 환자가",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155353",
+          "source": "테크M",
+          "published": "2026-09-18 00:07",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "CJ올리브네트웍스, 하반기 신입사원 채용...'AI 역량 테스트' 신규 도입",
+          "lead": "CJ올리브네트웍스가 AI 네이티브 인재를 모집한다.CJ올리브네트웍스는 오는 30일 오후 5시까지 2026년 하반기 신입사원 공개채용 접수를 받는다고 17일 밝혔다.",
+          "summary": "모집 분야는 ▲AI ▲데이터 ▲소프트웨어 ▲디지털전환(DX) ▲전사적자원관리(ERP) ▲정보보안 ▲인프라 서비스 ▲클라우드 ▲네트워크 서비스 등 엔지니어 직무와 AI 영상 프로덕트 기획 등이다. AI 엔지니어는 생성형 AI·에이전트 기반 서비스 개발로 다양한 산업의 AI 전환(AX) 과정을 지원한다. 데이터 엔지니어는 그룹 데이터 플랫폼 구축과 운영을 담당한다. DX 엔",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155364",
+          "source": "테크M",
+          "published": "2026-09-18 01:33",
+          "score": 18,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"3일 연속 쉬니 꿀이네\" '주4일제' 시작했는데…\"어? 이게 아닌데\" 번아웃 당황",
+          "lead": "\"3일 연속 쉬니 꿀이네\" '주4일제' 시작했는데…\"어?",
+          "summary": "이게 아닌데\" 번아웃 당황 아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzLTA1OU5aRENza2tFSnB5Q3pZeXJBVUZFaHR5VU5WRjJwWGVDSmNJOVJXbFVPNkFsdGpnMnRWZVRRTmRoUkJLR1Y2SFg1aUZfT2pjOGNqbGVOYWowOG01TA?oc=5",
+          "source": "아시아경제",
+          "published": "2026-09-17 13:56",
+          "score": 17,
+          "keywords": [
+            "주4일제"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "출퇴근 없는 재택근무의 이면…하루 신체활동 58분 ↓ [바디플랜]",
+          "lead": "출퇴근 없는 재택근무의 이면…하루 신체활동 58분 ↓ [바디플랜] 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0SHpSMWxmWEpYRmdHSjAteUg3QzZIQkF2MnpobXYya3VzTmxIM2xJZmlYTFdaQWI2TzJtYzFZUThmei1WLW4wcVFEOUE2aGZMMnNOX3ZFbU5EVEt4SkxWY0UwaS01Y1dEV0NvZktBMNIBZkFVX3lxTFA4dFlHMnJMT1VkNXlaRWc3czBrN2pfTnVPQTczendjZnpCdGxKTF9SbzVoMm9JZmlqMm5KQUstMXRpNDI1bGJvUHNmQnVzTkVDbEd0aXdqM1lfSlgzem1GZ1otQnVDdw?oc=5",
+          "source": "동아일보",
+          "published": "2026-09-17 11:39",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[디지텍 고등직업교육 선도대학/동의과학대학교] AI를 모든 전공의 경쟁력으로… 미래직업교육 AI 대전환 선도",
+          "lead": "[디지텍 고등직업교육 선도대학/동의과학대학교] AI를 모든 전공의 경쟁력으로… 미래직업교육 AI 대전환 선도 한국대학신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeFRVUlZBRlpUYU5zNVdVVWJuV29jUjdSY1dUT2xCNkNpbjFRMUFUQzd4MkdsOW1nTXNrV2dHZnBFdDRjdTVuSWFiakVNQXR3N0h1TmFUUWlXdFVBVjZmZ2N5OU9qUQ?oc=5",
+          "source": "한국대학신문",
+          "published": "2026-09-18 14:47",
+          "score": 16,
+          "keywords": [
+            "미래직업",
+            "직업교육",
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[위키만평] “경력직 신입 구해요~”신입채용의 모순",
+          "lead": "[위키만평] “경력직 신입 구해요~”신입채용의 모순 위키트리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VU5iOWpSblJlWXJiV0Y1eVM3U04xaWhzWURleGE1YUJteG9FdGhYN3VUNDZkQWZ4VHlKcTdOWlJmR3c5dWFQNURTNWQ3SXRZaWZMZVJR?oc=5",
+          "source": "위키트리",
+          "published": "2026-09-17 16:15",
+          "score": 19,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\"",
+          "lead": "잡코리아 \"AI 전문직 채용공고 128% 증가...경력직 수요 두드러져\" 비욘드포스트",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTElKSVhYOFhyMjhjR2JfRXJJT016dTFvb1dWWlJQa2xVU05wa3NTb2kwVGJNSEhSQW1CSHlrbnhyYXhFTU5xcTAtUWVCSjR6b0pYTTBuX1IxTkdMQ0tJTUxHZzJqQ0dDVGJzRFhDZnRmRW12b3kyVFVkUC0?oc=5",
+          "source": "비욘드포스트",
+          "published": "2026-09-16 08:43",
+          "score": 19,
+          "keywords": [
+            "채용공고",
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "AI 직무 공고 경력직 140% 증가, 임원 헤드헌팅 의뢰도 늘었다",
+          "lead": "AI 직무 공고 경력직 140% 증가, 임원 헤드헌팅 의뢰도 늘었다",
+          "summary": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oOG5JOEJ0dGN1NXpZd0c4enFHSXRKRmNNS0tYRk1pUEtXS0lkcVBzUktJam8wZnFYVVZ4UHZkZlJMUWprWTdzcw?oc=5",
+          "source": "플래텀(Platum)",
+          "published": "2026-09-16 17:16",
+          "score": 16,
+          "keywords": [
+            "헤드헌팅",
+            "경력직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "삼성전자 동행노조, 이재용 회장 자택 앞 집회…“대화·공동교섭 촉구”",
+          "lead": "삼성전자 디바이스경험(DX)부문 직원으로 구성된 노동조합 동행(동행노조)이 이재용 삼성전자 회장과 대화를 요구했다.",
+          "summary": "동행노조는 18일 서울 용산구 한남동 이 회장 자택 앞에서 집회를 열고 “수원·서초·뉴욕 타임스퀘어에서 우리 목소리를 띄웠지만, 회사는 아직 우리와 제대로 된 대화 테이블조차 만들지 않았다”며 “회장님과 현장이 직접 이야기할 수 있는 대화 테이블을 마련해 달라”고 요청했다. 이어 DX부문이 디바이스솔루션(DS)부문과 함께 임금협상",
+          "url": "https://www.etnews.com/20260918000297",
+          "source": "전자신문",
+          "published": "2026-09-18 18:24",
+          "score": 14,
+          "keywords": [
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "신세계그룹, 10개 계열사 신입 채용...하반기 공채 특징은?",
+          "lead": "신세계그룹, 10개 계열사 신입 채용...하반기 공채 특징은?",
+          "summary": "choicenews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybzM1YmozZmVCdUx6R0VURC14anZDWmtzTDRLcEdtaDZkZEkzY3lhcl9UMVlrZWotOGYzV0lzQmJ1cVFneWtWNno5VjBaYXUyc2tReXhIU0hjeWZIVEt3d3lEbUdLSWEzcm4wUm8ydEvSAXNBVV95cUxPSHRDZDdJYjZ2WnlseVQ0aGdNVDF1RUZlYjkwYmsxSFl5OEtGZWI2eUppV19mbFBnS09iUVpnT1V6X3loV1paMi14NURTcUg3cmZ3Z3BxVTMzSnRUeU9aQVVUMzlpTzA3M1NTVG5ld0hmcnB3?oc=5",
+          "source": "choicenews.co.kr",
+          "published": "2026-09-17 09:39",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[경력채용] 휴젤, 리가켐바이오, SK케미칼, 차바이오텍, 한화제약",
+          "lead": "[경력채용] 휴젤, 리가켐바이오, SK케미칼, 차바이오텍, 한화제약 hitnews.co.kr",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaNGxQRVkyUkZHbHczOVh5OUQ1VmpjR2Z6WGRWRWxXTFlfWWFGbXZ4V0N4eTBkMVVYanBpcnNxSmRHR0ZRUWZfeTh0ekxJaU1CMUhRQ2lWbW1mb1JmQmpPTml1WGNxTlg1UkFB?oc=5",
+          "source": "hitnews.co.kr",
+          "published": "2026-09-17 06:01",
+          "score": 13,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "SK",
+            "한화"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

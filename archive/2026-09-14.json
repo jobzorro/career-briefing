@@ -1,0 +1,305 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14 09:58",
+  "stats": {
+    "collected": 1935,
+    "deduped": 1757,
+    "recent": 743,
+    "relevant": 28,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "브라이트에너지파트너스, '대한민국 일자리 으뜸기업' 선정…\"직원은 비용 아닌 핵심 자산\"",
+          "lead": "브라이트에너지파트너스(BEP)는 청년·여성 채용 확대와 전 구성원 정규직 고용 등의 성과를 인정받아 고용노동부가 주관하는 '2026 대한민국 일자리 으뜸기업'에 선정됐다고 11일 밝혔다.BEP는 지난 10일 서울 용산 피스앤파크컨벤션에서 열린 인증식에서 대통령 명의의 인증패를 받았다. 대한민국 일자리 으뜸기업은 고용증가율과 이직률, 일자리 질 개선 노력 등을 현장실사와 근로자 면담을 거쳐 평가하는 제도다.BEP가 지난해 신규 채용한 29명 가운데 15명은 만 34세 이하 청년, 10명은 여성이었다. 지난해 12월 기준 전체 구성원",
+          "summary": "",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155166",
+          "source": "테크M",
+          "published": "2026-09-12 02:01",
+          "score": 21,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "일자리 공론화 어떻게…시민 300명이 석달간 숙의해 정책제안",
+          "lead": "일자리 공론화 어떻게…시민 300명이 석달간 숙의해 정책제안 한겨레",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mRVpuTUk2VjhKdTZmRnB5R1RNcndPdVJVaXN3MjMyMWFuWVdZTUs1bmZCVDZhU2pxVzdpVEZSZGU3U0xMZF9xSzV6dGNxMGFXNlJSRElqQy1lcXk3cE0yN3JoS0M?oc=5",
+          "source": "한겨레",
+          "published": "2026-09-14 07:24",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "올해 20대 취업자 19.3만명 줄어… 외환위기후 최대폭 감소",
+          "lead": "올해 20대 취업자 19.3만명 줄어… 외환위기후 최대폭 감소 동아일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xUWh3VENGU3R6ZUFXUHFacHRWSlctVFpYVmVvZ1VmUlozc0xab1NmOFJaT1BwV2dwcy1GekREX1plRjI2eG5nMG4zMjc4OTJFcDRFcVh4MkxqZl9sMFRIbE91VmxJb0w0V0ZMYk1rcVhUZV9iQVHSAWZBVV95cUxPSkRLS2s1WDA3Nk1lV1QwLWthNkhoT196X0tZaGlaSEFuUE9GQlU0eFAwQ0hUUVJFV1ItTmJMUy1PUmQ2TE45MnN0aUlLUjduZEN2WWluS1ZmLXdmcWVOOWxfZUZoMVE?oc=5",
+          "source": "동아일보",
+          "published": "2026-09-14 00:30",
+          "score": 20,
+          "keywords": [
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "'실업률 0.8%' 역대 최저...고용 양극화 뚜렷",
+          "lead": "'실업률 0.8%' 역대 최저...고용 양극화 뚜렷 YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85ODI4cTRYMVM2OVg4YWQ2djVEVmtzUFByZFlzS1dab0RBdjhvVTFqUllVY3lyTUhSZUk0VmZhXzd0VHNkb052Wk1qdWxaSU9rMFhxOE82YjAybVBRY2c?oc=5",
+          "source": "YTN",
+          "published": "2026-09-12 04:41",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "“세대 간 일자리 충돌? 갈등 부추기는 프레이밍일 뿐”",
+          "lead": "“세대 간 일자리 충돌? 갈등 부추기는 프레이밍일 뿐” 한겨레",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GRzBDeFA5bHpoSk1VMndFbTBBREJDQ0stN2pzUE1VTzhkd2hMa3pyRWtQdEtyVTJTZXBBbXVyWDNEcTc3QVRVY3pyYVRyeFlVSEtid3FqUlhSbHpUWE5Jc0FOSHc?oc=5",
+          "source": "한겨레",
+          "published": "2026-09-14 07:33",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "오뚜기, 4년 연속 '2026 대한민국 일자리 으뜸기업'…유연근무·취약계층 고용 강화",
+          "lead": "오뚜기, 4년 연속 '2026 대한민국 일자리 으뜸기업'…유연근무·취약계층 고용 강화 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00LXFtOWN0MXdUSGtEbG1saWh3LWRHZ3ltM3FyQ09HeWhxd2g5ZUN2VW9BODc0dlUzZ29xLWROXzJ1N2NDVG5GbUJpM0NqUQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-09-11 10:24",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "인천 송도 바이오공정인력양성센터, 올해 2천528명 교육",
+          "lead": "(인천=연합뉴스) 홍현기 기자 = 인천경제자유구역청은 지난해 송도국제도시에 설립된 바이오공정인력양성센터가 올해 2천528명을 대상으로 교육 과정...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260914024200065",
+          "source": "연합뉴스",
+          "published": "2026-09-14 09:00",
+          "score": 23,
+          "keywords": [
+            "인력양성",
+            "바이오"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "\"지금 시작해도 늦다\"…800조 호남 반도체, 인재 양성 '시간 싸움'",
+          "lead": "\"지금 시작해도 늦다\"…800조 호남 반도체, 인재 양성 '시간 싸움' 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJQ2RWajJoODdGSjlpQXl3ZUtXV3Y5MkJSeW5qM2xpU2pKTlB1N3ZBdG5jeUNMc1dWQ0tXLXowOU5QZVJZdFNxUVUyWnhkYWhjMkREeXZJTmJWdEg1WXlaYm5hUzLSAWRBVV95cUxQSUNkVmoyaDg3Rko5aUF5d2VLV1d2OTJCUnluajNsaVNqSk5QdTd2QXRuY3lDTHNXVkNLVy16MDlOUGVSWXRTcVFVMlp4ZGFoYzJERHl2SU5iVnRINVl5WmJuYVMy?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-13 08:01",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "전역군인 취업지원 강화…한국기술교육대·국방전직교육원 통합",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 전역예정군인에게 보다",
+          "summary": "효과적인 직업훈련 및 취업지원서비스를 제공하기 위해 한국기술교육대와 국방전직교육원이 통합...",
+          "url": "https://www.yna.co.kr/view/AKR20260911152800530",
+          "source": "연합뉴스",
+          "published": "2026-09-13 12:00",
+          "score": 20,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "ASPN, ‘publicX’에 AI 연계… 온라인 SI ‘HOW’로 기업 DX 지원",
+          "lead": "ASPN이 SAP S/4HANA Public Cloud용 SaaS 플랫폼 publicX.net에 AI Core Capabilities를 더해 문서 요약, OCR, 전표 자동화, 자연어 조회를 지원했다.",
+          "summary": "또 온라인 SI 요청·견적 서비스 HOW로 요구사항 정의와 공수 산정을 비대면으로 전환해 DX 지원을 강화했다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260914500043",
+          "source": "서울신문",
+          "published": "2026-09-14 09:50",
+          "score": 19,
+          "keywords": [
+            "AI",
+            "DX"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "대전정보문화산업진흥원, '코디세이 AI' 1기 모집…18개월 실전형 에이전틱 AI 교육",
+          "lead": "에이전틱 AI(Agentic AI) 시대를 이끌 실전형 인재를 양성하는 교육과정이 대전에서 본격 가동된다.",
+          "summary": "교육비 부담을 낮추는 것은 물론 월 최대 100만원의 장학금과 최신 인공지능(AI) 학습 도구까지 지원해 취업·창업을 준비하는 인재들의 관심이 예상된다. 대전정보문화산업진흥원은 14일부터 실전형 에이전틱 AI 전문 인재 양성을 위한 대전 '코디세이 AI 올인원 과정' 제1기 교육생을 모집한다. '코디세이'는 동료와 소통하며 함께 성장하는",
+          "url": "https://www.etnews.com/20260914000026",
+          "source": "전자신문",
+          "published": "2026-09-14 09:11",
+          "score": 18,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "HR 플랫폼, 인재 DB 앞세워 리서치 시장 공략",
+          "lead": "인적자원(HR) 플랫폼이 방대한 인재 데이터베이스(DB)를 앞세워 리서치 시장에 진출하고 있다.",
+          "summary": "직무·직급·연차 등 검증된 커리어 데이터를 기반으로 조사 대상을 정교하게 선별하고, 인공지능(AI)으로 분석까지 자동화하며 새로운 수익 모델을 만들고 있다. 13일 업계에 따르면 원티드랩은 최근 리서치 서비스 'AI 서베이'를 출시했다. 약 380만명의 원티드 회원을 대상으로 기업이 원하는 조건에 맞춰 시장조사를 진행하는 서비스다. 정보기술(IT)·",
+          "url": "https://www.etnews.com/20260911000241",
+          "source": "전자신문",
+          "published": "2026-09-13 12:00",
+          "score": 16,
+          "keywords": [
+            "플랫폼"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "성과급 등 대기업 노사갈등 예방교육 강화…삼성전자 등 참여",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 한국고용노동교육원은 최근 '영업이익 N% 성과급' 등 대규모 민간사업장에서 발생하고 있는 노사 갈등을 예방하기...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260911141400530",
+          "source": "연합뉴스",
+          "published": "2026-09-13 12:00",
+          "score": 21,
+          "keywords": [
+            "성과급",
+            "삼성",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "“산재예방부장 개방형 직위 포함”…남부발전, 하반기 신입사원·별정직 공개 채용",
+          "lead": "대졸·고졸·별정직 76명 모집 AI리터러시 평가 도입·보듬채용 확대한국남부발전이 하반기 신입사원과 별정직 76명을 공개 채용한다.",
+          "summary": "11일 남부발전에 따르면 이번 채용은 대졸 수준 ..",
+          "url": "https://www.mk.co.kr/news/business/12150368",
+          "source": "매일경제",
+          "published": "2026-09-11 13:34",
+          "score": 17,
+          "keywords": [
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "삼성·효성·한국타이어 채용 시계…신입 공채 마감일 줄이어",
+          "lead": "삼성·효성·한국타이어 채용 시계…신입 공채 마감일 줄이어 kdfnews.com",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZGMzTHFNRmdVRS1lUzRLRDNteVBpYXpMRS0yY3plQWhRMF85YXM3LVZjMWVjVjRWRjhkQXZyUkF3UElyX24zdG1CLWZJNnFRNEs5dlhwVFVKUkVYMWk4OVBVazF6cXZLTGc?oc=5",
+          "source": "kdfnews.com",
+          "published": "2026-09-11 13:48",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "샌디스크, 韓 엔지니어 채용 확대…낸드 인재 쟁탈전 가열",
+          "lead": "샌디스크, 韓 엔지니어 채용 확대…낸드 인재 쟁탈전 가열 v.daum.net",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RY0ZjZmVoTWdiUmRDSTk5alJmZl9PQ3ZsdWZLR3R6dmpXRkdYMHpWTzdfd2NzOHdvUTZCdzQ5VjJhMmpWODdqT0xIR3dxWmJBZlhiSA?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-13 08:56",
+          "score": 10,
+          "keywords": [
+            "채용 확대",
+            "채용",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼성, 19개 계열사 하반기 공채 시작... 일정은?",
+          "lead": "삼성, 19개 계열사 하반기 공채 시작...",
+          "summary": "일정은? 금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81UWhCRXdmOEhtX2IwSk9kSVZZVTVyLVFaTW1Ga3d5ZndWTXJMdmxfRWhFNTJxNTZEU3diaVN0S2JUQ0R3X1lFSDFLemxJZk1rMlVvUVNsUXFXV2NGYzM3VjEzUXhhS1VOcnc?oc=5",
+          "source": "금강일보",
+          "published": "2026-09-11 16:40",
+          "score": 10,
+          "keywords": [
+            "공채",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "‘80년생 컷’ 경력채용 지침에…한화에어로 대표, ‘엄중경고’",
+          "lead": "‘80년생 컷’ 경력채용 지침에…한화에어로 대표, ‘엄중경고’ v.daum.net",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZemRhYW1Rb1M2RENaSG1vLUQ1a0NaUTlFSHdjMnVPdnlpVm9selRnUUVlbkJ6NDBUTWhKLVZZWE1pSTBCOXc?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-11 16:03",
+          "score": 10,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

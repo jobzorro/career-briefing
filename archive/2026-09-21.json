@@ -1,0 +1,299 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21 11:11",
+  "stats": {
+    "collected": 1937,
+    "deduped": 1774,
+    "recent": 769,
+    "relevant": 32,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "반도체 성장해도 청년 일자리는 줄었다··· 신규 채용 8년 새 22% 감소",
+          "lead": "반도체 제조업의 호황에도 불구하고 신규 채용 일자리는 8년 사이 22%가량 줄어든 것으로 나타났다.",
+          "summary": "관련 일자리 자체는 역대 최대치를 기록했지만, 이러한 산업 성장의 성과가 청년 등 신규 인력의 진입 기회로는 온전히 이어지지 않는 것으로 풀이된다. 20일 국가데이터처 국가통계포털(KOSIS)의 ‘일자리 형태별 산업별 임금근로 일자리’ 통계를 보면, 올...",
+          "url": "https://www.khan.co.kr/article/202609201521001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-20 15:21",
+          "score": 22,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "외국인 실업급여 1100억 넘게 탔다, 역대 최고…10명 중 8명이 ‘중국 동포·중국인’",
+          "lead": "외국인 실업급여 1100억 넘게 탔다, 역대 최고…10명 중 8명이 ‘중국 동포·중국인’ 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPdHhRX3l6T1Y3bVFrNWZmSC1ZZE1ZWGppd2FPTFB0TmtMSVh5Z3NKUDVQN1RfNGI2WXcyb2tmUldQVlU3VmtULXR6Mjc1SzhJQUJsV2t3?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-21 09:58",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "부산형 청년 일자리 정책, 첫 경력 12개월 지원",
+          "lead": "(부산=연합뉴스) 김선호 기자 = 부산시는 21일 오후 청년두드림센터에서 '부산청년 첫 경력 일자리 공감 토크'를 연다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260921014700051",
+          "source": "연합뉴스",
+          "published": "2026-09-21 08:02",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "외국인 실업급여 1134억 역대 최대…지급액 10건 중 8건은 중국계",
+          "lead": "외국인 실업급여 1134억 역대 최대…지급액 10건 중 8건은 중국계 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YOTJWMUNwc24yWEwtdW52cDN5NG5ybklycVJpaVBhSDNyT3lHdmlMdEZoRlgxV1ZuMktVNWphMlBiV1h4T2p1UzB0NE5sMDVnb0djWjlR?oc=5",
+          "source": "중앙일보",
+          "published": "2026-09-20 14:03",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "제주 내년 생활임금 시급 1만2569원…최저임금보다 17.5% ↑",
+          "lead": "제주 내년 생활임금 시급 1만2569원…최저임금보다",
+          "summary": "17.5% ↑ 뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ybkJNYUl0VVZCeXRIWnBPNTVhRHd2YlBRa1NiN3JkeXhVV3g0RFg5bnFQQ1VFaXdqQnpiWWZod08zWlVOUE9QTEJQUEg5OTJ40gFWQVVfeXFMTVZkQ29CMFhVdnZWSTNiQk5UcVQ2endMVktzZFV4WWtqSEhWajJjUXRWZ21GWEpZRF8zYzRkTkJVdTRYRUR0UzQ1ZC0tWjMtNTRJZzRkN0E?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-18 15:48",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "이억원 \"내년 청년예산 2.1조원…자산·일자리·주거 지원\"",
+          "lead": "(서울=연합뉴스) 강류나 기자 = 이억원 금융위원장은 청년층이 취업 및 자산 형성에서 어려움을 겪고 있다며, \"내년 청년 지원 예산을 약 2조1...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260921050200002",
+          "source": "연합뉴스",
+          "published": "2026-09-21 10:00",
+          "score": 17,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[포토] 액체 처리 자동화 플랫폼은",
+          "lead": "제약·바이오헬스와 연구·실험분석장비, 첨단재생의료 분야의 기업과 기술을 한자리에서 살펴볼 수 있는 코리아 라이프사이언스 위크 2026이 21일 서울 강남구 코엑스에서 열렸다.",
+          "summary": "참관객이 바이오닉스 부스에서 액체 처리 자동화 플랫폼을 살펴보고 있다.",
+          "url": "https://www.etnews.com/20260921000159",
+          "source": "전자신문",
+          "published": "2026-09-21 10:55",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "플랫폼"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "동남권 산업 AX 이끌 AI 실전인재 양성…'경남 코디세이 AI 올인원' 1기 모집",
+          "lead": "대한민국 제조업 중심지 경남에서 인공지능(AI) 기술로 산업 현장의 AI 전환(AX)을 주도할 실무형 AI 인재 양성 사업이 본격화한다.",
+          "summary": "경상남도와 경남테크노파크는 오는 30일까지 '경남 코디세이(Codyssey) AI 올인원 과정' 1기 교육생을 모집한다. 지원 대상은 AI 분야에 관심 있는 대한민국 국적자로서 민법상 성인이거나 고등학교 졸업 이상 학력을 갖춘 사람이다. 전공이나 경력과 관계없이 지원할 수 있다. 이번 모집을 통해 입학연수 참",
+          "url": "https://www.etnews.com/20260918000063",
+          "source": "전자신문",
+          "published": "2026-09-20 13:00",
+          "score": 21,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "“박사급 핵심인력 부족”…韓 양자 패권 경쟁, 인재 확보가 관건",
+          "lead": "“박사급 핵심인력 부족”…韓 양자 패권 경쟁, 인재 확보가 관건 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42MzI1Vk5QTllZVGRhTlI5eUdOVXlQTlNDRFYtMGp6aFlaSGpkbzZmWjg1b3FvenZFQzlSOGVMUjVDMnB4YTVBMDdZbDVodVZqV0NTTXhB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-21 10:40",
+          "score": 17,
+          "keywords": [
+            "인재 확보"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[디지텍 고등직업교육 선도대학/동의과학대학교] AI를 모든 전공의 경쟁력으로… 미래직업교육 AI 대전환 선도",
+          "lead": "[디지텍 고등직업교육 선도대학/동의과학대학교] AI를 모든 전공의 경쟁력으로… 미래직업교육 AI 대전환 선도 한국대학신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeFRVUlZBRlpUYU5zNVdVVWJuV29jUjdSY1dUT2xCNkNpbjFRMUFUQzd4MkdsOW1nTXNrV2dHZnBFdDRjdTVuSWFiakVNQXR3N0h1TmFUUWlXdFVBVjZmZ2N5OU9qUQ?oc=5",
+          "source": "한국대학신문",
+          "published": "2026-09-18 14:47",
+          "score": 16,
+          "keywords": [
+            "미래직업",
+            "직업교육",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "에릭슨, AI로 통신망 자율화 속도…“L4 전환 지원”",
+          "lead": "에릭슨이 인공지능(AI)을 네트워크 운영 전반에 적용해 통신망의 자율성을 높인다.",
+          "summary": "장애 대응과 품질 최적화 등 주요 운영 업무를 자동화하고, 장기적으로 사람의 개입을 최소화한 자율 네트워크(AN)를 구현한다는 구상이다. 토마스 킨만 에릭슨 AI·자동화 개발 총괄은 최근 전자신문과 인토뷰에서 “에릭슨 사업은 통신사업자가 L4로 가는 데 필요한 소프트웨어와 제품을 지원하는 것”이라며 “현재 제공하는 솔루션 대부분은 이미 L4를 지원할 수 있는 상태",
+          "url": "https://www.etnews.com/20260921000166",
+          "source": "전자신문",
+          "published": "2026-09-21 10:59",
+          "score": 15,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "LG, AI '원LG' 행보 강화...구광모 대표 \"미래 경쟁력 핵심\"",
+          "lead": "LG가 인공지능(AI) 행보를 가속했다.",
+          "summary": "LG는 구광모 LG 대표가 AI를 강조하고 있다. 구 대표는 지난 16일 LG 사장단 회의에서 \"AI는 더 이상 선택적으로 대응할 수 있는 영역이 아니라 미래 경쟁력을 좌우하는 핵심 축\"이라고 평가했다.20일 LG는 AI 인재 양성과 사업을 강화한다고 밝혔다.LG는 그룹 전체가 AI 주도권을 잡기 위해 뛰고 있다. LG는 AI 개발과 인재 등에 집중하고 계열사는 사업화에 초점을 맞추는 구조다. LG AI연구원은 '엑사원'으로 국내 소버린(주권) AI를 이끌고 있다. 전 국민 1개 AI 에이전",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155413",
+          "source": "테크M",
+          "published": "2026-09-20 20:05",
+          "score": 15,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "반도체 성과급, 직장인 평균 월급 3% 끌어올렸다",
+          "lead": "반도체 호황에 따른 성과급 인상으로 올해 상반기 직장인 평균 임금이 3.1% 올랐다.",
+          "summary": "특별급여는 역대 최대를 기록했고, 전자·통신업 임금이 크게 뛰며 전체 상승을 이끌었다. 대기업과 중소기업의 임금 격차도 더 확대됐다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260921032003",
+          "source": "서울신문",
+          "published": "2026-09-20 21:40",
+          "score": 22,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "호반그룹, 신입사원 공채 실시…미래 성장 이끌 인재 찾는다",
+          "lead": "호반그룹이 2027년도 신입사원 공개채용에 나섰다.",
+          "summary": "건설·제조·유통·레저 계열에서 세 자릿수 규모를 채용하고, 그룹인재·글로벌인재·주니어프로 전형을 운영한다. AI 오픈 인터뷰로 사고력과 문제해결 역량도 검증한다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260921500015",
+          "source": "서울신문",
+          "published": "2026-09-21 08:48",
+          "score": 21,
+          "keywords": [
+            "공채",
+            "신입",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "N% 성과급 주도 삼전 노조… \"이젠 DS직원만 가입받겠다\"",
+          "lead": "지난 5월 N% 성과급 주장과 함께 삼성전자 임금협상을 주도했던 초기업노동조합 삼성전자지부(이하 초기업노조)가 DS(반도체)부문 조합으로 재편된다.",
+          "summary": "DS부문 중심의 성과급 지급안을..",
+          "url": "https://www.mk.co.kr/news/business/12157530",
+          "source": "매일경제",
+          "published": "2026-09-20 17:19",
+          "score": 21,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "부산은행·경남은행 신입 행원 공채…'통합직군' 채용",
+          "lead": "(부산=연합뉴스) 오수희 기자 = BNK금융그룹은 부산은행과 경남은행 하반기 신입 행원을 공개 채용한다고 21일 밝혔다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260921069200051",
+          "source": "연합뉴스",
+          "published": "2026-09-21 10:51",
+          "score": 20,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "\"농어촌공사·aT, 위탁교육 직원에 5년간 급여·성과급 107억원\"",
+          "lead": "(홍성=연합뉴스) 김준범 기자 = 한국농어촌공사와 한국농수산식품유통공사(aT)가 최근 5년간 위탁교육을 받은 직원 135명에게 급여와 성과급으로...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260921057300063",
+          "source": "연합뉴스",
+          "published": "2026-09-21 10:12",
+          "score": 20,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"추석엔 이직 준비\" 명절후 첫 월요일 이력서 등록 49%↑",
+          "lead": "(서울=연합뉴스) 김민지 기자 = 명절 연휴에 이직 등 새로운 커리어 준비에 나서는 직장인들이 늘어나는 것으로 나타났다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260921036500003",
+          "source": "연합뉴스",
+          "published": "2026-09-21 09:17",
+          "score": 20,
+          "keywords": [
+            "이직"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

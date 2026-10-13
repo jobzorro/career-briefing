@@ -1,0 +1,282 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20 08:11",
+  "stats": {
+    "collected": 1923,
+    "deduped": 1752,
+    "recent": 800,
+    "relevant": 37,
+    "published": 17,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[올댓차이나] 8월 中 청년실업률 18.9%…1년 만에 최고",
+          "lead": "[올댓차이나] 8월 中 청년실업률 18.9%…1년 만에 최고 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EWGs4dklMTS04WHpCVkNwcWhkNGYtRE4tQm9zVDd5d2VYZVpSbkFXTjBRaEh6ajBPR09aRXYzaUN3Z0ZXWVJjbEZTaDhfcm4yVHlqQVRhcFJqZ1FfSnBxVdIBeEFVX3lxTE8yLTZuUndmR19CY3hzYkgtRmRDSjd5Q1c3aTdVRExjSno1QzhBc29fbTNrRENLamxHQm1leWhpX3BmU0lUZDUzSHB0OEpqeWhRN0ZNRHU0bW1Vc2lVWkxSU2hMc000VFZRbVpZblFlVTBnUGtFbEtaZA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-17 21:08",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "청년실업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "공공부문 비정규직 처우 논의 '공무직위' 출범…법정기구로 격상",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 공공 부문 비정규직 노동자의 처우 개선과 차별 해소를 위한 국무총리 소속 '공무직위원회'가 18일 공식 출범했...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260918084300530",
+          "source": "연합뉴스",
+          "published": "2026-09-18 16:00",
+          "score": 26,
+          "keywords": [
+            "정규직",
+            "비정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "반도체 제조업 일자리 8년새 15% 늘었지만…신규채용은 22%↓",
+          "lead": "(세종=연합뉴스) 안채원 기자 = 반도체 제조업의 임금근로 일자리가 8년 새 15% 가까이 늘며 역대 최대치를 기록했지만, 신규채용 일자리는 2...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260919046000002",
+          "source": "연합뉴스",
+          "published": "2026-09-20 05:47",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "제주 내년 생활임금 시급 1만2569원…최저임금보다 17.5% ↑",
+          "lead": "제주 내년 생활임금 시급 1만2569원…최저임금보다",
+          "summary": "17.5% ↑ 뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ybkJNYUl0VVZCeXRIWnBPNTVhRHd2YlBRa1NiN3JkeXhVV3g0RFg5bnFQQ1VFaXdqQnpiWWZod08zWlVOUE9QTEJQUEg5OTJ40gFWQVVfeXFMTVZkQ29CMFhVdnZWSTNiQk5UcVQ2endMVktzZFV4WWtqSEhWajJjUXRWZ21GWEpZRF8zYzRkTkJVdTRYRUR0UzQ1ZC0tWjMtNTRJZzRkN0E?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-18 15:48",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "실업급여 부정수급 7명 적발",
+          "lead": "실업급여 부정수급 7명 적발 KBS 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qb1FnQU1JXzRIZlZzMVdieGllZVdhdm15N1lqQUpGRWZnb0ZSaDVwWFdPdERaaVRyay12LS1SMS1wR2RpLUV2VHVXZnQwTEZfSkM0d1MtUHBNLUU?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-09-18 09:47",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "6~8월 홍콩 실업률 3.8%로 상승…2028년 인력 부족 13만명 전망",
+          "lead": "6~8월 홍콩 실업률 3.8%로 상승…2028년 인력 부족 13만명 전망 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zMzg0Xzl1aDJ3V0RaUjRscjJXWG84OUtsQVJlWTBPbUxhX205d1pRc0pYbTBQRGRxeE5FejJEZlp6UWlqTWxKUkE4TnZLWHNkYTg3enBGWmxKLVRkMzBCN29NbFNlQURadi00Q2lJeTAzRU1jNmtpRNIBeEFVX3lxTE9zMzg0Xzl1aDJ3V0RaUjRscjJXWG84OUtsQVJlWTBPbUxhX205d1pRc0pYbTBQRGRxeE5FejJEZlp6UWlqTWxKUkE4TnZLWHNkYTg3enBGWmxKLVRkMzBCN29NbFNlQURadi00Q2lJeTAzRU1jNmtpRA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-17 22:10",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "CJ올리브네트웍스, 하반기 신입사원 채용...'AI 역량 테스트' 신규 도입",
+          "lead": "CJ올리브네트웍스가 AI 네이티브 인재를 모집한다.CJ올리브네트웍스는 오는 30일 오후 5시까지 2026년 하반기 신입사원 공개채용 접수를 받는다고 17일 밝혔다.",
+          "summary": "모집 분야는 ▲AI ▲데이터 ▲소프트웨어 ▲디지털전환(DX) ▲전사적자원관리(ERP) ▲정보보안 ▲인프라 서비스 ▲클라우드 ▲네트워크 서비스 등 엔지니어 직무와 AI 영상 프로덕트 기획 등이다. AI 엔지니어는 생성형 AI·에이전트 기반 서비스 개발로 다양한 산업의 AI 전환(AX) 과정을 지원한다. 데이터 엔지니어는 그룹 데이터 플랫폼 구축과 운영을 담당한다. DX 엔",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155364",
+          "source": "테크M",
+          "published": "2026-09-18 01:33",
+          "score": 18,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "\"4.5일제부터 재택근무·안식년까지\" 사람 중심 한국필립모리스[유통家화만사성]",
+          "lead": "\"4.5일제부터 재택근무·안식년까지\" 사람 중심 한국필립모리스[유통家화만사성] 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXWHRmbDhjQzB6UFJHUlk1T0h1YlBtUFZXQTlWYlVWQVFGb0hIeUFKY0FBRGh3OHJ4WkxLOU9PWXBMdnByZW9UNUJFX2FxLWlvOXRITExLNlo3MmkwalE0UGZ2YlNwS3FaTGQ4ajhWclZ3RGs1WFVFdtIBeEFVX3lxTFBXWHRmbDhjQzB6UFJHUlk1T0h1YlBtUFZXQTlWYlVWQVFGb0hIeUFKY0FBRGh3OHJ4WkxLOU9PWXBMdnByZW9UNUJFX2FxLWlvOXRITExLNlo3MmkwalE0UGZ2YlNwS3FaTGQ4ajhWclZ3RGs1WFVFdg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-20 07:00",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"3일 연속 쉬니 꿀이네\" '주4일제' 시작했는데…\"어? 이게 아닌데\" 번아웃 당황",
+          "lead": "\"3일 연속 쉬니 꿀이네\" '주4일제' 시작했는데…\"어?",
+          "summary": "이게 아닌데\" 번아웃 당황 아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzLTA1OU5aRENza2tFSnB5Q3pZeXJBVUZFaHR5VU5WRjJwWGVDSmNJOVJXbFVPNkFsdGpnMnRWZVRRTmRoUkJLR1Y2SFg1aUZfT2pjOGNqbGVOYWowOG01TA?oc=5",
+          "source": "아시아경제",
+          "published": "2026-09-17 13:56",
+          "score": 17,
+          "keywords": [
+            "주4일제"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[디지텍 고등직업교육 선도대학/동의과학대학교] AI를 모든 전공의 경쟁력으로… 미래직업교육 AI 대전환 선도",
+          "lead": "[디지텍 고등직업교육 선도대학/동의과학대학교] AI를 모든 전공의 경쟁력으로… 미래직업교육 AI 대전환 선도 한국대학신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeFRVUlZBRlpUYU5zNVdVVWJuV29jUjdSY1dUT2xCNkNpbjFRMUFUQzd4MkdsOW1nTXNrV2dHZnBFdDRjdTVuSWFiakVNQXR3N0h1TmFUUWlXdFVBVjZmZ2N5OU9qUQ?oc=5",
+          "source": "한국대학신문",
+          "published": "2026-09-18 14:47",
+          "score": 16,
+          "keywords": [
+            "미래직업",
+            "직업교육",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[ET톡] 삼성전자, 내부 기강 다잡아야 '초격차' 지킨다",
+          "lead": "“삼성 내부 긴장이 완전히 풀린 것 같습니다” 최근 만난 삼성전자 전직 임원이 내부 사정을 바라보며 한 말이다.",
+          "summary": "디바이스솔루션(DS)부문 일부 직원의 주거 지원금 부정 수급 의혹과 노조 지도부 특혜 논란 등 잡음이 잇따르고 있기 때문이다. 인공지능(AI) 반도체 특수로 삼성전자 실적은 분기마다 역대 최대치를 경신하고 있지만, 내부 통제 시스템과 긴장감은 외형 성장에 미치지 못하고 있다는 지적이다. 실제로 삼성전자 내부에서는 DS부문 대규모 성과",
+          "url": "https://www.etnews.com/20260918000242",
+          "source": "전자신문",
+          "published": "2026-09-19 06:00",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "제주대·제주드림타워 협력체계 구축…발전기금 1억원 전달",
+          "lead": "(제주=연합뉴스) 백나용 기자 = 제주대학교와 제주드림타워복합리조트가 산학협력과 지역 인재 양성을 위한 협력체계 구축에 나섰다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260918106500056",
+          "source": "연합뉴스",
+          "published": "2026-09-18 14:04",
+          "score": 14,
+          "keywords": [],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[위키만평] “경력직 신입 구해요~”신입채용의 모순",
+          "lead": "[위키만평] “경력직 신입 구해요~”신입채용의 모순 위키트리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VU5iOWpSblJlWXJiV0Y1eVM3U04xaWhzWURleGE1YUJteG9FdGhYN3VUNDZkQWZ4VHlKcTdOWlJmR3c5dWFQNURTNWQ3SXRZaWZMZVJR?oc=5",
+          "source": "위키트리",
+          "published": "2026-09-17 16:15",
+          "score": 19,
+          "keywords": [
+            "신입채용",
+            "경력직",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "취준생 몰리던 '네카오'…공채 멈추고 취업문 좁아지나",
+          "lead": "(서울=연합뉴스) 한상용 기자 = 국내 양대 플랫폼 기업인 네이버와 카카오[035720]는 이른바 '네카오'로 불리며 대졸 취업준비생과 정보기술...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260918167700017",
+          "source": "연합뉴스",
+          "published": "2026-09-20 06:15",
+          "score": 16,
+          "keywords": [
+            "공채"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "신세계그룹, 10개 계열사 신입 채용...하반기 공채 특징은?",
+          "lead": "신세계그룹, 10개 계열사 신입 채용...하반기 공채 특징은?",
+          "summary": "초이스경제",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybzM1YmozZmVCdUx6R0VURC14anZDWmtzTDRLcEdtaDZkZEkzY3lhcl9UMVlrZWotOGYzV0lzQmJ1cVFneWtWNno5VjBaYXUyc2tReXhIU0hjeWZIVEt3d3lEbUdLSWEzcm4wUm8ydEvSAXNBVV95cUxPSHRDZDdJYjZ2WnlseVQ0aGdNVDF1RUZlYjkwYmsxSFl5OEtGZWI2eUppV19mbFBnS09iUVpnT1V6X3loV1paMi14NURTcUg3cmZ3Z3BxVTMzSnRUeU9aQVVUMzlpTzA3M1NTVG5ld0hmcnB3?oc=5",
+          "source": "초이스경제",
+          "published": "2026-09-17 09:39",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "정수기로 갈고닦은 동남아 20년…코웨이, 대형가전으로 판 키운다",
+          "lead": "말레이시아와 태국 등 동남아에서 렌탈 사업이 빠르게 성장하자 주력 상품인 정수기·공기청정기를 넘어 대형가전으로 영역을 넓히는 모습이다.",
+          "summary": "이번 대형가전 관련 채용은 국내보다 해외 시장을 겨냥했다는 게 코웨이의 설명이다.",
+          "url": "https://www.mt.co.kr/living/2026/09/20/2026091511450848799",
+          "source": "머니투데이",
+          "published": "2026-09-20 08:00",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[경력채용] JW신약, 경보제약, 대웅제약, SK바사, 종근당바이오",
+          "lead": "[경력채용] JW신약, 경보제약, 대웅제약, SK바사, 종근당바이오 히트뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qMnRwaE1NNDliNXlmUnA3T1ZWVFdZT3NHT2R5WUd5QUJQbG1JSENwQXprWXY3Sjd4Zm9iYlF3YmpzRlRqOFpQY3prQ2J4TnBSQ3hpOFBXdFRlZU5EMjJBN2pNMFRwMktfellz?oc=5",
+          "source": "히트뉴스",
+          "published": "2026-09-17 16:00",
+          "score": 10,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "SK"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

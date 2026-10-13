@@ -1,0 +1,80 @@
+# 매일 아침 커리어 브리핑을 만들어 GitHub Pages에 올린다.
+#   수집(collect_news.py) -> 사이트 생성(build_site.py) -> archive 커밋 -> Pages 배포
+# 수집이 실패하면(기사 0건 등) 배포하지 않고, 이슈를 열어 알린다. 어제 지면은 그대로 남는다.
+
+name: daily-briefing
+
+on:
+  schedule:
+    - cron: "0 23 * * *"     # UTC 23:00 = 한국시간 08:00 (GitHub 사정으로 수십 분 늦을 수 있음)
+  workflow_dispatch:          # Actions 탭에서 "Run workflow"로 수동 실행
+
+permissions:
+  contents: write             # archive 커밋
+  pages: write                # Pages 배포
+  id-token: write
+  issues: write               # 실패 알림 이슈
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+env:
+  TZ: Asia/Seoul              # 날짜(archive/YYYY-MM-DD.json)를 한국 기준으로
+  PYTHONIOENCODING: utf-8
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 뉴스 수집 + AI 브리핑
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+        run: python collect_news.py --top 6
+
+      - name: 사이트 생성
+        run: python build_site.py
+
+      - name: 아카이브 커밋 (주간·월간 랭킹과 검색의 원천)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive
+          git diff --cached --quiet || git commit -m "briefing: $(date +%F)"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: 실패 알림
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "브리핑 생성 실패 $(date +%F)" \
+            --body "자동 실행이 실패했습니다. 로그: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

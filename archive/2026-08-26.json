@@ -1,0 +1,310 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26 09:46",
+  "stats": {
+    "collected": 1938,
+    "deduped": 1797,
+    "recent": 851,
+    "relevant": 49,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "장기수 천안시장, 역대 최고 고용지표 받았다...고용률 70.3%, ‘AI 일자리’로 이어가",
+          "lead": "장기수 천안시장, 역대 최고 고용지표 받았다...고용률 70.3%, ‘AI 일자리’로 이어가 뉴스프리존",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZGJnbG5aa0l2VDZuX3o1VTU0YTdjR1R4RnZwbFZxX2tPM3lRa1NtcVFaWjBFamRmYzE0VGJfb2p1aHBXOTNRSnFEa0RkRzVMNm44bEZQWmdFdzQ4dXdXcEVaQ3lpaVJkT25UVkVVZG5jUGfSAXdBVV95cUxPN0NOSXhDdUp3d0RyTU91Y0VwNUxkeUxjQ0FXRVJWTWRndWpFSy10Zlk5TngyWFpHeXBvYXhwTlpsbHZBdUx0eTNXMk5CSnpybGNxQm1pX0tadFBXR1J5UE10M1ZlNUEyV0ZoTlZvekpUN2JGMWlKbw?oc=5",
+          "source": "뉴스프리존",
+          "published": "2026-08-24 17:36",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "고용지표",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "美 실업률 4.1%라더니…\"근로자 4명 중 1명 사실상 실업자\"",
+          "lead": "美 실업률 4.1%라더니…\"근로자 4명 중 1명 사실상 실업자\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83eDFiMWItcElOcWdISlRkUHpmMEFBZDhua1NXdTUyMFkxWHdmSVZkQThobjVWbHBwUHZGTXUzcGZtNFpNMU1mNU1QemNlTy0zSHVkVVdOUGltSWJUVWhDdWtPbDFrWG9faFFsSGNNczYwQ1hsdW93TNIBeEFVX3lxTE83eDFiMWItcElOcWdISlRkUHpmMEFBZDhua1NXdTUyMFkxWHdmSVZkQThobjVWbHBwUHZGTXUzcGZtNFpNMU1mNU1QemNlTy0zSHVkVVdOUGltSWJUVWhDdWtPbDFrWG9faFFsSGNNczYwQ1hsdW93TA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-25 17:24",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "실업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "울산항만공사, 비정규직 근로·임금 개선 \"고용 불안정 해소\"",
+          "lead": "(울산=연합뉴스) 김용태 기자 = 울산항만공사는 공공부문 비정규직 고용 불안정을 해소하고자 '비정규직 근로 및 임금 조건 개선' 계획을 수립해 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260825142800057",
+          "source": "연합뉴스",
+          "published": "2026-08-25 16:22",
+          "score": 26,
+          "keywords": [
+            "정규직",
+            "비정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "울산항만공사, 비정규직 임금 하한 최저임금 118%로 높인다",
+          "lead": "울산항만공사, 비정규직 임금 하한 최저임금 118%로 높인다",
+          "summary": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQUlmY1JQZmxRT2pYNl9VMFpITTNsMGtIM0ZXVWp5bjE3ak5pQ0x3NUJfVXVvWUt1c1V0S1ByaU9CZWJJaE1DQTZ1NEcxX25JWV8w?oc=5",
+          "source": "네이트",
+          "published": "2026-08-25 16:46",
+          "score": 25,
+          "keywords": [
+            "최저임금",
+            "정규직",
+            "비정규직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "천안시 고용률 70.3% 최고치 경신…실업률은 1.8%로 하락",
+          "lead": "천안시 고용률 70.3% 최고치 경신…실업률은 1.8%로 하락 뉴스티앤티",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMEFDOF81VGVlRjM0UVNTX2dZQ0c1T3Nkd3E5TE5pbkZXNFZObWN6V0hBUG9xa0xtMHJPM0VLZFZuWnlhVnJ3LV9tUl9TdDg4Q3oyMkFPTXhrZGpLVTM4N0k0OGJzTTR6M2c?oc=5",
+          "source": "뉴스티앤티",
+          "published": "2026-08-24 16:53",
+          "score": 25,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "구미대 대학일자리플러스센터, 지역 3개 대학 연합캠프 운영",
+          "lead": "구미대학교 대학일자리플러스센터가 지난 24~25일 금오공과대학교, 경운대학교, 구미고용복지플러스센터와 함께 '2026년 구미지역 대학일자리플러스센터 연합캠프'를 운영했다고 26일 밝혔다.",
+          "summary": "",
+          "url": "https://www.mt.co.kr/policy/2026/08/26/2026082609134097357",
+          "source": "머니투데이",
+          "published": "2026-08-26 09:24",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "[반도체 인재양성 산실]국립목포대 화합물반도체센터, AI·전기차·국방·우주 등 차세대 산업 견인",
+          "lead": "[반도체 인재양성 산실]국립목포대 화합물반도체센터, AI·전기차·국방·우주 등 차세대 산업 견인 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Td0xWbzFObl82aFgzUW5waW10SWVfbUtOb0l4N09SeWt5RVVZT0JZaXAzaURYMjh6NUxBbHBXbFBkTnA1cEIyenhYZGJ1dw?oc=5",
+          "source": "전자신문",
+          "published": "2026-08-24 14:00",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대",
+          "lead": "정부, 탄자니아 AI 인재양성에 1.7억달러 지원…국내기업 진출 확대 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MUtaMHNRdzlqcmxRaXN4M1VyVll1alM3M2pPeGY5NUk0MzVSc1Q5UFZLZ3RHRGFHZ2ZIX2hnWGdXQXozWUVZTERwYmpfLXMtMzF1WktMOTNzVDkxTl92adIBeEFVX3lxTE9nNm92S0EyN1hibFE0SGc1dEt1cWhuSW5QR2tRbHl5YmNVRTlIY2IwWFp1a25wWWlDaVZjU1I5bHF6SjgtR1hab1p4bGVQNlRXV0xvSVFEQk5XXzdHd0RQUHpPWmd5WlBKbHluMXprRnJ3d1Iyd2c0ag?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-23 12:00",
+          "score": 23,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "인천에 AI·SW 인재양성 거점 'ICT콤플렉스' 문 열었다",
+          "lead": "(서울=연합뉴스) 박형빈 기자 = 과학기술정보통신부는 한국교직원공제회 인천회관에서 인천지역 AI·SW 인재 양성의 거점이 될 '인천 ICT콤플렉...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260825071500017",
+          "source": "연합뉴스",
+          "published": "2026-08-25 16:00",
+          "score": 20,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "부영그룹 창신대, 디노코어와 산학협력…AI 실무인재 양성",
+          "lead": "부영그룹 창신대, 디노코어와 산학협력…AI 실무인재 양성 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PMzhQVWhTR0JJWGlDRzhLdE9iZ0xpVGtrTGxYZnJaNzFRV2Q2Z3VIY2ZUMVdrMVpUMHdXMzNzOTdyY2IxX3RtdjhMbjc1X25WOVNJemprU1M2Z2RsQ2ItWtIBeEFVX3lxTE9KZ1VZckgya08wZnpiVWlVME10MUZjVnlQb1hxUS1KTThmc0hnTU5pNEYyMHlyUGNJSUhKdlZpU3ExLWVTeU1PZTViRW1VcXAzLVRBeC1nMmNJVjVGajVTeVZvTzc2YllVOVNqNWlKc3FRbHhwQnh6UA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-24 11:12",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[AI픽] SK AX·SAP, 'AI 경영 자동화' 동맹…글로벌 공략",
+          "lead": "(서울=연합뉴스) 한상용 기자 = SK AX가 독일 소프트웨어 기업 SAP와 인공지능(AI) 기반 기업자원관리(ERP) 사업 협력을 강화한다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260825157900017",
+          "source": "연합뉴스",
+          "published": "2026-08-26 08:30",
+          "score": 18,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "카카오AI 첫 이사진에 전직 과기정통부 장관·국세청장 합류",
+          "lead": "(서울=연합뉴스) 한상용 기자 = 카카오[035720]가 인적 분할로 신설하는 인공지능(AI) 사업회사 카카오AI의 초대 이사진에 임혜숙 전 과...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260825147700017",
+          "source": "연합뉴스",
+          "published": "2026-08-25 16:40",
+          "score": 18,
+          "keywords": [
+            "전직",
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "현대차 노사, 성과급 400%+1270만원 잠정합의",
+          "lead": "임협 넉달만에…31일 투표月 기본급 10만원 올리기로기아도 잠정합의, 28일 투표",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12136042",
+          "source": "매일경제",
+          "published": "2026-08-25 17:44",
+          "score": 25,
+          "keywords": [
+            "성과급",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "SK하이닉스 ‘성과급 60% 자사주’ 잠정안 부결…사무직은 가결",
+          "lead": "SK하이닉스 노사가 성과급 일부를 주식으로 지급하도록 한 ‘2026년도 임금 및 단체협약 잠정 합의안’이 부결됐다.",
+          "summary": "이에 따라 노사는 재협상에 돌입할 것으로 보인다. 25일 업계에 따르면 이날 오전까지 SK하이닉스 전임직(생산직) 노조가 노사 잠정 합의안을 조합원 대상 전자투표에 부친 결과, 반대표가 50.08%로 찬성(49.92%)보다 많이 나왔다....",
+          "url": "https://www.khan.co.kr/article/202608251801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-08-25 18:01",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "반도체 소부장 취업해볼까…경기도, ‘반도체 채용박람회’ 개최",
+          "lead": "27~28일 수원컨벤션센터 도내 반도체 20개사 참여세계 최대 규모의 반도체 클러스터로 부상하고 있는 경기도에서 반도체 소부장(소재·부품·장비) 기업 채용박람회가 열린다.",
+          "summary": "경기도는..",
+          "url": "https://www.mk.co.kr/news/business/12135562",
+          "source": "매일경제",
+          "published": "2026-08-25 11:26",
+          "score": 20,
+          "keywords": [
+            "채용박람회",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[ET톡]삼성 DX, 성과급보다 먼저 답해야 할 것",
+          "lead": "삼성전자가 사상 최대 규모 주주환원 계획을 발표한 지난 21일, 서초사옥에서는 정반대 목소리가 울려퍼졌다.",
+          "summary": "삼성전자 디바이스경험(DX)부문 직원 중심 노동조합 동행(동행노조)가 집회를 열어 DX부문에 대한 합리적 평가와 보상을 요구했다. 임금 협상 타결, DX부문 적자 이후 뒤늦게 불거진 집단행동에 대한 비판의 목소리가 적지 않다. 25일 뒤늦게 배포한 입장자료에서 동행노조는 “DX 적자 원인을 직원 성과와 분리해 설명해야 한다”는 주장을 첫",
+          "url": "https://www.etnews.com/20260825000291",
+          "source": "전자신문",
+          "published": "2026-08-25 16:00",
+          "score": 17,
+          "keywords": [
+            "성과급",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "SK하이닉스 임단협 잠정합의안 부결...성과급 지급 방식 두고 ‘이견’",
+          "lead": "1만5045명 참여, 투표율 93.8% 찬성 7510표로 49.9% 나와",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12135454",
+          "source": "매일경제",
+          "published": "2026-08-25 10:00",
+          "score": 17,
+          "keywords": [
+            "성과급",
+            "SK"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[속보] SK하이닉스 잠정합의안 노조 투표 반대 50.1% ‘부결’",
+          "lead": "SK하이닉스의 성과급의 일부를 자사주로 지급하겠다는 내용이 골자인 임금·단체협약 잠정합의안이 노동조합의 찬반투표에서 부결됐다.",
+          "summary": "이에 세부 안건을 조율해 재협상에 돌입할 가능성이 커졌다. 25일 산업계에 따르면 SK하이닉스 노조는 이날 오전 9시 마감한 잠정합의안에 대한 조합원 전자투표 결과 50.08%가 반대표를 던졌다. 조합원 1만6038명 가운데 1만5",
+          "url": "https://www.mk.co.kr/news/business/12135401",
+          "source": "매일경제",
+          "published": "2026-08-25 09:17",
+          "score": 17,
+          "keywords": [
+            "SK"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

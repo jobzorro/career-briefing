@@ -1,0 +1,305 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12 08:00",
+  "stats": {
+    "collected": 1832,
+    "deduped": 1669,
+    "recent": 842,
+    "relevant": 61,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "고용률 낮고 실업률 높은 '청년층'…청년 취업자 46개월째 감소",
+          "lead": "고용률 낮고 실업률 높은 '청년층'…청년 취업자 46개월째 감소 네이트",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xNkR2b0NmTlBaRHF2c3dnWlJ2N1hKUUlXa005VWhJbnk2N01HZ0ZlbGZiR1VKRXNYSHJqVnQ4V1kxaG5yMnl0enFhVE5RQnVvX3Uw?oc=5",
+          "source": "네이트",
+          "published": "2026-09-09 10:40",
+          "score": 34,
+          "keywords": [
+            "고용률",
+            "실업률",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "취업자 18만명 늘어도 청년엔 칼바람… 실업률 4년래 최고",
+          "lead": "취업자 18만명 늘어도 청년엔 칼바람… 실업률 4년래 최고 중앙일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kbjVFNmFvZzNWeEJOc1pBZHVsREF3eE1TalpOZkh2aTlrcjlsa3hYeUdmaEppR05vVG1BdmZEXzU2OHBWaGVFLUpIQzFMQmEwSy1nMFJB?oc=5",
+          "source": "중앙일보",
+          "published": "2026-09-09 18:41",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "8월 고용률 70% 웃돌아 역대 최고… 청년 고용률은 28개월째 하락",
+          "lead": "8월 고용률 70% 웃돌아 역대 최고… 청년 고용률은 28개월째 하락 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLa2hZaHBjUHk2WjVpVFl6QTZndWpNY2RCNURqckd3Y1l4VVA1bkdFb0hwdWQwczV5RlFUUEk0Ry12b3Q4NGFma3hhQVF1YlVCc2JWbHFXa0FqaWtZN3Q2bFJFcHpBS0kxdHZybUVB0gFzQVVfeXFMTnNxeFo2MVZ4Si12Sm8yME5QeUphT0dNMHVDQVpyc1RaQUxwYkQ1ZGZwQVFZQjBBVG1zTngzZHZsd0g3SGdHN01aUWo4a3hERXZqQzJrNzVLa1pEV2ZxY0FXNDIyZ1ZMV25mamZPVXdTQ2xZUQ?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-09 14:33",
+          "score": 29,
+          "keywords": [
+            "고용률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "부산 8월 고용률 58.8%…1년 새 0.5%p 상승",
+          "lead": "부산 8월 고용률 58.8%…1년 새 0.5%p 상승 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ySTdNeUUta21VV3VfMHpnaGxWaEtvRWFycWkzbGNBNEFQSll1dnhNR2hhSlF5UGtUdmxOOGVkTWYxSDBVZ09aT3N3eUlSMUxIXzNGQ1ZUZVlTbDjSAWBBVV95cUxPWmdwRmJOX1ZhUWd4M282aWdXTkFZc2ZoZ3F3WF9sWWM2bWhPMFdSZFBOWFd4NWM2SW9YTGwzdFhDemVSNDFqc2hNTDRkRndoeFBBamV0MzJ3aWFoV0kwbEY?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-09 08:34",
+          "score": 29,
+          "keywords": [
+            "고용률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "제주 여성 경제활동참가율 69.1%·고용률 68.4%…실업률 1.0%로 감소",
+          "lead": "제주 여성 경제활동참가율 69.1%·고용률 68.4%…실업률 1.0%로 감소 지금제주",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVQmpQT3lnLUVKdnFFMVhhVTRGNmNIZHQ5eGF5eGRaZGo1MDhpcEpZT3dxczg5N2hmeUI0OVdja3BJSVdKQkFuRDhGZTRRdURjVGlLZ1MtcFBUc3QtRDRqVnUtVGpVQ1FjUm0yOHBR?oc=5",
+          "source": "지금제주",
+          "published": "2026-09-09 20:12",
+          "score": 25,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "경남 8월 고용률 63.1%, 실업률 1.8%",
+          "lead": "경남 8월 고용률 63.1%, 실업률 1.8% 경남도민뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xN2hFLVZPX3lFQ0pZSGxZalN5Qms0MnNzRmJreU5NcjEzY0VLME5QTHJzbmZjajAzZFkwTG9fNlREeWpUcGtRc1pqVnREVXZOMlUxTGZoTWZuZ1c4M1VydXpGdw?oc=5",
+          "source": "경남도민뉴스",
+          "published": "2026-09-09 19:30",
+          "score": 25,
+          "keywords": [
+            "고용률",
+            "실업률"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서",
+          "lead": "목포MBC '기후에너지학교' 개강 …전문인력 미래 인재 양성 나서 한국일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wanlNU0s0Q1lBZ2cyYlNSUko1VUp2TWFTc1lXN3FpeHNDeThjZzZGVlI2NnkwMk4wMk82X2pkU25fRlVjRWo2RDJSbzdHTjlNaDhTMl9nc3ZvTXk0aWV6N0tIQ3ZTaExlYjY1ZGZ30gFzQVVfeXFMUHFOZUdnbXlRM3dCTFUxaHR4ZUNOcWdYY00zYlExYnlXUFQ2ek91Zkx6eFQ1ZnVkTVNaYkc5Qktzb01HYnEyOHQyS3dKc0tFeXlndHBIUFNwMm5EZXl6ZG10bktVTDlXVlhHbjZla2d2SkZpMA?oc=5",
+          "source": "한국일보",
+          "published": "2026-09-10 15:30",
+          "score": 26,
+          "keywords": [
+            "인재 양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "전직 대통령 4명은 뉴욕으로…트럼프 홀로 '9·11 추모' 펜타곤 간 까닭",
+          "lead": "미국 역사상 최악의 참사로 기록된 9·11 테러 25주년을 맞은 11일(현지시간) 전·현직 미국 대통령들의 행보가 뚜렷하게 갈렸다.",
+          "summary": "트럼프 대통령은 이날 펜타곤 추모식 연설에서 9·11 테러를 \"거대하고 끔찍한 악의 순간\"이라고 규정하면서 \"우리는 결코 잊지 않을 것이고 그게 바로 우리가 오늘 싸우는 이유\"라고 말했다.",
+          "url": "https://www.mt.co.kr/world/2026/09/12/2026091206292946416",
+          "source": "머니투데이",
+          "published": "2026-09-12 06:37",
+          "score": 20,
+          "keywords": [
+            "전직"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "'채널십오야' 이수근 \"나영석 PD, 이제 재택근무 해야 해\" 너스레",
+          "lead": "'채널십오야' 이수근 \"나영석 PD, 이제 재택근무 해야 해\" 너스레 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0bnljdDJPRUpyLVRYQUp4MENqdXhILWthWFNCVXZMNHJjSnJXa3hXYWlnTXE0MUFiWEpFc2REOWhUMFBtOVpYN0pmaHpEcVpVSC1CM3JTUnR0SDk1TDI0TtIBZkFVX3lxTE1CNHRBd2dRcUxCS0kzLV82RUtrNWY3NXlDMWd6T09HMGd0ZWdsRWNiUkx3Z3R3Ym5ERTIzMmtOb0pwVjFCazJiby14aWtWYTJEVDlCQTFLTnJQVkYwd0NVdjd4RDE0dw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-11 19:18",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "현대차, AAM 핵심 인재 확보 나서…항공 파워트레인 기술 내재화",
+          "lead": "현대차, AAM 핵심 인재 확보 나서…항공 파워트레인 기술 내재화 세계일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKcDl0VWUtY2o1cHlSTEhQQVFMRXpXLWNlLXMwbHd4ellDNzVpblRJSHptYWl2ZnVOTWRiT3M1VXhnSFdrdHpZRVpmU2w4RHJ3Vk5sWUlhdlrSAVRBVV95cUxQZll3MEE1MVdIazZXc18xVGFFeTctU0dZZHpTZUwzTkpyRWlnODQwSnF6MDNOQVNfYXBRQlBaSHJJNWRxbnFDZjdlOVgtOFo0c1duYWo?oc=5",
+          "source": "세계일보",
+          "published": "2026-09-11 07:01",
+          "score": 17,
+          "keywords": [
+            "인재 확보"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나",
+          "lead": "침묵하던 용혜인 \"오늘은 재택근무\"...출근길 취재 부담됐나 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04c1Judm1NRS16MGFHMmFhLUE1SzBzWDB4MVQ4R1FUMnV5anhORWI3STBIM3hjUThseXVkcVYzOFc4REFyOUZyemZ2S3ozNXppaW9WTktfVUo2cjd4aHdpR0VfUUhCSHB4ZkHSAW9BVV95cUxQS0pIY1lPaThXbU1rZEtBQy1vTkVxTkpmeHVQNzlnbW45UVVGbHFxaGFGSDUzajNyaUFFVzZnc3JtbkRWOVg5WGFtRHJsdTdLVS0wOVZJc3J3aHU5T0hIYXI0QUNKOWIwSElqWHFUcGM?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-10 10:27",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "안전관리·자율운송·고객상담까지...한진, 물류 전반 AI 활용 넓힌다",
+          "lead": "한진이 현장 안전관리와 운송, 고객 서비스부터 임직원의 일하는 방식까지 인공지능(AI)과 첨단기술 적용 범위를 넓히고 있다.",
+          "summary": "물류 현장에서 축적한 데이터를 바탕으로 운영 효율을 높이는 동시에, 자율주행 화물차 운행과 생성형 AI 상담, 업무 자동화 교육을 병행하며 사업 전반의 디지털 전환을 추진하고 있다.현장 위험 감지로 도입 터미널 위험행동 약 60% 감소한진은 CCTV 영상을 실시간으로 분석하는 'AI 세이프티 가디언'을 도입했다고 11일 밝혔다. 지난 7월 말 수도권 10여개 터미널을 시작으로 충청·강원 등 전국 외곽지역 터미",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155136",
+          "source": "테크M",
+          "published": "2026-09-11 18:59",
+          "score": 16,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스]",
+          "lead": "경력직 채용만 '수두룩'...갈 곳 없는 청년들 [자막뉴스] YTN",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZFVBVldnZXFkdDRlV3FsUGxMLXNUeU9VM29DQjdVczFVY3JBVlZwR0U2OFRwbDhLTzB5NzJtZ0JISkswc0lCRzVFOXpEc1NoM3p6QmVyaG9GdDE4R3NV?oc=5",
+          "source": "YTN",
+          "published": "2026-09-10 09:24",
+          "score": 20,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "“산재예방부장 개방형 직위 포함”…남부발전, 하반기 신입사원·별정직 공개 채용",
+          "lead": "대졸·고졸·별정직 76명 모집 AI리터러시 평가 도입·보듬채용 확대한국남부발전이 하반기 신입사원과 별정직 76명을 공개 채용한다.",
+          "summary": "11일 남부발전에 따르면 이번 채용은 대졸 수준 ..",
+          "url": "https://www.mk.co.kr/news/business/12150368",
+          "source": "매일경제",
+          "published": "2026-09-11 13:34",
+          "score": 17,
+          "keywords": [
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "서울 시내버스 노조, 임금협상 타결 못하면 16일 파업 (종합)",
+          "lead": "(서울=연합뉴스) 김동규 유한주 기자 = 서울 시내버스 노조가 오는 16일 쟁의행위(파업)를 예고하면서 당일 서울 시내버스 운행이 중단될 가능성...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260911151651004",
+          "source": "연합뉴스",
+          "published": "2026-09-11 18:50",
+          "score": 14,
+          "keywords": [
+            "임금협상"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "카카오 노조 “인적분할 충분한 설명 필요”…또 다시 대치 예고",
+          "lead": "카카오 노동조합이 카카오의 인적분할에 대해 충분한 설명과 권리 보호대책을 제시해야 한다고 강조했다.",
+          "summary": "카카오인베스트먼트의 소규모 합병에 반대 의사표시 참여를 독려하는 등 대응에 나섰다. 카카오 본사 임금협상이 타결된 지 한 달이 지난 가운데 다시 경영진과 대치하고 있다. 전국화학섬유식품산업노동조합 카카오지회(크루유니언)는 노동자와 주주에 대한 충분한 설명과 실질적인 권리 보호 대책 없이 추진되는 카카오 인적분할에 반대한다고 11일 밝혔다. 그러면",
+          "url": "https://www.etnews.com/20260911000188",
+          "source": "전자신문",
+          "published": "2026-09-11 13:16",
+          "score": 14,
+          "keywords": [
+            "카카오"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "삼성·효성·한국타이어 채용 시계…신입 공채 마감일 줄이어",
+          "lead": "삼성·효성·한국타이어 채용 시계…신입 공채 마감일 줄이어 한국면세뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZGMzTHFNRmdVRS1lUzRLRDNteVBpYXpMRS0yY3plQWhRMF85YXM3LVZjMWVjVjRWRjhkQXZyUkF3UElyX24zdG1CLWZJNnFRNEs5dlhwVFVKUkVYMWk4OVBVazF6cXZLTGc?oc=5",
+          "source": "한국면세뉴스",
+          "published": "2026-09-11 13:48",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "삼성"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "하반기 대기업 신입 채용 시작… 정기 공채·수시 선발 병행",
+          "lead": "하반기 대기업 신입 채용 시작… 정기 공채·수시 선발 병행 폴리뉴스 Polinews",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UWmg1dl9GNm9VR2ZYenRQNlhoM2FOZE9iSXBBNWVPcE1KbTFUbXhlWmZ5U3hsN19HQzUtWm81ajdPZTczc1RRM2JGM0c1dXA0VTFGQWgyLUdKZ3BFSjNacEZRaEJ6bjhVeWtmNXFB0gFyQVVfeXFMTXhwUmdzU0U5YjhjZllZQ0RtVDBKa05aMWhrMnlpTjlDN2tJY1BTS2R3NjZRbXY2Ui1SRUpZaFVIUk5RdWZyekZzMk5yQ1hMOUpUd3lQbDdlMG55V0NlWnZneWh1d3pwS2t1QTZ4clo4Y293?oc=5",
+          "source": "폴리뉴스 Polinews",
+          "published": "2026-09-09 14:06",
+          "score": 13,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "대기업"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29 09:57",
+  "stats": {
+    "collected": 1935,
+    "deduped": 1778,
+    "recent": 926,
+    "relevant": 53,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "외국인 혼자서 '실업급여 4500만원'…같은 회사 14번 오갔다 [곽용희의 일자리노트]",
+          "lead": "외국인 혼자서 '실업급여 4500만원'…같은 회사 14번 오갔다",
+          "summary": "[곽용희의 일자리노트] 한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNaXpnZDhtSE5DcFZkMVFaN1kyNXZYMEVRZTFEeE81Z3Y3NU9jLVpfVzVsUUsyWWFnQW1URC1fbm54VTVqSW40ZjM1OXhlN1g4RkpIb1VkLVM0QQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-27 07:00",
+          "score": 29,
+          "keywords": [
+            "일자리",
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "실업급여 3회 이상 수령자 11만명↑…5회 이상도 1만5천명",
+          "lead": "실업급여 3회 이상 수령자 11만명↑…5회 이상도 1만5천명 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Qk9rd1VNMHlpaTJ3UTBxeGVFQmRub3FkMnVHVkZjRms0RlhkYTJ1azVPQ2xYemRXaTJpTDE0Ym9JamY3d1FDNFU1UDdjS1FaVHBGS1pEZF9iMjRKNGt0SdIBeEFVX3lxTFBCT0ZRWHY2cmpBRjhqVzJrQ3JXTjljSkhORFhTZjZDb0trcjFkZUxDeG1rQ2p0M3ZfcWxPVWxMWDQycjROSzFfTExkczNmMEp2Q3lpcU1lVDJwMExzdDBSX21tZ1V4NWFQTGZSenliUnljYTNUQ0hMeA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-29 09:30",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "실업급여=꼼수급여? 3회 이상 수급자 11만명...\"퇴사하고 또 받고\"",
+          "lead": "실업급여=꼼수급여? 3회 이상 수급자 11만명...\"퇴사하고 또 받고\" MTN 머니투데이방송",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fdzNLNm1qdkRIekdCUU82NFNUTThlN0VsaVFZbGJPbkkzUF9od0xQeDRrdHB6ZHZZRi1PLTFISi1KZEgxSHoxV2o3U2VIMmkxMnRRdnprbmxWc2JwZnREUmV4dDM?oc=5",
+          "source": "MTN 머니투데이방송",
+          "published": "2026-09-29 09:08",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "'퇴사→재입사→퇴사' 3번 반복, 실업급여 530만원씩 타냈다",
+          "lead": "'퇴사→재입사→퇴사' 3번 반복, 실업급여 530만원씩 타냈다",
+          "summary": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSVZqRHRmV0Q1NFB4dEpjR2ZCWlBRZF9NU2prTThQNGFJMTc1MExlYVJkV3o3dlpnbTVKWTZEMmVZTHlpclU5dEpJcEdlUi1QekY0bk84NW5Bdw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-09-29 08:46",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "실업급여 최다 7번 탄 사람도…반복수급 지급액 6000억 육박",
+          "lead": "실업급여 최다 7번 탄 사람도…반복수급 지급액 6000억 육박 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMGhJSW5EeVdkTEZjaTZRb2syNjRLMkNncnNtbzJpYmZlMWpWRzkzcm9Bak8xVW9xWmJRYTJnMlB1M08wVnRoZjM1Q011UFZpeDZHYldCT3RBZw?oc=5",
+          "source": "한국경제",
+          "published": "2026-09-29 07:43",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "“여차하면 퇴사할까?”....실업급여 3번 이상 받은 사람 11만3천명 달해",
+          "lead": "“여차하면 퇴사할까?”....실업급여 3번 이상 받은 사람 11만3천명 달해 매일경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xTlRxX3BpYi1CbTZwU3pxM1lpVDlNVkdVSV9Ub3VENGJGSG9tRnJOX1JvV3hLdjNSakdZY1dOUTQ0aFVaTFZQMWhOZzhEcG9RdkRRbA?oc=5",
+          "source": "매일경제",
+          "published": "2026-09-29 07:37",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "영남이공대, AI 기반 물류자동화 전문인력 양성",
+          "lead": "영남이공대, AI 기반 물류자동화 전문인력 양성 경북신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdVNuTnpJMjEyRXpkZU1WeU5OSmk5WTRmX1owcGtXeTJHNl9XRTNiT3BPQmd4OENscVlOMkxFaTVjQ25vU2RJQXV1SUNpWkFxa0lYT3haQks?oc=5",
+          "source": "경북신문",
+          "published": "2026-09-28 10:11",
+          "score": 25,
+          "keywords": [
+            "자동화",
+            "인력 양성",
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "삼성 6개사, 美 AI 인프라 ‘헬릭스’에 10억 달러 투자",
+          "lead": "삼성전자 등 6개 관계사가 미국 AI 인프라 기업 헬릭스에 총 10억 달러를 투자했다.",
+          "summary": "삼성은 반도체, 냉각, EPC, 클라우드, 배터리 역량을 바탕으로 데이터센터와 전력 인프라 사업 협력을 확대할 계획이다.",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260929500015",
+          "source": "서울신문",
+          "published": "2026-09-29 08:08",
+          "score": 20,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "\"출근 안 해서 좋았는데\"…재택근무 직종 종사자, 사회적 고립 위험 2배↑",
+          "lead": "\"출근 안 해서 좋았는데\"…재택근무 직종 종사자, 사회적 고립 위험 2배↑ 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ySUZ2T2NGei1JQkwwUzdzSkswRjBMSzhXb2tHc1BtMDJyejIxNEFCaFF0WEs4M0FjS2czWGFtOFhfUDVxeVRFejFlZGRyV2RTUWJacDlUakp2dlpkOFZGY2x5STV4WlVuTFQwSUhVWnZCczI1QVprSdIBeEFVX3lxTE4ySUZ2T2NGei1JQkwwUzdzSkswRjBMSzhXb2tHc1BtMDJyejIxNEFCaFF0WEs4M0FjS2czWGFtOFhfUDVxeVRFejFlZGRyV2RTUWJacDlUakp2dlpkOFZGY2x5STV4WlVuTFQwSUhVWnZCczI1QVprSQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-29 06:30",
+          "score": 20,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "숭실대-中 공무원 연수단, AI 인재 양성 협력 논의",
+          "lead": "숭실대-中 공무원 연수단, AI 인재 양성 협력 논의 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NS3dMOXZpeUQtc21ObFlFSjJJVUpQcVQzNm5DMThPY0R3OVA1dGJCUGhTcFJxaVlyYlkxUWctVU8xaFJxd3IxS1ZtTkdUVDRlaGpkUzZ0ME5PTmZOVmNnaFpxN1d6QVpUUWRVNHBFeDNwdExqLUhNc9IBeEFVX3lxTE1NS3dMOXZpeUQtc21ObFlFSjJJVUpQcVQzNm5DMThPY0R3OVA1dGJCUGhTcFJxaVlyYlkxUWctVU8xaFJxd3IxS1ZtTkdUVDRlaGpkUzZ0ME5PTmZOVmNnaFpxN1d6QVpUUWRVNHBFeDNwdExqLUhNcw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-28 15:25",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "중장년 재취업 준비, 온라인으로 무료 교육…고용정보원 7개 과정 신설",
+          "lead": "중장년 재취업 준비, 온라인으로 무료 교육…고용정보원 7개 과정 신설 헤럴드경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMVlrQ05qQlRvdmZQaEx2Z1BQZWVFR2R2ejhtT2pIc0Fha1RTMUtsS2NhR0NYT3RJc0V3MkEwemc0UUpycDRUQ3RidVNTb2NadVowcmxR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-28 09:00",
+          "score": 20,
+          "keywords": [
+            "중장년"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "노동부, 중장년 재취업 지원 전국 확대…반도체·전기차·AI 직무전환 돕는다",
+          "lead": "노동부, 중장년 재취업 지원 전국 확대…반도체·전기차·AI 직무전환 돕는다",
+          "summary": "etnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrNXgzMFBGZEtYU2JzVk5NRDR6d0ZDX2VGWEJLNkpjSzZVcEItT1ltcUltZzY2YS1KREctaWZBa2UwQUt3U0UxWFZwLVg1dw?oc=5",
+          "source": "etnews.com",
+          "published": "2026-09-27 12:00",
+          "score": 19,
+          "keywords": [
+            "직무전환",
+            "중장년",
+            "AI",
+            "반도체"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "철도공단, 하반기 신입·경력직 및 청년인턴 등 184명 채용",
+          "lead": "철도공단, 하반기 신입·경력직 및 청년인턴 등 184명 채용 아시아경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03OTdOOG04d21qeFpDMEJsYTM5c095VVZ4TU5Lbk1MM1BWdmI1T3hPMXJQMFFQZHZZY08yUHZGeC05MHlVWF8zUkhmdGFnaWhzTUpma1hWdjdYbVFHRnYxNQ?oc=5",
+          "source": "아시아경제",
+          "published": "2026-09-28 10:21",
+          "score": 29,
+          "keywords": [
+            "경력직",
+            "채용",
+            "인턴",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "“하반기 신입 뽑습니다” 대기업 절반 넘었다…채용계획 들여다보니",
+          "lead": "“하반기 신입 뽑습니다” 대기업 절반 넘었다…채용계획 들여다보니 매일경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yNERSUXV0eW1FdzJ5YkE3bXhCNjljUTd4T1hneTB6eV82LWFmZnVucFhxVEIzb21TMVlIOWN6c19oeW5HbXNRU0xhV2FhSlNGcDFlcg?oc=5",
+          "source": "매일경제",
+          "published": "2026-09-29 08:24",
+          "score": 26,
+          "keywords": [
+            "채용계획",
+            "채용",
+            "신입",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "대기업 채용문 조금 넓어졌다…하반기 채용계획 기업 37%→51%",
+          "lead": "대기업 채용문 조금 넓어졌다…하반기 채용계획 기업 37%→51% 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZWlYMGV5bHFudkFMTUhOLXZpblZmOHBKS1h5cTBhcFE4U2c5c1RTbF84LXRqR1hpX1pDVjM2QnVkZjJvck5GNTZucDc5RmQtNGNTVUJ0c0N6UFdMMzdZWmlCdGlGM19tREHSAWpBVV95cUxOUWVpWDBleWxxbnZBTE1ITi12aW5WZjhwSktYeXEwYXBROFNnOXNUU2xfOC10akdYaV9aQ1YzNkJ1ZGYyb3JORjU2bnA3OUZkLTRjU1VCdHNDelBXTDM3WVppQnRpRjNfbURB?oc=5",
+          "source": "뉴스1",
+          "published": "2026-09-29 06:00",
+          "score": 26,
+          "keywords": [
+            "채용계획",
+            "채용",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“경력직 80년생 이하·11개 대학으로 제한”…한화에어로, ‘차별 논란’ 사과",
+          "lead": "이부환 대표이사 명의 사과문 게재 社측 “담당자 개인 일탈…시행 안돼”한화에어로스페이스가 경력직 채용 과정에서 학력과 연령 등을 제한하는 내용의 내부 가이드라인 관련 논란에 대해 ..",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12161892",
+          "source": "매일경제",
+          "published": "2026-09-27 14:55",
+          "score": 24,
+          "keywords": [
+            "경력직",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "한화에어로, ‘학력·나이 제한’ 경력채용 지침 사과",
+          "lead": "한화에어로, ‘학력·나이 제한’ 경력채용 지침 사과 세계일보",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05cjBTX1FKdkthNWhxTkJiN3F3VE1HQ3MwMzJCLWNnX2JvdTlxdVRJWUNwOFdjMHhxY0ZOdng3QXZsdUpTYUFxYm0zODNGdHhCS2JXNDVkUWjSAVRBVV95cUxOaFRSTnVrMmhYdWN6YnJUTHZvbzlGcENJM3ZDb0NydE5NSC1rbkYtNERoWGZULVNyMUJxN3EzOE5iQkw3aVVRc0xPU0NoQWo1Y3paSEI?oc=5",
+          "source": "세계일보",
+          "published": "2026-09-28 06:00",
+          "score": 23,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "이부환 한화에어로 대표 \"경력직 채용 지침, 명백한 과오\" 공식 사과",
+          "lead": "이부환 한화에어로 대표 \"경력직 채용 지침, 명백한 과오\" 공식 사과 - 머니투데이 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZGhaZlpYQjRjTzdfTEZ1NEdIeXcxOUhnN0V3NW4zeVo4T0lIVkJfNzJGa0VVcTBfNmhMTmVWMFhZLVRSWUNENW5MQkg1eFJ5UnlHX3kweU1LQTZlZFRuRnBxUWxwaDliTzZqN2dycThSUdIBckFVX3lxTE9SZGhaZlpYQjRjTzdfTEZ1NEdIeXcxOUhnN0V3NW4zeVo4T0lIVkJfNzJGa0VVcTBfNmhMTmVWMFhZLVRSWUNENW5MQkg1eFJ5UnlHX3kweU1LQTZlZFRuRnBxUWxwaDliTzZqN2dycThSUQ?oc=5",
+          "source": "머니투데이",
+          "published": "2026-09-27 15:21",
+          "score": 23,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

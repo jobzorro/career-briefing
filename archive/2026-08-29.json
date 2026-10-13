@@ -1,0 +1,314 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29 09:11",
+  "stats": {
+    "collected": 1922,
+    "deduped": 1771,
+    "recent": 909,
+    "relevant": 61,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "독일 8월 실업률 6.4% 유지…\"실업자 299만6000명\"",
+          "lead": "독일 8월 실업률 6.4% 유지…\"실업자 299만6000명\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HQ0lrRzhkVTc3Vmt5QUhsMnFfcWdNUFJLMHIyTk9QYlNfdnpwV2ZzdmtkMXdudUM4TlJOa3pCeUVNemtaNFRGRlVSOXc5VTg0ZGxIN2YzY0J2cFJKdlA2T3lrY2xOQVV4OW43a0ZrRlNzTEM2VnJ6VtIBeEFVX3lxTE5HQ0lrRzhkVTc3Vmt5QUhsMnFfcWdNUFJLMHIyTk9QYlNfdnpwV2ZzdmtkMXdudUM4TlJOa3pCeUVNemtaNFRGRlVSOXc5VTg0ZGxIN2YzY0J2cFJKdlA2T3lrY2xOQVV4OW43a0ZrRlNzTEM2VnJ6Vg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-29 03:13",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "실업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "7월 일본 실업률 2.4%·0.1%P '개선'…\"1인당 일자리 1.18개 보합\"",
+          "lead": "7월 일본 실업률 2.4%·0.1%P '개선'…\"1인당 일자리 1.18개 보합\" 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rd2pod1pJYWZvNGxFZm85ZE5UZFYyT1BkaHdlSk9qVTQ0aThXQmxZTmFyVkZPSXowYXp6blRETDdRRk04UUFfSThfenhEOU1FVWE4UjJYYmtNMmxjamZEYS1xeng4TVdMVFp5NVNCbkhiQUZFUHl1d9IBeEFVX3lxTE5rd2pod1pJYWZvNGxFZm85ZE5UZFYyT1BkaHdlSk9qVTQ0aThXQmxZTmFyVkZPSXowYXp6blRETDdRRk04UUFfSThfenhEOU1FVWE4UjJYYmtNMmxjamZEYS1xeng4TVdMVFp5NVNCbkhiQUZFUHl1dw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-28 10:49",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "한국노총 \"청년일자리, 취업자 수보다 고용의 질 개선해야\"",
+          "lead": "한국노총 \"청년일자리, 취업자 수보다",
+          "summary": "고용의 질 개선해야\" 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GOTh5QXY3ckpSVG1CaUJwSzJHODlaRXlVakpxcVBQS1l0TEJuV2MxVVhCRmlrakR2d2oyNmF1cHgtY2NDb3RUR1A3UnRYcFJuMGhHWnBkUmtDbElJNEJWdtIBeEFVX3lxTE5Fck1GM1YwbkdyOTBIYzJZVTRCOHVRNmFLcG5vaWFPR25SUk5lVV8tNUZSZnJIMzZVY2hCNnkyYjhFSlRWMGw1QVVneUNoZFJKaVo0QUswSDFyLVdJLTJyNjFjVWZBaVRQU3VsaGZYa1RrMENnTkJ1LQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-28 16:37",
+          "score": 26,
+          "keywords": [
+            "일자리",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "[다음 주 경제일정] 美 8월 비농업 취업자수·실업률 관건…브로드컴 실적 주목",
+          "lead": "[다음 주 경제일정] 美 8월 비농업 취업자수·실업률 관건…브로드컴 실적 주목 SBS Biz",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BUHlOeUw5dzNGQThLcEwzMUZDU1YxMkhJbUdBWWtSQXJuVFVnZlA3WjZRVWxXaTAtbVIzanRvNEZLdldiMDh3MmwzLTJTaGZBTzZF0gFYQVVfeXFMTnVqcHNwcTFuX05XNnZUV1g5VUNrZnd1X290eU1FWTZhWk5tVFRrNlZsNTQ0a3kzVnBYRVRuRDROdHRVVXNYRnVuRlpRTW5YLTgyQV8ybThvQQ?oc=5",
+          "source": "SBS Biz",
+          "published": "2026-08-28 11:07",
+          "score": 26,
+          "keywords": [
+            "실업률",
+            "취업자"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "세종대 일자리첫걸음보장센터, 청년 구직자 위한 ‘자개달항아리 원데이클래스’ 운영",
+          "lead": "세종대학교(총장 엄종화) 일자리첫걸음보장센터는 장기간 구직 활동으로 지친 청년들의 스트레스와 심리적 피로를 완화하고 지속적인 구직 활동을 지원하기 위해 8월 27일 교내 군자관에서 ‘취향발견 원데이클래스 자개달항아리’를 운영한다. ‘취향발견 원데이클래스’는 세종대 재학",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1275009.html",
+          "source": "한겨레",
+          "published": "2026-08-29 09:11",
+          "score": 20,
+          "keywords": [
+            "구직자",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "청년 일자리·교육·주거·자산까지 촘촘하게…내년 43조 투입",
+          "lead": "(세종=연합뉴스) 김수현 강류나 기자 = 정부가 내년 청년들의 일자리·창업, 교육·주거·자산, 생활·문화 등 성장단계별로 총 43조3천억원을 투...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260828103600002",
+          "source": "연합뉴스",
+          "published": "2026-08-28 16:30",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성",
+          "lead": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성 파이낸셜뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTDJHU1VyeE5faXVOZmNQcDA5MVFoS3RDNmZFWGM4SU5jSVkyVWNJUzdKaG10UWtGWGUzbmUtZ0pOSUpmTmxNeVdVY3RUWVBSdU9ydHVTSlc3UQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-08-28 16:30",
+          "score": 26,
+          "keywords": [
+            "전문인력",
+            "AI",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "'로봇 AI 교육 혁신센터' 현판식 열고 인재 양성에 나서",
+          "lead": "'로봇 AI 교육 혁신센터' 현판식 열고 인재 양성에 나서 대구MBC",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qY3FLVVFCVEpKMXMwVDJFTWYwWERqZjNWMGRtN2NPd2U1TkRJcnRxR25VZ2NoLU1DX2VKa0dCcEVhTU9OdTlGWjFqRUM?oc=5",
+          "source": "대구MBC",
+          "published": "2026-08-27 16:28",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "AI",
+            "로봇"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "강원대, 산업현장 AI 전환 이끌 재직자 전문인력 배출",
+          "lead": "강원대, 산업현장 AI 전환 이끌 재직자 전문인력 배출 전자신문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoUjRpXzdpNW1PbThiM0Y2NDlKRDh3Q3Zoc2tfb1NOMHRaaTE2SXpHSmhEUEZUQ2FVVnA2QXhXTXdyYmJlczQ2SmhhRl9mQQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-08-28 09:24",
+          "score": 20,
+          "keywords": [
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "USC·UCLA, AI 인재 양성에 승부수 띄운다",
+          "lead": "USC·UCLA, AI 인재 양성에 승부수 띄운다",
+          "summary": "미주조선일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14UkZiOWYxak9WT2VYM2YtVHBuOU9KXy1xemc2QWxoWG1IcFVTdk0xRVFCUXhIZ29sa0hTNzlUN0RFU3VpclAySmQxQTBtc0RDbmZ4THk4Slp0dWNteEpOak1seXBSbHM0SEhlZEM1b0ZvNjFyOVE?oc=5",
+          "source": "미주조선일보",
+          "published": "2026-08-28 08:53",
+          "score": 20,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "하나금융, 중장년 AI·디지털 일자리센터",
+          "lead": "하나금융, 중장년 AI·디지털 일자리센터 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1idndhSEtTNDJQOGpkbVpvY0cwTzIyTV9jZFdKT1NfRHNHTHMzMHR4NWNTQmV3RzR2VzRqb1c5djRfWFBQNTJZdEljM1ZDODM4ZmMzT0tvMC1lUQ?oc=5",
+          "source": "한국경제",
+          "published": "2026-08-26 18:31",
+          "score": 20,
+          "keywords": [
+            "중장년",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "[단독] '재택근무 축소'에 반발…몸싸움 벌인 현대차노조",
+          "lead": "[단독] '재택근무 축소'에 반발…몸싸움 벌인 현대차노조 한국경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jM2QycXV5Z2RLaUd6WjlCelVtNk9lT3hKaldrNWtlemZ3d1RyWmtMNFVPcm9DT2d0OVNsNkJOZDBueFZXZXhVVmtBdHR4R1laWUM5S214Z3c4Zw?oc=5",
+          "source": "한국경제",
+          "published": "2026-08-27 15:28",
+          "score": 17,
+          "keywords": [
+            "재택근무"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "“신입사원을 왜 뽑습니까”...1년새 대기업 대졸 채용공고 반토막 난 영국",
+          "lead": "“신입사원을 왜 뽑습니까”...1년새 대기업 대졸 채용공고 반토막 난 영국 매일경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JX090cTUtSFFFSjl0Z2FxMXNEXzBmRkdfRjM0cnBfMFBCeFMzTWdoUEtPQmo0eVAwSy0zQ3JVSTNPOXJoT2FCSTdiamdXZUJ6elE?oc=5",
+          "source": "매일경제",
+          "published": "2026-08-26 11:09",
+          "score": 26,
+          "keywords": [
+            "채용공고",
+            "채용",
+            "신입",
+            "대기업"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "2026 하반기 대기업 신입 채용 본격화…현대차 92개 공고·LG전자·SKT 공채",
+          "lead": "2026 하반기 대기업 신입 채용 본격화…현대차 92개 공고·LG전자·SKT 공채 스타트업엔(StartupN)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EcUYzcF9hY3l6UURaZnlIekRtYkZrMTN2d0NQWDM5Sm15SHhBR1FvLXFBR3BmaVVBeEZVcmdjMEI4ajZMc0dyQ3JvRG13UndCNF9xeTc2dHdxVVg2Z3NHOGlOai1CeXE2YVYzQtIBbEFVX3lxTE9EcUYzcF9hY3l6UURaZnlIekRtYkZrMTN2d0NQWDM5Sm15SHhBR1FvLXFBR3BmaVVBeEZVcmdjMEI4ajZMc0dyQ3JvRG13UndCNF9xeTc2dHdxVVg2Z3NHOGlOai1CeXE2YVYzQg?oc=5",
+          "source": "스타트업엔(StartupN)",
+          "published": "2026-08-27 09:24",
+          "score": 25,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "현대차"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "상반기 보험사 연봉 1위는?…성과급 따라 실제 연봉은 제각각",
+          "lead": "19일 보험업계에 따르면 상반기 메리츠화재 직원들의 상반기 평균연봉은 9187만원으로 모든 보험사 가운데 가장 높았다.",
+          "summary": "메리츠화재에 이어 재보험사인 코리안리의 상반기 평균연봉이 8100만원으로 뒤를 이었다.",
+          "url": "https://www.mt.co.kr/finance/2026/08/29/2026081915542135292",
+          "source": "머니투데이",
+          "published": "2026-08-29 07:20",
+          "score": 23,
+          "keywords": [
+            "성과급",
+            "연봉"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "ASML 코리아, 하반기 세자릿수 신입·경력채용…내달부터 접수",
+          "lead": "ASML 코리아, 하반기 세자릿수 신입·경력채용…내달부터 접수 연합뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nc0FvejV6WHFxdHNYa0p3ajV4ZEhLS3h1aS1zRUY2VHhkdnpHTlpuV2ljNmNtVkRRelBKZHJNQ1J3WXd1MzlkcWRZdllCWG00QUNnZU5HWkpKaHplWThjSdIBYEFVX3lxTE1nc0FvejV6WHFxdHNYa0p3ajV4ZEhLS3h1aS1zRUY2VHhkdnpHTlpuV2ljNmNtVkRRelBKZHJNQ1J3WXd1MzlkcWRZdllCWG00QUNnZU5HWkpKaHplWThjSQ?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-08-27 10:03",
+          "score": 23,
+          "keywords": [
+            "경력채용",
+            "채용",
+            "신입"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "서울 중장년 3천명 채용문 활짝…내달 4대 권역별 채용박람회",
+          "lead": "(서울=연합뉴스) 김동규 기자 = 서울시가 다음 달 4개 권역에서 채용박람회를 열고 160여개 기업과 함께 중장년 3천명 채용에 나선다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260828051800004",
+          "source": "연합뉴스",
+          "published": "2026-08-28 11:15",
+          "score": 20,
+          "keywords": [
+            "채용박람회",
+            "채용"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "\"인생 2막 일자리 찾으세요\"…서울시, 중장년 채용박람회 개최",
+          "lead": "\"인생 2막 일자리 찾으세요\"…서울시, 중장년 채용박람회 개최 뉴스1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYOUYxNEtXc0g3dXhTYjNkajVfbXdRV2VVSkNkb0xCMFQ0R0d6TklxejlIN2llM1dNRkhMUnh1T0otX3Zia0dQVGtSVTdtMjjSAVRBVV95cUxNc3Zld1pvbFYwN0hGRE5sRnN6cnlwWmJfSjFsRFNBSWNWajhBaTlMT0lPNURZTGpzMXl3X2x4TDBmTUVSOVJlSkdKZ3BBWW1BNWw1ZXE?oc=5",
+          "source": "뉴스1",
+          "published": "2026-08-28 11:15",
+          "score": 20,
+          "keywords": [
+            "채용박람회",
+            "채용"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

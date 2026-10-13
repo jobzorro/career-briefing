@@ -1,0 +1,303 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06 09:33",
+  "stats": {
+    "collected": 1921,
+    "deduped": 1738,
+    "recent": 792,
+    "relevant": 48,
+    "published": 18,
+    "feeds": 26
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "미 사업체, 8월에 16.2만개나 새 일자리 만들어…실업률은 4.1% 유지",
+          "lead": "미 사업체, 8월에 16.2만개나 새 일자리 만들어…실업률은 4.1% 유지 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vRS11aVNjZS1WUmxRRTNzOVJwcnN2Z1lxODBHb1VuSVoyNHE2ZFI1Y2RRYkVjalRrREVudGphMXFCN3E4dDBsWkhoS01nbUNqaEZibjJyRUh3dVdxMFVRc9IBeEFVX3lxTFA1aDdzZ0lIUEFVS0VmU2RfNE51YUxrUDJhVFdleEw5bkJEQmw4UVAtT0wyZUl2RzNQZ2xXOUc2b2MxckNONnlGRlluQ1VMRUhRbWwySWFmaTFmQVRnRTNfRHBpXzhodjhQeTIwZnU4TXB4UmwtbWdFQw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-04 22:04",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "고령자 취업 ‘1000만명 시대’…에스원 SSDA, 배움을 일자리로 연결",
+          "lead": "국내 고령층 취업자가 처음으로 1000만명을 넘어섰다.",
+          "summary": "국가데이터처가 지난달 5일 발표한 ‘2026년 5월 경제활동인구조사 고령층 부가조사’를 보면 55~79세 취업자는 1012만5000명으로 1년 전보다 34만5000명 늘었다. 2016년 671만5000명과 비교하면 10년 만에 1.5배가 됐다. 고령층이 일터에 남는 가장 큰 이유는 생계다. 연금을...",
+          "url": "https://www.khan.co.kr/article/202609032051005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 20:51",
+          "score": 24,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "인구 감소 시대, 일자리 미스매치 커진다···“청년 일자리는 AI가 대체”",
+          "lead": "앞으로 인구구조 변화로 사람이 필요한 곳과 인공지능(AI)으로 대체될 가능성이 높은 일자리 간극이 커지면서 ‘일자리 미스매치’가 심화할 수 있다는 분석가 나왔다.",
+          "summary": "고령화로 돌봄·서비스 일자리 수요는 크게 늘어나는데 청년들은 꺼리고, 청년들이 선호하는 고숙련 일자리는 AI로 대체될 수 있기 때문이다. 이철희 서울대 교수는 3일 한국은행과 경제정책연구센터...",
+          "url": "https://www.khan.co.kr/article/202609031748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 17:48",
+          "score": 24,
+          "keywords": [
+            "일자리",
+            "인구"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "“AI로 일자리 수급 불균형 심화할 것”",
+          "lead": "앞으로 인구구조 변화로 사람이 필요한 곳과 인공지능(AI)으로 대체될 가능성이 높은 일자리의 간극이 커지면서 ‘일자리 미스매치’가 심화할 수 있다는 분석이 나왔다.",
+          "summary": "고령화로 돌봄·서비스 일자리 수요는 크게 늘어나는데 청년들은 이를 꺼리고, 청년들이 선호하는 고숙련 일자리는 AI로 대체될 수 있기 때문이다. 이철희 서울대 교수는 3일 한국은행 및 경제정...",
+          "url": "https://www.khan.co.kr/article/202609032037005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-03 20:37",
+          "score": 22,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+          "lead": "(서울=연합뉴스) 옥성구 기자 = 만성 적자에 시달려온 고용보험기금 실업급여 계정이 보험료율 인상과 정부 재정 투입 등에 힘입어 내년부터 흑자로...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260904157200530",
+          "source": "연합뉴스",
+          "published": "2026-09-06 06:06",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "“철강·부품·일자리 모두 미국에”…美가 반긴 현대제철 58억달러 투자",
+          "lead": "‘美시장 원하면 미국서 생산하라’ 트럼프 리쇼어링 정책 성과 강조 랜드리 “고임금 제조업 일자리 돌아와” 韓 “美조달 어려운 장비 관세 최소화를”",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12145003",
+          "source": "매일경제",
+          "published": "2026-09-05 07:42",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "창신대·해군정비창, 전문인력양성과 국방기술 연구협력 '맞손'",
+          "lead": "창신대·해군정비창, 전문인력양성과 국방기술 연구협력 '맞손' 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BYjZpRjJXZlV4OHVJTFdKRFFlNDkyTkVpSndnS1RHM1RVb0tDQ1ZKNVQzalRZcVc2Njh4Z0JUaGx2WVVlLXJ0MmNHeVo3QlA4SFBMRTJ1VWJVcUZ1eTZPYdIBeEFVX3lxTE9oa3BzaC1JcEVVSzZyaGgtVzZlalZjeXJVZFB3VUxqeVRZSkNCUkhLSHo3ZFJfdDNvaHZEUXJGZlJpU3NOZ2d5aUstb0VnMU5kRXoyUmlIcWFXWGEyWnpMMElTejloNVlhOThsMW1iNkVBeVpQQUpISw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-03 21:20",
+          "score": 26,
+          "keywords": [
+            "인력양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "정진욱 의원, “산·학·연·관 협력해 반도체 실무형 인재 양성해야”",
+          "lead": "정진욱 더불어민주당 국회의원(광주 동구남구갑)은 4일 한국광융합산업진흥회 '산업혁신 아카데미 협업센터'에서 열린 '서남권 반도체 현장실무형 인력양성 방안 간담회'에서 지역 반도체 산업의 인력수급 현안을 점검하고 현장 중심의 인재양성 체계 구축을 위한 산·학·연·관 협력방안을 논의했다. 이날 간담회에는 정진욱 의원과 안신걸 한국광융합산업진흥회 상근부회장을 비롯해 오민교 우리로 사장, 한국알프스·오이솔루션 등 산업계와 특성화·마이스터고, 교육청,",
+          "summary": "",
+          "url": "https://www.etnews.com/20260906000026",
+          "source": "전자신문",
+          "published": "2026-09-06 09:16",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "반도체"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
+          "lead": "(홍성=연합뉴스) 김준범 기자 = 사람이 직접 종이 문서를 나르던 업무는 사라지고, 드론과 인공지능(AI)·빅데이터를 다루는 전문인력 수요가 커...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20260904115700063",
+          "source": "연합뉴스",
+          "published": "2026-09-05 06:05",
+          "score": 22,
+          "keywords": [
+            "전문인력",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "국민대 조형대학, 공예전문인력양성 심화과정을 통한 프로젝트 고도화",
+          "lead": "국민대학교(총장 정승렬) 조형대학 도자공예학과와 금속공예학과가 ‘2026 공예전문인력양성 교육프로그램(실무·심화) 기획 및 운영 사업’의 실무교육을 마무리하고 오는 10월부터 심화교육 단계에 들어간다.",
+          "summary": "문화체육관광부가 주최하고 한국공예·디자인문화진흥원이 주관하는 이번",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1276338.html",
+          "source": "한겨레",
+          "published": "2026-09-06 09:33",
+          "score": 20,
+          "keywords": [
+            "인력양성",
+            "전문인력"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "[동두천소식]'AI와 미래직업'…청소년 진로체험박람회 등",
+          "lead": "[동두천소식]'AI와 미래직업'…청소년 진로체험박람회 등 뉴시스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14NnA3SFRRbUdoLUdoYlhMbHZ2TG1mdlh2MGQ1ajIzOXQ4YlJSSUEzb0lETWZWWHlxRzhrSEo3bzhLRXVnUVY1NFpaQmUzazlxTFVRcVNmQVFJMkltZzlQV9IBeEFVX3lxTE5EYmh5aXR3eTU0Nms5Q0p1Q25SMkotalgxTXRia2hwNXRyVFlIZmNmREY3YVZfMENuSkgxTC0yeHViWXBhNU82bi1yc09Gc2p3S09pbEhNRTRhTU9mbXlURW9yN0lkdlBkX3UzYXdiSlhPVFNoaHlaSA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-03 13:11",
+          "score": 20,
+          "keywords": [
+            "미래직업",
+            "AI"
+          ],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "중소 제조기업 AI 인력 1600명 양성…취업인턴십 12개월로 연장",
+          "lead": "정부가 중소 제조기업의 인공지능(AI) 실무인력 양성 규모를 올해 600명에서 내년 1600여명으로 늘리고 중소기업 취업 인턴십 기간을 3개월에서 12개월로 연장한다.",
+          "summary": "중소벤처기업부는 이같은 내용의 ‘제5차 중소기업 인력지원 기본계획(2026∼2030년)’을 수립했다고 4일 밝혔다. 이번 기본계획은 AI 대전환에 필요한 중소기업 현장 인재를 양성·공급...",
+          "url": "https://www.khan.co.kr/article/202609040916001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "source": "경향신문",
+          "published": "2026-09-04 09:16",
+          "score": 18,
+          "keywords": [
+            "AI"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "'디지털자산도 금융 일자리'…빗썸, 금감원 청년 채용설명회서 인재 찾았다",
+          "lead": "빗썸이 금융감독원이 참여한 청년 채용설명회에 참가해 디지털자산 산업의 직무와 채용 정보를 알렸다.",
+          "summary": "은행·증권사 등 전통 금융회사들과 함께 청년 구직자를 만난 자리로, 디지털자산 거래소가 금융권의 새로운 일자리로 영역을 넓히는 모습이다.4일 디지털자산 업계에 따르면 빗썸은 지난 2일 서울 이화여대 ECC홀에서 열린 '2026 청년 채용설명회'에 참가했다. 이번 행사는 금융감독원과 이화여대가 공동 주관한 국제 콘퍼런스의 부대 행사로 마련됐다.행사에는 디지털자산 거래소를 비롯해 은행과 증권사 등 17개 금융기관이 참여했다. 각 회사는 금",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154923",
+          "source": "테크M",
+          "published": "2026-09-04 18:16",
+          "score": 22,
+          "keywords": [
+            "채용설명회",
+            "채용",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 2,
+          "title": "포스코그룹, ‘트리플 코어’ 미래 이끌 인재 세 자릿수 뽑는다",
+          "lead": "6개 핵심 그룹사 하반기 공채…16일까지 원서 접수 AI 엔지니어 직무 신설·로봇 연구원 대거 확충 전통 자소서 폐지…실제 역량 중심 선발로 전환",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12143787",
+          "source": "매일경제",
+          "published": "2026-09-03 18:21",
+          "score": 16,
+          "keywords": [
+            "포스코",
+            "인재"
+          ],
+          "image": null
+        },
+        {
+          "rank": 3,
+          "title": "롯데백화점·현대모비스·한화에어로스페이스 채용…하반기 신입 공채 본격화",
+          "lead": "롯데백화점·현대모비스·한화에어로스페이스 채용…하반기 신입 공채 본격화 스타트업엔(StartupN)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SRnBobVRKX1pRQlV3N0Rjc0ozSlB1VGJ3anN0ZkhGbjYyQXpUOGhjWkMwUTluQWw3T3lRYkp1eVliMGRMSFduSURpNUhPZXl3U1ExTFRVcklYZ2RBaE9sZzlLSUkyLWY50gFsQVVfeXFMUFMyUjIyMmRtWDYyNjVYM1UtNzdBZGxiS29JdVE5MXg4UTVyNl96ZUZXanVmLUtvUGw2UDIxZVdjT2VmTGw0a3VLUmVRUUdOZmFfT2c2a3VibUx5MGF3ZEJFQ1l6RF9ZR0Q0QVYt?oc=5",
+          "source": "스타트업엔(StartupN)",
+          "published": "2026-09-03 13:59",
+          "score": 16,
+          "keywords": [
+            "공채",
+            "채용",
+            "신입",
+            "한화"
+          ],
+          "image": null
+        },
+        {
+          "rank": 4,
+          "title": "\"N% 성과급은 교섭사안 아냐\"",
+          "lead": "노동부 '노란봉투법 지침'서남권 반도체 팹 짓더라도인력배치 전환은 교섭 대상모호한 잣대에 재계 반발",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12143768",
+          "source": "매일경제",
+          "published": "2026-09-03 18:07",
+          "score": 14,
+          "keywords": [
+            "성과급"
+          ],
+          "image": null
+        },
+        {
+          "rank": 5,
+          "title": "스토킹·교제폭력 막자…충남 아산 대학생들 뭉쳤다",
+          "lead": "경찰대학생과 충남 아산 지역 대학생들이 스토킹·교제폭력·마약 등 생활밀착형 범죄 예방을 위해 힘을 모은다.",
+          "summary": "5일 경찰에 따르면 경찰대는 지난 4일 경찰대학생과 지역 대학생이 참여하는 '아산 대학생 범죄예방 서포터즈' 발대식을 열었다.",
+          "url": "https://www.mt.co.kr/society/2026/09/06/2026090509550187355",
+          "source": "머니투데이",
+          "published": "2026-09-06 09:00",
+          "score": 11,
+          "keywords": [],
+          "image": null
+        },
+        {
+          "rank": 6,
+          "title": "포스코그룹, 세 자릿수 공채 진행…6개사 60여개 직무 대상",
+          "lead": "포스코그룹, 세 자릿수 공채 진행…6개사 60여개 직무 대상 뉴스웍스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbkxBM3N4SnZUVjNUQ1lHcjk4TkRNWWVwOVBvZE93Rm1NWGVybTNkSTFHQzU3SlJxaloyeTdtZjBmMDdyZ19TdnY4UzFVWFJYU1ZzaFJ6c3VlZG1QeWxPaE1Ldzdid2lwaU1MbE1mUdIBc0FVX3lxTE5CX05aem14ZmZNVHk1U2swR3MwVFJKNWJ5dlNyVUlNcUxNZVBydnMyYjgwcUxtNmNDSG14NTRyTmhFUTlCNGdTMnlpenJ2YVRwZzQzRm56UVQyNmE2YV95LTNhTnY0aHduUDVVdlhtRzdOV1U?oc=5",
+          "source": "뉴스웍스",
+          "published": "2026-09-03 18:25",
+          "score": 10,
+          "keywords": [
+            "공채",
+            "포스코"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}
