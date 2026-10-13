@@ -496,7 +496,7 @@ def save_to_notion(payload):
 
     db = req("POST", "databases", {
         "parent": {"type": "page_id", "page_id": page_id},
-        "title": [{"type": "text", "text": {"content": f"커리어 브리핑 - {payload['date']}"}}],
+        "title": [{"type": "text", "text": {"content": f"취업조로의 커리어브리핑 - {payload['date']}"}}],
         "properties": {
             "순위": {"number": {}}, "섹션": {"select": {}}, "제목": {"title": {}},
             "요약": {"rich_text": {}}, "URL": {"url": {}},
@@ -540,7 +540,7 @@ def main():
     args = ap.parse_args()
 
     print("=" * 60)
-    print(f"커리어 브리핑 수집  |  {datetime.now():%Y-%m-%d %H:%M}")
+    print(f"취업조로의 커리어브리핑 수집  |  {datetime.now():%Y-%m-%d %H:%M}")
     print("=" * 60)
 
     raw, dead_feeds = collect_all()

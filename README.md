@@ -1,4 +1,4 @@
-# 커리어 브리핑 (news-collector)
+# 커리어브리핑 (news-collector) — 취업조로의 커리어브리핑
 
 매일 아침 고용·커리어 뉴스를 자동 수집해서, ibrief.kr 스타일의 웹 지면으로 만들어 주는 도구입니다.
 GitHub Actions가 매일 08:00(KST)에 수집부터 배포까지 하고, 결과는 GitHub Pages에 올라갑니다.

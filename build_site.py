@@ -15,6 +15,7 @@ news_data.json + archive/*.json -> 정적 웹페이지(site/index.html) 생성
 """
 
 import argparse
+import shutil
 import html
 import json
 import sys
@@ -130,14 +131,17 @@ a { color: inherit; text-decoration: none; }
   display: flex; align-items: center; justify-content: space-between;
   gap: 24px; padding: 16px 32px; max-width: 1280px; margin: 0 auto;
 }
-.brand { display: flex; align-items: center; gap: 14px; }
-.brand-mark {
-  width: 46px; height: 46px; flex: none;
-  display: flex; align-items: center; justify-content: center;
-  font-family: var(--serif); font-size: 21px; font-weight: 800;
-  color: var(--ink); background: var(--paper);
-  border: 1px solid var(--ink); box-shadow: 3px 3px 0 var(--brass);
+.brand { display: flex; align-items: center; gap: 16px; }
+/* 취업조로 CI 로고 — 라이트는 검정, 다크는 흰색 버전으로 바꿔 보여준다 */
+.brand-logo { display: block; height: 40px; width: auto; flex: none; }
+.brand-logo-dark { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .brand-logo-light { display: none; }
+  :root:not([data-theme="light"]) .brand-logo-dark  { display: block; }
 }
+:root[data-theme="dark"] .brand-logo-light { display: none; }
+:root[data-theme="dark"] .brand-logo-dark  { display: block; }
+.brand-text { border-left: 1px solid var(--hairline-2); padding-left: 16px; }
 .brand-name { font-size: 17px; font-weight: 800; letter-spacing: -.4px; line-height: 1.2; }
 .brand-en {
   font-family: var(--mono); font-size: 9.5px; letter-spacing: .18em;
@@ -387,6 +391,10 @@ a { color: inherit; text-decoration: none; }
 .foot-text { font-size: 12.5px; line-height: 1.75; color: var(--muted); max-width: 52ch; }
 .foot-rule { height: 1px; background: var(--hairline); margin: 28px 0 18px; }
 .foot-note { font-family: var(--mono); font-size: 10.5px; color: var(--faint); line-height: 1.8; }
+.foot-brand { display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
+.foot-brand img { width: 40px; height: 40px; border-radius: 9px; flex: none; }
+.foot-brand-name { font-weight: 800; font-size: 13.5px; letter-spacing: -.02em; }
+.foot-brand-slogan { font-size: 12.5px; color: var(--muted); line-height: 1.6; }
 
 /* ---------------- 테마 토글 ---------------- */
 
@@ -1319,8 +1327,13 @@ def render(today, archive):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>커리어 브리핑</title>
-<meta name="description" content="매일 아침 자동 수집하는 고용·커리어 뉴스 브리핑 — 일간 지면과 주간·월간 점수 랭킹">
+<title>취업조로의 커리어브리핑</title>
+<meta name="description" content="취업조로(TEAM ZORRO)가 매일 아침 자동 수집하는 고용·커리어 뉴스 브리핑 — 일간 지면과 주간·월간 점수 랭킹">
+<meta property="og:title" content="취업조로의 커리어브리핑">
+<meta property="og:description" content="오늘 커리어에 영향을 주는 뉴스를 매일 아침 압축해 드립니다.">
+<meta property="og:image" content="assets/favicon-180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap">
@@ -1335,13 +1348,14 @@ def render(today, archive):
 
 <header class="masthead">
   <div class="masthead-inner">
-    <div class="brand">
-      <div class="brand-mark">CB</div>
-      <div>
-        <div class="brand-name">커리어 브리핑</div>
-        <div class="brand-en">Career Briefing</div>
+    <a class="brand" href="./" aria-label="취업조로의 커리어브리핑 홈">
+      <img class="brand-logo brand-logo-light" src="assets/logo.png" alt="취업조로" width="150" height="40">
+      <img class="brand-logo brand-logo-dark" src="assets/logo-dark.png" alt="" aria-hidden="true" width="150" height="40">
+      <div class="brand-text">
+        <div class="brand-name">커리어브리핑</div>
+        <div class="brand-en">Career Briefing by Team Zorro</div>
       </div>
-    </div>
+    </a>
     <div class="mast-right">
       <div class="stamp">{e(today.get('generated_at', ''))} 기준 &middot; 아카이브 {archive['available']}일치</div>
       <button class="theme-btn" id="themebtn" type="button" aria-label="화면 테마 바꾸기">테마 · 자동</button>
@@ -1418,8 +1432,15 @@ def render(today, archive):
       </div>
     </div>
     <div class="foot-rule"></div>
+    <div class="foot-brand">
+      <img src="assets/teamzorro.png" alt="TEAM ZORRO">
+      <div>
+        <div class="foot-brand-name">취업조로의 커리어브리핑</div>
+        <div class="foot-brand-slogan">TEAM ZORRO는 여러분을 좀 더 나은 회사, 옳은 커리어로 인도하겠습니다.</div>
+      </div>
+    </div>
     <div class="foot-note">
-      CAREER BRIEFING &middot; 생성 {e(today.get('generated_at', ''))} &middot;
+      취업조로 &middot; CAREER BRIEFING &middot; 생성 {e(today.get('generated_at', ''))} &middot;
       원문 저작권은 각 언론사에 있습니다.
     </div>
 {render_health(stats)}
@@ -1458,6 +1479,9 @@ def main():
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(render(today, archive), encoding="utf-8")
+
+    # CI 로고·파비콘: assets/ 를 site/assets/ 로 복사 (site/ 는 배포 때마다 새로 만들어진다)
+    shutil.copytree(BASE_DIR / "assets", out_path.parent / "assets", dirs_exist_ok=True)
 
     periods = ", ".join(
         f"{p['label']} {len(p['articles'])}건" for p in archive["periods"].values())

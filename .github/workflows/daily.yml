@@ -1,4 +1,4 @@
-# 매일 아침 커리어 브리핑을 만들어 GitHub Pages에 올린다.
+# 매일 아침 취업조로의 커리어브리핑을 만들어 GitHub Pages에 올린다.
 #   수집(collect_news.py) -> 사이트 생성(build_site.py) -> archive 커밋 -> Pages 배포
 # 수집이 실패하면(기사 0건 등) 배포하지 않고, 이슈를 열어 알린다. 어제 지면은 그대로 남는다.
 
