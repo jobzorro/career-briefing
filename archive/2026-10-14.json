@@ -1,0 +1,379 @@
+{
+  "title": "CAREER BRIEFING",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14 10:03",
+  "stats": {
+    "collected": 1658,
+    "deduped": 1552,
+    "recent": 657,
+    "relevant": 37,
+    "published": 17,
+    "feeds": 26,
+    "dead_feeds": [
+      "전자신문 https://rss.etnews.com/Section901.xml",
+      "전자신문 https://rss.etnews.com/Section902.xml",
+      "전자신문 https://rss.etnews.com/Section903.xml",
+      "머니투데이 https://rss.mt.co.kr/mt_news.xml",
+      "인력난 OR 인재 확보 경쟁 OR 전문인력"
+    ]
+  },
+  "sections": [
+    {
+      "key": "macro",
+      "name": "거시경제·고용지표",
+      "en": "MACRO & JOBS",
+      "desc": "고용률·실업률·임금 등 노동시장 전반을 움직이는 지표와 정책",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "청년실업률 19%에 AI 충격까지…中 Z세대 '잃어버린 세대' 되나",
+          "lead": "(뉴욕=연합뉴스) 임수정 특파원 = 중국의 경기 침체가 장기화하는 가운데 심각한 취업난과 인공지능(AI)에 따른 일자리 감소 우려까지 겹치면서 ...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261013194800072",
+          "source": "연합뉴스",
+          "published": "2026-10-13 23:41",
+          "score": 29,
+          "keywords": [
+            "실업률",
+            "청년실업"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "중국은 경기 침체 속 청년실업률 19%에 AI발 일자리 감소 우려까지 겹쳤다.",
+          "ai_why": "AI와 경기 둔화가 청년 고용을 동시에 압박하는 흐름은 국내 취업 시장에도 참고할 만한 신호다."
+        },
+        {
+          "rank": 2,
+          "title": "강원 접경 군(郡)지역, 인구 감소로 고용률 상승 역설⋯신규 일자리 80%는 일용직",
+          "lead": "최근 10년 새 강원특별자치도 접경지역의 고용률 지표가 상승했지만 이 같은 변화가 취업 증가 때문이 아닌 15세 이상 인구 감소로 인한 결과라는 연구가 나왔다.",
+          "summary": "강원연구원은 12일 정책 톡톡 ‘통계에 가려진 접경지역’을 발표, 고용·경제 구조를 진단하고 맞춤형 정책을",
+          "url": "https://www.kwnews.co.kr/article/20261012501468",
+          "source": "강원일보",
+          "published": "2026-10-12 18:31",
+          "score": 28,
+          "keywords": [
+            "고용률",
+            "일자리",
+            "인구"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "강원 접경지역 고용률 상승은 인구 감소 탓이며 신규 일자리 80%는 일용직이다.",
+          "ai_why": "고용률 수치만으로 지역 일자리 질을 판단하기 어렵다는 점을 보여주는 사례다."
+        },
+        {
+          "rank": 3,
+          "title": "오는 22일 '증평 일자리 이음 취업박람회'…212명 채용 추진",
+          "lead": "(증평=연합뉴스) 박재천 기자 = 충북 증평군은 지역 기업의 인력난 해소와 구직자 취업 기회 제공을 위해 오는 22일 증평생활체육관 1층 로비에...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261014036400064",
+          "source": "연합뉴스",
+          "published": "2026-10-14 09:05",
+          "score": 20,
+          "keywords": [
+            "일자리"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "증평군이 22일 취업박람회를 열어 지역 기업 212명 채용을 추진한다.",
+          "ai_why": "충북 지역 구직자라면 현장 면접 기회를 노려볼 만한 행사다."
+        },
+        {
+          "rank": 4,
+          "title": "외국인 실업급여 77% 중국계 독식…나경원 \"비정상 구조 방치\"",
+          "lead": "외국인 고용보험 가입자의 26%에 불과한 중국인과 중국 동포가 전체 외국인 실업급여의 77%를 수령하고 있음에도, 정부는 이들의 출국이나 재취업 여부조차 파악하지 못하고 있다는 지적이 나왔다.",
+          "summary": "나경원 국민의힘 의원. (사진=뉴시스)나경원 국민의힘 의원은 13일 자신...",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02171366645612920&mediaCodeNo=257",
+          "source": "이데일리",
+          "published": "2026-10-14 06:27",
+          "score": 20,
+          "keywords": [
+            "실업급여"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "외국인 고용보험 가입자의 26%인 중국계가 외국인 실업급여의 77%를 받는다는 지적이다.",
+          "ai_why": "외국인 고용보험 제도 개편 논의로 이어질 수 있어 관련 정책 변화를 지켜볼 필요가 있다."
+        },
+        {
+          "rank": 5,
+          "title": "프리츠커 취임 이후 IL 평균 실업률 5.4%",
+          "lead": "J.B. 프리츠커(민주) 주지사 취임 이후 일리노이 주의 평균 실업률이 5.4%로, 전국에서 세번째 높았다는 분석이 나왔다. 비영리 싱크탱크 일리노이 정책연구소(IPI)가 연방 노동통계국(BLS) 자료를 토대로 지난...",
+          "summary": "",
+          "url": "https://www.koreadaily.com/article/20261013125241548",
+          "source": "미주중앙일보",
+          "published": "2026-10-14 04:52",
+          "score": 20,
+          "keywords": [
+            "실업률"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "프리츠커 주지사 취임 이후 일리노이주 평균 실업률이 5.4%로 전국 세 번째로 높았다.",
+          "ai_why": "미국 현지 취업을 고려하는 경우 지역별 고용 여건 차이를 살펴볼 참고 자료다."
+        },
+        {
+          "rank": 6,
+          "title": "오산시, 내년 생활임금 1만1620원…최저임금보다 920원↑",
+          "lead": "경기 오산시가 내년도 공공부문 근로자 생활임금을 시급 1만1620원으로 확정했다고 13일 밝혔다.",
+          "summary": "시는 지난 7일 생활임금심의위원회를 열고 물가 상승에 따른 경제 상황과 시의 재정 여건 등을 종합적으로 고려해 올해(1만1230원)보다 3.5%(390원) 인상 결정했다.",
+          "url": "https://www.mt.co.kr/policy/2026/10/13/2026101314340038471",
+          "source": "머니투데이",
+          "published": "2026-10-13 14:48",
+          "score": 20,
+          "keywords": [
+            "최저임금"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "오산시가 내년 공공부문 생활임금을 3.5% 올린 시급 1만1620원으로 정했다.",
+          "ai_why": "오산시 공공부문 근로자의 내년 시급 수준을 가늠할 수 있는 기준이 된다."
+        }
+      ]
+    },
+    {
+      "key": "future",
+      "name": "미래커리어·산업변화",
+      "en": "FUTURE OF WORK",
+      "desc": "AI·산업 재편이 직무와 커리어 경로를 바꾸는 흐름",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "구미대 '특성화 선도대학' 선정…100억 투입 피지컬 AI 인재 양성",
+          "lead": "",
+          "summary": "",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6318424",
+          "source": "뉴스1",
+          "published": "2026-10-13 15:06",
+          "score": 23,
+          "keywords": [
+            "인재 양성",
+            "AI"
+          ],
+          "image": null,
+          "related": [
+            {
+              "title": "경운대·구미대·대경대 미래항공·AI·문화 인재 양성",
+              "source": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261014028300053"
+            }
+          ],
+          "ai_line": "구미대가 특성화 선도대학에 뽑혀 100억 원을 들여 피지컬 AI 인재를 키운다.",
+          "ai_why": "피지컬 AI 분야 진로를 고민하는 학생에게 교육 기회가 늘어난다는 의미다."
+        },
+        {
+          "rank": 2,
+          "title": "“내 업무 자동화는 내 손으로”… 삼성전기, 첫 AI 해커톤 개최",
+          "lead": "100개 팀 참여해 개발 경쟁 반복 업무 자동화에 초점 우수작 전 직원에 공개 예정 장덕현 “1인 1 AI 시대 열 것”",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12174460",
+          "source": "매일경제",
+          "published": "2026-10-13 15:07",
+          "score": 21,
+          "keywords": [
+            "자동화",
+            "AI"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "삼성전기가 100개 팀이 참여한 첫 AI 해커톤으로 반복 업무 자동화에 나섰다.",
+          "ai_why": "현업에서 AI로 업무를 직접 자동화하는 역량이 직원 평가 요소로 부상하고 있음을 보여준다."
+        },
+        {
+          "rank": 3,
+          "title": "‘청년 직업훈련’ K-뉴딜 아카데미, 참여 인원 절반도 못 채워…내년 예산은 5배",
+          "lead": "정부가 대기업과 손잡고 청년에세 직업훈련 기회를 제공하는 ‘K-뉴딜 아카데미’의 실제 참여 인원이 올해 목표치의 절반에도 못 미치는 것으로 나타났다.",
+          "summary": "13일 국회 기후에너지환경노동위원회 소속 박수민 국민의힘 의원이 고용노동부에서 제출받은 자료에 따르면 지난달 15일 기준 K-뉴딜 아카데미에서 훈련을 받는 인원은 4249명으로 집계됐다. 올해 정부가 설정한",
+          "url": "https://www.mk.co.kr/news/economy/12174098",
+          "source": "매일경제",
+          "published": "2026-10-13 08:30",
+          "score": 20,
+          "keywords": [
+            "직업훈련"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "K-뉴딜 아카데미 참여 인원이 목표의 절반에 못 미쳤지만 내년 예산은 5배로 늘었다.",
+          "ai_why": "대기업 연계 직업훈련 기회가 확대될 예정이라 청년 구직자는 참여 조건을 확인해볼 만하다."
+        },
+        {
+          "rank": 4,
+          "title": "울산시·교육청, AI인재양성·교복비·급식비 등 지원 확대",
+          "lead": "[울산=뉴시스] 유재형 기자 = 울산시는 12일 울산교육청과 교육행정협의회를 열고 AI 관련 인재 육성과 교육 복지 등에 대한 지원을 확대하기로 했다고 12일 밝혔다",
+          "summary": "",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261012_0003821783",
+          "source": "뉴시스",
+          "published": "2026-10-12 16:20",
+          "score": 20,
+          "keywords": [
+            "인재양성",
+            "AI"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "울산시와 교육청이 AI 인재 양성과 교복비·급식비 지원을 확대하기로 했다.",
+          "ai_why": "울산 지역 학생들의 AI 교육 접근성이 넓어질 것으로 보인다."
+        },
+        {
+          "rank": 5,
+          "title": "대통령이 직접 ‘AI 일자리 충격’ 경고…“대졸자부터 사다리 끊길 판”",
+          "lead": "싱가포르 대통령, IMF연차총회서 경고 개발자 채용 AI활용가능 시니어에 몰려 AI노출도 높은 직종서 청년층 고용부진",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/world/12173583",
+          "source": "매일경제",
+          "published": "2026-10-12 14:40",
+          "score": 20,
+          "keywords": [
+            "AI 일자리",
+            "AI"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "싱가포르 대통령이 IMF 총회에서 AI가 대졸 청년의 취업 사다리를 끊을 수 있다고 경고했다.",
+          "ai_why": "AI 노출도 높은 직종의 신입 문이 좁아지는 만큼 AI 활용 역량을 갖추는 것이 중요해진다."
+        },
+        {
+          "rank": 6,
+          "title": "[이프 카카오] 카카오톡 AI가 바꾸는 우리의 일상...\"사회경제적 가치 5506억원 달해\"",
+          "lead": "카카오의 AI 서비스가 창출할 수 있는 사회경제적 가치가 연간 5506억원에 달한다는 연구 결과가 나왔다.",
+          "summary": "대화 내용을 정리하고 일정을 관리하는 일상 편의부터 공공서류 발급 지원, 소상공인 고객 응대 자동화 등 AI가 이용자의 시간과 비용을 줄이는 효과를 경제적 가치로 환산한 결과다. AI가 정보 제공을 넘어 실제 행동과 서비스 이용으로 연결하는 플랫폼으로 발전한다면 오는 2030년에는 최대 1조8225억억원 규모의 가치를 창출할 수 있다는 분석이다. 13일 이철호 카이스트 기술경영학부 부교수 겸 디지털경제연구센터 센터장은 경기도",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=156039",
+          "source": "테크M",
+          "published": "2026-10-13 22:57",
+          "score": 18,
+          "keywords": [
+            "AI"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "카카오 AI 서비스의 사회경제적 가치가 연간 5506억 원에 이른다는 연구가 나왔다.",
+          "ai_why": "생활형 AI 서비스 시장이 커지며 관련 기획·개발 직무 수요가 늘어날 가능성이 있다."
+        }
+      ]
+    },
+    {
+      "key": "hiring",
+      "name": "기업채용·이직",
+      "en": "HIRING & MOVES",
+      "desc": "기업이 실제로 사람을 뽑고 옮기는 현장 — 공채·경력·처우",
+      "articles": [
+        {
+          "rank": 1,
+          "title": "한화오션, 정부 핵잠수함 추진 발맞춰 조직 신설·경력직 채용",
+          "lead": "(서울=연합뉴스) 홍규빈 기자 = 한화오션이 정부의 핵추진잠수함(핵잠) 개발 사업인 '장보고 N사업'에 발맞춰 조직 신설과 인력 확보에 나섰다.",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261012068900003",
+          "source": "연합뉴스",
+          "published": "2026-10-12 10:53",
+          "score": 23,
+          "keywords": [
+            "경력직",
+            "채용",
+            "한화"
+          ],
+          "image": null,
+          "related": [
+            {
+              "title": "한화오션, 핵추진잠수함 전문인력 채용…‘장보고 N사업’ 준비 속도",
+              "source": "이데일리",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGRDaGI4d0hncFliNDIzNXQ1a0VlNGN4WnNqLVFOVjZKUGEtc09kS0k3UzA4ZnpLOThxY2Y0eEVOZHlEd0s0TVRrWlZOQUhvMUxmanlGQVZPRVQzWldtdERhdTVYb21vV3ppUkF3MlhuZ2ktQWU3cGNENkpLUlVESg?oc=5"
+            },
+            {
+              "title": "한화오션, 핵추진잠수함 ‘전문인력’ 확보 속도… 5개 분야 경력직 채용",
+              "source": "브릿지경제",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tZ3QtQ19pNEVkWDhJaXlPdVVBbTJkWk1IMThYWjJQRzl3VmN0S1FOYlFtRzZGTF8zRGNRLV9sMTk1Y2lvYVdaNC1XWkVTRWMyT25SNHpPcVZVdw?oc=5"
+            },
+            {
+              "title": "한화오션, 원자력 추진 함정 전문인력 채용…5개 분야 경력직 모집",
+              "source": "시사캐스트",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1McTV6bjQzZDhHY1ZHTUhHY3NVOHUxalZLdmFRUjhlRjZaWEpRbDQ3aEdTM054T1dJd21rRDVPZG11c1gyXzVBaU8xOUNwYkpnNzVGYU42a0p3cmpTSzlSTzEwd0ZhRGpY?oc=5"
+            }
+          ],
+          "ai_line": "한화오션이 핵잠수함 개발 사업에 맞춰 조직을 신설하고 경력직을 채용한다.",
+          "ai_why": "방산·조선 분야 경력자에게 이직 기회가 열리는 신호로 볼 수 있다."
+        },
+        {
+          "rank": 2,
+          "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
+          "lead": "(서울=연합뉴스) 조승한 기자 = 국가공무원 공개경쟁 채용에서 과학기술직 비중이 꾸준히 늘어나면서 지난해 공채 부처 배정 인원 4명 중 1명가...",
+          "summary": "",
+          "url": "https://www.yna.co.kr/view/AKR20261013117700017",
+          "source": "연합뉴스",
+          "published": "2026-10-14 07:00",
+          "score": 21,
+          "keywords": [
+            "공채"
+          ],
+          "image": null,
+          "related": [],
+          "ai_line": "국가공무원 공채에서 과학기술직이 지난해 부처 배정 인원 4명 중 1명을 차지했다.",
+          "ai_why": "이공계 전공자에게 공직 진출 기회가 꾸준히 넓어지고 있다는 의미다."
+        },
+        {
+          "rank": 3,
+          "title": "'웹툰엔터' 김준구, 美로 거주지 옮긴다...이주·주거비만 14억원",
+          "lead": "네이버웹툰 모회사 웹툰엔터테인먼트가 김준구 대표의 거주지를 한국에서 미국으로 옮기는 데 약 14억원을 지원한다.",
+          "summary": "일회성 이주 지원금과 2년간 주거비를 합한 금액이다. 연봉과 성과급은 별도로 지급한다.13일 미국 증권거래위원회(SEC) 공시에 따르면 웹툰엔터테인먼트 이사회는 지난달 30일 김 대표에게 이주 비용을 지원하는 안을 승인했다.회사는 김 대표에게 일회성 지원금 56만7009달러(약 7억5600만원)를 지급한다. 2027년 1월까지 재직하면 해당 월에 지급하는 조건이다. 지원금으로 인해 한국과 미국에서 추가로 발생하는 세금도",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=156051",
+          "source": "테크M",
+          "published": "2026-10-14 00:21",
+          "score": 16,
+          "keywords": [],
+          "image": null,
+          "related": [],
+          "ai_line": "웹툰엔터가 김준구 대표의 미국 이주와 2년 주거비로 약 14억 원을 지원한다.",
+          "ai_why": "글로벌 기업의 경영진 해외 이전 보상 관행을 엿볼 수 있는 사례다."
+        },
+        {
+          "rank": 4,
+          "title": "“회의하시죠, KTX 시간 좀 볼게요”…금융사는 서울, 금융위는 세종",
+          "lead": "중앙행정기관 44곳 이전 금융위 등 27곳 내년 이전 외교·통일부 등 17개 기관은 2031년까지 청사 지어 이동 공무원 주거·통근 부담 커져 민간 이직 등 인력 유출 우려 정부, 교통·이주비 지원 검토",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12174867",
+          "source": "매일경제",
+          "published": "2026-10-13 19:42",
+          "score": 11,
+          "keywords": [],
+          "image": null,
+          "related": [],
+          "ai_line": "금융위 등 27개 기관이 내년 세종으로 옮기며 공무원 인력 유출 우려가 커졌다.",
+          "ai_why": "이전 기관 공무원의 민간 이직이 늘 수 있어 금융권 경력 채용 흐름에 영향을 줄 수 있다."
+        },
+        {
+          "rank": 5,
+          "title": "코레일테크, 19명 신규 채용...고졸 청년부터 경력직까지",
+          "lead": "코레일테크가 고졸 청년부터 경력직까지 다양한 인재를 대상으로 2026년 제2차 일반직사원 19명을 채용한다.채용형 인턴 17명과 사업관리 분야 경력직 2명을 선발하며 고졸 청년에게도 별도 채용 기회를 제공한다.이번 채용은 철도시설물 유지보수와 환경서비스 등 코레일테크의 주요 사업을 수행할 인재를 확보하기 위해 마련됐다.채용형 인턴은 총 17명이며 이와 별도로 전기와 건축·기계 분야 사업관리 경력직 2명을 모집한다.특히 학교장 추천을 받은 고졸 청년을 대상으로 사무직군 2명을 별도 선발해 학력에 관계없이 직무 역량을 갖춘 인재에게 취",
+          "summary": "",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=815988",
+          "source": "디트NEWS24",
+          "published": "2026-10-13 12:32",
+          "score": 10,
+          "keywords": [
+            "경력직",
+            "채용"
+          ],
+          "image": null,
+          "related": [
+            {
+              "title": "코레일테크, 고졸·경력직까지 문 넓혔다 ...일반직 사원 19명 ‘직무 중심’ 채용",
+              "source": "충청탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44WDhGSXo5UkV3YWxIbzB4RDlmb1IwbkdfRGhLYTZLMUQ2N0xsOG54eGk1SndmcnhWTzdULWk5WGNCa3dyQUdHNFhTRUR4Zk5kVG1ScXBNeU84YnBtVUtwczNYZWk?oc=5"
+            },
+            {
+              "title": "코레일테크, 일반직 직원 19명 채용… 고졸·경력직 모집",
+              "source": "국토일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wOUhQLTI1eXRyS1J6RC0zMEdSSzR4dFBiUjNYdkphampTWF9NT2pReUktaFRHbzBpZ0lMWUlwcmZFXzFGN25MdjlxUHphc0xTczYtQVJUWjVGbkxtaHJnQ3V3ajU?oc=5"
+            }
+          ],
+          "ai_line": "코레일테크가 채용형 인턴 17명과 경력직 2명 등 19명을 뽑고 고졸 전형도 둔다.",
+          "ai_why": "고졸 청년과 사업관리 경력자 모두 지원할 수 있는 공공기관 채용 기회다."
+        }
+      ]
+    }
+  ],
+  "briefing": [
+    "AI가 청년 일자리를 흔든다는 경고가 국내외에서 잇따르며, 개발자 채용이 AI를 다룰 줄 아는 시니어에 몰리는 흐름이 확인되고 있다.",
+    "고용률 상승이나 실업급여 통계처럼 숫자 뒤에 가려진 고용의 질과 구조를 따져보는 분석이 늘고 있다.",
+    "핵잠수함 사업, 과학기술직 공채, 공공기관 채용 등 정책과 맞물린 채용 수요가 구직자에게 구체적인 기회로 나타나고 있다."
+  ]
+}
