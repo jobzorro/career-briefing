@@ -315,6 +315,8 @@ a { color: inherit; text-decoration: none; }
   display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
 .news-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; }
+.job-tags { margin-top: 7px; }
+.job-tag { font-family: var(--mono); font-size: 10.5px; letter-spacing: .04em; padding: 2px 7px; border-radius: 3px; color: var(--ink); background: var(--brass-tint); }
 .tag { font-family: var(--mono); font-size: 9.5px; padding: 2px 7px; border: 1px solid var(--hairline-2); border-radius: 99px; color: var(--muted); }
 
 .empty { padding: 30px 0; color: var(--muted); font-size: 14px; border-bottom: 1px solid var(--hairline); }
@@ -692,9 +694,15 @@ SCRIPT = r"""
 
     if (article.ai_why) {
       var why = el('p', 'news-why');
-      why.appendChild(el('b', null, '커리어 시사점'));
+      // v2 지면: 조로 말투의 한마디. 지난 지면(v1)은 평서문 시사점이라 라벨을 구분한다
+      why.appendChild(el('b', null, article.ai_tags ? 'Zorro의 한마디' : '커리어 시사점'));
       why.appendChild(document.createTextNode(article.ai_why));
       body.appendChild(why);
+    }
+    if (article.ai_tags && article.ai_tags.length) {
+      var jobs = el('div', 'news-tags job-tags');
+      article.ai_tags.forEach(function (t) { jobs.appendChild(el('span', 'job-tag', '#' + t)); });
+      body.appendChild(jobs);
     }
 
     if (article.keywords && article.keywords.length) {
@@ -1265,7 +1273,7 @@ def render_brief(today):
         return (f'      <p class="hero-sub">\n'
                 f'        국내 언론사와 검색 피드 {stats.get("feeds", 0)}개에서 '
                 f'{stats.get("collected", 0):,}건을 읽어들여\n'
-                f'        중복을 걷어내고, 커리어 관점에서 점수를 매겨 세 갈래로 나눠 담았습니다.\n'
+                f'        중복을 걷어내고, 취업조로의 눈으로 점수를 매겨 다섯 갈래로 나눠 담았습니다.\n'
                 f'      </p>')
     items = "".join(f"<li>{e(t)}</li>" for t in lines)
     return (f'      <div class="brief-box"><div class="brief-label"><span class="ai-tag">AI</span>'
@@ -1328,7 +1336,7 @@ def render(today, archive):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>취업조로의 커리어브리핑</title>
-<meta name="description" content="취업조로(TEAM ZORRO)가 매일 아침 자동 수집하는 고용·커리어 뉴스 브리핑 — 일간 지면과 주간·월간 점수 랭킹">
+<meta name="description" content="커리어를 읽는 남자, 취업조로(TEAM ZORRO)가 매일 아침 고르는 채용·이직·기업·고용·커리어 변화 뉴스 — 일간 지면과 주간·월간 랭킹">
 <meta property="og:title" content="취업조로의 커리어브리핑">
 <meta property="og:description" content="오늘 커리어에 영향을 주는 뉴스를 매일 아침 압축해 드립니다.">
 <meta property="og:image" content="assets/favicon-180.png">
@@ -1353,7 +1361,7 @@ def render(today, archive):
       <img class="brand-logo brand-logo-dark" src="assets/logo-dark.png" alt="" aria-hidden="true" width="150" height="40">
       <div class="brand-text">
         <div class="brand-name">커리어브리핑</div>
-        <div class="brand-en">Career Briefing by Team Zorro</div>
+        <div class="brand-en">커리어를 읽는 남자 · Career Briefing</div>
       </div>
     </a>
     <div class="mast-right">
@@ -1366,7 +1374,7 @@ def render(today, archive):
 <section class="hero">
   <div class="hero-inner">
     <div class="hero-text">
-      <div class="eyebrow"><span class="pulse"></span>매일 아침 자동 수집 &middot; {e(today.get('date', ''))}</div>
+      <div class="eyebrow"><span class="pulse"></span>커리어를 읽는 남자, 취업조로가 매일 아침 고른 뉴스 &middot; {e(today.get('date', ''))}</div>
       <h1>오늘 커리어에 영향을 주는 뉴스,<br><em>{published}건</em>으로 압축했습니다</h1>
 {render_brief(today)}
       <div class="funnel">{funnel_html}</div>
@@ -1425,9 +1433,9 @@ def render(today, archive):
       <div class="foot-block">
         <div class="foot-label">읽는 법</div>
         <p class="foot-text">
-          카드를 누르면 원문으로 이동합니다. <b>AI</b> 표시가 붙은 문장과 "커리어 시사점"은
-          Claude가 기사 제목·요약만 보고 쓴 것이라 원문과 다를 수 있습니다. 그 아래 회색 글은
-          원문에서 그대로 가져온 요약입니다. 키워드를 누르면 지난 기사를 검색합니다.
+          카드를 누르면 원문으로 이동합니다. <b>AI</b> 표시가 붙은 문장과 "Zorro의 한마디"는
+          취업조로의 관점을 학습한 Claude가 기사 제목·요약만 보고 쓴 것이라 원문과 다를 수 있습니다.
+          그 아래 회색 글은 원문에서 그대로 가져온 요약입니다. #태그는 관련 직무, 키워드를 누르면 지난 기사를 검색합니다.
         </p>
       </div>
     </div>

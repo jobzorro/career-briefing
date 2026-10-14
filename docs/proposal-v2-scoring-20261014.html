@@ -1,0 +1,549 @@
+<!doctype html><html lang=ko><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'></head><body><title>커리어브리핑 개편 제안서</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Black+Han+Sans&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+/* 레이아웃: 흑백 CI + 형광펜 노랑. 왼쪽 눈금선 하나로 장(章)을 세고, 본문은 65자 폭. */
+:root {
+  --paper: #f6f6f3;
+  --card: #ffffff;
+  --ink: #0d0d0d;
+  --ink-2: #3a3a3a;
+  --muted: #6f6f6a;
+  --line: #d9d9d3;
+  --line-2: #bdbdb5;
+  --mark: #ffe94d;
+  --mark-soft: rgba(255,233,77,.45);
+  --hl: #ffe94d;
+  --good: #1b7f4b;
+  --bad: #b42e2e;
+  --display: "Black Han Sans", "Noto Sans KR", sans-serif;
+  --sans: "Noto Sans KR", -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #121212; --card: #1b1b1b; --ink: #f1f1ec; --ink-2: #cfcfc8; --muted: #9a9a92;
+    --line: #2d2d2b; --line-2: #45453f; --mark: #e6cf2a; --mark-soft: rgba(230,207,42,.28); --hl: rgba(230,207,42,.42);
+    --good: #4cc482; --bad: #e46c6c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #121212; --card: #1b1b1b; --ink: #f1f1ec; --ink-2: #cfcfc8; --muted: #9a9a92;
+  --line: #2d2d2b; --line-2: #45453f; --mark: #e6cf2a; --mark-soft: rgba(230,207,42,.28); --hl: rgba(230,207,42,.42);
+  --good: #4cc482; --bad: #e46c6c; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; overflow-x: hidden; background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: 15.5px; line-height: 1.7; word-break: keep-all; }
+.wrap { max-width: 1040px; margin: 0 auto; padding-block: 0 80px; padding-inline: 20px; }
+a { color: inherit; }
+h1, h2, h3 { text-wrap: balance; line-height: 1.25; margin: 0; }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(32px, 5.2vw, 54px); letter-spacing: -.01em; }
+h2 { font-size: clamp(22px, 2.8vw, 30px); font-weight: 900; letter-spacing: -.03em; }
+h3 { font-size: 17px; font-weight: 700; letter-spacing: -.02em; }
+p { margin: 0; max-width: 68ch; }
+mark { background: linear-gradient(transparent 38%, var(--hl) 38%, var(--hl) 92%, transparent 92%); color: inherit; padding: 0 2px; }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.eyebrow { font-family: var(--mono); font-size: 11px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); }
+
+/* 마스트헤드 */
+.mast { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 18px 0; border-bottom: 2px solid var(--ink); }
+.mast img { height: 34px; width: auto; display: block; }
+.mast .logo-dark { display: none; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .mast .logo-light { display: none; } :root:not([data-theme="light"]) .mast .logo-dark { display: block; } }
+:root[data-theme="dark"] .mast .logo-light { display: none; } :root[data-theme="dark"] .mast .logo-dark { display: block; }
+.mast .meta { font-family: var(--mono); font-size: 11.5px; color: var(--muted); text-align: right; min-width: 0; }
+
+/* 히어로 */
+.hero { padding: 48px 0 36px; border-bottom: 1px solid var(--line); }
+.hero p.lead { font-size: 18px; color: var(--ink-2); margin-top: 18px; max-width: 60ch; }
+.kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; margin-top: 32px; border: 1px solid var(--line-2); background: var(--card); }
+.kpi { padding: 16px 18px; border-right: 1px solid var(--line); min-width: 0; }
+.kpi:last-child { border-right: 0; }
+.kpi .n { font-family: var(--display); font-size: 36px; line-height: 1; letter-spacing: 0; }
+.kpi .l { font-size: 12.5px; color: var(--muted); margin-top: 6px; line-height: 1.4; }
+@media (max-width: 720px) { .kpis { grid-template-columns: 1fr 1fr; } .kpi { border-bottom: 1px solid var(--line); } .kpi:nth-child(2n) { border-right: 0; } .kpi .n { font-size: 30px; } }
+@media (max-width: 420px) { .kpis { grid-template-columns: 1fr; } .kpi { border-right: 0; } .kpi:last-child { border-bottom: 0; } }
+
+/* 장(章) */
+.ch { display: grid; grid-template-columns: 64px 1fr; gap: 24px; padding: 48px 0; border-bottom: 1px solid var(--line); }
+.ch > .num { font-family: var(--display); font-size: 44px; line-height: 1; color: var(--ink); position: sticky; top: 16px; align-self: start; }
+.ch > .body { min-width: 0; display: grid; gap: 22px; }
+@media (max-width: 720px) { .ch { grid-template-columns: 1fr; gap: 10px; } .ch > .num { position: static; font-size: 32px; } }
+.sub { color: var(--muted); font-size: 14.5px; max-width: 70ch; }
+
+/* 카드·표 */
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+.card { background: var(--card); border: 1px solid var(--line-2); padding: 18px 20px; min-width: 0; max-width: 100%; }
+.grid2 > * { min-width: 0; }
+.card h3 { margin-bottom: 8px; }
+.card ul { margin: 0; padding-left: 18px; }
+.card li { margin: 4px 0; }
+.tbl-wrap { overflow-x: auto; border: 1px solid var(--line-2); background: var(--card); }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-family: var(--mono); font-weight: 500; background: var(--paper); }
+tr:last-child td { border-bottom: 0; }
+td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.tag { display: inline-block; font-family: var(--mono); font-size: 11px; padding: 1px 7px; border: 1px solid var(--line-2); border-radius: 2px; margin: 1px 2px 1px 0; white-space: nowrap; }
+.tag.new { background: var(--mark-soft); border-color: transparent; }
+.tag.cut { text-decoration: line-through; color: var(--muted); }
+.plus { color: var(--good); font-weight: 700; } .minus { color: var(--bad); font-weight: 700; }
+
+/* 막대 (CSS, 비율 정확) */
+.bars { display: grid; gap: 7px; }
+.bar { display: grid; grid-template-columns: 140px 1fr 52px; align-items: center; gap: 10px; font-size: 13.5px; }
+.bar .track { height: 14px; background: var(--line); position: relative; }
+.bar .fill { position: absolute; inset: 0 auto 0 0; background: var(--ink); }
+.bar .fill.hi { background: var(--mark); }
+.bar .v { font-family: var(--mono); text-align: right; font-size: 12.5px; }
+@media (max-width: 520px) { .bar { grid-template-columns: 96px 1fr 44px; } }
+
+/* 비교 블록 */
+.vs { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+@media (max-width: 720px) { .vs { grid-template-columns: 1fr; } }
+.vs > .card { min-width: 0; overflow: hidden; }
+.vs .card.now { border-style: dashed; }
+.vs .card.next { border-color: var(--ink); box-shadow: 4px 4px 0 var(--mark); }
+.formula { font-family: var(--mono); font-size: 12.5px; max-width: 100%; background: var(--paper); border: 1px solid var(--line); padding: 12px 14px; overflow-x: auto; white-space: pre; line-height: 1.6; }
+
+/* 인용 */
+.quote { border-left: 3px solid var(--ink); padding: 6px 16px; color: var(--ink-2); font-size: 14.5px; }
+.quote .src { display: block; font-family: var(--mono); font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+/* 타임라인 */
+.steps { display: grid; gap: 0; border: 1px solid var(--line-2); background: var(--card); }
+.step { display: grid; grid-template-columns: 88px 1fr; gap: 14px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+.step:last-child { border-bottom: 0; }
+.step .when { font-family: var(--mono); font-size: 12px; color: var(--muted); padding-top: 3px; }
+@media (max-width: 520px) { .step { grid-template-columns: 1fr; gap: 4px; } }
+
+.foot { padding-top: 28px; display: flex; gap: 14px; align-items: center; color: var(--muted); font-size: 12.5px; }
+.foot img { width: 36px; height: 36px; border-radius: 8px; }
+.ask { background: var(--ink); color: var(--paper); padding: 22px 24px; }
+.ask h3 { color: inherit; }
+.ask ol { margin: 10px 0 0; padding-left: 20px; }
+.ask li { margin: 6px 0; }
+.ask b { background: var(--mark); color: #0d0d0d; padding: 0 4px; }
+@media (prefers-reduced-motion: no-preference) { .vs .card.next { transition: box-shadow .2s; } }
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <img class="logo-light" src="data:image/png;base64,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" alt="취업조로" width="128" height="34">
+      <img class="logo-dark" src="data:image/png;base64,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" alt="" aria-hidden="true" width="128" height="34">
+    </div>
+    <div class="meta">커리어브리핑 개편 제안서<br>2026-10-14 · 분석 대상 56일 · 929건</div>
+  </header>
+
+  <section class="hero">
+    <div class="eyebrow">Proposal · news-collector v2</div>
+    <h1 style="margin-top:10px">뉴스콜렉터를<br>조로의 눈으로 다시 고르기</h1>
+    <p class="lead">지난 56일 지면 929건을 뜯어보니, 취업조로가 15년 동안 블로그·컨설팅·오픈카톡에서 다뤄온 주제와 지면의 초점이 어긋나 있습니다. 섹션을 3개에서 5개로 재편하고, 점수에 <mark>직무·회사유형·독자</mark> 세 축을 더하는 안입니다.</p>
+    <div class="kpis">
+      <div class="kpi"><div class="n">41%</div><div class="l">새 기준을 사후 적용하면 밀려나는 기존 지면 기사 (381건)</div></div>
+      <div class="kpi"><div class="n">0건</div><div class="l">56일간 제목에 "경력기술서·희망퇴직·구조조정·중견·외국계"가 들어간 기사</div></div>
+      <div class="kpi"><div class="n">10건</div><div class="l">제목에 "이직"이 들어간 기사. 조로의 주력 컨설팅 주제인데 AI(197건)의 5%</div></div>
+      <div class="kpi"><div class="n">2,200명</div><div class="l">오픈카톡 '침묵의 뉴스방' 인원. 브리핑의 가장 직접적인 독자층</div></div>
+    </div>
+  </section>
+
+  <!-- 1. 취업조로 분석 -->
+  <section class="ch">
+    <div class="num">01</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Who is Zorro</div>
+        <h2 style="margin-top:6px">취업조로의 취향을 데이터로 읽으면</h2>
+        <p class="sub" style="margin-top:8px">근거: 네이버 블로그 zorr0 최근 50건(RSS)과 크롤링 원문 78건, jobzorro.kr, 자소설닷컴 코치 페이지, 유튜브 채널 소개, 강의 교안 pptx 7종, 컨설팅 루틴 문서, 멀티커리어 기획서.</p>
+      </div>
+
+      <div class="grid2">
+        <div class="card">
+          <h3>프로필</h3>
+          <ul>
+            <li>조현빈 · ㈜커리어프로젝트 대표 · 취업/이직 컨설턴트 15년차</li>
+            <li>본업: 대기업 기획·재무 13년 (포스코모빌리티솔루션, kt estate, 멀티캠퍼스, 우리자산신탁, AITRICS)</li>
+            <li>저서 3권: 『누가 봐도 뽑고 싶은 인문계/이공계 자소서』, 『READY TO 취업』</li>
+            <li>2023 국회 교육위원장 표창 · 2024 대한민국 명강사(취업/이직교육)</li>
+            <li>Team Zorro 컨설턴트 4인(도성민·정석·이송·필립)과 경력 440만원 / 신입 390만원 유료 컨설팅</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>채널과 독자 규모</h3>
+          <div class="tbl-wrap" style="border:0">
+            <table>
+              <tr><td>블로그 zorr0 (이웃)</td><td class="num">2,480</td></tr>
+              <tr><td>유튜브 조로의 취업이직연구소</td><td class="num">3,030</td></tr>
+              <tr><td>오카방 침묵의 뉴스방</td><td class="num">2,200</td></tr>
+              <tr><td>오카방 인사이더(인사 현직)</td><td class="num">1,500</td></tr>
+              <tr><td>오카방 경력이직방</td><td class="num">1,200</td></tr>
+              <tr><td>오카방 문송 신입방</td><td class="num">1,100</td></tr>
+              <tr><td>오카방 기획인의공간</td><td class="num">1,000</td></tr>
+              <tr><td>오카방 중고신입·OB·구매</td><td class="num">1,750</td></tr>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <h3>블로그 최근 50건의 구성</h3>
+        <div class="bars" style="margin-top:10px; max-width:640px">
+          <div class="bar"><span>합격·이직 후기</span><div class="track"><div class="fill hi" style="width:66%"></div></div><span class="v">33건</span></div>
+          <div class="bar"><span>직무별 취준 시리즈</span><div class="track"><div class="fill" style="width:24%"></div></div><span class="v">12건</span></div>
+          <div class="bar"><span>컨설팅 모집 공지</span><div class="track"><div class="fill" style="width:8%"></div></div><span class="v">4건</span></div>
+          <div class="bar"><span>팀 소개</span><div class="track"><div class="fill" style="width:2%"></div></div><span class="v">1건</span></div>
+        </div>
+        <p class="sub" style="margin-top:10px">후기 33건의 제목에는 직무(기획·인사·재무·자금·구매·영업·마케팅·MD·총무·품질·연구개발)와 회사 유형(대기업·계열사·중견·외국계·스타트업)이 거의 빠짐없이 들어갑니다. 조로가 세상을 보는 단위가 <mark>직무 × 회사유형 × 연차</mark>라는 뜻입니다. 시리즈물은 HR'er, IT기업 입사, 부동산 취업, PM/PO, 개발자 생존처럼 직무 하나를 깊게 팝니다.</p>
+      </div>
+
+      <div class="grid2">
+        <div class="card">
+          <h3>① 직무: 사무관리직이 홈그라운드</h3>
+          <p>기획·전략, 재무·회계·자금, 인사·총무, 구매·SCM, 영업(B2B·해외·기술), 마케팅·MD, 서비스기획·PM. "기획하면 조로"라고 스스로 말합니다. 개발자는 팀원(정석)이 담당하는 보조 영역입니다.</p>
+        </div>
+        <div class="card">
+          <h3>② 회사: 대기업·계열사·중견이 중심</h3>
+          <p>외국계와 공기업은 소수, 스타트업은 "강소&amp;우량 스타트업"으로 한정합니다. "직무보다 회사가 훨씬 중요하다", "일은 일일 뿐"이 반복되는 주장입니다. 재무제표로 회사를 뜯어보는 기업분석이 컨설팅의 간판 스킬입니다.</p>
+        </div>
+        <div class="card">
+          <h3>③ 독자: 문과 신입 → 중고신입 → 경력이직</h3>
+          <p>'문송합니다'로 시작했지만 지금 주력은 경력이직입니다. 후기 주인공은 20대 후반~30대 초반, 여성 비율이 2~4배. 중장년·시니어·청소년은 다루지 않습니다.</p>
+        </div>
+        <div class="card">
+          <h3>④ 관점: 현실주의 + 시즌 감각</h3>
+          <p>"선퇴사 금지", "환승이직이 무조건 이득", "취업은 정보 싸움", "시즌빨·사잇구간", "AI는 여기에만 쓰세요". 나이·성별·시장 상황을 직설적으로 말하고, 멘티에게는 액션(지원해라/기다려라/피해라)을 줍니다.</p>
+        </div>
+      </div>
+
+      <div class="quote">"하루의 절반을 보내야 하는 회사는 삶에 있어 너무도 중요합니다. TEAM ZORRO는 여러분을 좀 더 나은 회사, 옳은 커리어로 인도하겠습니다."<span class="src">팀조로 공식마크 슬로건 · 현재 커리어브리핑 푸터에도 사용 중</span></div>
+    </div>
+  </section>
+
+  <!-- 2. 현재 진단 -->
+  <section class="ch">
+    <div class="num">02</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Diagnosis · 2026-08-20 ~ 10-14</div>
+        <h2 style="margin-top:6px">지금 지면은 '고용 뉴스'이지 '조로의 뉴스'는 아닙니다</h2>
+        <p class="sub" style="margin-top:8px">아카이브 56일, 발행 기사 929건의 제목·키워드를 집계했습니다.</p>
+      </div>
+
+      <div class="grid2">
+        <div>
+          <h3>제목에 등장한 횟수: 지면이 많이 다룬 말</h3>
+          <div class="bars" style="margin-top:10px">
+            <div class="bar"><span>AI</span><div class="track"><div class="fill" style="width:100%"></div></div><span class="v">197</span></div>
+            <div class="bar"><span>채용</span><div class="track"><div class="fill" style="width:84%"></div></div><span class="v">165</span></div>
+            <div class="bar"><span>실업</span><div class="track"><div class="fill" style="width:63%"></div></div><span class="v">125</span></div>
+            <div class="bar"><span>경력</span><div class="track"><div class="fill" style="width:44%"></div></div><span class="v">87</span></div>
+            <div class="bar"><span>청년</span><div class="track"><div class="fill" style="width:43%"></div></div><span class="v">85</span></div>
+            <div class="bar"><span>신입</span><div class="track"><div class="fill" style="width:40%"></div></div><span class="v">79</span></div>
+            <div class="bar"><span>중장년 (키워드)</span><div class="track"><div class="fill" style="width:22%"></div></div><span class="v">44</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>조로가 매일 쓰는 말이 지면에 나온 횟수</h3>
+          <div class="bars" style="margin-top:10px">
+            <div class="bar"><span>이직</span><div class="track"><div class="fill hi" style="width:5%"></div></div><span class="v">10</span></div>
+            <div class="bar"><span>연봉</span><div class="track"><div class="fill hi" style="width:4%"></div></div><span class="v">8</span></div>
+            <div class="bar"><span>직무</span><div class="track"><div class="fill hi" style="width:3.5%"></div></div><span class="v">7</span></div>
+            <div class="bar"><span>면접</span><div class="track"><div class="fill hi" style="width:1.5%"></div></div><span class="v">3</span></div>
+            <div class="bar"><span>자소서</span><div class="track"><div class="fill hi" style="width:1%"></div></div><span class="v">2</span></div>
+            <div class="bar"><span>희망퇴직·구조조정</span><div class="track"><div class="fill hi" style="width:0%"></div></div><span class="v">0</span></div>
+            <div class="bar"><span>중견·외국계</span><div class="track"><div class="fill hi" style="width:0%"></div></div><span class="v">0</span></div>
+          </div>
+          <p class="sub" style="margin-top:8px">막대 길이는 왼쪽 차트와 같은 축(최대 197)입니다.</p>
+        </div>
+      </div>
+
+      <div class="grid2">
+        <div class="card">
+          <h3>노이즈 네 종류가 지면을 차지</h3>
+          <ul>
+            <li><b>지자체 지표·행사</b>: "신안 고용률 80.4% 전국 군 2위", "이천시 일자리박람회", "군포시청 박람회". 현재 규칙에 지역 감점이 없습니다.</li>
+            <li><b>인재양성 보도자료</b>: "창신대·해군정비창 전문인력양성 맞손", "중앙아 5개국 AI 인재 양성 전수". '인재 양성'이 core 키워드라 대학·공공기관 홍보가 미래커리어 섹션을 점령합니다.</li>
+            <li><b>해외 실업률</b>: 일본·호주·스리랑카 실업률이 거시 섹션에 반복 등장합니다.</li>
+            <li><b>비타깃 독자</b>: 중장년·시니어·5070 재취업이 키워드 44건. 조로의 독자가 아닙니다.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>정작 빠져 있는 것</h3>
+          <ul>
+            <li><b>회사 선택 정보</b>: 실적·적자·사업재편·희망퇴직·공장 신설. "회사가 중요하다"는 조로의 1원칙인데 섹션 자체가 없습니다.</li>
+            <li><b>이직 시장</b>: 경력직 수요, 헤드헌팅, 연봉·성과급 협상, HR 제도 변화가 '기업채용'에 묻혀 있습니다.</li>
+            <li><b>직무 단위 뉴스</b>: 기획·인사·구매·영업·MD 같은 직무명이 제목에 있어도 가산이 없습니다.</li>
+            <li><b>중견·외국계</b>: 56일간 0건. 수집 쿼리에 아예 없습니다.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. 섹션 개편 -->
+  <section class="ch">
+    <div class="num">03</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Proposal 1 · Sections</div>
+        <h2 style="margin-top:6px">섹션 3개 → 5개: 조로의 컨설팅 순서대로</h2>
+        <p class="sub" style="margin-top:8px">조로가 멘티를 만나면 묻는 순서가 "어디가 뽑나 → 지금 옮겨도 되나 → 그 회사 괜찮나 → 시장은 어떤가 → 앞으로 내 직무는"입니다. 지면도 그 순서로 읽히게 합니다.</p>
+      </div>
+
+      <div class="tbl-wrap">
+        <table>
+          <thead><tr><th>새 섹션</th><th>무엇을 담나</th><th>기존 섹션에서</th><th>조로 콘텐츠와 연결</th><th>지면 수</th></tr></thead>
+          <tbody>
+            <tr><td><b>채용 시즌·공고</b><br><span class="eyebrow">Hiring Now</span></td><td>대기업·계열사·중견·외국계·공기업의 공채·수시·인턴, 채용 일정과 규모</td><td>기업채용·이직의 공채 부분 <span class="tag">121건 유지</span></td><td>블로그 '공고정리' 시리즈, 시즌 전략</td><td class="num">5 (시즌 7)</td></tr>
+            <tr><td><b>이직·연봉·HR</b><br><span class="eyebrow">Moves &amp; Pay</span></td><td>경력직 수요, 헤드헌팅, 연봉·성과급, 희망퇴직·구조조정, 승진·평가, 주4일·재택, AI 면접·채용 프로세스</td><td>기업채용·이직에서 분리 <span class="tag new">115건 이동</span></td><td>경력이직 컨설팅, 선퇴사 금지 시리즈, 인사이더·경력이직방</td><td class="num">5</td></tr>
+            <tr><td><b>기업·산업 레이더</b><br><span class="eyebrow">Company Watch</span></td><td>실적·적자·사업재편·M&amp;A·증설·폐점. 반도체·2차전지·유통·F&amp;B·부동산·금융·제약·IT서비스</td><td><span class="tag new">신설</span> 지금은 수집조차 안 됨</td><td>기업분석(재무제표) 스킬, "회사가 직무보다 중요"</td><td class="num">4</td></tr>
+            <tr><td><b>고용지표·정책</b><br><span class="eyebrow">Macro</span></td><td>통계청 고용동향, 청년고용, 최저임금·실업급여, 노동법·정년</td><td>거시경제·고용지표 <span class="tag">207건 유지</span> 지자체·해외 감점</td><td>"여러분 탓 아님, 시장 탓임" 시장 설명</td><td class="num">3</td></tr>
+            <tr><td><b>AI·미래커리어</b><br><span class="eyebrow">Future</span></td><td>사무직 AI 대체, 직무 변화, 개발자 시장, N잡·부업·멀티커리어</td><td>미래커리어·산업변화 <span class="tag cut">인재양성 제거</span> 48건만 생존</td><td>'AI 100% 활용' 강의, 투잡연구소, 멀티커리어 전략</td><td class="num">3</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="sub">합계 20건으로 지금(18건)과 비슷합니다. 3~4월, 9~10월에는 채용 섹션을 7건으로 늘리고 AI 섹션을 2건으로 줄여 시즌을 반영합니다.</p>
+    </div>
+  </section>
+
+  <!-- 4. 점수 기준 -->
+  <section class="ch">
+    <div class="num">04</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Proposal 2 · Scoring</div>
+        <h2 style="margin-top:6px">점수에 '조로의 축' 세 개를 더하고, 홍보 기사 구멍을 막습니다</h2>
+      </div>
+
+      <div class="vs">
+        <div class="card now">
+          <h3>현재 산식</h3>
+          <div class="formula">점수 = core(제목 6 / 요약 3)
+     + sub(제목 2 / 요약 1)
+     + 숫자 있으면 +3
+     − 홍보키워드 ×8 (수상·협약·간담회…)
+     + 언론사 (TIER1 +8 / 그 외 −5)
+탈락: core 없음 또는 10점 미만</div>
+          <p class="sub" style="margin-top:10px">키워드만 세기 때문에 "누구를 위한 기사인가"를 보지 못합니다. 지자체·대학 보도자료는 키워드가 빽빽해서 오히려 유리합니다.</p>
+        </div>
+        <div class="card next">
+          <h3>제안 산식</h3>
+          <div class="formula">점수 = (현재 산식 그대로)
+     + 직무어 +4   기획·재무·인사·구매·영업·마케팅·MD·PM…
+     + 회사유형 +3  대기업·계열사·중견·외국계·공기업
+     + 독자어 +3   신입·중고신입·경력직·직장인·이직
+     + 시즌 +4     3~4월·9~10월, 채용 섹션만
+     − 지자체 −8   ○○시·군·구청, ○○대학 센터/양성
+     − 비타깃 −6   중장년·시니어·5070·청소년·전역군인
+     − 해외지표 −6  日·美·호주 실업률 등
+     − 행사 −8     박람회·성료·개최·개원 (기존 목록에 추가)
+탈락: core 없음 또는 12점 미만</div>
+        </div>
+      </div>
+
+      <div class="grid2">
+        <div class="card">
+          <h3>키워드 목록 변경 요약</h3>
+          <ul>
+            <li><span class="minus">삭제</span> future core에서 인재양성·인력양성·전문인력·인력난·중장년·시니어·경력단절·계속고용 (보도자료 유입원)</li>
+            <li><span class="plus">추가</span> moves core: 희망퇴직·구조조정·권고사직·승진·인사평가·조직개편·AI 면접·경력기술서·자소서·채용 프로세스</li>
+            <li><span class="plus">추가</span> company core: 영업이익·적자·사업재편·매각·증설·폐점·법정관리. sub에 산업명 25개와 그룹명</li>
+            <li><span class="plus">추가</span> hiring sub 그룹명: 포스코·신세계·GS·두산·효성·LS·HD현대·농협·은행·카드사</li>
+            <li><span class="plus">추가</span> future core: N잡·부업·사이드잡·멀티커리어·화이트칼라·사무직·AI 에이전트</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>왜 이 가중치인가</h3>
+          <ul>
+            <li>직무 +4는 core 1개(6점)보다 작게. 직무명만으로 올라오지 않고, 같은 점수대에서 순서를 바꾸는 용도입니다.</li>
+            <li>지자체 −8은 TIER1 언론사 가산(+8)을 정확히 상쇄합니다. 연합뉴스가 쓴 지자체 기사도 평범한 기사와 같은 선에 섭니다.</li>
+            <li>비타깃 −6은 탈락이 아니라 강등입니다. "노동부, 중장년 재취업 지원 전국 확대" 같은 정책 기사는 거시 섹션 하단에 남을 수 있습니다.</li>
+            <li>최저점 12는 "core 1개 + 언론사 가산"만으로 올라오던 기사를 막는 선입니다.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. 시뮬레이션 -->
+  <section class="ch">
+    <div class="num">05</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Simulation · 929 published articles</div>
+        <h2 style="margin-top:6px">지난 56일 지면에 새 기준을 사후 적용하면</h2>
+        <p class="sub" style="margin-top:8px">주의: 이미 발행된 기사만 다시 채점한 것입니다. 원래 걸러졌던 기사와 새 쿼리로 들어올 기사는 포함되지 않아, 특히 기업·산업 레이더는 11건밖에 잡히지 않습니다. 방향을 보는 용도입니다.</p>
+      </div>
+
+      <div class="grid2">
+        <div>
+          <h3>기존 섹션별 생존·탈락</h3>
+          <div class="bars" style="margin-top:10px">
+            <div class="bar"><span>기업채용·이직 296</span><div class="track"><div class="fill" style="width:82%"></div></div><span class="v">82% 생존</span></div>
+            <div class="bar"><span>거시·고용지표 321</span><div class="track"><div class="fill" style="width:68%"></div></div><span class="v">68%</span></div>
+            <div class="bar"><span>미래커리어 312</span><div class="track"><div class="fill" style="width:28%"></div></div><span class="v">28%</span></div>
+          </div>
+          <p class="sub" style="margin-top:10px">미래커리어의 72%가 빠지는 이유는 거의 전부 '인재양성' 보도자료입니다. 남은 48건이 진짜 AI·직무 변화 기사이고, 모자라는 자리는 새 쿼리(N잡·사무직 AI·개발자 시장)로 채웁니다.</p>
+        </div>
+        <div>
+          <h3>탈락 사유 (중복 집계)</h3>
+          <div class="bars" style="margin-top:10px">
+            <div class="bar"><span>지자체·대학 감점</span><div class="track"><div class="fill" style="width:100%"></div></div><span class="v">35</span></div>
+            <div class="bar"><span>비TIER1 언론사</span><div class="track"><div class="fill" style="width:91%"></div></div><span class="v">32</span></div>
+            <div class="bar"><span>행사·홍보</span><div class="track"><div class="fill" style="width:31%"></div></div><span class="v">11</span></div>
+            <div class="bar"><span>비타깃 독자</span><div class="track"><div class="fill" style="width:26%"></div></div><span class="v">9</span></div>
+            <div class="bar"><span>core 키워드 소실</span><div class="track"><div class="fill" style="width:100%"></div></div><span class="v">300+</span></div>
+          </div>
+          <p class="sub" style="margin-top:10px">감점 없이도 탈락한 300여 건은 '인재양성'처럼 core에서 뺀 키워드로만 올라왔던 기사입니다.</p>
+        </div>
+      </div>
+
+      <div class="vs">
+        <div class="card next">
+          <h3>올라오는 기사</h3>
+          <div class="tbl-wrap" style="border:0">
+            <table>
+              <tr><td>하반기 대기업 신입 채용 시작… 정기 공채·수시 선발 병행</td><td class="num">13 → 37</td></tr>
+              <tr><td>2026 하반기 대기업 신입 채용 본격화…현대차 92개 공고·LG전자·SKT 공채</td><td class="num">25 → 43</td></tr>
+              <tr><td>"성과급 받고 팔자 고치자"…추석 귀향 대신 자소서 쓰는 직장인들</td><td class="num">17 → 41</td></tr>
+              <tr><td>추석 앞두고 대기업 공채 잇따라…신세계·동원·한솔 하반기 신입 채용</td><td class="num">13 → 31</td></tr>
+              <tr><td>40세 미만 92%가 "관두겠다"…지방이전 반발 금감원 노조</td><td class="num">14 → 26</td></tr>
+            </table>
+          </div>
+        </div>
+        <div class="card now">
+          <h3>밀려나는 기사</h3>
+          <div class="tbl-wrap" style="border:0">
+            <table>
+              <tr><td>산업계 주목하는 피지컬 AI… 서울 AI 허브, 전문인력 양성 나서</td><td class="num">29 → 3</td></tr>
+              <tr><td>강원 접경 군(郡)지역, 인구 감소로 고용률 상승 역설</td><td class="num">28 → 4</td></tr>
+              <tr><td>창의재단, 중앙아 5개국에 AI 인재 양성 노하우 전수 앞장</td><td class="num">27 → 5</td></tr>
+              <tr><td>2030년까지 AI·반도체 전문인력 30만명 키운다</td><td class="num">26 → 3</td></tr>
+              <tr><td>노동부, 중장년 재취업 지원 전국 확대…AI 직무전환 돕는다</td><td class="num">32 → 10</td></tr>
+            </table>
+          </div>
+        </div>
+      </div>
+      <p class="sub">마지막 줄처럼 정책성 기사가 지나치게 밀리는 경우가 있습니다. 2주 운영 후 '정부·노동부' 발신 기사에는 비타깃 감점을 절반만 적용하는 식으로 조정할 여지를 둡니다.</p>
+    </div>
+  </section>
+
+  <!-- 6. 수집원 -->
+  <section class="ch">
+    <div class="num">06</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Proposal 3 · Sources</div>
+        <h2 style="margin-top:6px">점수만 바꾸면 빈 섹션이 생깁니다. 수집 쿼리를 같이 바꿉니다</h2>
+      </div>
+      <div class="grid2">
+        <div class="card">
+          <h3>Google News 쿼리 추가 (8개)</h3>
+          <ul>
+            <li><span class="tag new">company</span> 영업이익 OR 적자 전환 OR 사업 철수 OR 희망퇴직</li>
+            <li><span class="tag new">company</span> 공장 신설 OR 증설 OR 인수합병 (대기업 OR 중견)</li>
+            <li><span class="tag new">moves</span> 경력직 채용 OR 헤드헌팅 OR 인재 영입 경쟁</li>
+            <li><span class="tag new">moves</span> 연봉 인상률 OR 성과급 OR 임금협상 타결</li>
+            <li><span class="tag new">moves</span> AI 면접 OR 채용 프로세스 OR 자기소개서 AI 검증</li>
+            <li><span class="tag new">hiring</span> 중견기업 채용 OR 외국계 채용 OR 공기업 채용</li>
+            <li><span class="tag new">hiring</span> 공채 일정 OR 서류 접수 OR 채용설명회 (삼성 OR SK OR 현대차 OR LG OR 롯데 OR CJ)</li>
+            <li><span class="tag new">future</span> 부업 OR N잡 OR 사이드잡 OR 사무직 AI 대체</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>쿼리 삭제·교체 (4개)</h3>
+          <ul>
+            <li><span class="tag cut">AI 인재 양성 OR 반도체 인력 양성</span> 보도자료 유입원</li>
+            <li><span class="tag cut">인력난 OR 인재 확보 경쟁 OR 전문인력</span> 같은 이유</li>
+            <li><span class="tag cut">정년연장 OR 계속고용 OR 중장년 재취업</span> → "정년연장 OR 노동법 개정"으로 축소</li>
+            <li><span class="tag cut">리스킬링 OR 업스킬링 OR 미래직업</span> → "직무 변화 OR 사무직 자동화"</li>
+          </ul>
+          <h3 style="margin-top:14px">피드 추가 후보</h3>
+          <ul>
+            <li>잡코리아·사람인·인크루트 보도자료 피드: 채용 통계, 시즌 공채 집계</li>
+            <li>더벨·비즈니스포스트: 기업 실적·사업재편 (TIER1 목록에는 이미 있음)</li>
+            <li>HR 전문지(월간 인사관리, HR Insight): HR 제도 변화. RSS 생존 여부 확인 필요</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. AI 브리핑 -->
+  <section class="ch">
+    <div class="num">07</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Proposal 4 · AI Brief</div>
+        <h2 style="margin-top:6px">'커리어 시사점'을 'Zorro의 한마디'로</h2>
+        <p class="sub" style="margin-top:8px">블로그 후기마다 붙는 "Zorro의 한마디"가 조로 콘텐츠의 서명입니다. 지면의 AI 문장도 같은 형식으로 바꿉니다. 단, 본문 톤은 지금처럼 평서문을 유지하고 의견은 이 한 줄에만 담습니다.</p>
+      </div>
+      <div class="vs">
+        <div class="card now">
+          <h3>지금</h3>
+          <p class="sub">why: "독자의 커리어(구직·이직·직무·연봉)에 어떤 의미인지 60자 안팎 한 문장"</p>
+          <div class="quote" style="margin-top:10px">경력직 채용 확대는 신입 구직자의 진입 장벽이 높아진다는 뜻이다.</div>
+        </div>
+        <div class="card next">
+          <h3>제안</h3>
+          <p class="sub">zorro: "누구에게(신입/중고신입/경력/재직자) + 무엇을 하라(지원·대기·회피·준비) + 근거" 60자. 직무 태그 1~2개 자동 부여.</p>
+          <div class="quote" style="margin-top:10px">경력 3년차 이상이면 지금이 지원 타이밍이다. 쌩신입은 이 회사 대신 계열사 수시 공고를 노려라.<span class="src">#인사 #대기업 · 조로의 한마디</span></div>
+        </div>
+      </div>
+      <div class="card">
+        <h3>프롬프트에 넣을 '조로 관점' 규칙</h3>
+        <ul>
+          <li>독자는 문과 신입, 중고신입, 3~10년차 경력이직자, 재직 중 이직 고민자. 중장년·학생은 독자가 아니다.</li>
+          <li>회사가 직무보다 중요하다. 실적·구조조정 기사는 "이 회사에 지원해도 되는가"로 번역한다.</li>
+          <li>선퇴사는 말리고 환승이직을 권한다. 시즌(3~4월, 9~10월)을 기준으로 타이밍을 말한다.</li>
+          <li>직무 태그는 기획·재무·인사·구매·영업·마케팅·MD·PM·개발·공통 중에서 고른다.</li>
+          <li>과장·확신 금지. 기사에 없는 수치는 쓰지 않는다. (기존 규칙 유지)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. 실행 -->
+  <section class="ch">
+    <div class="num">08</div>
+    <div class="body">
+      <div>
+        <div class="eyebrow">Plan · Risks · Decisions</div>
+        <h2 style="margin-top:6px">실행 순서와 결정할 것</h2>
+      </div>
+      <div class="steps">
+        <div class="step"><div class="when">1단계 · 반나절</div><div><b>분류·점수 교체</b> classifier.py 섹션 5개와 가산·감점 규칙, sources.py 쿼리 교체. 로컬에서 하루치 돌려 지면을 같이 봅니다.</div></div>
+        <div class="step"><div class="when">2단계 · 1일</div><div><b>지면 반영</b> build_site.py 섹션 5개 레이아웃, 시즌 배분, 직무 태그 표시. 아카이브 스키마는 섹션 key만 추가되므로 지난 지면 검색·랭킹은 그대로 동작합니다.</div></div>
+        <div class="step"><div class="when">3단계 · 1일</div><div><b>AI 한마디</b> ai_brief.py 프롬프트와 출력 스키마(zorro, tags) 변경. 비용은 지금과 같습니다(하루 1회 호출).</div></div>
+        <div class="step"><div class="when">2주 관찰</div><div><b>튜닝</b> 섹션별 기사 수가 3건 미만인 날, 비타깃 감점 과잉, 지자체 규칙 오탐(서울시·경기도 정책)을 보고 가중치를 조정합니다.</div></div>
+        <div class="step"><div class="when">옵션</div><div><b>침묵의 뉴스방용 텍스트</b> 지면 생성 때 카톡에 붙여넣을 20줄 요약(.txt)을 함께 만듭니다. 2,200명 방에 매일 아침 공유하는 용도입니다.</div></div>
+      </div>
+
+      <div class="grid2">
+        <div class="card">
+          <h3>리스크</h3>
+          <ul>
+            <li>기업·산업 레이더는 새 쿼리에 달려 있어 첫 주에 지면이 얇을 수 있습니다. 3건 미만이면 이직·연봉 섹션 기사로 채우는 fallback을 둡니다.</li>
+            <li>지자체 감점 정규식이 "서울시, 청년 취업 지원 3.3조" 같은 큰 정책도 깎습니다. 서울시·경기도·정부 부처는 예외 목록으로 뺍니다.</li>
+            <li>섹션이 5개가 되면 모바일에서 스크롤이 길어집니다. 섹션 점프 탭을 컨트롤 바에 추가합니다.</li>
+          </ul>
+        </div>
+        <div class="ask">
+          <h3>결정해 주실 것</h3>
+          <ol>
+            <li>섹션 <b>5개</b>로 갈지, 기업·산업 레이더를 이직 섹션에 합쳐 <b>4개</b>로 갈지</li>
+            <li>지면 배분 <b>5·5·4·3·3</b>과 시즌 가중(채용 7건)에 동의하는지</li>
+            <li>AI 한마디의 말투: 평서문 유지 vs <b>조로 말투</b>("~입니다", 팩폭 허용)</li>
+            <li>중장년·시니어 기사를 완전히 뺄지, 거시 섹션 하단에 남길지</li>
+          </ol>
+        </div>
+      </div>
+
+      <div class="foot">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAACdCAYAAABFEcHVAAAQXUlEQVR4nO2deWxVRRvGp1BkF8tSUFH2oIKULe4GBcEQIxJE1D+QSFCKJkajJGgMxoQEDcgfJiASCRLEoBBlCVKjNSqCbIIaFhXFimxtBZEWBAqdL8/km+bcuWfuPXeBl3t9fsmkt+eeZc7Mc95535m5ZwqUUloRcpFpdLEvSAiFR8SgxSMiUHhEBAqPiEDhEREoPCIChUdEoPCICBQeEYHCIyJQeEQECo+IQOERESg8IgKFR0Sg8IgIFB4RgcIjIlB4RAQKj4hA4RERKDwiAoVHRKDwiAgUHhGBwiMiUHhEBAqPiEDhEREoPCIChUdEoPCICBQeEYHCIyJQeEQECo+IQOERESg8IkKhzGWJpXHjxqqwsFA1atRI1dfXq7q6OvM336HwLgIFBQVGWDaBNm3aqCuvvFJdccUV6vLLLzfiO3v2rDp58qSqrKxUVVVV5vOZM2eU1vm3Bg6Fd4GAwNq2bas6d+5sRIbPSPh81VVXqWuvvVZ16NBBXXbZZSbB8p0/f16dO3dO1dbWqgMHDqidO3c2pIMHD6p8gsLLUFwtW7Y0Fgt/27Vrp9q3b6+aNm2qOnXqZMRVXFysWrdubSwbkrV0LVq0SHhuNLl//PGHqqioUBs3blTl5eXqu+++M1YwHyjgWmaJgSWCkKxlatKkiWkW8fmaa65RPXr0MGJDwufu3bsbIUJwzZs3z0ol1dbWqm+//VYtWrRIlZWVqb///lvlOhSeR2wQj7VOXbp0Mc0jxASrVlRUZBKsGqwYhAhBQmjNmjW7IBVVV1enqqur1Zw5c9TcuXNz3vcr/K83lWgGIS4IC0KDoK6++mpjzVq1amWEBd/MBgHYH+KCOBE0ZEJ9fb2qqakxgcSxY8fM/8GgI3h+CBt5nDJlitkP4kMwkqv8JywehGKtFHwxJFQwmkdUMEQGq4bvYdVsxWcbWKhTp06ZQGHfvn3mL5rNw4cPq7/++ssEF8gDro88de3aVV133XUmCAmya9cu9eSTT6rNmzebY3KRvLV4sBbwzWCh+vfvr2655RbVq1cvY806duxoKhjf2T40+zdTK5aII0eOqG+++UatXbtWrV+/3lg6CAcWzPbdIQ8QKKxtt27d1JgxY9RDDz1k8m7BPZSWlhrR7tmzR+UqOh9Tt27d9NNPP62XLFmit23bpg8ePKhPnDihz58/ryXYunWrLi0t1f369dPNmzePfB+tWrXSTz31lD5w4EBM3k+ePKlHjRolXs4ZJPEMZDWhUkeMGKHnzp2rd+3apevq6rQk586d0xs3btTjx483IiooKEj5nrp06aJnzJihjxw5EnPuqVOn6qZNm4qX+X9eeO3atdMTJkzQmzZt0pcKhw8f1uPGjUtLcCqQunfvrrdv3x5z7sWLF+uSkhJpAaWVCvMpgIA/NGPGDBMg+ID/BH/q9OnTxtHHZxyLgCMbkWoQdH98/PHHatOmTRl3fVRWVsZ1HiMAgb/3ww8/qFwjb4T36KOPqqlTp3pFh6gRPf8///yziSL/+ecf0zEL4aH/Df1ziB5LSkpMciPJdEDUumbNGtNVkint27eP65DGw5KtTuqLTc4LD/1b119/vXr44YdjIj+AiBFW5/vvv1cbNmxQO3bsULt371aHDh0yHbBBEAEj2r3hhhvUvffeq4YPH6569uxptqcLLCrGXN1rpQq6Vx588EHzNwgs4L///qtyFZ3LqW3btnr+/Pn62LFjcf7Vvn379OzZsxv8oKh+VseOHfWkSZP0nj17vL5bfX29rq2t1TU1Nd59du7cafy7Nm3aZHSPI0eO1Lt3744LlN59910TJUvXQZpJPAMZpcGDB+u9e/fGVfqWLVv0Y489ZiLCRo0apXzeoqIi/dJLLxnxuqBb4/jx43rRokUmeoYIw4AwV69erXv16pX2/Q0bNkx/8sknoednVCskuuLiYv3ss8/q6urqOEv08ssv68aNG6cdTUKsffv21cuXL4+rcFieX375RY8dO9ZYnDVr1pg+wjAg0Ndff1336dMn8gPQsmVLPXDgQPPglJWV6TNnzsSd99SpU3r06NHiD366Kad9PEw7uvPOO2McbESPcOg//fTTjIaTcJ7ff//djDaEDdhjtgiGrjBy8MYbb5gRh5EjR8ZFxRjfnTx5ssnr8uXL1a+//moCHfhmmHuH6yCaRmSN0QqkG2+8Ud1zzz3qrrvuMpGrnTxqOXHihPr888/Vb7/9pnKVnBYexltRoRjusiBKxZDU1q1bsxJJQjguCBY++uijhuEqDH/Zoa777rsvZl8IEfkcO3asuv3229VPP/1kuj8gQAQfOMbO38O0qt69e5upVRgrxvaw7h0ERwsWLDDnyFVyWngQHKydaxFQMZliLdjgwYPjrN2WLVvUjz/+2LANlvXrr782s0XQVQORuZMMkFdYL8wwKSkpUUePHjXngvDwnZ0Jg7+wgD4QJS9btsxMDs3liDanhecDlgNWCBWbDhBCv3791AMPPGC6V4KgeYW1QXMZBM0mJgBgO8Rx//33q759+8Z1x0BUxcXFCTu5w4BA0X2yYsUKtXjx4ryYiaxzNQ0dOlRv3rxZnz59OibiXLt2rb777rvTPu+tt95qItajR4/GOfVvvfVW0uObNGmix4wZY4KOqqqqrIwXHzp0SC9YsEAPGDBAvNyzlMQzkHbq37+/Xrp0aWhfGvq4evfurQsLCyOdCxEnulAeeeQRvW7dOhMZuyxbtsx030Q5X7NmzUwk+8QTT+gVK1bERN7pzGzBDBV0y2Q65nuppJxuavFjmC+//NKMMsA3CjJixAjTrOF7jFwgAjx+/HjMPvgeQ2WYBNqnTx81aNAgEyVj8mWwiUQzun//fvXBBx+obdu2RcobxoLRLCOPuD6i4Ntuu82MrvTo0SPpj30QeGCUBcchQsd4L+bf5fJ097yagQw/6v333zddEGHRJyK/7du3m0gSY6dw6rEdQsUQGZx9CA0+Hf7iRzwue/fuVQsXLlTvvfde2j8zxLgq/EUEKwMHDjQCRDCB68GnRPQKgSNhQgB+0oghvs8++ywrwdKlRs4LD5X3/PPPq8cff9zM1AgD0aZNsBoQHiwOjsVYr01hXRewWO+8846aN29exoP9dlZ0ixYtGqa325nQiKIRMCB/sM64LkRoI998ROdywuhEp06dzEzjbIIRkMrKSj19+nQzHpzOsFtSP6ew0IxSwLfENVq3bh3ZJ82DJJ6BrCREsatWrdJnz57NWHSIknfs2GFEl8k4K5PKf+EhDRo0yIyt/vnnn96B+2SgO2b9+vVmdgpmNEvfk8rfJJ6BrDa7+JHPc889Z2anwPpFFSD62vbv368XLlyohw8fbn4fIX0/Ko9TzgcXYQ48IlVEkAMGDDBRL8Y/4cjb8U848hjmQpcHAga8nwRRL36niuEw/J/LP5bOBfJOeEEw4wP9c5ihjIF3RJD2LQAQHsY6McSF6fDovsCPrNMdZiOpkdfCsxbQvvwQn4NdJvaHP+i2yNVf5OcqeS88cmnCdyATESg8IgKFR0Sg8IgIFB4RgcIjIlB4RAQKj4hA4RERKDwiAoVHRKDwiAgUHhGBwiMiUHhEBAqPiEDhEREoPCIChUdEoPCICBQeEYHCIyJQeEQECo+IkPGraPG61ajgzZqjR482C44888wzSffH6oo333xz3Paw41evXq1efPHFuH1nzpypRo0a1fD/K6+8Yt6cHkZ5eblZb8KC11/4wJICr776atJ78OVr2rRpavz48XFvlce7W2bNmhWax5UrV8YtFOiW1xdffBF3vXSPc8t84sSJ6qabborZjhdIoozffvttlSppv/Fn8uTJKb0CDC9PxHFRX6KIFbbDrovtLitXrgzdF2+FD8tDsnvB0uuJ7n3mzJmR7mHatGkxx2EZql0h+XevjfO716yoqIh0zfLy8pjjor742z0OqWfPnmZ7MnzlnyClL7yohW+xhemKIZWb8YndJ1K3snz7uZXj288m5C0KEJo9ZsiQIUZUUcH+wWumQjaOg+iiih2EPSy+lFFTW1ZWZl7pZRk3bpwaOnRow/+vvfZazPdoygBeeu2a6jCw/JKLr4n2LViCN7oH6dq1a9w+eL8xlo9y3YJEYDmpmpqamG1YITz4Nnc0m7bJxNq3WBjF/X7W/5tVNN2zZ8+Oye/06dPVsGHDzGd8HwRN44cffmg+4y1YpaWlcfdqm8ggq1atUuvWrWs4Du+Pdu/dsnTp0phz4i30b775pmlWkZ8pU6bE1PekSZMSNtcuaVu8ZM2ab79k5t2XwprDRNeDtUlmhfBUh1mhefPmpXTvbnMES4Fz2+9d92JJSJMflhf7HZrsICiLRNf3tUqJjgu6F+71ULdRWpQUyix7wgtmwtdUuWJAE4d93RTWzAZ9IxSS29y5hepzBYKi8jWZ7rkyEZ3blFdUVHjP5ebHJ1w0w7gG8ulePygS93w4xndc0AgEjQjK2r0fX75EhOe7iWBynyQfrvBca4cbdre5PoYviLF5Q+X58BW0m1xxh4nOfdjmJbCmPuG5rUkiXzH40LiBjO84bLctAfIfVl5RhJfCA5sd0bmF64seo0a0buW4BYjCcM28e03XQlpgfcLO6X6fquhwDTcgSLVyqgOWMZiPqJFp0I1AihLMBEXne8gzda8u2JJScJ6DYCXDMLCqTRA4xWHYQMQ6yG5/V9Cp9Z07GHAgyEFgAecezjT60ew5EeB06NChwfGvqqpSyUBAhHMEl4CaMGGC+uqrr5IeW1RUFLod9xl09Dds2NDw2RcAuGD5qmCdJFu6CmAfX99mIoYMGRLTr4dgKRWyYvHCfJBkT3SyLguftfPh+k5B0IT5unHc5j/RE+6zdK6lCaYojnrPkMDClqFrgXA8tuEYt9yD/YbucWglrLVNZIXD/PCw/LotjttnmSTJRbTIOAogLPkKHUCI2AcF5Ivm3OPQdIc187YSo/ZHhfXF+QIk3wMXvC4S8uWeM5iHRJGpm/egb4x79h2X7GFzH3bUFY7BOZAf935S6Z3IqvCiRLSpjHTYQnL9NNdxd8VkLU9YZYVdH0JKVEFucvf14VqJVDrbVzqBlXuPbhn4rL4vULEWK4hbZ6nUla+r5aIIL4r6Uyn8sJsPawLdfay591VW2PkSVVC6IxZhD1+ywKq6ujrU2roPX6Lvg/ca3B7WXCbrg0NeEgUn+C6ZW3JBgws4mVhSM1lgAQc/uF8UJzy4f9igPEY3gvtg9UOA5dmD27F8qB1N6dy5c8z5wkYhfETdN6wMMCkA2ydOnGjW3UDAgKAE5YKgZM6cOQ35dCcaYOlTe18uGE244447Gv7HKpZ2udREx82fPz9mIgTqMRgcYRQCo1MYQcEau3YUAyMYGNl54YUXQvMbBS43QETgfDwiAoVHRKDwiAgUHhGBwiMiUHhEBAqPiEDhEREoPCIChUdEoPCICBQeEYHCIyJQeEQECo+IQOERESg8IgKFR0Sg8IgIFB4RgcIjIlB4RAQKj4hA4RERKDwiAoVHRKDwiAgUHhGBwiMiUHhEBAqPiEDhEREoPCIChUdEoPCICBQeEYHCIyJQeEQECo+IQOERESg8IgKFR0Sg8IiS4H/gY9lYUEAXkwAAAABJRU5ErkJggg==" alt="TEAM ZORRO">
+        <div>취업조로의 커리어브리핑 개편 제안서 · 2026-10-14 · 데이터: archive/2026-08-20 ~ 2026-10-14 (929건), blog.naver.com/zorr0 RSS 50건, jobzorro.kr, jasoseol.com 코치 페이지, 로컬 강의 교안·루틴 문서</div>
+      </div>
+    </div>
+  </section>
+</div>
+</body></html>

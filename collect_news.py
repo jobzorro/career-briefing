@@ -5,12 +5,12 @@
   3) 섹션별 상위 N건 선별
   4) 기사 본문에서 요약 + 썸네일(og:image) 추출 -> data URI로 임베드
      (Google News 링크는 원문 URL로 복원한 뒤 추출)
-  5) Claude로 기사별 한 줄 요약·커리어 시사점 + 오늘의 브리핑 3줄 (API 키가 있을 때만)
+  5) Claude로 기사별 한 줄 요약·Zorro의 한마디·직무 태그 + 오늘의 브리핑 3줄 (API 키가 있을 때만)
   6) news_data.json + archive/날짜.json 저장  (build_site.py 가 이걸 읽어 웹페이지를 만든다)
 
 사용법:
   python collect_news.py                # 수집 -> news_data.json
-  python collect_news.py --top 10       # 섹션당 10건
+  python collect_news.py --top 10       # 섹션당 10건으로 고정 (기본은 섹션별 배분)
   python collect_news.py --no-ai        # AI 브리핑 생략
   python collect_news.py --notion       # Notion 데이터베이스에도 저장 (기존 동작)
 
@@ -36,7 +36,7 @@ from dotenv import load_dotenv
 
 import ai_brief
 import gnews
-from classifier import SECTIONS, classify
+from classifier import SECTIONS, classify, slots as section_slots, is_season
 from sources import all_feeds, source_bonus
 
 # Windows 콘솔에서 한글이 깨지지 않도록
@@ -370,14 +370,36 @@ def split_lead(summary):
 # 4. 출력
 # ============================================================
 
+def allocate(buckets, top_n=None):
+    """
+    섹션별 지면 수를 정한다. top_n 이 주어지면 모든 섹션에 같은 수, 아니면 classifier.slots()
+    (평시 5·5·4·3·3, 시즌엔 채용 7·지표 2). 기사가 모자라는 섹션의 빈자리는
+    채용 -> 이직 -> 커리어변화 -> 기업 -> 지표 순으로 남는 기사가 있는 섹션에 넘긴다.
+    """
+    if top_n:
+        return {s["key"]: top_n for s in SECTIONS}
+    want = section_slots()
+    give = {k: min(len(buckets.get(k, [])), n) for k, n in want.items()}
+    spare = sum(want[k] - give[k] for k in want)
+    for k in ["hiring", "moves", "future", "company", "macro"]:
+        if spare <= 0:
+            break
+        extra = min(spare, len(buckets.get(k, [])) - give[k])
+        if extra > 0:
+            give[k] += extra
+            spare -= extra
+    return give
+
+
 def build_payload(buckets, top_n, stats, date_str=None, generated_at=None):
     now = datetime.now()
     date_str = date_str or now.strftime("%Y-%m-%d")
     generated_at = generated_at or now.strftime("%Y-%m-%d %H:%M")
+    give = top_n if isinstance(top_n, dict) else allocate(buckets, top_n)
     sections = []
     for sec in SECTIONS:
         items = []
-        for rank, a in enumerate(buckets[sec["key"]][:top_n], 1):
+        for rank, a in enumerate(buckets[sec["key"]][:give[sec["key"]]], 1):
             lead, rest = split_lead(a["summary"])
             items.append({
                 "rank": rank,
@@ -464,7 +486,7 @@ def backfill_archive(articles, top_n):
             stats={"collected": len(day_articles), "deduped": len(day_articles),
                    "recent": len(day_articles),
                    "relevant": sum(len(v) for v in buckets.values()),
-                   "published": sum(min(len(v), top_n) for v in buckets.values()),
+                   "published": sum(allocate(buckets, top_n).values()),
                    "feeds": len(all_feeds())},
             date_str=f"{d:%Y-%m-%d}",
             generated_at=f"{d:%Y-%m-%d} (소급 생성)",
@@ -532,7 +554,8 @@ def save_to_notion(payload):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--top", type=int, default=6, help="섹션당 기사 수 (기본 6)")
+    ap.add_argument("--top", type=int, default=None,
+                    help="섹션당 기사 수를 고정 (기본: 섹션별 배분 5·5·4·3·3, 시즌엔 채용 7·지표 2)")
     ap.add_argument("--notion", action="store_true", help="Notion에도 저장")
     ap.add_argument("--no-backfill", action="store_true",
                     help="지난 며칠치 지면 소급 생성을 건너뜀")
@@ -555,7 +578,10 @@ def main():
         print(f"    - {sec['name']}: {len(buckets[sec['key']])}건")
 
     # 선별된 상위 기사만 본문/썸네일 보강
-    targets = [a for sec in SECTIONS for a in buckets[sec["key"]][:args.top]]
+    give = allocate(buckets, args.top)
+    season = " (채용 시즌 배분)" if is_season() and not args.top else ""
+    print("  지면 배분" + season + ": " + ", ".join(f"{s['name']} {give[s['key']]}" for s in SECTIONS))
+    targets = [a for sec in SECTIONS for a in buckets[sec["key"]][:give[sec["key"]]]]
     print(f"\n상위 {len(targets)}건 본문 요약 + 썸네일 추출 중...")
     with ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
         list(pool.map(enrich, targets))
@@ -568,7 +594,7 @@ def main():
         "published": len(targets), "feeds": len(all_feeds()),
         "dead_feeds": dead_feeds,
     }
-    payload = build_payload(buckets, args.top, stats)
+    payload = build_payload(buckets, give, stats)
 
     if targets and not args.no_ai:
         print("\nAI 브리핑 생성 중...")
