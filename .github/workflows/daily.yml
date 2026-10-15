@@ -6,7 +6,11 @@ name: daily-briefing
 
 on:
   schedule:
-    - cron: "52 22 * * *"    # UTC 22:52 = 한국시간 07:52 (정각은 GitHub 예약이 몰려 지연·누락이 잦아 피한다)
+    # GitHub 예약 실행은 '최선 노력'이라 통째로 빠지는 날이 있다(10/14, 10/15 연속 누락).
+    # 그래서 아침에 세 번 예약해 두고, 오늘 지면이 이미 있으면 뒤 실행은 바로 건너뛴다(아래 guard 단계).
+    - cron: "52 22 * * *"    # UTC 22:52 = 한국시간 07:52
+    - cron: "22 23 * * *"    # UTC 23:22 = 한국시간 08:22 (1차 누락 대비)
+    - cron: "52 23 * * *"    # UTC 23:52 = 한국시간 08:52 (2차 누락 대비)
   workflow_dispatch:          # Actions 탭에서 "Run workflow"로 수동 실행
 
 permissions:
@@ -26,17 +30,33 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.guard.outputs.skip }}
     steps:
       - uses: actions/checkout@v4
 
+      - name: 오늘 지면이 이미 있으면 건너뜀 (예약이 하루 세 번이라 중복 생성 방지)
+        id: guard
+        run: |
+          today="archive/$(date +%F).json"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "$today" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "$today 이 이미 있어 이번 예약 실행은 건너뜁니다."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.skip != 'true'
         with:
           python-version: "3.12"
           cache: pip
 
       - run: pip install -r requirements.txt
+        if: steps.guard.outputs.skip != 'true'
 
       - name: 뉴스 수집 + AI 브리핑
+        if: steps.guard.outputs.skip != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
@@ -44,9 +64,11 @@ jobs:
         run: python collect_news.py
 
       - name: 사이트 생성
+        if: steps.guard.outputs.skip != 'true'
         run: python build_site.py
 
       - name: 아카이브 커밋 (주간·월간 랭킹과 검색의 원천)
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -55,8 +77,10 @@ jobs:
           git push
 
       - uses: actions/configure-pages@v5
+        if: steps.guard.outputs.skip != 'true'
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.guard.outputs.skip != 'true'
         with:
           path: site
 
@@ -71,6 +95,7 @@ jobs:
 
   deploy:
     needs: build
+    if: needs.build.outputs.skip != 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
