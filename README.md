@@ -1,3 +1,6 @@
+> **이 저장소는 2026-10-15에 `jobzorro-site` 저장소로 통합되어 더 이상 갱신하지 않는다.**
+> 최신 커리어브리핑: https://jobzorro.github.io/jobzorro-site/news/ · 코드: https://github.com/jobzorro/jobzorro-site/tree/main/news-collector
+
 # 커리어브리핑 (news-collector) — 취업조로의 커리어브리핑
 
 매일 아침 고용·커리어 뉴스를 자동 수집해서, ibrief.kr 스타일의 웹 지면으로 만들어 주는 도구입니다.
