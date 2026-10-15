@@ -53,7 +53,10 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
 HTTP_HEADERS = {"User-Agent": UA, "Accept-Language": "ko-KR,ko;q=0.9"}
 
-MAX_AGE_DAYS = 3          # 3일 이내 기사만
+MAX_AGE_DAYS = 3          # 수집 풀: 3일 이내 기사 (과거 지면 소급 생성용)
+FRESH_HOURS = 48          # 오늘 지면: 48시간 이내 기사만 (아침 지면이니 '어제 소식'까지가 한계)
+REPEAT_GUARD_DAYS = 7     # 최근 7일 지면에 이미 실린 기사는 오늘 지면에서 뺀다
+SAME_STORY_GUARD_DAYS = 3 # 최근 3일 지면에 오른 사안은 제목이 달라도(다른 언론사) 뺀다
 THUMB_SIZE = (420, 280)   # 썸네일 저장 크기
 FETCH_WORKERS = 8
 
@@ -167,6 +170,59 @@ def filter_recent(articles):
     return [a for a in articles if a["published"] >= cutoff]
 
 
+def filter_fresh(articles, hours=FRESH_HOURS):
+    """오늘 지면용: FRESH_HOURS 이내 기사만 (3일 창은 풀 보관용이라 지면에는 너무 낡은 기사가 섞인다)"""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    return [a for a in articles if a["published"] >= cutoff]
+
+
+def already_published(days=REPEAT_GUARD_DAYS):
+    """
+    최근 지면(archive/*.json)에 실린 기사의 정규화 제목·URL 집합.
+    같은 기사가 며칠 연속 지면에 오르는 걸 막는다 (관련 기사 묶음까지 포함).
+    """
+    titles, urls = set(), set()
+    today = datetime.now().date()
+    for i in range(1, days + 1):
+        path = ARCHIVE_DIR / f"{today - timedelta(days=i):%Y-%m-%d}.json"
+        if not path.exists():
+            continue
+        try:
+            day = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        for sec in day.get("sections", []):
+            for a in sec.get("articles", []):
+                titles.add(normalize_title(a.get("title", "")))
+                urls.add(a.get("url"))
+                for r in a.get("related", []):
+                    titles.add(normalize_title(r.get("title", "")))
+                    urls.add(r.get("url"))
+    titles.discard("")
+    urls.discard(None)
+    return titles, urls
+
+
+def drop_already_published(articles):
+    """
+    최근 지면에 실린 기사를 뺀다.
+      - 7일: 제목·URL이 똑같은 기사 (같은 기사 재게재)
+      - 3일: 제목이 달라도 같은 사안인 기사 (다른 언론사가 쓴 같은 뉴스가 하루 뒤 다시 1면에 오르는 것)
+    """
+    titles, urls = already_published()
+    recent_titles, _ = already_published(days=SAME_STORY_GUARD_DAYS)
+    recent_sigs = [_story_sig(t) for t in recent_titles]
+    out = []
+    for a in articles:
+        if normalize_title(a["title"]) in titles or a["link"] in urls:
+            continue
+        sig = _story_sig(a["title"])
+        if any(_same_story(sig, ps) for ps in recent_sigs):
+            continue
+        out.append(a)
+    return out
+
+
 def _jaccard(a, b):
     union = len(a | b)
     return len(a & b) / union if union else 0.0
@@ -207,6 +263,12 @@ def _same_story(sig_a, sig_b):
     if words >= WORD_THRESHOLD:
         return True
     return bool(subj_a) and subj_a == subj_b and words >= SAME_SUBJECT_WORD_THRESHOLD
+
+
+def _story_sig(title):
+    """_same_story 비교용 지문 (문자 3-gram, 단어 집합, 맨 앞 주어)"""
+    grams, words = _signature(title)
+    return grams, words, _subject(title)
 
 
 def cluster_near_duplicates(articles):
@@ -571,7 +633,13 @@ def main():
     recent = filter_recent(deduped)
     print(f"  중복 제거 후 {len(deduped)}건 -> 최근 {MAX_AGE_DAYS}일 {len(recent)}건")
 
-    buckets = classify_all(recent)
+    # 오늘 지면 후보: 48시간 이내 + 최근 지면에 안 실린 것 (recent 는 과거 지면 소급 생성용으로 그대로 둔다)
+    fresh = filter_fresh(recent)
+    today_pool = drop_already_published(fresh)
+    print(f"  오늘 지면 후보: {FRESH_HOURS}시간 이내 {len(fresh)}건"
+          f" -> 최근 {REPEAT_GUARD_DAYS}일 지면 중복 제외 {len(today_pool)}건")
+
+    buckets = classify_all(today_pool)
     relevant = sum(len(v) for v in buckets.values())
     print(f"  커리어 관련 {relevant}건 선별")
     for sec in SECTIONS:
@@ -590,7 +658,7 @@ def main():
 
     stats = {
         "collected": len(raw), "deduped": len(deduped),
-        "recent": len(recent), "relevant": relevant,
+        "recent": len(recent), "fresh": len(today_pool), "relevant": relevant,
         "published": len(targets), "feeds": len(all_feeds()),
         "dead_feeds": dead_feeds,
     }
